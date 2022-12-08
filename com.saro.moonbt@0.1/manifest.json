@@ -1,0 +1,1343 @@
+{
+  "homepages": [],
+  "source_base_path": "c:/temp/unity-doctools/com.saro.moonbt@0.1",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BBCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BBCondition.html",
+          "hash": "8Xs8HbsKLNrLslO//dy/qg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BBKeySelector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BBKeySelector.html",
+          "hash": "01S4GtRrEniu4fOCZW1q5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BBKey_Int.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BBKey_Int.html",
+          "hash": "FWjZOpuz2LI1owdYxqpnLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BBKey_Vector3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BBKey_Vector3.html",
+          "hash": "t6ndu4hdgtE++r0ShG38+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTAuxiliary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTAuxiliary.html",
+          "hash": "wV/iEcIslm0dHDmGmkS17g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTBehaviorIterator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTBehaviorIterator.html",
+          "hash": "BWZyUHq0GHJ4Up9X2YibEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTBlackboard.ChangedEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTBlackboard.ChangedEvent.html",
+          "hash": "x4o3bslAE5XMLJr2BAzMpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTBlackboard.Enumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTBlackboard.Enumerator.html",
+          "hash": "vkhnKSd65kQwKKdq2iUfdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTBlackboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTBlackboard.html",
+          "hash": "F+g4W3lYUWGsV7VOimvIJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTComposite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTComposite.html",
+          "hash": "Kwkx0LgvLU1unROwm6l3Nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTDecorator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTDecorator.html",
+          "hash": "5T6EF7jBxWgCt3vNsPVwKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTNode.EStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTNode.EStatus.html",
+          "hash": "dKM2zG7BtUlZGixu6FVZYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTNode.html",
+          "hash": "boYmucZ0UMExpd7ZYM3UDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTNodeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTNodeAttribute.html",
+          "hash": "yCsAa4QjDDZxMBJWDF4M5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTRunTimeValueAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTRunTimeValueAttribute.html",
+          "hash": "MwusAmU+dEuRLVwIgKIl4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTService.html",
+          "hash": "FjUIFiSDo3DmN1/8BmKiAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BTTask.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BTTask.html",
+          "hash": "DGpwplJhSQCIlX6H7BMcnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BehaviorTree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BehaviorTree.html",
+          "hash": "Thy0olarrUX03k0b67Ou8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BlackboardData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BlackboardData.html",
+          "hash": "q/p2Ss+PhuEL+Tr/XlDFFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BlackboardEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BlackboardEntry.html",
+          "hash": "XOS38jkQ5lc4DvRVXMJT1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BlackboardKeyType-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BlackboardKeyType-1.html",
+          "hash": "BkB4T0GVjkVszwMMtc8sdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.BlackboardKeyType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.BlackboardKeyType.html",
+          "hash": "fvJqkX+NPyHBWRpvxCnFeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.CompareBBEntries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.CompareBBEntries.html",
+          "hash": "W/wQboN43Xvgi4he4m8GDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Cooldown.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Cooldown.html",
+          "hash": "Arc4j/sELq9/Wz4T8ZQgaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.AbstractGraphView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.AbstractGraphView.html",
+          "hash": "IFVCExWWPiqPrmdeo40UzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BBEntrySelectorDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BBEntrySelectorDrawer.html",
+          "hash": "AcgT8ZUAtJax2WpxYhzI9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTAuxiliaryNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTAuxiliaryNode.html",
+          "hash": "v3VkHK2KMw5BSl3J2hZBaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTCompositeNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTCompositeNode.html",
+          "hash": "7LCFSZ2k+WnvAzvuat7e6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTCopyPasteData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTCopyPasteData.html",
+          "hash": "u3QUB8xAoGJgJAyGXca50w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTDecoratorNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTDecoratorNode.html",
+          "hash": "6lr+O2TT2T4Dk4KFWTSYhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTExecuteLogConsole.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTExecuteLogConsole.html",
+          "hash": "tQ6Oa00kkxWGQcwz2x50dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTGraphBlackboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTGraphBlackboard.html",
+          "hash": "T5c0vOrLAMpYEO5u4sfYMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTGraphDropdownMenuAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTGraphDropdownMenuAction.html",
+          "hash": "HDVUchzd+NBHe2mUHg1zFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTGraphEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTGraphEditor.html",
+          "hash": "Kd0a7Ev0rEeff6FV0AGdUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTGraphFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTGraphFormatter.html",
+          "hash": "PpBTnwtmUur/SrpLx+tAuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTGraphInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTGraphInspector.html",
+          "hash": "KyzYPx6FPy6GOwpF03g55g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTGraphMiniMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTGraphMiniMap.html",
+          "hash": "CLywRp0tOZf8F5k45C6dmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTGraphNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTGraphNode.html",
+          "hash": "Ki9hmhICiUChtI3OqoN80Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTGraphNodeFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTGraphNodeFactory.html",
+          "hash": "jji6lltsY7/pj/X0XJpR9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTGraphView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTGraphView.html",
+          "hash": "U+Z1eAuE6qu8VILowD7JzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTRootNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTRootNode.html",
+          "hash": "67opVdLWkGYoNOy10bRFlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTServiceNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTServiceNode.html",
+          "hash": "iv6eZy2n090oosSNdpV00Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTSimpleParallelNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTSimpleParallelNode.html",
+          "hash": "9TXdRfhXzij+WI8c+A5+tg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.BTTaskNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.BTTaskNode.html",
+          "hash": "wS0yJ8ydCNHJBilhhZafxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.ChangeBTCompositeProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.ChangeBTCompositeProvider.html",
+          "hash": "0DqEVBtQ9qSQwMkR4ofmaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.ChangeBTDecoratorProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.ChangeBTDecoratorProvider.html",
+          "hash": "7qWUd+1SBr9mcHoSmrjTyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.ChangeBTNodeProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.ChangeBTNodeProvider.html",
+          "hash": "BfmgYccbGHWVYtLhOi6xAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.ChangeBTServiceProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.ChangeBTServiceProvider.html",
+          "hash": "hl1wUnu4GVZ7pif7IhtPdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.ChangeBTTaskProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.ChangeBTTaskProvider.html",
+          "hash": "jsNG3r4Dd5sxC87LXV5qqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.CreateBTNodeProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.CreateBTNodeProvider.html",
+          "hash": "VUiSww6dxQm7H88G5SuyKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.DecorateBTNodeProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.DecorateBTNodeProvider.html",
+          "hash": "YqC7sVRpWVSL3rpiyVNS5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.KeyOperationDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.KeyOperationDrawer.html",
+          "hash": "rBcTw2g6RSXliLwSTmbf4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.TreeComponentEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.TreeComponentEditor.html",
+          "hash": "wj+VLd9VAbGrxpxQcIhtmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Designer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Designer.html",
+          "hash": "9YRO/aeygeHZ8ounxZNZgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.EAbortType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.EAbortType.html",
+          "hash": "2viRNCuyfY9rhk71r1vUwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.EArithmeticKeyOperation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.EArithmeticKeyOperation.html",
+          "hash": "tahF2o9ZHy/x6GWGRCHZBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.EBasicKeyOperation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.EBasicKeyOperation.html",
+          "hash": "7Uuy5xuQ6aDQdqJztq+04Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.EBlackBoardEntryComparison.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.EBlackBoardEntryComparison.html",
+          "hash": "MZXDLkbLCtu9uhxDSHXFFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.EBlackboardCompare.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.EBlackboardCompare.html",
+          "hash": "QytAu59cj4aeg541QeaeYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.ETextKeyOperation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.ETextKeyOperation.html",
+          "hash": "O2xypV8evvlO7XT6IIKKTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.ForceSuccess.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.ForceSuccess.html",
+          "hash": "uJA3A8aofZ135RzdKCVm5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.IIterableNode-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.IIterableNode-1.html",
+          "hash": "O6hQivAipbfXIduWGrkejQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.JsonDataProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.JsonDataProvider-1.html",
+          "hash": "duafAZdGeHv1Kk0lys8rjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.KeyOperationAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.KeyOperationAttribute.html",
+          "hash": "KzcirE+rQ74iXzyWd9VWrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Loop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Loop.html",
+          "hash": "cTS6Ol94bfe/PO/bsy0ADw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.PrintLog.ELogType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.PrintLog.ELogType.html",
+          "hash": "2+STC6lCprpl76jSPlCpng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.PrintLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.PrintLog.html",
+          "hash": "cLiYTUD+ZN5cq/QNej4juQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.RunBehaviour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.RunBehaviour.html",
+          "hash": "I1FRyIBhcISRpW6mTGPzvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Selector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Selector.html",
+          "hash": "AdoSSZSKQjtx6LIsTpeecw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Sequence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Sequence.html",
+          "hash": "ebliM3KB7xqOwy6dwlDT/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.SetBBValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.SetBBValue.html",
+          "hash": "HU1NHsdxM6ullkwAxjo2ZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.SimpleParallel.EFinishMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.SimpleParallel.EFinishMode.html",
+          "hash": "PEyYuww8nIIY5ftA3X0vWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.SimpleParallel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.SimpleParallel.html",
+          "hash": "b6ICdfP1B6JesHEXNiWIzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.TestService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.TestService.html",
+          "hash": "qBLoi+kS/x7QrwJvoignUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.TimeLimit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.TimeLimit.html",
+          "hash": "NUVMwdS7aZ8UHiHZYc2Geg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.TreeDebugView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.TreeDebugView.html",
+          "hash": "cr2TpSAVjpsWk7fbNRmdNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.TreeTraversal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.TreeTraversal.html",
+          "hash": "xANZJ/0m314c/oC4zhRsOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.UpdateList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.UpdateList-1.html",
+          "hash": "URSBUW4k0FnzSST0GNkV5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Utility.FixedSizeStack-1.Enumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Utility.FixedSizeStack-1.Enumerator.html",
+          "hash": "JpyZl1vVq6jovpozP7ToJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Utility.FixedSizeStack-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Utility.FixedSizeStack-1.html",
+          "hash": "j8PYMKLHVKqB1Mz2deeUXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Utility.Timer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Utility.Timer.html",
+          "hash": "dK2COrVSrYxFhHaYeHLggg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Utility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Utility.html",
+          "hash": "i4aX5/MpBE8ftvnUY8fs7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Variable-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Variable-1.html",
+          "hash": "jBKeQJ0dgXTlthr+hCQpew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Variable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Variable.html",
+          "hash": "Ba+90KabOiScu2CBk23ynA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Variable_Bool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Variable_Bool.html",
+          "hash": "W/+EmJEZpFPF/RBzMJpkFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Variable_EcsEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Variable_EcsEntity.html",
+          "hash": "aTcY8056tCCV6xzLf5lPFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Variable_Enum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Variable_Enum.html",
+          "hash": "xYgNJUVfKmcJkydSO0oe4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Variable_Float.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Variable_Float.html",
+          "hash": "KZbp/8rlA6mmOu3bDVa4CQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Variable_Int.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Variable_Int.html",
+          "hash": "RjstxheT8Az1dGSdtr/SMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Variable_Object.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Variable_Object.html",
+          "hash": "6IlcyN/jgidYyiV6CDwWvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Variable_String.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Variable_String.html",
+          "hash": "JWourZMj2oDjPtB4pSZWxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Variable_Vector3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Variable_Vector3.html",
+          "hash": "YorJd60Fj7lE9ABGiebOMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.Wait.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.Wait.html",
+          "hash": "ZkRKYoA+mNztUgcYJ2X7Qw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BT.html",
+          "hash": "9Q3vHe75CzGpMU2oOQBQ1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "2tEIYfjCdrJw91xGL5h3Hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "0V4B7Oem1fKxU28H514a/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/CHANGELOG.html",
+          "hash": "p6k6CiFKM03QoFpuhwzo3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "changelog/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/toc.html",
+          "hash": "HmJqPWgP3TTp+UKcGREBKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "t0KKvBh1C8uhpXyJL1FR1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/LICENSE.html",
+          "hash": "RUbtiABwVvYa8PNJzbvnyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/index.html",
+          "hash": "Lh+/MqVUrI3BlEu0hMOpyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "license/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "license/toc.html",
+          "hash": "3ITzGF+km82fiH8Rowtt7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/index.html",
+          "hash": "FHrWriSNCkfWCRB78AOdhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "FtxkMgRiwYdlPW9pFcUFyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "MKX2di8QxxTmayQ5Tfctaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 94,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
