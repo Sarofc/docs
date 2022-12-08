@@ -1,0 +1,3707 @@
+{
+  "homepages": [],
+  "source_base_path": "c:/temp/unity-doctools/com.saro.mgf@0.1",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Newtonsoft.Json.UnityConverters.PartialConverter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Newtonsoft.Json.UnityConverters.PartialConverter-1.html",
+          "hash": "7TrRXSHO+TyoBtqM+gAgPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Newtonsoft.Json.UnityConverters.PartialConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Newtonsoft.Json.UnityConverters.PartialConverter.html",
+          "hash": "46I6x/OWwy6BjLV4cVTM+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Newtonsoft.Json.UnityConverters.RectConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Newtonsoft.Json.UnityConverters.RectConverter.html",
+          "hash": "+CyW1oT09mymk8XlWN0/+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Newtonsoft.Json.UnityConverters.Vector3Converter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Newtonsoft.Json.UnityConverters.Vector3Converter.html",
+          "hash": "BBy1nYPXAqzMcGIk6MQkcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Newtonsoft.Json.UnityConverters.float3Converter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Newtonsoft.Json.UnityConverters.float3Converter.html",
+          "hash": "MCFqr6XNb/YAxgpGXu/N5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Newtonsoft.Json.UnityConverters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Newtonsoft.Json.UnityConverters.html",
+          "hash": "gN8NTdAgLoSIXIHWoFjF3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Audio.AudioManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Audio.AudioManager.html",
+          "hash": "6T4e3s51YUREo6dKBWx0vA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Audio.AudioPlayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Audio.AudioPlayer.html",
+          "hash": "QqzybLryUPhGQjTZzSy67A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Audio.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Audio.html",
+          "hash": "c6xYB/X+50lKMJWx+uXdLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.BoolReactiveValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.BoolReactiveValue.html",
+          "hash": "oaSom+SNDPsknd4grxY/wA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.ByteReactiveValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.ByteReactiveValue.html",
+          "hash": "83y0Mf58B4nX/4P8m1cTCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.CodeGen.CodeGenHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.CodeGen.CodeGenHelper.html",
+          "hash": "avZfJ3a2lFAqvOba/iawFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.CodeGen.ScriptGenTemplate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.CodeGen.ScriptGenTemplate.html",
+          "hash": "hI9qIFjHAy/t+OvxTlSo3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.CodeGen.UnityConstantsCodeGen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.CodeGen.UnityConstantsCodeGen.html",
+          "hash": "X1A3stnemBamjeOUCL34WA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.CodeGen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.CodeGen.html",
+          "hash": "6alGpoV9JtmGYAbig2adaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.NativeDynamicArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.NativeDynamicArray.html",
+          "hash": "bW0orwBEWEICtNcweOrnPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.NativeDynamicArrayCast-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.NativeDynamicArrayCast-1.html",
+          "hash": "k/GnakMV5rB/jtBpJLXGLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.Sentinel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.Sentinel.html",
+          "hash": "DMECnIzL2VLUnVaAU7UYAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TBinaryHeap-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TBinaryHeap-1.html",
+          "hash": "iwqaig1W3WXG+UzgJ3zsPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TLRUCache-2.LRUNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TLRUCache-2.LRUNode.html",
+          "hash": "7cyvxBZWgNwvKoBSnZlJ8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TLRUCache-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TLRUCache-2.html",
+          "hash": "jrvT4yiJ6tN2hXPNbkhzXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TLinkedList-1.Enumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TLinkedList-1.Enumerator.html",
+          "hash": "MLcoJtfKxhvW5KCTomcGzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TLinkedList-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TLinkedList-1.html",
+          "hash": "QZpUZV2GIjWpX1cvdh3pxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TLinkedListRange-1.Enumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TLinkedListRange-1.Enumerator.html",
+          "hash": "MF1rBeDzvfxiDA7KB30fCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TLinkedListRange-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TLinkedListRange-1.html",
+          "hash": "M4jRO28ZFlgEB/1vVMHEVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TMultiMap-2.Enumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TMultiMap-2.Enumerator.html",
+          "hash": "36Q9h1TQgrr6md6E4MsaKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TMultiMap-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TMultiMap-2.html",
+          "hash": "vdi2bIBNJgrW9V5mIZ0xbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TSortedMultiMap-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TSortedMultiMap-2.html",
+          "hash": "7Oexr8a+znFsUnare4fETw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.TestThreadSafety.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.TestThreadSafety.html",
+          "hash": "WEe9n1ZM6BEQoxED8sZIpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Collections.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Collections.html",
+          "hash": "9axph/75HwfTalTWqVSaZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.AssetLoaderFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.AssetLoaderFactory.html",
+          "hash": "U9LLcMRxG4z5u1dQGruYcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.DefaultAssetLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.DefaultAssetLoader.html",
+          "hash": "htyvkgYpX4YyETJg4YFELw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.FSM-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.FSM-1.html",
+          "hash": "C3YSxGTokGstV5wFtxjVBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.FsmSnapshot-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.FsmSnapshot-1.html",
+          "hash": "V9n2WYLezNzUc68Pq49BVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.FsmStateBehaviour-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.FsmStateBehaviour-1.html",
+          "hash": "VicDYAnEmLmzX3m6AedBVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.FsmStateData-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.FsmStateData-1.html",
+          "hash": "oxN66iYmsOKs1jvLVTepGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.IAssetHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.IAssetHandle.html",
+          "hash": "RukWWQbQSvhWIsfdJMOT9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.IAssetHandleAsyncExtension.IAssetHandleAwaiter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.IAssetHandleAsyncExtension.IAssetHandleAwaiter.html",
+          "hash": "byiBpNt73PUYGOMZT5d4Mg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.IAssetHandleAsyncExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.IAssetHandleAsyncExtension.html",
+          "hash": "nmSfP1kySQ8PW5Zy71+CIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.IAssetInterfaceExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.IAssetInterfaceExtension.html",
+          "hash": "Ph/0pxGR6SjUY6SHTqoqDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.IAssetLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.IAssetLoader.html",
+          "hash": "bGDxCtx7m6VJ4ZgTlDVqbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.IAssetManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.IAssetManager.html",
+          "hash": "OgsUYq0wo0ur2EzLk1QcHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.IRefCount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.IRefCount.html",
+          "hash": "Mdg/FDKaCwX0yAn57Od2VQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.LruAssetLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.LruAssetLoader.html",
+          "hash": "EMvoyl9FOjSh1y6qBLrWIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.RC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.RC.html",
+          "hash": "k7GhRU623Nw1ZFj2ReFYkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Core.html",
+          "hash": "6FS510XGaxQEWvPyaH2v2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.DefaultServiceLocator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.DefaultServiceLocator.html",
+          "hash": "oxntSrlKbtzNht8fsoJ1qA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.DefaultUnityLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.DefaultUnityLogger.html",
+          "hash": "LO2zUjpMheTvg3zKqmp7Uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Diagnostics.BoxColliderVisual.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Diagnostics.BoxColliderVisual.html",
+          "hash": "2l5UoTbeM7STk5zffRMYCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Diagnostics.CapsuleColliderVisual.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Diagnostics.CapsuleColliderVisual.html",
+          "hash": "zYgc1BbnAOHNoYm4Kbfxuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Diagnostics.EGLDebug.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Diagnostics.EGLDebug.html",
+          "hash": "HsRYMMIY3A920oqj5voMbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Diagnostics.GLDebug.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Diagnostics.GLDebug.html",
+          "hash": "00Y8ItuJxyswj1jGuNsBlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Diagnostics.GLDebugMono.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Diagnostics.GLDebugMono.html",
+          "hash": "pyTHDyPxWRa8Muoe+4HKNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Diagnostics.GProfiler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Diagnostics.GProfiler.html",
+          "hash": "fuHAo/kx6zZpzt792hqn0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Diagnostics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Diagnostics.html",
+          "hash": "iWob3jIvuNfGk3/inkxhFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.DoubleReactiveValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.DoubleReactiveValue.html",
+          "hash": "RcMi6aPJd+rhw7PZSbqVlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.EditorTools.Animation.AnimationClipTool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.EditorTools.Animation.AnimationClipTool.html",
+          "hash": "5eO4UMqn5vzCiTmq6qjcEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.EditorTools.Animation.AnimationHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.EditorTools.Animation.AnimationHelper.html",
+          "hash": "fLnflpVxWxKlnDA8njl2lg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.EditorTools.Animation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.EditorTools.Animation.html",
+          "hash": "XqowyGh6Fy1eATYFjhtiew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.EditorTools.AssetTreeView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.EditorTools.AssetTreeView.html",
+          "hash": "yuOTyFofCewUzyGtF4jECg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.EditorTools.AssetViewItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.EditorTools.AssetViewItem.html",
+          "hash": "Pe/FCuBIqY05QrvPNkCp+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.EditorTools.ReferenceFinderData.AssetDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.EditorTools.ReferenceFinderData.AssetDescription.html",
+          "hash": "dYGwk+MiYmQtuh6gD5dUFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.EditorTools.ReferenceFinderData.AssetState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.EditorTools.ReferenceFinderData.AssetState.html",
+          "hash": "W9qjCz9aplg6hCR2P8S4LA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.EditorTools.ReferenceFinderData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.EditorTools.ReferenceFinderData.html",
+          "hash": "oQzjRKR4/6qeGBdNxKybsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.EditorTools.ReferenceFinderWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.EditorTools.ReferenceFinderWindow.html",
+          "hash": "Qu7zgJeCXCeF4gWF5ma2HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.EditorTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.EditorTools.html",
+          "hash": "4nC+t0ELMEsLQoJx2fAgHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Events.BaseEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Events.BaseEventArgs.html",
+          "hash": "1R3aMYDMr0lz8in2DsIX5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Events.EEventPoolMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Events.EEventPoolMode.html",
+          "hash": "7XdzBQZzz1WL6Ryi3uwVpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Events.EventManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Events.EventManager.html",
+          "hash": "7dDSEIWLqB57MrhbwNJI4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Events.EventPool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Events.EventPool-1.html",
+          "hash": "OSoya5p00GYfH+/MFzbC/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Events.GameEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Events.GameEventArgs.html",
+          "hash": "miah4XVCugRWO15loWscWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Events.MyEventException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Events.MyEventException.html",
+          "hash": "cyHfIH3idDmTCG51bx2wlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Events.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Events.html",
+          "hash": "n5sMq6rClQCpW/Lvfv9oaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FDelegates-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FDelegates-1.html",
+          "hash": "A0QRbN3983E4IEvPF2+dUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FDelegates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FDelegates.html",
+          "hash": "G+8Uq14s9aisW90lQNr1Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FloatReactiveValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FloatReactiveValue.html",
+          "hash": "suDw8++c4r8w3qGkRlta/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Effect.ControlEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Effect.ControlEntity.html",
+          "hash": "CZBW6YRjMo7L57NXRtTNLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Effect.ControlPoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Effect.ControlPoint.html",
+          "hash": "qxYh78zdnzU9kNvBBzLnfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Effect.EAttachType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Effect.EAttachType.html",
+          "hash": "0WmpCVvl4VDprHzJCpQbPA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Effect.EffectManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Effect.EffectManager.html",
+          "hash": "eyK+i4mxy1P03XnqrsW48g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Effect.EffectScriptDelay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Effect.EffectScriptDelay.html",
+          "hash": "uwC6zZc+0WXJ14ZGw7/HYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Effect.IEffectManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Effect.IEffectManager.html",
+          "hash": "uy695o4cHL0tFwnYIoVngQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Effect.VfxScriptBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Effect.VfxScriptBase.html",
+          "hash": "yEdFt/ibLxD7iAB+6Rk+9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Effect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Effect.html",
+          "hash": "FMNtXnPZrSVKacS2qchx1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.ILogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.ILogger.html",
+          "hash": "8O0/So2lnNhPIH+Zedg9IQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.IO.AndroidVFileStream.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.IO.AndroidVFileStream.html",
+          "hash": "3hBSEX/6J8FQXBp6w7Yp6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.IO.CommonVFileStream.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.IO.CommonVFileStream.html",
+          "hash": "y2Oz48hee30POufHkzjNPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.IO.VFileInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.IO.VFileInfo.html",
+          "hash": "xBZYMnD1zOygqyojrcv7TA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.IO.VFileStream.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.IO.VFileStream.html",
+          "hash": "Q+w/LMMjQ3Vp6l/gmI619Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.IO.VFileSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.IO.VFileSystem.html",
+          "hash": "Q6P/cNynbz1NzxZmyUYveA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.IO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.IO.html",
+          "hash": "Ht7+pRT8IpEqFQBLtv7e1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.IService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.IService.html",
+          "hash": "EX94N3jg3jT5tPhqZmVSxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.IServiceLocator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.IServiceLocator.html",
+          "hash": "AMEpa0xv3EkF1GXNxOtiiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.IStartup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.IStartup.html",
+          "hash": "5F1kuJpl+gMj1NfYuUTttQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.IntReactiveValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.IntReactiveValue.html",
+          "hash": "1UJ/GHVP4iZcvnF/cz7Cyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Localization.ALocalized-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Localization.ALocalized-1.html",
+          "hash": "6eVyz0dUUrDr3QnuxDjs2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Localization.ELanguage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Localization.ELanguage.html",
+          "hash": "d3ZCXqB59pENuqRlBdPCRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Localization.ILocalizationDataProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Localization.ILocalizationDataProvider.html",
+          "hash": "f1gpz9R38nkf/12BPcndYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Localization.ImageLocalized.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Localization.ImageLocalized.html",
+          "hash": "1lHv+dofzg3FQqT+Mr8Hdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Localization.LocalizationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Localization.LocalizationManager.html",
+          "hash": "kG0bJ1cIAXiDdOHZcvaW9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Localization.TextLocalized.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Localization.TextLocalized.html",
+          "hash": "WXy1ShXY8aB47G42qaVW5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Localization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Localization.html",
+          "hash": "/TZvS8EiWjOZvRpzJLa5/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Log.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Log.html",
+          "hash": "0xGaFeNjWsdMGoKuZGdyJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.LongReactiveValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.LongReactiveValue.html",
+          "hash": "XpayW4o17LOSDEt3psasXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Main.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Main.html",
+          "hash": "CicwOH+nOoDwBgV+iOLRGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MonoSingleton-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MonoSingleton-1.html",
+          "hash": "/HExJdA/acH8076uc3BpRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.AChannel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.AChannel.html",
+          "hash": "JptCYx38f6l1WjEH2fTRpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.AService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.AService.html",
+          "hash": "9angx0Vseeo3NtLgFvGc/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.ByteHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.ByteHelper.html",
+          "hash": "ymvororLDW3O7uttJhna4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.CircularBuffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.CircularBuffer.html",
+          "hash": "Z2/7IYGsEtPGDsWSI+dnAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.DownloadInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.DownloadInfo.html",
+          "hash": "p/p483xwkCG89lFQFEWGOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.Downloader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.Downloader.html",
+          "hash": "4fOjD9xihQ4t0buPRaJQNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.DownloaderDebuggerGUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.DownloaderDebuggerGUI.html",
+          "hash": "F0gCDpa2vEuIKHTfc1bAZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.DownloaderDriver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.DownloaderDriver.html",
+          "hash": "DZdF53ixeTKRFFQdjlyiSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.EChannelType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.EChannelType.html",
+          "hash": "ohETFPpeE0syHPdtARxOyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.EDownloadStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.EDownloadStatus.html",
+          "hash": "AjxMRg0Em9EbNaaCOMRZYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.ErrorCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.ErrorCode.html",
+          "hash": "4/VZtlnLO8VjkC+dFjSOig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.Http.HttpHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.Http.HttpHelper.html",
+          "hash": "Fs64WdEo0NWW5LXT2urQDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.Http.HttpService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.Http.HttpService.html",
+          "hash": "qDesUpR3CYqrTnrWvODSLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.Http.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.Http.html",
+          "hash": "QOKY7VcPXd0mYUsmne0VBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.HttpDownload.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.HttpDownload.html",
+          "hash": "lJ78lUZQCf57spjI9t4yQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.IDownloadAgent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.IDownloadAgent.html",
+          "hash": "T1O0uEgoIY5fTJEOxoR7hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.MemoryStreamPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.MemoryStreamPool.html",
+          "hash": "RpeB3LjIgPk/HFOBScrnBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.Packet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.Packet.html",
+          "hash": "vnLWWZcqdO8w/glPK+//tA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.PacketParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.PacketParser.html",
+          "hash": "qlS+xY0bE9C+HfKME0UdoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.ParserState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.ParserState.html",
+          "hash": "IKsa1CyHDTVZFzSraPq3BQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.RandomEx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.RandomEx.html",
+          "hash": "nJa6I59nK5SOWWC+bbLWEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.RandomHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.RandomHelper.html",
+          "hash": "dq4sVbKvO3J3ogkhJIMnWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.ServiceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.ServiceType.html",
+          "hash": "9t8MOOTcJxL9pK6lKqYdow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.TcpChannel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.TcpChannel.html",
+          "hash": "qYSnL+0RJ1JWCxwO0PhjCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.TcpService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.TcpService.html",
+          "hash": "WRRaKRkiw6e5PCLHfnGhPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Net.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Net.html",
+          "hash": "qVigTWmoQCbqA1aXphSf+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Packages.UnityPackageImporter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Packages.UnityPackageImporter.html",
+          "hash": "SujkVNGiO8SGaQd1AJ41Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Packages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Packages.html",
+          "hash": "7kh+kW/EQuLC3V4EVhX9nQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.CollectionPool-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.CollectionPool-2.html",
+          "hash": "4H1L/5sUw08GUO1Vg39YlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.DictionaryPool-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.DictionaryPool-2.html",
+          "hash": "fbcLNV4EJcvm3kDDQtu22g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.HashSetPool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.HashSetPool-1.html",
+          "hash": "EKXYFFMaltq3sHxXUok9bA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.IHandledObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.IHandledObject.html",
+          "hash": "qN+rx8BR6znQOs3gMtrp8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.IObjectPool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.IObjectPool-1.html",
+          "hash": "4RngsIEEOTdzKtIAuBWonA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.IObjectPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.IObjectPool.html",
+          "hash": "3Tdc9V7/Bajo+A8Gv9RlRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.ListPool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.ListPool-1.html",
+          "hash": "helGwMN+9OLpMV9yOr3jLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.ObjectHandle-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.ObjectHandle-1.html",
+          "hash": "KcCLxj28a5S0EChuftLB7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.ObjectPool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.ObjectPool-1.html",
+          "hash": "iVjPKRAgB/I1oTPC+dX6ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.ObjectPoolChecker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.ObjectPoolChecker.html",
+          "hash": "rjm3DUeEw/6CjbBl2B9/HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.ObjectPoolDebugTab.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.ObjectPoolDebugTab.html",
+          "hash": "qyemYTIJD6TRAucd6qMbPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.ObjectPoolItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.ObjectPoolItem.html",
+          "hash": "w5mojtfJIasP7bfW/K9wgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.PooledObject-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.PooledObject-1.html",
+          "hash": "ne2wpeHTiUY/lnbHtjfhug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.QueuePool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.QueuePool-1.html",
+          "hash": "7m5WOYYG9l4dIqjvcWvd5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.SharedPoolDebugTab.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.SharedPoolDebugTab.html",
+          "hash": "MdbSRxLiLLuXA7RYEgoiuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.SharedPoolItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.SharedPoolItem.html",
+          "hash": "gLftDOmYLKB94fVlPdnN7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.StackPool-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.StackPool-1.html",
+          "hash": "/+tihuX4TqNt5sPCXqUK7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Pool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Pool.html",
+          "hash": "PudR+rm4Vbtsaostv5a1cg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Profiler.ProfilerDisplay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Profiler.ProfilerDisplay.html",
+          "hash": "eFeFkOfXzcuP2qXHVz7jzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Profiler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Profiler.html",
+          "hash": "iL/wl1e62EWV3wtewio2dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.QuaternionReactiveValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.QuaternionReactiveValue.html",
+          "hash": "g3q6TfVZsWn7kJHlVpEHTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.ReactiveValue-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.ReactiveValue-1.html",
+          "hash": "D94jumsCeN/trTx93L25Jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.ReactiveValueDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.ReactiveValueDrawer.html",
+          "hash": "/OXBEitaGXBtSa7sYQy7EQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.RectReactiveValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.RectReactiveValue.html",
+          "hash": "96kEzmO2zcCPeDiK+PYmDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.ReferenceBinder.ReferenceBinderData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.ReferenceBinder.ReferenceBinderData.html",
+          "hash": "xJu2YZkQdnojSYtoGvOckA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.ReferenceBinder.ReferenceCollectorDataComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.ReferenceBinder.ReferenceCollectorDataComparer.html",
+          "hash": "L1sR0F0x1ON57wAo3g+NOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.ReferenceBinder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.ReferenceBinder.html",
+          "hash": "HBnijUkAJOhp18oAhObQxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.AnimationPreviewEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.AnimationPreviewEditor.html",
+          "hash": "xIOrxe76hw96ERJro/371A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.AssetPathAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.AssetPathAttribute.html",
+          "hash": "cazJpLgGd2W2EoeSrZnK1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.BaseEditor-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.BaseEditor-1.html",
+          "hash": "9Wn/fCJDKYQdYMU2zdQ5XA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.CustomDrawerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.CustomDrawerAttribute.html",
+          "hash": "Kf401nkG3JUIUxTUEYtK6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.FilterWindow.Element.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.FilterWindow.Element.html",
+          "hash": "Eo6AYz18v9uAWNcQH28Xbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.FilterWindow.GroupElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.FilterWindow.GroupElement.html",
+          "hash": "452ORIiVOu4cu55fUD3ymQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.FilterWindow.IProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.FilterWindow.IProvider.html",
+          "hash": "zKFLO6moh+nTkjVe/wpv3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.FilterWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.FilterWindow.html",
+          "hash": "t5sF8sEPiZZ+R6XpYPd6Rw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.ModelPreview.ViewTool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.ModelPreview.ViewTool.html",
+          "hash": "0J7R6Sb2g1S9W/k4gKO1gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.ModelPreview.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.ModelPreview.html",
+          "hash": "LtqHu3AU8hyGyQUknccpNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.RaycastTargetChecker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.RaycastTargetChecker.html",
+          "hash": "Wk4U4h+JX9+eWR9FAududQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.RenameAssetEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.RenameAssetEditor.html",
+          "hash": "ozi7jaC/4B0WZyrX8A00FA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.SEditorUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.SEditorUtility.html",
+          "hash": "ZHaizH8Ayh0oyHzKDd+hiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.SInspectorUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.SInspectorUtility.html",
+          "hash": "P1w2e9scGNz0w30e1Q5MzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.SelectEnumAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.SelectEnumAttribute.html",
+          "hash": "2Ygmy7e0D+7E4xrTHQro/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.SelectTypeAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.SelectTypeAttribute.html",
+          "hash": "dX/9PKGSeoKgn5CyFoU8Rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.SeparatorAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.SeparatorAttribute.html",
+          "hash": "D0oiwsFfTTcZgYrBdaEICg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.SerializedPropertyUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.SerializedPropertyUtility.html",
+          "hash": "W8j5lAJ4wrBk4ELI7eRBEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.ShowIfAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.ShowIfAttribute.html",
+          "hash": "s27HB46+/wNkEEDXNmgtwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.ShowInInspectorAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.ShowInInspectorAttribute.html",
+          "hash": "3mk7m+sWFQfFuH0O6/x2ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.TabWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.TabWindow.html",
+          "hash": "gRnpAE00AqXx1ejGDsWjDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.TabWindowContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.TabWindowContainer.html",
+          "hash": "eLi696JSklOL9Xr1tr80qw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.TimeController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.TimeController.html",
+          "hash": "KIi+/NmwO7Uvql/R05ANdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SEditor.html",
+          "hash": "xc6drG2OwTyMIoqIRNquAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SaveSystem.BinarySaveDataProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SaveSystem.BinarySaveDataProvider.html",
+          "hash": "bcqfjpOistOISUj641oKAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SaveSystem.DefaultSaveFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SaveSystem.DefaultSaveFile.html",
+          "hash": "0mylBm+/D5TcDspUi/vbrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SaveSystem.IBinarySaveData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SaveSystem.IBinarySaveData.html",
+          "hash": "P2Se4KrQ+64P8X5yUDVUnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SaveSystem.ISaveData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SaveSystem.ISaveData.html",
+          "hash": "XWvE1J3lXnyGtLmfO9rx4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SaveSystem.ISaveDataProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SaveSystem.ISaveDataProvider.html",
+          "hash": "gk0DyQzIpwFmO3dorNaRDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SaveSystem.ISaveFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SaveSystem.ISaveFile.html",
+          "hash": "bxHAS6b6auZss3rjSn+clA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SaveSystem.JsonSaveDataProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SaveSystem.JsonSaveDataProvider.html",
+          "hash": "fXn4ELFnDEfjUQd0EnoWlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SaveSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SaveSystem.html",
+          "hash": "Za01/IlmO/VYbX1fSYT5Bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.ServiceLocatorException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.ServiceLocatorException.html",
+          "hash": "8eNF1K43KquJjVVk99dxTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Singleton-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Singleton-1.html",
+          "hash": "nRbkiJw2xJm/TMLXY49rTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.ThreadSynchronizationContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.ThreadSynchronizationContext.html",
+          "hash": "u4AhF4GvN1F8v1IkPWCgRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.AlertDialogInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.AlertDialogInfo.html",
+          "hash": "eSISYcZEcQtBl1gfTcO4Ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.BaseSuperScrollRect.EScrollDir.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.BaseSuperScrollRect.EScrollDir.html",
+          "hash": "21u0M/70LEXU4jIpxdN85A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.BaseSuperScrollRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.BaseSuperScrollRect.html",
+          "hash": "Pm3FtXUOpx8DH+64XVRcgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.EDefaultUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.EDefaultUI.html",
+          "hash": "CNiCMaglPhmSwJb39S4MsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.EUILayer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.EUILayer.html",
+          "hash": "zrNoJofnZeRmcPaGU/DZqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.IAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.IAnimation.html",
+          "hash": "bFsV2Caho3n0mRYZrvKGmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.ICanvasSorter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.ICanvasSorter.html",
+          "hash": "IBAWGZ42dA8QJmCdpstPAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.IComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.IComponent.html",
+          "hash": "QsSXtD90OK0EREdMBMZI/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.IHideWindowAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.IHideWindowAnimation.html",
+          "hash": "le/hihEsg9efIpm2ypKNUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.IShowWindowAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.IShowWindowAnimation.html",
+          "hash": "2hIlt0Zq9nQS+DRrGlcegQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.ISuperScrollRectDataProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.ISuperScrollRectDataProvider.html",
+          "hash": "xzKppuDLWuyeukpVLLfW5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.IWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.IWindow.html",
+          "hash": "4Y7GFfqEyGZPZNa5+kXGlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.ScrollRectCell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.ScrollRectCell.html",
+          "hash": "rckLyclE1KClhzWLwK1W1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.SuperScrollRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.SuperScrollRect.html",
+          "hash": "YxFJchcSkqdliJzhqXAewQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.Toast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.Toast.html",
+          "hash": "E0E7Rb80AFCrjRisNGOzyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIAlertDialog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIAlertDialog.html",
+          "hash": "WCs0Jxzj1B+MMX8tM5BUXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIAnimation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIAnimation.html",
+          "hash": "Sfj9oR/vxGj6vGZp1fMaDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIBinder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIBinder.html",
+          "hash": "lKm2DvqeYuaIxHvRhf5gKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIComponent.html",
+          "hash": "VpQ3Xa0vmylHKXpWH4+A0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIComponentAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIComponentAttribute.html",
+          "hash": "31BrtLfKEpm/QCLFiZCBBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UICustomOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UICustomOrder.html",
+          "hash": "MeFzxt4K07hj4VoUZ0PKrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIEffect.ECreateType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIEffect.ECreateType.html",
+          "hash": "p4x+nWYa8ogOtIzbYBTW9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIEffect.html",
+          "hash": "2eSOja21ozpkdqR+v0XcfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIManager.html",
+          "hash": "x+N6a5ZrGX6fxKHvPaWrJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIWaiting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIWaiting.html",
+          "hash": "uQWbyv9C2oT/xOtuUOB4Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIWindow.html",
+          "hash": "mDzrqEq+5EISrNWwFvmOWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.UIWindowAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.UIWindowAttribute.html",
+          "hash": "5EMXdIj9Lc/mWnpG1Mu9ow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.WindowAnimation_Animator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.WindowAnimation_Animator.html",
+          "hash": "sW5A8RluIRhImo6zRCEneQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.WindowAnimation_Dotween.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.WindowAnimation_Dotween.html",
+          "hash": "0LnwOPfC7HO1XZ3s/4wrNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.UI.html",
+          "hash": "WWtd8lzRZSU/9ZTJQBQC6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.ArrayUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.ArrayUtility.html",
+          "hash": "HdzyWp5OtS/z3mjVzzxsUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.BitConverterUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.BitConverterUtility.html",
+          "hash": "67p6pSl1jW/GmlX7Q/p7cA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.CreatePrefabBat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.CreatePrefabBat.html",
+          "hash": "6r8xvfiD0Iy5nALrtpxh4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EAllocator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EAllocator.html",
+          "hash": "mdEKshR/TggF7o5NPbv0lg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Back.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Back.html",
+          "hash": "o+cW5XFKYaBxbkdPhuehGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Bounce.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Bounce.html",
+          "hash": "YVz08CyybXFuTKLG2geF3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Circular.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Circular.html",
+          "hash": "Uo2Ztj5lLz890AJ4PQCXXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Cubic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Cubic.html",
+          "hash": "TszjbfcnA9ktISU/vj9M5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Elastic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Elastic.html",
+          "hash": "RRVCD4KmxUKPuLzVR3PBmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Exponential.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Exponential.html",
+          "hash": "yGY0djMEs5RS3mWZe1S1dA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Quadratic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Quadratic.html",
+          "hash": "wUHhIrOKEHUeVwZHTRtVQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Quartic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Quartic.html",
+          "hash": "JQke9L1UEsQn+MMQWgD4Tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Quintic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Quintic.html",
+          "hash": "+V6mJ3L5zrJp1j+o0v8P8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Sinusoidal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Sinusoidal.html",
+          "hash": "QRd/rbld7drHIORw3EOJyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.Type.html",
+          "hash": "jMuLrWu+XmYCmDVJ5x20Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EasingUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EasingUtility.html",
+          "hash": "ytefbSCCAumGK2lE5Y/sXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EncodingExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EncodingExtensions.html",
+          "hash": "sN31GbONRCvaoOICR7zfJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.EncryptionUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.EncryptionUtility.html",
+          "hash": "4ZQpPCsJLMTwu9PGvhC+HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.Extension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.Extension.html",
+          "hash": "KPttJIQwMQSDizG/iVOwvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.FAnimationCurve.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.FAnimationCurve.html",
+          "hash": "Jg8CB+IK8eCLTOClZl9QiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.FKeyframe.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.FKeyframe.html",
+          "hash": "21VaDk04EAvj7emcTImIaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.FileEncodingConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.FileEncodingConverter.html",
+          "hash": "a9k1XBcG2XV9bB7J6lWcTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.FileEncodingUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.FileEncodingUtil.html",
+          "hash": "aq1uBv2IeyzVFu7ue22Mow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.FileUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.FileUtility.html",
+          "hash": "TSnTRU1QhSzKZiRgXLm9tQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.HashUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.HashUtility.html",
+          "hash": "O+vbvAYjfmt3KZVXI2f+YQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.KeyHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.KeyHelper.html",
+          "hash": "qiXIhJ+xZ+8zAdkGZGtfPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.MatrixUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.MatrixUtility.html",
+          "hash": "M/UZcQTDE1BVqOQinZpW+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.MemoryUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.MemoryUtility.html",
+          "hash": "P1WH4nvjISCNiLJuURl8vQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.ModelUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.ModelUtility.html",
+          "hash": "NCsgUdm7q/MbCd91bz+nbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.OpenFolderUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.OpenFolderUtility.html",
+          "hash": "uTscO4ZBDDfrcZ1vOoifzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.ProjectPathCopy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.ProjectPathCopy.html",
+          "hash": "CAhjYPIUBq0aYt29Q24Dkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.RandomUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.RandomUtility.html",
+          "hash": "F0oMjIGb/1L5gcutmD5XAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.RemoveMissingComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.RemoveMissingComponent.html",
+          "hash": "+0lDKVV/+PEUp9Qpfi9Mhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.SplineUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.SplineUtility.html",
+          "hash": "Iw+R7157vhv1jUWDv0FSUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.StringExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.StringExtension.html",
+          "hash": "rgvNTM4iL2JwLxskquK9Dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.TypeCache-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.TypeCache-1.html",
+          "hash": "83p/R/vdvR13dbSqBzPvqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.TypeHash-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.TypeHash-1.html",
+          "hash": "MFuUzsW7LEtrVpcYBYsxBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.TypeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.TypeType.html",
+          "hash": "1RE7+rilOm/I39pcHIfBFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.TypeUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.TypeUtility.html",
+          "hash": "9eh+byTE5qJdtU8gQvmdTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.UnmanagedTypeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.UnmanagedTypeExtensions.html",
+          "hash": "clEud425f+HwQOoWBP+BMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Utility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Utility.html",
+          "hash": "rvANzc3M0NofRzlv2NxaVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Vector2ReactiveValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Vector2ReactiveValue.html",
+          "hash": "QaVJrrPrAwaradjyIq+d8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Vector3ReactiveValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Vector3ReactiveValue.html",
+          "hash": "M+UjVXNeRuPyN6vDH4vIzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.XConsole.CmdData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.XConsole.CmdData.html",
+          "hash": "Yq+IZaTNY7oPoCVoyF3vIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.XConsole.CmdExecutor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.XConsole.CmdExecutor.html",
+          "hash": "z23th//KERXq8tdkLwhpng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.XConsole.Configs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.XConsole.Configs.html",
+          "hash": "qorC32Su1NIIJTZRPWQ3EA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.XConsole.LiteRingBuffer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.XConsole.LiteRingBuffer-1.html",
+          "hash": "KVcxp7uzxL6bOyETzWV7ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.XConsole.TypeParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.XConsole.TypeParser.html",
+          "hash": "Bu4WCw9MD+vILjPLHFvYKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.XConsole.XCommandAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.XConsole.XCommandAttribute.html",
+          "hash": "b222dzcE5JIVpz8vAUgANA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.XConsole.XConsole.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.XConsole.XConsole.html",
+          "hash": "kXr3gpxOhpCv/JjZfA27qA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.XConsole.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.XConsole.html",
+          "hash": "+KUnOxWX8VMRg8ZaFm+kVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.html",
+          "hash": "J3lyhltu79sxna1Z/no7nA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.MemoryExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.MemoryExtensions.html",
+          "hash": "q6iy62aucSjod9nCYuW0OQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.SpanSplitEnumerator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.SpanSplitEnumerator-1.html",
+          "hash": "9PxOgyRNz0tkRdUj22tuFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.SpanSplitSequenceEnumerator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.SpanSplitSequenceEnumerator-1.html",
+          "hash": "8GheDT1uz11KQULP+p6eJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/System.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/System.html",
+          "hash": "k5iVoF4f05q0QXAg5B2j7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.IL2CPP.CompilerServices.Il2CppSetOptionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.IL2CPP.CompilerServices.Il2CppSetOptionAttribute.html",
+          "hash": "cRXL4QVSkv6e3c0SSM/9Dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.IL2CPP.CompilerServices.Option.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.IL2CPP.CompilerServices.Option.html",
+          "hash": "+RjRZPUDsbdt90itwLo2CA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Unity.IL2CPP.CompilerServices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Unity.IL2CPP.CompilerServices.html",
+          "hash": "mGLo7Lqx+LzdHBax8crnow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.SerializeReferenceButtonAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.SerializeReferenceButtonAttribute.html",
+          "hash": "J+ERoyhodu/NV5dxFIDFrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.SerializeReferenceMenuAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.SerializeReferenceMenuAttribute.html",
+          "hash": "+Mf1datgc1S2LpE/DEg84w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityEngine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityEngine.html",
+          "hash": "9fxyk6cbQYz/bgEBaeZhxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityToolbarExtender.ToolbarCallback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityToolbarExtender.ToolbarCallback.html",
+          "hash": "/uKQNNNoAb0VQRWcdBM2rA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityToolbarExtender.ToolbarExtender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityToolbarExtender.ToolbarExtender.html",
+          "hash": "7BpFXwr0g/QOuo1ne4Y3ZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UnityToolbarExtender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UnityToolbarExtender.html",
+          "hash": "gQkm3NGGwnQSbwe1dEzyAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "J5zii0f1Gxk468UUfPeFHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "epFXT8pnc1lUsXcqrSowPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/CHANGELOG.html",
+          "hash": "D9uZiVCBiO3RrDfrY7o5dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "changelog/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/toc.html",
+          "hash": "or8ZtDspmU+uUEB/g0wC0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "9Gwv6f23pWDVgkvXQ3iEtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/LICENSE.html",
+          "hash": "P8hMnK1ZxfaF6Su6Ptd46Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/index.html",
+          "hash": "aD2HNQpKXtC8u0TiX0dg1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "license/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "license/toc.html",
+          "hash": "4SD1WFSOC68Fi88xwFg6kQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/index.html",
+          "hash": "5vG7XPjjJkXTx5UptVOInw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "KSgA1hezAAFNz5cTHuggRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "/zP6vNbXiyqvnwk2J9Ro6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 291,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
