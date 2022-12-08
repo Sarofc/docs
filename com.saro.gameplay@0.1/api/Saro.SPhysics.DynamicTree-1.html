@@ -1,0 +1,672 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);  })(window,document,'script','dataLayer','GTM-5V25JL6');</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+  
+    <title>Class DynamicTree&lt;T&gt;
+   | MGF Gameplay | 0.1.0 </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class DynamicTree&lt;T&gt;
+   | MGF Gameplay | 0.1.0 ">
+    <meta name="generator" content="docfx 2.40.12.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    <meta property="unity:packageTitle" content="MGF Gameplay | 0.1.0">
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" class="">
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5V25JL6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+        
+        		<div class="back-to-unity-group">
+        			<a class="back-to-unity" href="https://github.com/Sarofc">github/Sarofc</a>
+        		</div>
+        
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items"></div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Saro.SPhysics.DynamicTree`1">
+  
+  
+  <h1 id="Saro_SPhysics_DynamicTree_1" data-uid="Saro.SPhysics.DynamicTree`1">Class DynamicTree&lt;T&gt;
+  </h1>
+  <div class="markdown level0 summary"><p>A dynamic tree arranges data in a binary tree to accelerate
+queries such as volume queries and ray casts. Leafs are proxies
+with an AABB. In the tree we expand the proxy AABB by Settings.b2_fatAABBFactor
+so that the proxy AABB is bigger than the client object. This allows the client
+object to move by small amounts without triggering a tree update.</p>
+<p>Nodes are pooled and relocatable, so we use node indices rather than pointers.</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">Object</a></div>
+    <div class="level1"><span class="xref">DynamicTree&lt;T&gt;</span></div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Saro.SPhysics.html">Saro.SPhysics</a></h6>
+  <!--h6><strong>Assembly</strong>: solution.dll</h6-->
+  <h5 id="Saro_SPhysics_DynamicTree_1_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class DynamicTree&lt;T&gt;</code></pre>
+  </div>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">T</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1__ctor_" data-uid="Saro.SPhysics.DynamicTree`1.#ctor*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1__ctor" data-uid="Saro.SPhysics.DynamicTree`1.#ctor">DynamicTree()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DynamicTree()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1__ctor_" data-uid="Saro.SPhysics.DynamicTree`1.#ctor*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1__ctor_System_Single_" data-uid="Saro.SPhysics.DynamicTree`1.#ctor(System.Single)">DynamicTree(Single)</h4>
+  <div class="markdown level1 summary"><p>Constructing the tree initializes the node pool.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DynamicTree(float rndExtension)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td><span class="parametername">rndExtension</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_Nodes_" data-uid="Saro.SPhysics.DynamicTree`1.Nodes*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_Nodes" data-uid="Saro.SPhysics.DynamicTree`1.Nodes">Nodes</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public DynamicTreeNode&lt;T&gt;[] Nodes { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.SPhysics.DynamicTreeNode-1.html">DynamicTreeNode</a>&lt;T&gt;[]</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_Root_" data-uid="Saro.SPhysics.DynamicTree`1.Root*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_Root" data-uid="Saro.SPhysics.DynamicTree`1.Root">Root</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int Root { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_AddProxy_" data-uid="Saro.SPhysics.DynamicTree`1.AddProxy*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_AddProxy_Saro_SPhysics_Aabb___0_" data-uid="Saro.SPhysics.DynamicTree`1.AddProxy(Saro.SPhysics.Aabb@,`0)">AddProxy(Aabb, T)</h4>
+  <div class="markdown level1 summary"><p>Create a proxy in the tree as a leaf node. We return the index
+of the node instead of a pointer so that we can grow
+the node pool.<br>/// </p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int AddProxy(in Aabb aabb, T userData)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.SPhysics.Aabb.html">Aabb</a></td>
+        <td><span class="parametername">aabb</span></td>
+        <td><p>The aabb.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">T</span></td>
+        <td><span class="parametername">userData</span></td>
+        <td><p>The user data.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><p>Index of the created proxy</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_ComputeHeight_" data-uid="Saro.SPhysics.DynamicTree`1.ComputeHeight*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_ComputeHeight" data-uid="Saro.SPhysics.DynamicTree`1.ComputeHeight">ComputeHeight()</h4>
+  <div class="markdown level1 summary"><p>Compute the height of the binary tree in O(N) time. Should not be
+called often.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int ComputeHeight()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_GetFatAABB_" data-uid="Saro.SPhysics.DynamicTree`1.GetFatAABB*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_GetFatAABB_System_Int32_" data-uid="Saro.SPhysics.DynamicTree`1.GetFatAABB(System.Int32)">GetFatAABB(Int32)</h4>
+  <div class="markdown level1 summary"><p>Get the fat AABB for a proxy.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Aabb GetFatAABB(int proxyId)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">proxyId</span></td>
+        <td><p>The proxy id.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.SPhysics.Aabb.html">Aabb</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_GetUserData_" data-uid="Saro.SPhysics.DynamicTree`1.GetUserData*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_GetUserData_System_Int32_" data-uid="Saro.SPhysics.DynamicTree`1.GetUserData(System.Int32)">GetUserData(Int32)</h4>
+  <div class="markdown level1 summary"><p>Get proxy user data.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public T GetUserData(int proxyId)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">proxyId</span></td>
+        <td><p>The proxy id.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">T</span></td>
+        <td><p>the proxy user data or 0 if the id is invalid.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_MoveProxy_" data-uid="Saro.SPhysics.DynamicTree`1.MoveProxy*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_MoveProxy_System_Int32_Saro_SPhysics_Aabb__" data-uid="Saro.SPhysics.DynamicTree`1.MoveProxy(System.Int32,Saro.SPhysics.Aabb@)">MoveProxy(Int32, Aabb)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool MoveProxy(int proxyId, in Aabb aabb)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">proxyId</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.SPhysics.Aabb.html">Aabb</a></td>
+        <td><span class="parametername">aabb</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_MoveProxy_" data-uid="Saro.SPhysics.DynamicTree`1.MoveProxy*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_MoveProxy_System_Int32_Saro_SPhysics_Aabb__float3_" data-uid="Saro.SPhysics.DynamicTree`1.MoveProxy(System.Int32,Saro.SPhysics.Aabb@,float3)">MoveProxy(Int32, Aabb, float3)</h4>
+  <div class="markdown level1 summary"><p>Move a proxy with a swepted AABB. If the proxy has moved outside of its fattened AABB,
+then the proxy is removed from the tree and re-inserted. Otherwise
+the function returns immediately.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool MoveProxy(int proxyId, in Aabb aabb, float3 displacement)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">proxyId</span></td>
+        <td><p>The proxy id.</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.SPhysics.Aabb.html">Aabb</a></td>
+        <td><span class="parametername">aabb</span></td>
+        <td><p>The aabb.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">float3</span></td>
+        <td><span class="parametername">displacement</span></td>
+        <td><p>The displacement.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>true if the proxy was re-inserted.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_Query_" data-uid="Saro.SPhysics.DynamicTree`1.Query*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_Query_float3_float3_System_Collections_Generic_List_System_Int32__" data-uid="Saro.SPhysics.DynamicTree`1.Query(float3,float3,System.Collections.Generic.List{System.Int32})">Query(float3, float3, List&lt;Int32&gt;)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Query(float3 p1, float3 p2, List&lt;int&gt; collisions)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">float3</span></td>
+        <td><span class="parametername">p1</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">float3</span></td>
+        <td><span class="parametername">p2</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a>&gt;</td>
+        <td><span class="parametername">collisions</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_Query_" data-uid="Saro.SPhysics.DynamicTree`1.Query*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_Query_System_Collections_Generic_List_System_Int32__Saro_SPhysics_Aabb__" data-uid="Saro.SPhysics.DynamicTree`1.Query(System.Collections.Generic.List{System.Int32},Saro.SPhysics.Aabb@)">Query(List&lt;Int32&gt;, ref Aabb)</h4>
+  <div class="markdown level1 summary"><p>Query an AABB for overlapping proxies. The callback class
+is called for each proxy that overlaps the supplied AABB.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Query(List&lt;int&gt; my, ref Aabb aabb)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a>&gt;</td>
+        <td><span class="parametername">my</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.SPhysics.Aabb.html">Aabb</a></td>
+        <td><span class="parametername">aabb</span></td>
+        <td><p>The aabb.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_Query_" data-uid="Saro.SPhysics.DynamicTree`1.Query*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_Query_System_Collections_Generic_List_System_Int32__System_Collections_Generic_List_System_Int32__Saro_SPhysics_DynamicTree__0__" data-uid="Saro.SPhysics.DynamicTree`1.Query(System.Collections.Generic.List{System.Int32},System.Collections.Generic.List{System.Int32},Saro.SPhysics.DynamicTree{`0})">Query(List&lt;Int32&gt;, List&lt;Int32&gt;, DynamicTree&lt;T&gt;)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Query(List&lt;int&gt; other, List&lt;int&gt; my, DynamicTree&lt;T&gt; tree)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a>&gt;</td>
+        <td><span class="parametername">other</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a>&gt;</td>
+        <td><span class="parametername">my</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.SPhysics.DynamicTree-1.html">DynamicTree</a>&lt;T&gt;</td>
+        <td><span class="parametername">tree</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_SPhysics_DynamicTree_1_RemoveProxy_" data-uid="Saro.SPhysics.DynamicTree`1.RemoveProxy*"></a>
+  <h4 id="Saro_SPhysics_DynamicTree_1_RemoveProxy_System_Int32_" data-uid="Saro.SPhysics.DynamicTree`1.RemoveProxy(System.Int32)">RemoveProxy(Int32)</h4>
+  <div class="markdown level1 summary"><p>Destroy a proxy. This asserts if the id is invalid.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RemoveProxy(int proxyId)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">proxyId</span></td>
+        <td><p>The proxy id.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Copyright © 2022 Saro<br>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

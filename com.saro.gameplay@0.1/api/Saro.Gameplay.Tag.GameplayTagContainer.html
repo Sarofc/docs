@@ -1,0 +1,1299 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);  })(window,document,'script','dataLayer','GTM-5V25JL6');</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+  
+    <title>Class GameplayTagContainer
+   | MGF Gameplay | 0.1.0 </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class GameplayTagContainer
+   | MGF Gameplay | 0.1.0 ">
+    <meta name="generator" content="docfx 2.40.12.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    <meta property="unity:packageTitle" content="MGF Gameplay | 0.1.0">
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" class="">
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5V25JL6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+        
+        		<div class="back-to-unity-group">
+        			<a class="back-to-unity" href="https://github.com/Sarofc">github/Sarofc</a>
+        		</div>
+        
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items"></div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Saro.Gameplay.Tag.GameplayTagContainer">
+  
+  
+  <h1 id="Saro_Gameplay_Tag_GameplayTagContainer" data-uid="Saro.Gameplay.Tag.GameplayTagContainer">Class GameplayTagContainer
+  </h1>
+  <div class="markdown level0 summary"><p>A Tag Container holds a collection of GameplayTags, tags are included explicitly by adding them, and implicitly from adding child tags</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">Object</a></div>
+    <div class="level1"><span class="xref">GameplayTagContainer</span></div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Saro.Gameplay.Tag.html">Saro.Gameplay.Tag</a></h6>
+  <!--h6><strong>Assembly</strong>: solution.dll</h6-->
+  <h5 id="Saro_Gameplay_Tag_GameplayTagContainer_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">[Serializable]
+public sealed class GameplayTagContainer : ISerializationCallbackReceiver, IEnumerable&lt;GameplayTag&gt;, IEnumerable</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer__ctor_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.#ctor*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer__ctor" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.#ctor">GameplayTagContainer()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GameplayTagContainer()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer__ctor_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.#ctor*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer__ctor_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.#ctor(Saro.Gameplay.Tag.GameplayTagContainer)">GameplayTagContainer(GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GameplayTagContainer(GameplayTagContainer other)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">other</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer__ctor_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.#ctor*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer__ctor_System_Collections_Generic_IList_Saro_Gameplay_Tag_GameplayTag__" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.#ctor(System.Collections.Generic.IList{Saro.Gameplay.Tag.GameplayTag})">GameplayTagContainer(IList&lt;GameplayTag&gt;)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GameplayTagContainer(IList&lt;GameplayTag&gt; tagsToAdd)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1">IList</a>&lt;<a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a>&gt;</td>
+        <td><span class="parametername">tagsToAdd</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="fields">Fields
+  </h3>
+  
+  
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_s_Empty" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.s_Empty">s_Empty</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static readonly GameplayTagContainer s_Empty</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_Count_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.Count*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_Count" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.Count">Count</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int Count { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_GameplayTags_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.GameplayTags*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_GameplayTags" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.GameplayTags">GameplayTags</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public List&lt;GameplayTag&gt; GameplayTags { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_Item_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.Item*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_Item_System_Int32_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.Item(System.Int32)">Item[Int32]</h4>
+  <div class="markdown level1 summary"><p>Access <a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html#Saro_Gameplay_Tag_GameplayTagContainer_GameplayTags">GameplayTags</a> array quickliy</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GameplayTag this[int index] { get; set; }</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">index</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_ParentTags_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.ParentTags*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_ParentTags" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.ParentTags">ParentTags</h4>
+  <div class="markdown level1 summary"><p>Array of expanded parent tags, in addition to GameplayTags. Used to accelerate parent searches. May contain duplicates in some cases</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public List&lt;GameplayTag&gt; ParentTags { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_AddLeafTag_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.AddLeafTag*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_AddLeafTag_Saro_Gameplay_Tag_GameplayTag_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.AddLeafTag(Saro.Gameplay.Tag.GameplayTag)">AddLeafTag(GameplayTag)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool AddLeafTag(GameplayTag tagToAdd)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a></td>
+        <td><span class="parametername">tagToAdd</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>True if tag was added</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_AddTag_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.AddTag*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_AddTag_Saro_Gameplay_Tag_GameplayTag_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.AddTag(Saro.Gameplay.Tag.GameplayTag)">AddTag(GameplayTag)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void AddTag(GameplayTag tagToAdd)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a></td>
+        <td><span class="parametername">tagToAdd</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_AddTagFast_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.AddTagFast*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_AddTagFast_Saro_Gameplay_Tag_GameplayTag_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.AddTagFast(Saro.Gameplay.Tag.GameplayTag)">AddTagFast(GameplayTag)</h4>
+  <div class="markdown level1 summary"><p>don&apos;t check duplicated version of <a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html#Saro_Gameplay_Tag_GameplayTagContainer_AddTag_Saro_Gameplay_Tag_GameplayTag_">AddTag(GameplayTag)</a></p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void AddTagFast(GameplayTag tagToAdd)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a></td>
+        <td><span class="parametername">tagToAdd</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_AppendMatchingTags_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.AppendMatchingTags*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_AppendMatchingTags_Saro_Gameplay_Tag_GameplayTagContainer_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.AppendMatchingTags(Saro.Gameplay.Tag.GameplayTagContainer,Saro.Gameplay.Tag.GameplayTagContainer)">AppendMatchingTags(GameplayTagContainer, GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void AppendMatchingTags(GameplayTagContainer otherA, GameplayTagContainer otherB)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">otherA</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">otherB</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_AppendTags_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.AppendTags*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_AppendTags_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.AppendTags(Saro.Gameplay.Tag.GameplayTagContainer)">AppendTags(GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void AppendTags(GameplayTagContainer other)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">other</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_Clear_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.Clear*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_Clear" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.Clear">Clear()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Clear()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_Equals_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.Equals*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_Equals_System_Object_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.Equals(System.Object)">Equals(Object)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override bool Equals(object obj)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">Object</a></td>
+        <td><span class="parametername">obj</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_FillParentTags_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.FillParentTags*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_FillParentTags" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.FillParentTags">FillParentTags()</h4>
+  <div class="markdown level1 summary"><p>Meansure call this before call HasTagExact, etc.</p>
+<pre><code>If serialized on Assets(Monobehaviour or ScriptableObject, etc.), DO NOT call this. otherwise, Manual Call this to fill Parent Nodes.</code></pre>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void FillParentTags()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_Filter_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.Filter*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_Filter_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.Filter(Saro.Gameplay.Tag.GameplayTagContainer)">Filter(GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GameplayTagContainer Filter(GameplayTagContainer tagContainer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">tagContainer</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_FilterExact_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.FilterExact*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_FilterExact_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.FilterExact(Saro.Gameplay.Tag.GameplayTagContainer)">FilterExact(GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GameplayTagContainer FilterExact(GameplayTagContainer tagContainer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">tagContainer</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_GetEnumerator_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.GetEnumerator*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_GetEnumerator" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.GetEnumerator">GetEnumerator()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GameplayTagContainer.Enumerator GetEnumerator()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.Enumerator.html">GameplayTagContainer.Enumerator</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_GetGameplayTagParents_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.GetGameplayTagParents*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_GetGameplayTagParents" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.GetGameplayTagParents">GetGameplayTagParents()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GameplayTagContainer GetGameplayTagParents()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_GetGameplayTagParents_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.GetGameplayTagParents*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_GetGameplayTagParents_Saro_Gameplay_Tag_GameplayTagContainer__" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.GetGameplayTagParents(Saro.Gameplay.Tag.GameplayTagContainer@)">GetGameplayTagParents(ref GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void GetGameplayTagParents(ref GameplayTagContainer tagContainer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">tagContainer</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_GetHashCode_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.GetHashCode*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_GetHashCode" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.GetHashCode">GetHashCode()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override int GetHashCode()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_HasAll_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasAll*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_HasAll_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasAll(Saro.Gameplay.Tag.GameplayTagContainer)">HasAll(GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"><p>Checks if this container contains ALL of the tags in the specified container, also checks against parent tags
+{&quot;A.1&quot;,&quot;B.1&quot;}.HasAll({ &quot;A&quot;,&quot;B&quot;}) will return True, {&quot;A&quot;,&quot;B&quot;}.HasAll({ &quot;A.1&quot;,&quot;B.1&quot;}) will return False
+If ContainerToCheck is empty/invalid it will always return True, because there were no failed checks</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool HasAll(GameplayTagContainer containerToCheck)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">containerToCheck</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_HasAllExact_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasAllExact*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_HasAllExact_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasAllExact(Saro.Gameplay.Tag.GameplayTagContainer)">HasAllExact(GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"><p>Checks if this container contains ALL of the tags in the specified container, only allowing exact matches
+{&quot;A.1&quot;,&quot;B.1&quot;}.HasAllExact({ &quot;A&quot;,&quot;B&quot;}) will return False
+If ContainerToCheck is empty/invalid it will always return True, because there were no failed checks</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool HasAllExact(GameplayTagContainer containerToCheck)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">containerToCheck</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_HasAny_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasAny*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_HasAny_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasAny(Saro.Gameplay.Tag.GameplayTagContainer)">HasAny(GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"><p>Checks if this container contains ANY of the tags in the specified container, also checks against parent tags
+{&quot;A.1&quot;}.HasAny({ &quot;A&quot;,&quot;B&quot;}) will return True, {&quot;A&quot;}.HasAny({ &quot;A.1&quot;,&quot;B&quot;}) will return False
+If ContainerToCheck is empty/invalid it will always return False</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool HasAny(GameplayTagContainer containerToCheck)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">containerToCheck</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_HasAnyExact_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasAnyExact*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_HasAnyExact_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasAnyExact(Saro.Gameplay.Tag.GameplayTagContainer)">HasAnyExact(GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"><p>Checks if this container contains ANY of the tags in the specified container, only allowing exact matches
+{&quot;A.1&quot;}.HasAnyExact({ &quot;A&quot;,&quot;B&quot;}) will return False
+If ContainerToCheck is empty/invalid it will always return False</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool HasAnyExact(GameplayTagContainer containerToCheck)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">containerToCheck</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_HasTag_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasTag*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_HasTag_Saro_Gameplay_Tag_GameplayTag_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasTag(Saro.Gameplay.Tag.GameplayTag)">HasTag(GameplayTag)</h4>
+  <div class="markdown level1 summary"><p>Determine if TagToCheck is present in this container, also checking against parent tags
+{&quot;A.1&quot;}.HasTag(&quot;A&quot;) will return True, {&quot;A&quot;}.HasTag(&quot;A.1&quot;) will return False
+If TagToCheck is not Valid it will always return False</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool HasTag(GameplayTag tagToCheck)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a></td>
+        <td><span class="parametername">tagToCheck</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_HasTagExact_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasTagExact*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_HasTagExact_Saro_Gameplay_Tag_GameplayTag_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.HasTagExact(Saro.Gameplay.Tag.GameplayTag)">HasTagExact(GameplayTag)</h4>
+  <div class="markdown level1 summary"><p>Determine if TagToCheck is explicitly present in this container, only allowing exact matches
+{&quot;A.1&quot;}.HasTagExact(&quot;A&quot;) will return False
+If TagToCheck is not Valid it will always return False</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool HasTagExact(GameplayTag tagToCheck)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a></td>
+        <td><span class="parametername">tagToCheck</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_RemoveTag_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.RemoveTag*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_RemoveTag_Saro_Gameplay_Tag_GameplayTag_System_Boolean_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.RemoveTag(Saro.Gameplay.Tag.GameplayTag,System.Boolean)">RemoveTag(GameplayTag, Boolean)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool RemoveTag(GameplayTag tagToRemove, bool bDeferParentTags = false)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a></td>
+        <td><span class="parametername">tagToRemove</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><span class="parametername">bDeferParentTags</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_RemoveTags_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.RemoveTags*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_RemoveTags_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.RemoveTags(Saro.Gameplay.Tag.GameplayTagContainer)">RemoveTags(GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RemoveTags(GameplayTagContainer tagsToRemove)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">tagsToRemove</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_SortByTagName_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.SortByTagName*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_SortByTagName" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.SortByTagName">SortByTagName()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void SortByTagName()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_ToString_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.ToString*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_ToString" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.ToString">ToString()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override string ToString()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="operators">Operators
+  </h3>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_op_Equality_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.op_Equality*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_op_Equality_Saro_Gameplay_Tag_GameplayTagContainer_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.op_Equality(Saro.Gameplay.Tag.GameplayTagContainer,Saro.Gameplay.Tag.GameplayTagContainer)">Equality(GameplayTagContainer, GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool operator ==(GameplayTagContainer lhs, GameplayTagContainer rhs)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">lhs</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">rhs</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_op_Inequality_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.op_Inequality*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_op_Inequality_Saro_Gameplay_Tag_GameplayTagContainer_Saro_Gameplay_Tag_GameplayTagContainer_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.op_Inequality(Saro.Gameplay.Tag.GameplayTagContainer,Saro.Gameplay.Tag.GameplayTagContainer)">Inequality(GameplayTagContainer, GameplayTagContainer)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool operator !=(GameplayTagContainer lhs, GameplayTagContainer rhs)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">lhs</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTagContainer.html">GameplayTagContainer</a></td>
+        <td><span class="parametername">rhs</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="eii">Explicit Interface Implementations
+  </h3>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_System_Collections_Generic_IEnumerable_Saro_Gameplay_Tag_GameplayTag__GetEnumerator_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.System#Collections#Generic#IEnumerable{Saro#Gameplay#Tag#GameplayTag}#GetEnumerator*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_System_Collections_Generic_IEnumerable_Saro_Gameplay_Tag_GameplayTag__GetEnumerator" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.System#Collections#Generic#IEnumerable{Saro#Gameplay#Tag#GameplayTag}#GetEnumerator">IEnumerable&lt;GameplayTag&gt;.GetEnumerator()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">IEnumerator&lt;GameplayTag&gt; IEnumerable&lt;GameplayTag&gt;.GetEnumerator()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerator-1">IEnumerator</a>&lt;<a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerable-1.getenumerator#system-collections-generic-ienumerable-1-getenumerator">IEnumerable&lt;T&gt;.GetEnumerator()</a></div>
+  
+  
+  <a id="Saro_Gameplay_Tag_GameplayTagContainer_System_Collections_IEnumerable_GetEnumerator_" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.System#Collections#IEnumerable#GetEnumerator*"></a>
+  <h4 id="Saro_Gameplay_Tag_GameplayTagContainer_System_Collections_IEnumerable_GetEnumerator" data-uid="Saro.Gameplay.Tag.GameplayTagContainer.System#Collections#IEnumerable#GetEnumerator">IEnumerable.GetEnumerator()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">IEnumerator IEnumerable.GetEnumerator()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.ienumerator">IEnumerator</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.ienumerable.getenumerator#system-collections-ienumerable-getenumerator">IEnumerable.GetEnumerator()</a></div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Copyright © 2022 Saro<br>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

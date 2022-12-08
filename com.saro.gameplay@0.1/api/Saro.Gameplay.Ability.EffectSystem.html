@@ -1,0 +1,664 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);  })(window,document,'script','dataLayer','GTM-5V25JL6');</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+  
+    <title>Class EffectSystem
+   | MGF Gameplay | 0.1.0 </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class EffectSystem
+   | MGF Gameplay | 0.1.0 ">
+    <meta name="generator" content="docfx 2.40.12.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    <meta property="unity:packageTitle" content="MGF Gameplay | 0.1.0">
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" class="">
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5V25JL6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+        
+        		<div class="back-to-unity-group">
+        			<a class="back-to-unity" href="https://github.com/Sarofc">github/Sarofc</a>
+        		</div>
+        
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items"></div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Saro.Gameplay.Ability.EffectSystem">
+  
+  
+  <h1 id="Saro_Gameplay_Ability_EffectSystem" data-uid="Saro.Gameplay.Ability.EffectSystem">Class EffectSystem
+  </h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">Object</a></div>
+    <div class="level1"><span class="xref">EffectSystem</span></div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Saro.Gameplay.Ability.html">Saro.Gameplay.Ability</a></h6>
+  <!--h6><strong>Assembly</strong>: solution.dll</h6-->
+  <h5 id="Saro_Gameplay_Ability_EffectSystem_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class EffectSystem : IEcsRunSystem, IEcsInitSystem, IEcsDestroySystem</code></pre>
+  </div>
+  <h3 id="fields">Fields
+  </h3>
+  
+  
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_OnEffectApply" data-uid="Saro.Gameplay.Ability.EffectSystem.OnEffectApply">OnEffectApply</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static Action&lt;EffectObj&gt; OnEffectApply</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.action-1">Action</a>&lt;<a class="xref" href="Saro.Gameplay.Ability.EffectObj.html">EffectObj</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_Enable_" data-uid="Saro.Gameplay.Ability.EffectSystem.Enable*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_Enable" data-uid="Saro.Gameplay.Ability.EffectSystem.Enable">Enable</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool Enable { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_ApplyEffect_" data-uid="Saro.Gameplay.Ability.EffectSystem.ApplyEffect*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_ApplyEffect_Saro_Gameplay_Ability_EffectCtx__Saro_Gameplay_Ability_EffectObj_" data-uid="Saro.Gameplay.Ability.EffectSystem.ApplyEffect(Saro.Gameplay.Ability.EffectCtx@,Saro.Gameplay.Ability.EffectObj)">ApplyEffect(ref EffectCtx, EffectObj)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected virtual ObjectHandle&lt;EffectObj&gt; ApplyEffect(ref EffectCtx ctx, EffectObj effectToApply)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.EffectCtx.html">EffectCtx</a></td>
+        <td><span class="parametername">ctx</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.EffectObj.html">EffectObj</a></td>
+        <td><span class="parametername">effectToApply</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">ObjectHandle</span>&lt;<a class="xref" href="Saro.Gameplay.Ability.EffectObj.html">EffectObj</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_ApplyEffect_" data-uid="Saro.Gameplay.Ability.EffectSystem.ApplyEffect*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_ApplyEffect_Saro_Gameplay_Ability_EffectCtx__System_String_EcsEntity_EcsEntity_System_Int32_System_Int32_" data-uid="Saro.Gameplay.Ability.EffectSystem.ApplyEffect(Saro.Gameplay.Ability.EffectCtx@,System.String,EcsEntity,EcsEntity,System.Int32,System.Int32)">ApplyEffect(ref EffectCtx, String, EcsEntity, EcsEntity, Int32, Int32)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ObjectHandle&lt;EffectObj&gt; ApplyEffect(ref EffectCtx ctx, string effectId, EcsEntity caster, EcsEntity target, int level = 0, int stackCount = 1)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.EffectCtx.html">EffectCtx</a></td>
+        <td><span class="parametername">ctx</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td><span class="parametername">effectId</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">EcsEntity</span></td>
+        <td><span class="parametername">caster</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">EcsEntity</span></td>
+        <td><span class="parametername">target</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">level</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">stackCount</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">ObjectHandle</span>&lt;<a class="xref" href="Saro.Gameplay.Ability.EffectObj.html">EffectObj</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_ApplyEffectQueued_" data-uid="Saro.Gameplay.Ability.EffectSystem.ApplyEffectQueued*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_ApplyEffectQueued_Saro_Gameplay_Ability_EffectCtx__System_String_EcsEntity_EcsEntity_System_Int32_System_Int32_" data-uid="Saro.Gameplay.Ability.EffectSystem.ApplyEffectQueued(Saro.Gameplay.Ability.EffectCtx@,System.String,EcsEntity,EcsEntity,System.Int32,System.Int32)">ApplyEffectQueued(ref EffectCtx, String, EcsEntity, EcsEntity, Int32, Int32)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void ApplyEffectQueued(ref EffectCtx ctx, string effectId, EcsEntity caster, EcsEntity target, int level = 0, int stackCount = 1)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.EffectCtx.html">EffectCtx</a></td>
+        <td><span class="parametername">ctx</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td><span class="parametername">effectId</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">EcsEntity</span></td>
+        <td><span class="parametername">caster</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">EcsEntity</span></td>
+        <td><span class="parametername">target</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">level</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">stackCount</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_DestroyEffect_" data-uid="Saro.Gameplay.Ability.EffectSystem.DestroyEffect*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_DestroyEffect_ObjectHandle_Saro_Gameplay_Ability_EffectObj___System_Object_" data-uid="Saro.Gameplay.Ability.EffectSystem.DestroyEffect(ObjectHandle{Saro.Gameplay.Ability.EffectObj}@,System.Object)">DestroyEffect(ObjectHandle&lt;EffectObj&gt;, Object)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void DestroyEffect(in ObjectHandle&lt;EffectObj&gt; handle, object destroyer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">ObjectHandle</span>&lt;<a class="xref" href="Saro.Gameplay.Ability.EffectObj.html">EffectObj</a>&gt;</td>
+        <td><span class="parametername">handle</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">Object</a></td>
+        <td><span class="parametername">destroyer</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_DestroyEffect_" data-uid="Saro.Gameplay.Ability.EffectSystem.DestroyEffect*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_DestroyEffect_Saro_Gameplay_Ability_EffectCtx__Saro_Gameplay_Tag_GameplayTag_System_Object_" data-uid="Saro.Gameplay.Ability.EffectSystem.DestroyEffect(Saro.Gameplay.Ability.EffectCtx@,Saro.Gameplay.Tag.GameplayTag,System.Object)">DestroyEffect(ref EffectCtx, GameplayTag, Object)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void DestroyEffect(ref EffectCtx ctx, GameplayTag tag, object destroyer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.EffectCtx.html">EffectCtx</a></td>
+        <td><span class="parametername">ctx</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a></td>
+        <td><span class="parametername">tag</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">Object</a></td>
+        <td><span class="parametername">destroyer</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_DestroyEffect_" data-uid="Saro.Gameplay.Ability.EffectSystem.DestroyEffect*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_DestroyEffect_Saro_Gameplay_Ability_EffectCtx__System_String_System_Object_" data-uid="Saro.Gameplay.Ability.EffectSystem.DestroyEffect(Saro.Gameplay.Ability.EffectCtx@,System.String,System.Object)">DestroyEffect(ref EffectCtx, String, Object)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void DestroyEffect(ref EffectCtx ctx, string effectId, object destroyer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.EffectCtx.html">EffectCtx</a></td>
+        <td><span class="parametername">ctx</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td><span class="parametername">effectId</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">Object</a></td>
+        <td><span class="parametername">destroyer</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_DestroyEffect_" data-uid="Saro.Gameplay.Ability.EffectSystem.DestroyEffect*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_DestroyEffect_Saro_Gameplay_Ability_EffectObj_System_Object_" data-uid="Saro.Gameplay.Ability.EffectSystem.DestroyEffect(Saro.Gameplay.Ability.EffectObj,System.Object)">DestroyEffect(EffectObj, Object)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected virtual void DestroyEffect(EffectObj obj, object destroyer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.EffectObj.html">EffectObj</a></td>
+        <td><span class="parametername">obj</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">Object</a></td>
+        <td><span class="parametername">destroyer</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_GetActiveEffect_" data-uid="Saro.Gameplay.Ability.EffectSystem.GetActiveEffect*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_GetActiveEffect_Saro_Gameplay_Ability_EffectCtx__System_String_" data-uid="Saro.Gameplay.Ability.EffectSystem.GetActiveEffect(Saro.Gameplay.Ability.EffectCtx@,System.String)">GetActiveEffect(ref EffectCtx, String)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ObjectHandle&lt;EffectObj&gt; GetActiveEffect(ref EffectCtx ctx, string effectId)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.EffectCtx.html">EffectCtx</a></td>
+        <td><span class="parametername">ctx</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td><span class="parametername">effectId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">ObjectHandle</span>&lt;<a class="xref" href="Saro.Gameplay.Ability.EffectObj.html">EffectObj</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_GetActiveEffects_" data-uid="Saro.Gameplay.Ability.EffectSystem.GetActiveEffects*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_GetActiveEffects_Saro_Gameplay_Ability_EffectCtx__Saro_Gameplay_Tag_GameplayTag_System_Collections_Generic_List_Saro_Gameplay_Ability_EffectObj___" data-uid="Saro.Gameplay.Ability.EffectSystem.GetActiveEffects(Saro.Gameplay.Ability.EffectCtx@,Saro.Gameplay.Tag.GameplayTag,System.Collections.Generic.List{Saro.Gameplay.Ability.EffectObj}@)">GetActiveEffects(ref EffectCtx, GameplayTag, ref List&lt;EffectObj&gt;)</h4>
+  <div class="markdown level1 summary"><p>根据tag获取生效的所有effect</p>
+<pre><code>模糊匹配</code></pre>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void GetActiveEffects(ref EffectCtx ctx, GameplayTag tag, ref List&lt;EffectObj&gt; outEffects)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.EffectCtx.html">EffectCtx</a></td>
+        <td><span class="parametername">ctx</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a></td>
+        <td><span class="parametername">tag</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="Saro.Gameplay.Ability.EffectObj.html">EffectObj</a>&gt;</td>
+        <td><span class="parametername">outEffects</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_GetActiveEffects_" data-uid="Saro.Gameplay.Ability.EffectSystem.GetActiveEffects*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_GetActiveEffects_Saro_Gameplay_Ability_EffectCtx__System_String_System_Collections_Generic_List_Saro_Gameplay_Ability_EffectObj___" data-uid="Saro.Gameplay.Ability.EffectSystem.GetActiveEffects(Saro.Gameplay.Ability.EffectCtx@,System.String,System.Collections.Generic.List{Saro.Gameplay.Ability.EffectObj}@)">GetActiveEffects(ref EffectCtx, String, ref List&lt;EffectObj&gt;)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void GetActiveEffects(ref EffectCtx ctx, string effectId, ref List&lt;EffectObj&gt; outEffects)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.EffectCtx.html">EffectCtx</a></td>
+        <td><span class="parametername">ctx</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td><span class="parametername">effectId</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a class="xref" href="Saro.Gameplay.Ability.EffectObj.html">EffectObj</a>&gt;</td>
+        <td><span class="parametername">outEffects</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Gameplay_Ability_EffectSystem_HandleGameplayEvent_" data-uid="Saro.Gameplay.Ability.EffectSystem.HandleGameplayEvent*"></a>
+  <h4 id="Saro_Gameplay_Ability_EffectSystem_HandleGameplayEvent_EcsEntity_Saro_Gameplay_Tag_GameplayTag_Saro_Gameplay_Ability_GameplayEventArgs_" data-uid="Saro.Gameplay.Ability.EffectSystem.HandleGameplayEvent(EcsEntity,Saro.Gameplay.Tag.GameplayTag,Saro.Gameplay.Ability.GameplayEventArgs)">HandleGameplayEvent(EcsEntity, GameplayTag, GameplayEventArgs)</h4>
+  <div class="markdown level1 summary"><p>处理Effect的游戏事件</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void HandleGameplayEvent(EcsEntity target, GameplayTag eventTag, GameplayEventArgs args)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EcsEntity</span></td>
+        <td><span class="parametername">target</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Tag.GameplayTag.html">GameplayTag</a></td>
+        <td><span class="parametername">eventTag</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.Gameplay.Ability.GameplayEventArgs.html">GameplayEventArgs</a></td>
+        <td><span class="parametername">args</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Copyright © 2022 Saro<br>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

@@ -5161,38 +5161,6 @@ references:
   isSpec: "True"
   fullName: Saro.BT.SimpleParallel.OnInitialize
   nameWithType: SimpleParallel.OnInitialize
-- uid: Saro.BT.TestService
-  name: TestService
-  href: api/Saro.BT.TestService.html
-  commentId: T:Saro.BT.TestService
-  fullName: Saro.BT.TestService
-  nameWithType: TestService
-- uid: Saro.BT.TestService.Description(System.Text.StringBuilder)
-  name: Description(StringBuilder)
-  href: api/Saro.BT.TestService.html#Saro_BT_TestService_Description_System_Text_StringBuilder_
-  commentId: M:Saro.BT.TestService.Description(System.Text.StringBuilder)
-  fullName: Saro.BT.TestService.Description(System.Text.StringBuilder)
-  nameWithType: TestService.Description(StringBuilder)
-- uid: Saro.BT.TestService.Description*
-  name: Description
-  href: api/Saro.BT.TestService.html#Saro_BT_TestService_Description_
-  commentId: Overload:Saro.BT.TestService.Description
-  isSpec: "True"
-  fullName: Saro.BT.TestService.Description
-  nameWithType: TestService.Description
-- uid: Saro.BT.TestService.ServiceTick
-  name: ServiceTick()
-  href: api/Saro.BT.TestService.html#Saro_BT_TestService_ServiceTick
-  commentId: M:Saro.BT.TestService.ServiceTick
-  fullName: Saro.BT.TestService.ServiceTick()
-  nameWithType: TestService.ServiceTick()
-- uid: Saro.BT.TestService.ServiceTick*
-  name: ServiceTick
-  href: api/Saro.BT.TestService.html#Saro_BT_TestService_ServiceTick_
-  commentId: Overload:Saro.BT.TestService.ServiceTick
-  isSpec: "True"
-  fullName: Saro.BT.TestService.ServiceTick
-  nameWithType: TestService.ServiceTick
 - uid: Saro.BT.TimeLimit
   name: TimeLimit
   href: api/Saro.BT.TimeLimit.html

@@ -1,0 +1,2939 @@
+{
+  "homepages": [],
+  "source_base_path": "c:/temp/unity-doctools/com.saro.gameplay@0.1",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.Ability.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.Ability.html",
+          "hash": "3rMstvBcYNsf6Zb7+EQ3/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityCastCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityCastCondition.html",
+          "hash": "Wo7cjpBDVTX1e2pLIhGANg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityContext.html",
+          "hash": "KjpyHuu3R6Fw50NJU82PoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityCooldown.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityCooldown.html",
+          "hash": "q6v1L8KO+NJtZroL1iXRZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityCost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityCost.html",
+          "hash": "JwOR9gTZstneoM8w7zANZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityCtx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityCtx.html",
+          "hash": "2HhOC2/M/Lt4fbNTRu/Tqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityCtxUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityCtxUtility.html",
+          "hash": "PyyC270sy7YuK1vs90EFlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityDebugger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityDebugger.html",
+          "hash": "gA2Hp9wlHbVN3ojMIqAuTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityFeature.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityFeature.html",
+          "hash": "5XReiiMV+HT7oWAaMjvWXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityLog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityLog.html",
+          "hash": "X5BUUq4pXhGu24P7ZtuyKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityObj.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityObj.html",
+          "hash": "fx353+CqD39SJEdruJXPag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AbilityProfiler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AbilityProfiler.html",
+          "hash": "THyIX1OUBwOoIpJRPuFZ0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AoE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AoE.html",
+          "hash": "rLs1Qc1/GEG2JilgILdHNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AoEData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AoEData.html",
+          "hash": "9/nXBknSSevGXzb2Op0Ciw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AoEFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AoEFactory.html",
+          "hash": "HRzBJSIYM/E+t5ns28Wjgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AoEObj.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AoEObj.html",
+          "hash": "0rlM/JPYyECbLM4h0VB+RA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AoESender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AoESender.html",
+          "hash": "wvxzoDAOEmqtSQooTEDE/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AoESystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AoESystem.html",
+          "hash": "qJXnT6FFc2KMkU0nF2xxSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AoEUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AoEUtility.html",
+          "hash": "xhBjACbTCM6LPSdgXSdD5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AttributeBasedFloat.EAttributeCalculateType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AttributeBasedFloat.EAttributeCalculateType.html",
+          "hash": "dsIbplWkZzYiRYpRWeduDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AttributeBasedFloat.EAttributeSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AttributeBasedFloat.EAttributeSource.html",
+          "hash": "Y8dOuxGNe66ydjR4YrPbUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AttributeBasedFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AttributeBasedFloat.html",
+          "hash": "vYV7gMLZDnvgVz0IMifpBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.AttributeChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.AttributeChanged.html",
+          "hash": "Yqf5/uMdjO38uv6+b+8aQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.Attributes.CreateDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.Attributes.CreateDelegate.html",
+          "hash": "vs+bxZSZD7DZHhN8q4pMXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.Attributes.html",
+          "hash": "avW9cge+LG7lOgVNR0afTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.CustomMovement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.CustomMovement.html",
+          "hash": "mJwPaJwYLpyfxfzUR/6BmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.CustomMovementType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.CustomMovementType.html",
+          "hash": "81w1SSDf0V1ApSuJuj5zIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.DataDrivenUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.DataDrivenUtility.html",
+          "hash": "Z01L/t0JhdIq59CdWToJmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.DefaultAbilityLoader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.DefaultAbilityLoader.html",
+          "hash": "+RG0IiPF/tb32Ck9vICsBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.DefaultAttributeSet.EAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.DefaultAttributeSet.EAttribute.html",
+          "hash": "YSa+tVAACZmbbVEY6aJBsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.DefaultAttributeSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.DefaultAttributeSet.html",
+          "hash": "8HwUzsGF0EKT4xFu1NdX9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.DefaultAttributeSetExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.DefaultAttributeSetExtension.html",
+          "hash": "ZQGITb14NvpszAhCAvfhKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EModifierOp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EModifierOp.html",
+          "hash": "54fEebAoIYRIW8e08eZQ3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EStackDurationRefreshPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EStackDurationRefreshPolicy.html",
+          "hash": "ap2v4pG+thVtMcg7wDvRaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EStackExpirationPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EStackExpirationPolicy.html",
+          "hash": "fVX5lMNURUFQCccYUy9R6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EStackingPeriodResetPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EStackingPeriodResetPolicy.html",
+          "hash": "KXK4AtYYAIvwBepUAm0EDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.Effect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.Effect.html",
+          "hash": "xp5dYnQfFYUSuZt2naMA9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EffectCtx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EffectCtx.html",
+          "hash": "jnJqyWq3AASGGvHNkJsP6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EffectCtxExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EffectCtxExtensions.html",
+          "hash": "yv8lA9VKi4UYjhjLS1yNiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EffectDefContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EffectDefContainer.html",
+          "hash": "Co4Hw/MLkb2Q7LHDcqEK1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EffectObj.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EffectObj.html",
+          "hash": "gh8Q0Ulqv1oElTl8zVdDcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EffectSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EffectSystem.html",
+          "hash": "uT9/1RRGFGaKOW3WenXRtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EventArgs_AoeEnterExit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EventArgs_AoeEnterExit.html",
+          "hash": "4xbTz3u2U5c0ZkW+oUvEoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EventArgs_EffectStackCountChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EventArgs_EffectStackCountChanged.html",
+          "hash": "ObstaN6Kcf9BqXBDVLatgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EventArgs_OnAbilityCast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EventArgs_OnAbilityCast.html",
+          "hash": "p0xZU//HXPWiXkQloxTVMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EventArgs_ProjectileHit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EventArgs_ProjectileHit.html",
+          "hash": "/yX7n04P386ZkCx5SwjjHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.EventContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.EventContainer.html",
+          "hash": "LQ5hTrOi6GIbcGQjUAK/OA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.Events.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.Events.html",
+          "hash": "WaySypT8LPKp9se9f94H7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.FrameRange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.FrameRange.html",
+          "hash": "HQ4ScNjcsr0vvsSBC7ZEMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.FrameRangeDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.FrameRangeDrawer.html",
+          "hash": "hi6PCHe0zsI6a/2W84ilww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.GAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.GAction.html",
+          "hash": "62scH8RXRvHJSDUcZOo+/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.GActionObj.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.GActionObj.html",
+          "hash": "cwBvxo+FsI42ccBKFL/aGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.GameplayAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.GameplayAttribute.html",
+          "hash": "pNkhIW/k9M/gNdu2+turjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.GameplayAttributeBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.GameplayAttributeBase.html",
+          "hash": "OSzX/9g4YImcvAjTqwolBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.GameplayAttributeSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.GameplayAttributeSet.html",
+          "hash": "vG8I+Mcxyn5If4o+URS3Ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.GameplayEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.GameplayEventArgs.html",
+          "hash": "IbEVBVwTBrTtQN2QGREwLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.GameplaySenderWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.GameplaySenderWrapper.html",
+          "hash": "5DgbxuglEvkWUvktb/ZASg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.GameplyEventHandler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.GameplyEventHandler-1.html",
+          "hash": "8svq1vZ+mHaPsTkvbwm+SQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.HitRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.HitRecord.html",
+          "hash": "2QVPNI+r8Hmg/5HaR7RRIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IAoeEventScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IAoeEventScript.html",
+          "hash": "btMAQnw4NNhKjsjpJN23cA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IDataProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IDataProvider-1.html",
+          "hash": "7dBt5ocUMybsQWG3eJ0UFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IEffectEventScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IEffectEventScript.html",
+          "hash": "gn956sA3aI6s3chUHRUUUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IEventScript-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IEventScript-1.html",
+          "hash": "7r1srF9hn2dWyHsFuhKG3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IGameplayEventSender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IGameplayEventSender.html",
+          "hash": "3W3leQGl6IorfSfTlQNEfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IGameplayTagGen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IGameplayTagGen.html",
+          "hash": "/Z8ofaa9cKkQKLmnxWksbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IModifierSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IModifierSource.html",
+          "hash": "W4UNLDYOT35+oOMvj5byXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IMotionListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IMotionListener.html",
+          "hash": "VcImUq5wXqjWaUs+xtDdqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IProjectileEventScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IProjectileEventScript.html",
+          "hash": "6phFiFrON092+DmwygSGZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IScript.html",
+          "hash": "D2OHsVhs9klgDajBWRQ5pg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ISpecialTableOwner-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ISpecialTableOwner-1.html",
+          "hash": "op3yEoyub8z0jhoGzfgW0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ITargetFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ITargetFilter.html",
+          "hash": "ODY1Mx7rRa+pue8Im44Okw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ITargetTypeObj_AoE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ITargetTypeObj_AoE.html",
+          "hash": "ul3W0frrpGdelAi2uMEGLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ITargetTypeObj_DataDriven.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ITargetTypeObj_DataDriven.html",
+          "hash": "L+tRUrewvqp1eomBlX/NJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ITargetType_AoE.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ITargetType_AoE.html",
+          "hash": "8V3RWOuhkuVA9L85w3tr5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ITargetType_DataDriven.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ITargetType_DataDriven.html",
+          "hash": "vjGfSAdRCjvvn2jpAgkgxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IVarMagnitudeCalculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IVarMagnitudeCalculation.html",
+          "hash": "94s33mYZwTuGvYs8MdNbhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.IVarOwner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.IVarOwner.html",
+          "hash": "lDi8g7K13KQ1MhsMQe3Pjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.InspectorName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.InspectorName.html",
+          "hash": "lNy1rqS6PDCM0at77H8w2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.JsonDataProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.JsonDataProvider-1.html",
+          "hash": "WZEgP0ZodPQWqgfx8ulEfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.LifeSpan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.LifeSpan.html",
+          "hash": "emMMD6+nk8Cnh3wNqjWnlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.Modifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.Modifier.html",
+          "hash": "LpVsFMht4EcU2Sz1n+pZcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ModifierDef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ModifierDef.html",
+          "hash": "pVi+BU1wuigWXQpCkP1ilQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ModifierObj.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ModifierObj.html",
+          "hash": "PctwfI9XcJywhHvtiYV4LQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.MotionClip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.MotionClip.html",
+          "hash": "42AjR2H3wuZHyttlFXla4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.MotionCtx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.MotionCtx.html",
+          "hash": "JtiSuWGO1KNMSzP9uNAj5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.MotionCtxUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.MotionCtxUtility.html",
+          "hash": "1htZYJN3tQiKjSw9NXKTOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.MotionState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.MotionState.html",
+          "hash": "m7U1V8Kod8aNza3Gf/qehg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.MotionSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.MotionSystem.html",
+          "hash": "AZpDp4F5Pz8GWkqEtIyOJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.MotionUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.MotionUtility.html",
+          "hash": "AXy2xj3RTvf5peUXA+XAEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.NSObj_GoTo_EffectIsAlive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.NSObj_GoTo_EffectIsAlive.html",
+          "hash": "RpjU/hYzNO6N2UHXUkNsCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.NSObj_RootMotion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.NSObj_RootMotion.html",
+          "hash": "LjrlWvv2fyelK2okFnjr7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.NS_GoTo.GoToCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.NS_GoTo.GoToCondition.html",
+          "hash": "HZuKWIvri02G57qQtblLjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.NS_GoTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.NS_GoTo.html",
+          "hash": "C8oAZrVwxcfnO0maP5AEHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.NS_RootMotion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.NS_RootMotion.html",
+          "hash": "jC/vu8kqXx3TmKc3YEKvZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.NotifyState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.NotifyState.html",
+          "hash": "XuGFeD3/hWTsEuLXhozZyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.NotifyStateObj.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.NotifyStateObj.html",
+          "hash": "7Y6VeKHbaAk/e9egm6LOUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.Projectile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.Projectile.html",
+          "hash": "D9HY0MAbDXSjAUFIwO3H6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ProjectileData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ProjectileData.html",
+          "hash": "82XzLGd7Ct94JDClUzC/4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ProjectileFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ProjectileFactory.html",
+          "hash": "4BVGQrB/AyB9f3bmNgsI0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ProjectileObj.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ProjectileObj.html",
+          "hash": "NtFvsaX9I5G1QO4H5LZaoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ProjectileSender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ProjectileSender.html",
+          "hash": "T8m4oSnO5/rCjg2xLoWVQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ProjectileSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ProjectileSystem.html",
+          "hash": "a1NH95EdJ44vJGPeHcP3Dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ProjectileUtility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ProjectileUtility.html",
+          "hash": "TxpOzVCbDIdgxEtucYDBeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.ScriptCache-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.ScriptCache-1.html",
+          "hash": "D9KIYWxhn763PSSTA8DZ0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.SerializeReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.SerializeReference.html",
+          "hash": "W4uK/R4Gt7lvz3D7qh4iFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.SnapshotAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.SnapshotAttribute.html",
+          "hash": "artunXEym6kHJ5+ZilcgNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.SnapshotAttributeSet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.SnapshotAttributeSet.html",
+          "hash": "9S5CuEe10ccyqlJMP1inYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.SnapshotDefs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.SnapshotDefs.html",
+          "hash": "WUivy1zvo3UtDK9er5w9zw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.SpecialConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.SpecialConfig.html",
+          "hash": "Kzp+vMnHM2WFuy7jBoIumQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.SpecialTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.SpecialTable.html",
+          "hash": "KUBiVWzQU2mBcLD/mn3HqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.TargetType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.TargetType.html",
+          "hash": "tof6C0ers4gge/R9UwdLdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.TargetTypeObj.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.TargetTypeObj.html",
+          "hash": "Dmf7tm3D8bwUQPQOJPCTow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.Var-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.Var-1.html",
+          "hash": "wy9LPqMY2QZ3xVHyaKQmVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.Var.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.Var.html",
+          "hash": "HwUGLOnqnom6T+2Xr1jMXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.VarBool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.VarBool.html",
+          "hash": "33z5tN5JQvDwVuy0QdQu6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.VarByte.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.VarByte.html",
+          "hash": "9IwgLr8jjo7tmn1IpNf2Lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.VarFloat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.VarFloat.html",
+          "hash": "CfO9XoitND8H9G7nLqiboA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.VarInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.VarInt.html",
+          "hash": "YVWfFk+UaTU0d8KfzcfOWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.VarPair.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.VarPair.html",
+          "hash": "TTmi/LRhtKF6ux1LZLfn5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.VarString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.VarString.html",
+          "hash": "KjoUYykF1XN6di78xB1sGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Ability.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Ability.html",
+          "hash": "+1AKnakgrR5Ykxj0VXn6Dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.CharacterController.CharacterMotor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.CharacterController.CharacterMotor.html",
+          "hash": "RGCTkJgN+OthNS3/DvNppw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.CharacterController.MovementComponentDegug.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.CharacterController.MovementComponentDegug.html",
+          "hash": "9mHkC1UnMKmF7W53pv/VDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.CharacterController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.CharacterController.html",
+          "hash": "A1iDDGzDBSlYgR1Z/BwR2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.GTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.GTime.html",
+          "hash": "Mc+8yuSaZNtmXsUsgO1Ltw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.IScriptAsset-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.IScriptAsset-1.html",
+          "hash": "HyRqk8ODQZ1oIIJ4x6rKVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.IScriptAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.IScriptAsset.html",
+          "hash": "vzZRpx1IqJU+tUHtpA3Qnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.IScriptInstance-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.IScriptInstance-1.html",
+          "hash": "S+bZLSCeDgsTFMPHHYF2Yg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.IScriptInstance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.IScriptInstance.html",
+          "hash": "c4LEBcCHQgTspjvCnn7XLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.IUnityView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.IUnityView.html",
+          "hash": "u+6WygMpIADW9GFfEG2diQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.Script.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.Script.html",
+          "hash": "gASJFNctAsvjEYc0hpcUSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.ScriptSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.ScriptSystem.html",
+          "hash": "lUYvvpvEXrP/FBOxw42JvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.TimerSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.TimerSystem.html",
+          "hash": "ZQ6KogGL3PT8OchePE/Q2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.UnityView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.UnityView.html",
+          "hash": "2YoGcuPGacPbD7o+infhkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.UnityViewSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.UnityViewSystem.html",
+          "hash": "+p0sTs+xn8woHzRbWrWD3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.UpdateManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.UpdateManager.html",
+          "hash": "G75wQvKWsTmZCNTOb4RcyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Common.html",
+          "hash": "+YfWahIRyUzaVaYcllavHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.GameCommandHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.GameCommandHandler.html",
+          "hash": "HUtIBoaSreQqOJQ9YNupLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.GameCommandReceiver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.GameCommandReceiver.html",
+          "hash": "W+MgIF0wr6bYXE5vXLb4yg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.GameCommandReceiverEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.GameCommandReceiverEditor.html",
+          "hash": "N6IeTTtW2xKg1ay+0lNuTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.GameCommandSender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.GameCommandSender.html",
+          "hash": "YiRLIGXL/Z0wzaAmtfaE/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.GameCommandSenderEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.GameCommandSenderEditor.html",
+          "hash": "qFpd0NQa6bkHgB137fVi4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.GameplayCounter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.GameplayCounter.html",
+          "hash": "t8cn+2q8p8aVXaDGf/D/cQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.MovingPlatform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.MovingPlatform.html",
+          "hash": "5fN0/aNqSDpLLpCJUjR9rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.SendOnPressButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.SendOnPressButton.html",
+          "hash": "i0e0cgCR/kHmJr0A1iZrTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.SendOnTriggerEnter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.SendOnTriggerEnter.html",
+          "hash": "/XsR28LdVp9gwriT8X7mBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.SendOnTriggerExit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.SendOnTriggerExit.html",
+          "hash": "fCzOk8rLX9LXjc31fHzoRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.SendOnTriggerStay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.SendOnTriggerStay.html",
+          "hash": "yeVTSUgiREo9sdbgxkmg5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.SimpleRotator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.SimpleRotator.html",
+          "hash": "n8SuXQpIFWJ1N2DCjEhHNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.SimpleTransformer.ELoopType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.SimpleTransformer.ELoopType.html",
+          "hash": "mS2rKuVU8Dt54bcUZadcfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.SimpleTransformer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.SimpleTransformer.html",
+          "hash": "0engtjWPk6l7mS2mYXI81Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.SimpleTransformerEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.SimpleTransformerEditor.html",
+          "hash": "dCkZtAv5ToBuWdqYilrquQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.SimpleTranslator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.SimpleTranslator.html",
+          "hash": "R8Elssq9OBZR3inn3ZW7LQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.SimpleTranslatorEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.SimpleTranslatorEditor.html",
+          "hash": "oao3ksC0upZtuAFPAAYoTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.TriggerCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.TriggerCommand.html",
+          "hash": "EQq85YtprVvxqpJ/KLwVcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Interact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Interact.html",
+          "hash": "6k2FuRN8VxQ+jCT/1n+HrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.OrbitCamera.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.OrbitCamera.html",
+          "hash": "7i7kWwSmvMcWzu8ZbYaI0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Quest.EQuestStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Quest.EQuestStatus.html",
+          "hash": "C119ERlEZ5dHBYKnbfxgPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Quest.IQuestAccepter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Quest.IQuestAccepter.html",
+          "hash": "IcptK4aqB8Kw6a0EQVsn6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Quest.IQuestCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Quest.IQuestCondition.html",
+          "hash": "TqeuLsuvs93jTO0i2qz3gw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Quest.IQuestDataProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Quest.IQuestDataProvider.html",
+          "hash": "oHeyHXX90q3GeoKQMShrrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Quest.IQuestGiver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Quest.IQuestGiver.html",
+          "hash": "73NyTXW9yGOyQZsSDpSJAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Quest.IQuestReward.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Quest.IQuestReward.html",
+          "hash": "axxSk8r2QDIIRykmUJG98Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Quest.Quest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Quest.Quest.html",
+          "hash": "Hh+yQhmI1q2ik7ANH8gNog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Quest.QuestSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Quest.QuestSystem.html",
+          "hash": "89OY0d3eF/1osM1yl9CM9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Quest.TestQuestDataProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Quest.TestQuestDataProvider.html",
+          "hash": "2/qfIokMuvyV8pVABYt3yw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Quest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Quest.html",
+          "hash": "UbWje1ZEKqqQJiftx6IqKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.ETagEventType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.ETagEventType.html",
+          "hash": "oVDQj91ghu2eeo0iNqh9VA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.GameplayTag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.GameplayTag.html",
+          "hash": "fYuT+dm4okEPK0V/2/J2EA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.GameplayTagAssetNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.GameplayTagAssetNode.html",
+          "hash": "j+XcweErZZuYPFCdyAaTHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.GameplayTagContainer.Enumerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.GameplayTagContainer.Enumerator.html",
+          "hash": "Q4vE6ATGPvl4VBSxh8CH6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.GameplayTagContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.GameplayTagContainer.html",
+          "hash": "C8Y4qlclCSOu9KaaZkLQmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.GameplayTagCountContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.GameplayTagCountContainer.html",
+          "hash": "MGE0r3tDuz4DWb4A+qCCDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.GameplayTagDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.GameplayTagDrawer.html",
+          "hash": "LOvKmJdxra07IDAPC8u69A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.GameplayTagNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.GameplayTagNode.html",
+          "hash": "1o4vaLyrzGQxkNROgp3T4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.GameplayTagRequirements.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.GameplayTagRequirements.html",
+          "hash": "B23clbsLdx3n4cdufYuFtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.GameplayTagsManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.GameplayTagsManager.html",
+          "hash": "A7CO05AvoUGPrfiWb1VD1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.OnGameplayTagCountChanged.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.OnGameplayTagCountChanged.html",
+          "hash": "xeiQ7uli5XQ4LNTgrn06EQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.ParseGameplayTagException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.ParseGameplayTagException.html",
+          "hash": "Nd1inJDopo2tNg7rP7SQrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Tag.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Tag.html",
+          "hash": "3AvjLdWz2SwQeSJdbVMXOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Waypoint.BezierPath.Waypoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Waypoint.BezierPath.Waypoint.html",
+          "hash": "QEzd2jyrATb7YX74GjNhLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Waypoint.BezierPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Waypoint.BezierPath.html",
+          "hash": "BfSxLgg2w4OJjGiY431Uaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Waypoint.Cart.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Waypoint.Cart.html",
+          "hash": "tffj3OivL6HpSSxMTAqkWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Waypoint.Editor.BezierPathEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Waypoint.Editor.BezierPathEditor.html",
+          "hash": "ODX3ZvVSmNKYM1Maop51Vw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Waypoint.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Waypoint.Editor.html",
+          "hash": "xWeS7p0SE5ZmDoCLAv/x2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Waypoint.PathBase.EPositionUnits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Waypoint.PathBase.EPositionUnits.html",
+          "hash": "9x4GR8dBKlLlkUPW07330A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Waypoint.PathBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Waypoint.PathBase.html",
+          "hash": "4rDwyPdWUZ/gjhdQdmj4jQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Waypoint.UnityVectorExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Waypoint.UnityVectorExtension.html",
+          "hash": "znq7EpE9DJdaskIK0cGX0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Waypoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Waypoint.html",
+          "hash": "BSdTa/r7UChRyOm6ywPVIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.html",
+          "hash": "PhhH8Ijc8MexGikXnUZ7kA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.Aabb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.Aabb.html",
+          "hash": "BS+wU+deei82WKEfCrk0UA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.BodyMask.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.BodyMask.html",
+          "hash": "8nep8Cx1NrfXII/lDvYt+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.BoxShape.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.BoxShape.html",
+          "hash": "6Jju0igdJmC+mFUiUqnM5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.BroadPhaseBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.BroadPhaseBase.html",
+          "hash": "pgXB+CLDT+ULeNAhCnxMOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.BroadPhase_Brute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.BroadPhase_Brute.html",
+          "hash": "5lJwLSQoaWd3csSENCvY1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.BroadPhase_DynamicTree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.BroadPhase_DynamicTree.html",
+          "hash": "BG3fJZ+5NWM1A7IJitDDwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.BroadPhase_SAP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.BroadPhase_SAP.html",
+          "hash": "l1YysN0U6tMOm4gS1D40gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.CollisionTester.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.CollisionTester.html",
+          "hash": "2RH5iqIVJ9wlKcCCtQciIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.ContactTesterBase-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.ContactTesterBase-2.html",
+          "hash": "4jleC3ILvGBkgRxqfx2i+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.ContactTesterReference-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.ContactTesterReference-2.html",
+          "hash": "u67hNx++94tkK+33nROYPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.ContactTesterReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.ContactTesterReference.html",
+          "hash": "vTOAV0vWj7OeXvbBm+Q4mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.ContactTester_BoxBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.ContactTester_BoxBox.html",
+          "hash": "UZ2Ao06TQwd9KKNSeqbmBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.ContactTester_SphereBox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.ContactTester_SphereBox.html",
+          "hash": "ceT0JDyMoqulMhmWA/5SCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.ContactTester_SphereSphere.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.ContactTester_SphereSphere.html",
+          "hash": "wQBLCG9hwe21PJ0kGHlGdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.DelTriggerSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.DelTriggerSystem.html",
+          "hash": "1uuKmwcnM80+2H59jZ2p4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.DynamicTree-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.DynamicTree-1.html",
+          "hash": "7wGQTjUQNHTNk6sCjX29RQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.DynamicTreeNode-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.DynamicTreeNode-1.html",
+          "hash": "g5cCBeGrHAPeP3krWf81Tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.Hit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.Hit.html",
+          "hash": "maz/mvKIg3clGJUYZckJCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.IShape.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.IShape.html",
+          "hash": "yBjT/nFEZdnLoNCeKTJfkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.LayerCollisionMatrix.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.LayerCollisionMatrix.html",
+          "hash": "F+9jpAEWZMM9ujCrQf9EnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.OverlapTester.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.OverlapTester.html",
+          "hash": "5e7I0kJLhmzocdD/33ivZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.PhysicsData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.PhysicsData.html",
+          "hash": "5xEdeYhmpo0Kay8xR+hYjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.PhysicsDebugSystem.PhysicsDebugData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.PhysicsDebugSystem.PhysicsDebugData.html",
+          "hash": "2zj09UGRk2+I0IMR6E6ZeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.PhysicsDebugSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.PhysicsDebugSystem.html",
+          "hash": "08KhQiGiSZ5/gkBHkcqY5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.PhysicsFeature.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.PhysicsFeature.html",
+          "hash": "E8161eDeQZlFJePdPIhMeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.PhysicsWorldNames.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.PhysicsWorldNames.html",
+          "hash": "9XEUdy6F+wk+/R5NGyBH8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.PossibleContact-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.PossibleContact-2.html",
+          "hash": "5cUZafXwlrIYNQyXBgFHPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.QueryTester.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.QueryTester.html",
+          "hash": "p5kZ5m8SJvgq4Wfja7x+LQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.RaycastSphereTester.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.RaycastSphereTester.html",
+          "hash": "D45sz5g2R+2lyB5QF01z5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.RaycastTester-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.RaycastTester-1.html",
+          "hash": "BsV9eS5cb1IC/8WpbaX6rw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.SphereShape.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.SphereShape.html",
+          "hash": "/Bu27UzlrhX2uK1JQwckIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.Trigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.Trigger.html",
+          "hash": "/XlC7MR8ozfsrrP3f7PRsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.TriggerSystemBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.TriggerSystemBase.html",
+          "hash": "lh6nmhA8MSaga9LDdanrvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.UpdateBoundBoxBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.UpdateBoundBoxBase-1.html",
+          "hash": "np/Gm3AW+vdSYIOc3DW/Jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.UpdateBoundBox_Box.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.UpdateBoundBox_Box.html",
+          "hash": "bywlUBHYPayTjixur/wrSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.UpdateBoundBox_Sphere.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.UpdateBoundBox_Sphere.html",
+          "hash": "ATsbloWO3JNvxbr7GXwPGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.SPhysics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.SPhysics.html",
+          "hash": "3WrWnDJbowbA34n92zWF/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "wahaWARZQd4vBbJ9olo/Og=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "PBcg9tkcFPZs6g6byXaFJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/CHANGELOG.html",
+          "hash": "A+r3KfyqeyfnnJmx6ltx9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "changelog/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/toc.html",
+          "hash": "yUuO8h0CcPJ3Un2n/Sd3CQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "1srD4ukp4NZvEKeLSA3eWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/LICENSE.html",
+          "hash": "RYyNJZt/g37vCeCKZurFpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/index.html",
+          "hash": "f1Op/60n8ycFRaclFTsAUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "license/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "license/toc.html",
+          "hash": "9Nr4yi+XqwSuQoa717lDpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/index.html",
+          "hash": "ZZ5vXyl0KbCU/eUAo78ZWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "3CR1OjuO16WIK44M+1W93A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "kgrhbKaJs+HoH3A7kkU5oA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 227,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
