@@ -3397,114 +3397,6 @@
       "version": ""
     },
     {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Unity.IL2CPP.CompilerServices.Il2CppSetOptionAttribute.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Unity.IL2CPP.CompilerServices.Il2CppSetOptionAttribute.html",
-          "hash": "cRXL4QVSkv6e3c0SSM/9Dw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Unity.IL2CPP.CompilerServices.Option.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Unity.IL2CPP.CompilerServices.Option.html",
-          "hash": "+RjRZPUDsbdt90itwLo2CA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Unity.IL2CPP.CompilerServices.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Unity.IL2CPP.CompilerServices.html",
-          "hash": "mGLo7Lqx+LzdHBax8crnow=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/UnityEngine.SerializeReferenceButtonAttribute.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/UnityEngine.SerializeReferenceButtonAttribute.html",
-          "hash": "J+ERoyhodu/NV5dxFIDFrA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/UnityEngine.SerializeReferenceMenuAttribute.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/UnityEngine.SerializeReferenceMenuAttribute.html",
-          "hash": "+Mf1datgc1S2LpE/DEg84w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/UnityEngine.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/UnityEngine.html",
-          "hash": "9fxyk6cbQYz/bgEBaeZhxg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/UnityToolbarExtender.ToolbarCallback.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/UnityToolbarExtender.ToolbarCallback.html",
-          "hash": "/uKQNNNoAb0VQRWcdBM2rA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/UnityToolbarExtender.ToolbarExtender.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/UnityToolbarExtender.ToolbarExtender.html",
-          "hash": "7BpFXwr0g/QOuo1ne4Y3ZQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/UnityToolbarExtender.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/UnityToolbarExtender.html",
-          "hash": "gQkm3NGGwnQSbwe1dEzyAA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
@@ -3522,7 +3414,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "epFXT8pnc1lUsXcqrSowPg=="
+          "hash": "etyFCrR01dQnxsPW98Plvg=="
         }
       },
       "is_incremental": false,
@@ -3676,7 +3568,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 291,
+          "total_file_count": 282,
           "skipped_file_count": 0
         },
         "ConceptualDocumentProcessor": {

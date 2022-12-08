@@ -1,0 +1,839 @@
+{
+  "homepages": [],
+  "source_base_path": "c:/temp/unity-doctools/com.saro.moonasset@0.1",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.AssetDatabaseHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.AssetDatabaseHandle.html",
+          "hash": "cepHAFdXhsRuPEREifMWaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.AssetHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.AssetHandle.html",
+          "hash": "BW+N0Gho1sdIalgzXvDXXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.AssetRef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.AssetRef.html",
+          "hash": "eft16cJxjFTGQUn3IYo0jA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.BuildAssetBundle_SBP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.BuildAssetBundle_SBP.html",
+          "hash": "leRiOGNtVL8MJoaXdQN1tA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.BuildGroups.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.BuildGroups.html",
+          "hash": "v5O3H5gM9xjp+iX8czg+Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.BuildMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.BuildMethod.html",
+          "hash": "9kNssbXbH2WgGeBzJUVduw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.BuildScript.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.BuildScript.html",
+          "hash": "Nt6sxq3UX0Mdy89blyLZWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.BuildWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.BuildWindow.html",
+          "hash": "FMvPk1lOMhP/YBkbXba3hQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.BundleGroup.EPackedBy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.BundleGroup.EPackedBy.html",
+          "hash": "Geo/eTri7PB8u/sr80y48Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.BundleGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.BundleGroup.html",
+          "hash": "k4xWlq8ba5Ebax2UD6E5/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.CreateBuiltInResourcesBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.CreateBuiltInResourcesBundle.html",
+          "hash": "hkFE9lJ7wax9NlQh7+/yDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.IBuildProcessor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.IBuildProcessor.html",
+          "hash": "AB2SNs5gl3DzPZib1ish3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.IVFilePacker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.IVFilePacker.html",
+          "hash": "RJqQZJRlG0QJwY1xMEolsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.MoonAssetBuildMethodAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.MoonAssetBuildMethodAttribute.html",
+          "hash": "bDqxBitkJ8YVB+pS9H73KQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.MoonAssetEditorRuntimeInitializeOnLoad.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.MoonAssetEditorRuntimeInitializeOnLoad.html",
+          "hash": "RETc9VZRqPmouaFaJvqhSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.RuleAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.RuleAsset.html",
+          "hash": "yqIUAwl1/eZxIIPtV0As5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.RuleBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.RuleBundle.html",
+          "hash": "Acneqy48dvMvvLmZyJ2I0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.RuleSprite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.RuleSprite.html",
+          "hash": "IulYlWLucwuCTkIRAnhxJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.Settings.html",
+          "hash": "9UzRCujGysLZB5WwPLt/JA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.SettingsInspector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.SettingsInspector.html",
+          "hash": "Y3n7RaGo4KL60i6+UMA/WA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Build.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Build.html",
+          "hash": "N1AcPP5IF3fKoXaryy15eA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.BundleAssetAsyncHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.BundleAssetAsyncHandle.html",
+          "hash": "hYbnMzfrZI1a1wIkFOmR+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.BundleAssetHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.BundleAssetHandle.html",
+          "hash": "sqHyDSVV8oBS4vrwleJ7/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.BundleAsyncHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.BundleAsyncHandle.html",
+          "hash": "YOcnNBwj1PeIimiCLkEPaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.BundleHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.BundleHandle.html",
+          "hash": "GCUuGkoE0AFbA+60/qv6Tg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.BundleLocatorBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.BundleLocatorBase.html",
+          "hash": "ZrN7L0NnUWXGu8M3X/gMqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.BundleRef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.BundleRef.html",
+          "hash": "efJCr1nvQC2ZegNCwp3Wkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.DownloadBundleAssetHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.DownloadBundleAssetHandle.html",
+          "hash": "e+FqDoAv49syuaTWrgvxsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.ELoadState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.ELoadState.html",
+          "hash": "GWyIIZ3d4P/g6e1gIS3RQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.IRemoteAssets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.IRemoteAssets.html",
+          "hash": "xhiMthFOHPWvaU+z43hhig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.LocalBundleLocator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.LocalBundleLocator.html",
+          "hash": "DfpaSWFfBLCtrncgU9xocA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Manifest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Manifest.html",
+          "hash": "09qw0PspwETZQL2I4eIlvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.MoonAsset.BundleLocator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.MoonAsset.BundleLocator.html",
+          "hash": "y7KBz5EPWnlfBy5bbphHsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.MoonAsset.EMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.MoonAsset.EMode.html",
+          "hash": "D/uCid+gvzv15oWMsOyo0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.MoonAsset.MoonAssetPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.MoonAsset.MoonAssetPolicy.html",
+          "hash": "qDmuU/K7gQpegfRNWEGiDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.MoonAsset.VerifyProgressData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.MoonAsset.VerifyProgressData.html",
+          "hash": "1afWCDbn0YYYWR0tFrmHng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.MoonAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.MoonAsset.html",
+          "hash": "HYiSAS2t+XqznvthBUueMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.MoonAssetConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.MoonAssetConfig.html",
+          "hash": "2zpdl/TVT3lHi/4axFMi2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.MoonAssetDebugWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.MoonAssetDebugWindow.html",
+          "hash": "zmn6m9oa1jj13ScllBOi/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.MoonAssetDebuggerGUI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.MoonAssetDebuggerGUI.html",
+          "hash": "PBNkTTm/R0oTmQcFPS088A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.MoonAssetReferenceItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.MoonAssetReferenceItem.html",
+          "hash": "yLpGi3kFx0qHF5P9C7eBEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.RemoteBundleAsyncHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.RemoteBundleAsyncHandle.html",
+          "hash": "sdiHRKw9qP4zksFgWfi6OA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.RemoteBundleLocator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.RemoteBundleLocator.html",
+          "hash": "MsSdSWx4sqCfAm5+1/oGUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.SceneAssetAsyncHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.SceneAssetAsyncHandle.html",
+          "hash": "iCw0AgeTIeHbNdM8x9SDdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.SceneAssetHandle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.SceneAssetHandle.html",
+          "hash": "cj/7/WopbRMOUrtjQiK5oA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.SpriteAtlasRef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.SpriteAtlasRef.html",
+          "hash": "OR/SbbHIw+FUtmrixVbiCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Update.AssetUpdaterManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Update.AssetUpdaterManager.html",
+          "hash": "J8y+nhsLdy57YwSHHB53TA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Update.INetworkMonitorListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Update.INetworkMonitorListener.html",
+          "hash": "wyuQg5Qo+vwQSW5UzY9/+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Update.IUpdater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Update.IUpdater.html",
+          "hash": "ngdywfVsoZTDCsS6NWXtpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Update.NetworkMonitorComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Update.NetworkMonitorComponent.html",
+          "hash": "32WlbRp1Oy1Bzow0viDkLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.Update.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.Update.html",
+          "hash": "IKRJrwz5O3rvOfQT0/EYxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.MoonAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.MoonAsset.html",
+          "hash": "4VQh9AB+TfXJUOdkXZyyJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "eI9BurByb/vYzkCdEsYi2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "IbpNPXjvstxNt5vuEgcdXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/CHANGELOG.html",
+          "hash": "yO1sW2Jbn3AcFXyH0MhR5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "changelog/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/toc.html",
+          "hash": "md7xkgfWSo3wyl7c0/WIFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "KsDkccXyQUl69eoDaBL/PQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/LICENSE.html",
+          "hash": "kc8fcpzAM5tvaNh1jMkvSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/index.html",
+          "hash": "f8UYRhviUxB379RMSmtaMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "license/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "license/toc.html",
+          "hash": "OKOq2FiVY3QrIZa8fKrkNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/index.html",
+          "hash": "gaHMx79Y0VfKjkOq6Q2/Ww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "Q6e3hXie7stwxukI+7CnXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "sUgSlkZeohdBlsFdguXzWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 52,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

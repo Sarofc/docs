@@ -1,0 +1,807 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);  })(window,document,'script','dataLayer','GTM-5V25JL6');</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+  
+    <title>Class BTNode
+   | Moon Behavior Tree | 0.0.1 </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class BTNode
+   | Moon Behavior Tree | 0.0.1 ">
+    <meta name="generator" content="docfx 2.40.12.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    <meta property="unity:packageTitle" content="Moon Behavior Tree | 0.0.1">
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" class="">
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5V25JL6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+        
+        		<div class="back-to-unity-group">
+        			<a class="back-to-unity" href="http://docs.unity3d.com/">docs.unity3d.com</a>
+        		</div>
+        
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items"></div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Saro.BT.BTNode">
+  
+  
+  <h1 id="Saro_BT_BTNode" data-uid="Saro.BT.BTNode">Class BTNode
+  </h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">Object</a></div>
+    <div class="level1"><span class="xref">BTNode</span></div>
+  </div>
+      <div class="level2"><a class="xref" href="Saro.BT.BTAuxiliary.html">BTAuxiliary</a></div>
+      <div class="level2"><a class="xref" href="Saro.BT.BTComposite.html">BTComposite</a></div>
+      <div class="level2"><a class="xref" href="Saro.BT.BTTask.html">BTTask</a></div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Saro.BT.html">Saro.BT</a></h6>
+  <!--h6><strong>Assembly</strong>: solution.dll</h6-->
+  <h5 id="Saro_BT_BTNode_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">[Serializable]
+public abstract class BTNode : IIterableNode&lt;BTNode&gt;</code></pre>
+  </div>
+  <h3 id="fields">Fields
+  </h3>
+  
+  
+  <h4 id="Saro_BT_BTNode_childIndex" data-uid="Saro.BT.BTNode.childIndex">childIndex</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected int childIndex</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <h4 id="Saro_BT_BTNode_k_InvalidPreOrder" data-uid="Saro.BT.BTNode.k_InvalidPreOrder">k_InvalidPreOrder</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public const int k_InvalidPreOrder = -1</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Saro_BT_BTNode_Actor_" data-uid="Saro.BT.BTNode.Actor*"></a>
+  <h4 id="Saro_BT_BTNode_Actor" data-uid="Saro.BT.BTNode.Actor">Actor</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected EcsEntity Actor { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">EcsEntity</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_Blackboard_" data-uid="Saro.BT.BTNode.Blackboard*"></a>
+  <h4 id="Saro_BT_BTNode_Blackboard" data-uid="Saro.BT.BTNode.Blackboard">Blackboard</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected BTBlackboard Blackboard { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.BT.BTBlackboard.html">BTBlackboard</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_ChildOrder_" data-uid="Saro.BT.BTNode.ChildOrder*"></a>
+  <h4 id="Saro_BT_BTNode_ChildOrder" data-uid="Saro.BT.BTNode.ChildOrder">ChildOrder</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int ChildOrder { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_Iterator_" data-uid="Saro.BT.BTNode.Iterator*"></a>
+  <h4 id="Saro_BT_BTNode_Iterator" data-uid="Saro.BT.BTNode.Iterator">Iterator</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public BTBehaviorIterator Iterator { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.BT.BTBehaviorIterator.html">BTBehaviorIterator</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_Parent_" data-uid="Saro.BT.BTNode.Parent*"></a>
+  <h4 id="Saro_BT_BTNode_Parent" data-uid="Saro.BT.BTNode.Parent">Parent</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public BTNode Parent { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.BT.BTNode.html">BTNode</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_Tree_" data-uid="Saro.BT.BTNode.Tree*"></a>
+  <h4 id="Saro_BT_BTNode_Tree" data-uid="Saro.BT.BTNode.Tree">Tree</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public BehaviorTree Tree { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.BT.BehaviorTree.html">BehaviorTree</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="Saro_BT_BTNode_ChildCount_" data-uid="Saro.BT.BTNode.ChildCount*"></a>
+  <h4 id="Saro_BT_BTNode_ChildCount" data-uid="Saro.BT.BTNode.ChildCount">ChildCount()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public abstract int ChildCount()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.BT.IIterableNode-1.html#Saro_BT_IIterableNode_1_ChildCount">IIterableNode&lt;T&gt;.ChildCount()</a></div>
+  
+  
+  <a id="Saro_BT_BTNode_Clone_" data-uid="Saro.BT.BTNode.Clone*"></a>
+  <h4 id="Saro_BT_BTNode_Clone" data-uid="Saro.BT.BTNode.Clone">Clone()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public abstract BTNode Clone()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.BT.BTNode.html">BTNode</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_Description_" data-uid="Saro.BT.BTNode.Description*"></a>
+  <h4 id="Saro_BT_BTNode_Description_System_Text_StringBuilder_" data-uid="Saro.BT.BTNode.Description(System.Text.StringBuilder)">Description(StringBuilder)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void Description(StringBuilder builder)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.text.stringbuilder">StringBuilder</a></td>
+        <td><span class="parametername">builder</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_GetChildAt_" data-uid="Saro.BT.BTNode.GetChildAt*"></a>
+  <h4 id="Saro_BT_BTNode_GetChildAt_System_Int32_" data-uid="Saro.BT.BTNode.GetChildAt(System.Int32)">GetChildAt(Int32)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public abstract BTNode GetChildAt(int childIndex)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">childIndex</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.BT.BTNode.html">BTNode</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.BT.IIterableNode-1.html#Saro_BT_IIterableNode_1_GetChildAt_System_Int32_">IIterableNode&lt;T&gt;.GetChildAt(Int32)</a></div>
+  
+  
+  <a id="Saro_BT_BTNode_IsAuxiliary_" data-uid="Saro.BT.BTNode.IsAuxiliary*"></a>
+  <h4 id="Saro_BT_BTNode_IsAuxiliary" data-uid="Saro.BT.BTNode.IsAuxiliary">IsAuxiliary()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool IsAuxiliary()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_IsComposite_" data-uid="Saro.BT.BTNode.IsComposite*"></a>
+  <h4 id="Saro_BT_BTNode_IsComposite" data-uid="Saro.BT.BTNode.IsComposite">IsComposite()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool IsComposite()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_IsTask_" data-uid="Saro.BT.BTNode.IsTask*"></a>
+  <h4 id="Saro_BT_BTNode_IsTask" data-uid="Saro.BT.BTNode.IsTask">IsTask()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool IsTask()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_MaxChildCount_" data-uid="Saro.BT.BTNode.MaxChildCount*"></a>
+  <h4 id="Saro_BT_BTNode_MaxChildCount" data-uid="Saro.BT.BTNode.MaxChildCount">MaxChildCount()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public abstract int MaxChildCount()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_OnAbort_" data-uid="Saro.BT.BTNode.OnAbort*"></a>
+  <h4 id="Saro_BT_BTNode_OnAbort_System_Int32_" data-uid="Saro.BT.BTNode.OnAbort(System.Int32)">OnAbort(Int32)</h4>
+  <div class="markdown level1 summary"><p>此节点被打断时调用，目前仅 Composite 节点调用</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnAbort(int childIndex)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">childIndex</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_OnChildEnter_" data-uid="Saro.BT.BTNode.OnChildEnter*"></a>
+  <h4 id="Saro_BT_BTNode_OnChildEnter_System_Int32_" data-uid="Saro.BT.BTNode.OnChildEnter(System.Int32)">OnChildEnter(Int32)</h4>
+  <div class="markdown level1 summary"><p>此节点的孩子节点开始执行时调用</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnChildEnter(int childIndex)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">childIndex</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_OnChildExit_" data-uid="Saro.BT.BTNode.OnChildExit*"></a>
+  <h4 id="Saro_BT_BTNode_OnChildExit_System_Int32_Saro_BT_BTNode_EStatus_" data-uid="Saro.BT.BTNode.OnChildExit(System.Int32,Saro.BT.BTNode.EStatus)">OnChildExit(Int32, BTNode.EStatus)</h4>
+  <div class="markdown level1 summary"><p>此节点的孩子节点结束执行时调用</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnChildExit(int childIndex, BTNode.EStatus status)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">childIndex</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.BT.BTNode.EStatus.html">BTNode.EStatus</a></td>
+        <td><span class="parametername">status</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_OnEnter_" data-uid="Saro.BT.BTNode.OnEnter*"></a>
+  <h4 id="Saro_BT_BTNode_OnEnter" data-uid="Saro.BT.BTNode.OnEnter">OnEnter()</h4>
+  <div class="markdown level1 summary"><p>此节点开始执行时调用</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnEnter()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_BT_BTNode_OnExecute_" data-uid="Saro.BT.BTNode.OnExecute*"></a>
+  <h4 id="Saro_BT_BTNode_OnExecute_System_Single_" data-uid="Saro.BT.BTNode.OnExecute(System.Single)">OnExecute(Single)</h4>
+  <div class="markdown level1 summary"><p>执行节点</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public abstract BTNode.EStatus OnExecute(float deltaTime)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.single">Single</a></td>
+        <td><span class="parametername">deltaTime</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.BT.BTNode.EStatus.html">BTNode.EStatus</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_BT_BTNode_OnExit_" data-uid="Saro.BT.BTNode.OnExit*"></a>
+  <h4 id="Saro_BT_BTNode_OnExit" data-uid="Saro.BT.BTNode.OnExit">OnExit()</h4>
+  <div class="markdown level1 summary"><p>此节点结束执行时调用</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnExit()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_BT_BTNode_OnInitialize_" data-uid="Saro.BT.BTNode.OnInitialize*"></a>
+  <h4 id="Saro_BT_BTNode_OnInitialize" data-uid="Saro.BT.BTNode.OnInitialize">OnInitialize()</h4>
+  <div class="markdown level1 summary"><p>行为树启动时调用，用于初始化节点数据</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnInitialize()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_BT_BTNode_OnParentExit_" data-uid="Saro.BT.BTNode.OnParentExit*"></a>
+  <h4 id="Saro_BT_BTNode_OnParentExit" data-uid="Saro.BT.BTNode.OnParentExit">OnParentExit()</h4>
+  <div class="markdown level1 summary"><p>此节点的父节点，<a class="xref" href="Saro.BT.BTComposite.html">BTComposite</a>/<a class="xref" href="Saro.BT.BTAuxiliary.html">BTAuxiliary</a> 结束执行时调用</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnParentExit()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_BT_BTNode_OnReset_" data-uid="Saro.BT.BTNode.OnReset*"></a>
+  <h4 id="Saro_BT_BTNode_OnReset" data-uid="Saro.BT.BTNode.OnReset">OnReset()</h4>
+  <div class="markdown level1 summary"><p>行为树停止时调用，用于清理节点数据</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnReset()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_BT_BTNode_OnValidate_" data-uid="Saro.BT.BTNode.OnValidate*"></a>
+  <h4 id="Saro_BT_BTNode_OnValidate" data-uid="Saro.BT.BTNode.OnValidate">OnValidate()</h4>
+  <div class="markdown level1 summary"><p>校验此节点的状态是否合法</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected virtual void OnValidate()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_BT_BTNode_SetChildAt_" data-uid="Saro.BT.BTNode.SetChildAt*"></a>
+  <h4 id="Saro_BT_BTNode_SetChildAt_Saro_BT_BTNode_System_Int32_" data-uid="Saro.BT.BTNode.SetChildAt(Saro.BT.BTNode,System.Int32)">SetChildAt(BTNode, Int32)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public abstract void SetChildAt(BTNode node, int childIndex)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.BT.BTNode.html">BTNode</a></td>
+        <td><span class="parametername">node</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">childIndex</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.BT.IIterableNode-1.html#Saro_BT_IIterableNode_1_SetChildAt__0_System_Int32_">IIterableNode&lt;T&gt;.SetChildAt(T, Int32)</a></div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Copyright © 2019 Unity Technologies<br>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
