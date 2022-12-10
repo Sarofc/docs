@@ -1,0 +1,956 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);  })(window,document,'script','dataLayer','GTM-5V25JL6');</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+  
+    <title>Struct IntrusiveList
+   | EcsLite | 0.3.0 </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Struct IntrusiveList
+   | EcsLite | 0.3.0 ">
+    <meta name="generator" content="docfx 2.40.12.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    <meta property="unity:packageTitle" content="EcsLite | 0.3.0">
+    <meta property="docfx:rel" content="../">
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" class="">
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5V25JL6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+        
+        		<div class="back-to-unity-group">
+        			<a class="back-to-unity" href="https://github.com/Sarofc">github/Sarofc</a>
+        		</div>
+        
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list"></div>
+          <div class="sr-items"></div>
+          <ul id="pagination"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Saro.Entities.Collections.IntrusiveList">
+  
+  
+  <h1 id="Saro_Entities_Collections_IntrusiveList" data-uid="Saro.Entities.Collections.IntrusiveList">Struct IntrusiveList
+  </h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.valuetype.equals#system-valuetype-equals(system-object)">ValueType.Equals(Object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.valuetype.gethashcode#system-valuetype-gethashcode">ValueType.GetHashCode()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.valuetype.tostring#system-valuetype-tostring">ValueType.ToString()</a>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Saro.Entities.Collections.html">Saro.Entities.Collections</a></h6>
+  <!--h6><strong>Assembly</strong>: solution.dll</h6-->
+  <h5 id="Saro_Entities_Collections_IntrusiveList_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">[Serializable]
+public struct IntrusiveList : IIntrusiveList</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_Count_" data-uid="Saro.Entities.Collections.IntrusiveList.Count*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_Count" data-uid="Saro.Entities.Collections.IntrusiveList.Count">Count</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int Count { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Count">IIntrusiveList.Count</a></div>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_Add_" data-uid="Saro.Entities.Collections.IntrusiveList.Add*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_Add_Saro_Entities_EcsEntity_" data-uid="Saro.Entities.Collections.IntrusiveList.Add(Saro.Entities.EcsEntity)">Add(EcsEntity)</h4>
+  <div class="markdown level1 summary"><p>Add new data at the end of the list.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Add(EcsEntity entity)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><span class="parametername">entity</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Add_Saro_Entities_EcsEntity_">IIntrusiveList.Add(EcsEntity)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_Add_" data-uid="Saro.Entities.Collections.IntrusiveList.Add*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_Add_Saro_Entities_EcsEntity_Saro_Entities_EcsEntity__" data-uid="Saro.Entities.Collections.IntrusiveList.Add(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity@)">Add(EcsEntity, out EcsEntity)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Add(EcsEntity entity, out EcsEntity node)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><span class="parametername">entity</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><span class="parametername">node</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_AddFirst_" data-uid="Saro.Entities.Collections.IntrusiveList.AddFirst*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_AddFirst_Saro_Entities_EcsEntity_" data-uid="Saro.Entities.Collections.IntrusiveList.AddFirst(Saro.Entities.EcsEntity)">AddFirst(EcsEntity)</h4>
+  <div class="markdown level1 summary"><p>Add new data at the end of the list.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void AddFirst(EcsEntity entity)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><span class="parametername">entity</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_AddFirst_Saro_Entities_EcsEntity_">IIntrusiveList.AddFirst(EcsEntity)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_Clear_" data-uid="Saro.Entities.Collections.IntrusiveList.Clear*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_Clear_System_Boolean_" data-uid="Saro.Entities.Collections.IntrusiveList.Clear(System.Boolean)">Clear(Boolean)</h4>
+  <div class="markdown level1 summary"><p>Clear the list.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Clear(bool destroyData = false)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><span class="parametername">destroyData</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Clear_System_Boolean_">IIntrusiveList.Clear(Boolean)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_Contains_" data-uid="Saro.Entities.Collections.IntrusiveList.Contains*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_Contains_Saro_Entities_EcsEntity_" data-uid="Saro.Entities.Collections.IntrusiveList.Contains(Saro.Entities.EcsEntity)">Contains(EcsEntity)</h4>
+  <div class="markdown level1 summary"><p>Find an element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool Contains(EcsEntity entity)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><span class="parametername">entity</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>Returns TRUE if data was found</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Contains_Saro_Entities_EcsEntity_">IIntrusiveList.Contains(EcsEntity)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_GetEnumerator_" data-uid="Saro.Entities.Collections.IntrusiveList.GetEnumerator*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_GetEnumerator" data-uid="Saro.Entities.Collections.IntrusiveList.GetEnumerator">GetEnumerator()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IntrusiveList.Enumerator GetEnumerator()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.Collections.IntrusiveList.Enumerator.html">IntrusiveList.Enumerator</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_GetFirst_" data-uid="Saro.Entities.Collections.IntrusiveList.GetFirst*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_GetFirst" data-uid="Saro.Entities.Collections.IntrusiveList.GetFirst">GetFirst()</h4>
+  <div class="markdown level1 summary"><p>Returns first element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public EcsEntity GetFirst()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><p>Returns instance, default if not found</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetFirst">IIntrusiveList.GetFirst()</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_GetLast_" data-uid="Saro.Entities.Collections.IntrusiveList.GetLast*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_GetLast" data-uid="Saro.Entities.Collections.IntrusiveList.GetLast">GetLast()</h4>
+  <div class="markdown level1 summary"><p>Returns last element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public EcsEntity GetLast()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><p>Returns instance, default if not found</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetLast">IIntrusiveList.GetLast()</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_GetRange_" data-uid="Saro.Entities.Collections.IntrusiveList.GetRange*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_GetRange_System_Int32_System_Int32_" data-uid="Saro.Entities.Collections.IntrusiveList.GetRange(System.Int32,System.Int32)">GetRange(Int32, Int32)</h4>
+  <div class="markdown level1 summary"><p>Returns enumeration of nodes in range [from..to)</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IEnumerator&lt;EcsEntity&gt; GetRange(int from, int to)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">from</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">to</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ienumerator-1">IEnumerator</a>&lt;<a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetRange_System_Int32_System_Int32_">IIntrusiveList.GetRange(Int32, Int32)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_GetValue_" data-uid="Saro.Entities.Collections.IntrusiveList.GetValue*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_GetValue_System_Int32_" data-uid="Saro.Entities.Collections.IntrusiveList.GetValue(System.Int32)">GetValue(Int32)</h4>
+  <div class="markdown level1 summary"><p>Get value by index.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public EcsEntity GetValue(int index)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">index</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><p>EcsEntity data. EcsEntity.k_Null if not found.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetValue_System_Int32_">IIntrusiveList.GetValue(Int32)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_Insert_" data-uid="Saro.Entities.Collections.IntrusiveList.Insert*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_Insert_Saro_Entities_EcsEntity_System_Int32_" data-uid="Saro.Entities.Collections.IntrusiveList.Insert(Saro.Entities.EcsEntity,System.Int32)">Insert(EcsEntity, Int32)</h4>
+  <div class="markdown level1 summary"><p>Insert data at index onIndex.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool Insert(EcsEntity entity, int index)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><span class="parametername">entity</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">index</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>Returns TRUE if successful</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Insert_Saro_Entities_EcsEntity_System_Int32_">IIntrusiveList.Insert(EcsEntity, Int32)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_Remove_" data-uid="Saro.Entities.Collections.IntrusiveList.Remove*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_Remove_Saro_Entities_EcsEntity_" data-uid="Saro.Entities.Collections.IntrusiveList.Remove(Saro.Entities.EcsEntity)">Remove(EcsEntity)</h4>
+  <div class="markdown level1 summary"><p>Remove data from list.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool Remove(EcsEntity entity)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><span class="parametername">entity</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>Returns TRUE if data was found</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Remove_Saro_Entities_EcsEntity_">IIntrusiveList.Remove(EcsEntity)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_RemoveAll_" data-uid="Saro.Entities.Collections.IntrusiveList.RemoveAll*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_RemoveAll_Saro_Entities_EcsEntity_" data-uid="Saro.Entities.Collections.IntrusiveList.RemoveAll(Saro.Entities.EcsEntity)">RemoveAll(EcsEntity)</h4>
+  <div class="markdown level1 summary"><p>Remove all nodes data from list.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int RemoveAll(EcsEntity entity)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><span class="parametername">entity</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><p>Returns count of removed elements</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveAll_Saro_Entities_EcsEntity_">IIntrusiveList.RemoveAll(EcsEntity)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_RemoveAt_" data-uid="Saro.Entities.Collections.IntrusiveList.RemoveAt*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_RemoveAt_System_Int32_System_Boolean_" data-uid="Saro.Entities.Collections.IntrusiveList.RemoveAt(System.Int32,System.Boolean)">RemoveAt(Int32, Boolean)</h4>
+  <div class="markdown level1 summary"><p>Remove node at index.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool RemoveAt(int index, bool destroyData = false)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">index</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><span class="parametername">destroyData</span></td>
+        <td><p>Destroy also EcsEntity data</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>Returns TRUE if data was found</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveAt_System_Int32_System_Boolean_">IIntrusiveList.RemoveAt(Int32, Boolean)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_RemoveFirst_" data-uid="Saro.Entities.Collections.IntrusiveList.RemoveFirst*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_RemoveFirst_System_Boolean_" data-uid="Saro.Entities.Collections.IntrusiveList.RemoveFirst(System.Boolean)">RemoveFirst(Boolean)</h4>
+  <div class="markdown level1 summary"><p>Returns last element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool RemoveFirst(bool destroyData = false)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><span class="parametername">destroyData</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>Returns TRUE on success</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveFirst_System_Boolean_">IIntrusiveList.RemoveFirst(Boolean)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_RemoveLast_" data-uid="Saro.Entities.Collections.IntrusiveList.RemoveLast*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_RemoveLast_System_Boolean_" data-uid="Saro.Entities.Collections.IntrusiveList.RemoveLast(System.Boolean)">RemoveLast(Boolean)</h4>
+  <div class="markdown level1 summary"><p>Returns last element.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool RemoveLast(bool destroyData = false)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><span class="parametername">destroyData</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>Returns TRUE on success</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveLast_System_Boolean_">IIntrusiveList.RemoveLast(Boolean)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_RemoveRange_" data-uid="Saro.Entities.Collections.IntrusiveList.RemoveRange*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_RemoveRange_System_Int32_System_Int32_System_Boolean_" data-uid="Saro.Entities.Collections.IntrusiveList.RemoveRange(System.Int32,System.Int32,System.Boolean)">RemoveRange(Int32, Int32, Boolean)</h4>
+  <div class="markdown level1 summary"><p>Remove nodes in range [from..to)</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int RemoveRange(int from, int to, bool destroyData = false)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">from</span></td>
+        <td><p>Must be exists in list, could not be out of list range</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">to</span></td>
+        <td><p>May be out of list range, but greater than from</p>
+</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><span class="parametername">destroyData</span></td>
+        <td><p>Destroy also EcsEntity data</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><p>Returns count of removed elements</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveRange_System_Int32_System_Int32_System_Boolean_">IIntrusiveList.RemoveRange(Int32, Int32, Boolean)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_Replace_" data-uid="Saro.Entities.Collections.IntrusiveList.Replace*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_Replace_Saro_Entities_EcsEntity_System_Int32_" data-uid="Saro.Entities.Collections.IntrusiveList.Replace(Saro.Entities.EcsEntity,System.Int32)">Replace(EcsEntity, Int32)</h4>
+  <div class="markdown level1 summary"><p>Replace data by index.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool Replace(EcsEntity entity, int index)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a></td>
+        <td><span class="parametername">entity</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">Int32</a></td>
+        <td><span class="parametername">index</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
+        <td><p>Returns TRUE if data was found</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Replace_Saro_Entities_EcsEntity_System_Int32_">IIntrusiveList.Replace(EcsEntity, Int32)</a></div>
+  
+  
+  <a id="Saro_Entities_Collections_IntrusiveList_ToArray_" data-uid="Saro.Entities.Collections.IntrusiveList.ToArray*"></a>
+  <h4 id="Saro_Entities_Collections_IntrusiveList_ToArray" data-uid="Saro.Entities.Collections.IntrusiveList.ToArray">ToArray()</h4>
+  <div class="markdown level1 summary"><p>Put EcsEntity data into array.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public EcsEntity[] ToArray()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Entities.EcsEntity.html">EcsEntity</a>[]</td>
+        <td><p>Buffer array from pool</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="implements">Implements</h5>
+      <div><a class="xref" href="Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_ToArray">IIntrusiveList.ToArray()</a></div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Copyright © 2022 Saro<br>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
