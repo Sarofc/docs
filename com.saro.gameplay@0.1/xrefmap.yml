@@ -1789,6 +1789,19 @@ references:
   commentId: T:Saro.Gameplay.Ability.EffectObj
   fullName: Saro.Gameplay.Ability.EffectObj
   nameWithType: EffectObj
+- uid: Saro.Gameplay.Ability.EffectObj.AddToDestoyIfEffectDestroy(EcsEntity)
+  name: AddToDestoyIfEffectDestroy(EcsEntity)
+  href: api/Saro.Gameplay.Ability.EffectObj.html#Saro_Gameplay_Ability_EffectObj_AddToDestoyIfEffectDestroy_EcsEntity_
+  commentId: M:Saro.Gameplay.Ability.EffectObj.AddToDestoyIfEffectDestroy(EcsEntity)
+  fullName: Saro.Gameplay.Ability.EffectObj.AddToDestoyIfEffectDestroy(EcsEntity)
+  nameWithType: EffectObj.AddToDestoyIfEffectDestroy(EcsEntity)
+- uid: Saro.Gameplay.Ability.EffectObj.AddToDestoyIfEffectDestroy*
+  name: AddToDestoyIfEffectDestroy
+  href: api/Saro.Gameplay.Ability.EffectObj.html#Saro_Gameplay_Ability_EffectObj_AddToDestoyIfEffectDestroy_
+  commentId: Overload:Saro.Gameplay.Ability.EffectObj.AddToDestoyIfEffectDestroy
+  isSpec: "True"
+  fullName: Saro.Gameplay.Ability.EffectObj.AddToDestoyIfEffectDestroy
+  nameWithType: EffectObj.AddToDestoyIfEffectDestroy
 - uid: Saro.Gameplay.Ability.EffectObj.ApplicationTagRequirements
   name: ApplicationTagRequirements
   href: api/Saro.Gameplay.Ability.EffectObj.html#Saro_Gameplay_Ability_EffectObj_ApplicationTagRequirements
@@ -3047,12 +3060,12 @@ references:
   isSpec: "True"
   fullName: Saro.Gameplay.Ability.EventArgs_ProjectileHit.Clone
   nameWithType: EventArgs_ProjectileHit.Clone
-- uid: Saro.Gameplay.Ability.EventArgs_ProjectileHit.Create(EcsEntity,EcsEntity,Vector3)
-  name: Create(EcsEntity, EcsEntity, Vector3)
-  href: api/Saro.Gameplay.Ability.EventArgs_ProjectileHit.html#Saro_Gameplay_Ability_EventArgs_ProjectileHit_Create_EcsEntity_EcsEntity_Vector3_
-  commentId: M:Saro.Gameplay.Ability.EventArgs_ProjectileHit.Create(EcsEntity,EcsEntity,Vector3)
-  fullName: Saro.Gameplay.Ability.EventArgs_ProjectileHit.Create(EcsEntity, EcsEntity, Vector3)
-  nameWithType: EventArgs_ProjectileHit.Create(EcsEntity, EcsEntity, Vector3)
+- uid: Saro.Gameplay.Ability.EventArgs_ProjectileHit.Create(EcsEntity,EcsEntity,float3)
+  name: Create(EcsEntity, EcsEntity, float3)
+  href: api/Saro.Gameplay.Ability.EventArgs_ProjectileHit.html#Saro_Gameplay_Ability_EventArgs_ProjectileHit_Create_EcsEntity_EcsEntity_float3_
+  commentId: M:Saro.Gameplay.Ability.EventArgs_ProjectileHit.Create(EcsEntity,EcsEntity,float3)
+  fullName: Saro.Gameplay.Ability.EventArgs_ProjectileHit.Create(EcsEntity, EcsEntity, float3)
+  nameWithType: EventArgs_ProjectileHit.Create(EcsEntity, EcsEntity, float3)
 - uid: Saro.Gameplay.Ability.EventArgs_ProjectileHit.Create*
   name: Create
   href: api/Saro.Gameplay.Ability.EventArgs_ProjectileHit.html#Saro_Gameplay_Ability_EventArgs_ProjectileHit_Create_
@@ -6287,15 +6300,15 @@ references:
   isSpec: "True"
   fullName: Saro.Gameplay.Ability.ProjectileUtility.Destroy
   nameWithType: ProjectileUtility.Destroy
-- uid: Saro.Gameplay.Ability.ProjectileUtility.OnHit(Saro.Gameplay.Ability.ProjectileObj@,EcsEntity,EcsEntity,Vector3)
-  name: OnHit(ref ProjectileObj, EcsEntity, EcsEntity, Vector3)
-  href: api/Saro.Gameplay.Ability.ProjectileUtility.html#Saro_Gameplay_Ability_ProjectileUtility_OnHit_Saro_Gameplay_Ability_ProjectileObj__EcsEntity_EcsEntity_Vector3_
-  commentId: M:Saro.Gameplay.Ability.ProjectileUtility.OnHit(Saro.Gameplay.Ability.ProjectileObj@,EcsEntity,EcsEntity,Vector3)
-  name.vb: OnHit(ByRef ProjectileObj, EcsEntity, EcsEntity, Vector3)
-  fullName: Saro.Gameplay.Ability.ProjectileUtility.OnHit(ref Saro.Gameplay.Ability.ProjectileObj, EcsEntity, EcsEntity, Vector3)
-  fullName.vb: Saro.Gameplay.Ability.ProjectileUtility.OnHit(ByRef Saro.Gameplay.Ability.ProjectileObj, EcsEntity, EcsEntity, Vector3)
-  nameWithType: ProjectileUtility.OnHit(ref ProjectileObj, EcsEntity, EcsEntity, Vector3)
-  nameWithType.vb: ProjectileUtility.OnHit(ByRef ProjectileObj, EcsEntity, EcsEntity, Vector3)
+- uid: Saro.Gameplay.Ability.ProjectileUtility.OnHit(Saro.Gameplay.Ability.ProjectileObj@,EcsEntity,EcsEntity,float3)
+  name: OnHit(ref ProjectileObj, EcsEntity, EcsEntity, float3)
+  href: api/Saro.Gameplay.Ability.ProjectileUtility.html#Saro_Gameplay_Ability_ProjectileUtility_OnHit_Saro_Gameplay_Ability_ProjectileObj__EcsEntity_EcsEntity_float3_
+  commentId: M:Saro.Gameplay.Ability.ProjectileUtility.OnHit(Saro.Gameplay.Ability.ProjectileObj@,EcsEntity,EcsEntity,float3)
+  name.vb: OnHit(ByRef ProjectileObj, EcsEntity, EcsEntity, float3)
+  fullName: Saro.Gameplay.Ability.ProjectileUtility.OnHit(ref Saro.Gameplay.Ability.ProjectileObj, EcsEntity, EcsEntity, float3)
+  fullName.vb: Saro.Gameplay.Ability.ProjectileUtility.OnHit(ByRef Saro.Gameplay.Ability.ProjectileObj, EcsEntity, EcsEntity, float3)
+  nameWithType: ProjectileUtility.OnHit(ref ProjectileObj, EcsEntity, EcsEntity, float3)
+  nameWithType.vb: ProjectileUtility.OnHit(ByRef ProjectileObj, EcsEntity, EcsEntity, float3)
 - uid: Saro.Gameplay.Ability.ProjectileUtility.OnHit*
   name: OnHit
   href: api/Saro.Gameplay.Ability.ProjectileUtility.html#Saro_Gameplay_Ability_ProjectileUtility_OnHit_
@@ -8929,6 +8942,1171 @@ references:
   fullName: Saro.Gameplay.Quest.TestQuestDataProvider.Saro.Gameplay.Quest.IQuestDataProvider.Load
   nameWithType: TestQuestDataProvider.IQuestDataProvider.Load
   nameWithType.vb: TestQuestDataProvider.Saro.Gameplay.Quest.IQuestDataProvider.Load
+- uid: Saro.Gameplay.Story
+  name: Saro.Gameplay.Story
+  href: api/Saro.Gameplay.Story.html
+  commentId: N:Saro.Gameplay.Story
+  fullName: Saro.Gameplay.Story
+  nameWithType: Saro.Gameplay.Story
+- uid: Saro.Gameplay.Story.IStoryActionParserRegister
+  name: IStoryActionParserRegister
+  href: api/Saro.Gameplay.Story.IStoryActionParserRegister.html
+  commentId: T:Saro.Gameplay.Story.IStoryActionParserRegister
+  fullName: Saro.Gameplay.Story.IStoryActionParserRegister
+  nameWithType: IStoryActionParserRegister
+- uid: Saro.Gameplay.Story.IStoryActionParserRegister.Register
+  name: Register()
+  href: api/Saro.Gameplay.Story.IStoryActionParserRegister.html#Saro_Gameplay_Story_IStoryActionParserRegister_Register
+  commentId: M:Saro.Gameplay.Story.IStoryActionParserRegister.Register
+  fullName: Saro.Gameplay.Story.IStoryActionParserRegister.Register()
+  nameWithType: IStoryActionParserRegister.Register()
+- uid: Saro.Gameplay.Story.IStoryActionParserRegister.Register*
+  name: Register
+  href: api/Saro.Gameplay.Story.IStoryActionParserRegister.html#Saro_Gameplay_Story_IStoryActionParserRegister_Register_
+  commentId: Overload:Saro.Gameplay.Story.IStoryActionParserRegister.Register
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.IStoryActionParserRegister.Register
+  nameWithType: IStoryActionParserRegister.Register
+- uid: Saro.Gameplay.Story.IStoryActionParserRegister.RegisterAll
+  name: RegisterAll()
+  href: api/Saro.Gameplay.Story.IStoryActionParserRegister.html#Saro_Gameplay_Story_IStoryActionParserRegister_RegisterAll
+  commentId: M:Saro.Gameplay.Story.IStoryActionParserRegister.RegisterAll
+  fullName: Saro.Gameplay.Story.IStoryActionParserRegister.RegisterAll()
+  nameWithType: IStoryActionParserRegister.RegisterAll()
+- uid: Saro.Gameplay.Story.IStoryActionParserRegister.RegisterAll*
+  name: RegisterAll
+  href: api/Saro.Gameplay.Story.IStoryActionParserRegister.html#Saro_Gameplay_Story_IStoryActionParserRegister_RegisterAll_
+  commentId: Overload:Saro.Gameplay.Story.IStoryActionParserRegister.RegisterAll
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.IStoryActionParserRegister.RegisterAll
+  nameWithType: IStoryActionParserRegister.RegisterAll
+- uid: Saro.Gameplay.Story.ParseException
+  name: ParseException
+  href: api/Saro.Gameplay.Story.ParseException.html
+  commentId: T:Saro.Gameplay.Story.ParseException
+  fullName: Saro.Gameplay.Story.ParseException
+  nameWithType: ParseException
+- uid: Saro.Gameplay.Story.ParseException.#ctor(System.String)
+  name: ParseException(String)
+  href: api/Saro.Gameplay.Story.ParseException.html#Saro_Gameplay_Story_ParseException__ctor_System_String_
+  commentId: M:Saro.Gameplay.Story.ParseException.#ctor(System.String)
+  fullName: Saro.Gameplay.Story.ParseException.ParseException(System.String)
+  nameWithType: ParseException.ParseException(String)
+- uid: Saro.Gameplay.Story.ParseException.#ctor*
+  name: ParseException
+  href: api/Saro.Gameplay.Story.ParseException.html#Saro_Gameplay_Story_ParseException__ctor_
+  commentId: Overload:Saro.Gameplay.Story.ParseException.#ctor
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.ParseException.ParseException
+  nameWithType: ParseException.ParseException
+- uid: Saro.Gameplay.Story.StoryAction
+  name: StoryAction
+  href: api/Saro.Gameplay.Story.StoryAction.html
+  commentId: T:Saro.Gameplay.Story.StoryAction
+  fullName: Saro.Gameplay.Story.StoryAction
+  nameWithType: StoryAction
+- uid: Saro.Gameplay.Story.StoryAction.Command
+  name: Command
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_Command
+  commentId: P:Saro.Gameplay.Story.StoryAction.Command
+  fullName: Saro.Gameplay.Story.StoryAction.Command
+  nameWithType: StoryAction.Command
+- uid: Saro.Gameplay.Story.StoryAction.Command*
+  name: Command
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_Command_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction.Command
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction.Command
+  nameWithType: StoryAction.Command
+- uid: Saro.Gameplay.Story.StoryAction.Execute(Saro.Gameplay.Story.StoryManager)
+  name: Execute(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_Execute_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction.Execute(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction.Execute(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction.Execute(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction.Execute*
+  name: Execute
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_Execute_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction.Execute
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction.Execute
+  nameWithType: StoryAction.Execute
+- uid: Saro.Gameplay.Story.StoryAction.FindStoryActorEntity(System.String)
+  name: FindStoryActorEntity(String)
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_FindStoryActorEntity_System_String_
+  commentId: M:Saro.Gameplay.Story.StoryAction.FindStoryActorEntity(System.String)
+  fullName: Saro.Gameplay.Story.StoryAction.FindStoryActorEntity(System.String)
+  nameWithType: StoryAction.FindStoryActorEntity(String)
+- uid: Saro.Gameplay.Story.StoryAction.FindStoryActorEntity*
+  name: FindStoryActorEntity
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_FindStoryActorEntity_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction.FindStoryActorEntity
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction.FindStoryActorEntity
+  nameWithType: StoryAction.FindStoryActorEntity
+- uid: Saro.Gameplay.Story.StoryAction.IsDone
+  name: IsDone()
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_IsDone
+  commentId: M:Saro.Gameplay.Story.StoryAction.IsDone
+  fullName: Saro.Gameplay.Story.StoryAction.IsDone()
+  nameWithType: StoryAction.IsDone()
+- uid: Saro.Gameplay.Story.StoryAction.IsDone*
+  name: IsDone
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_IsDone_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction.IsDone
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction.IsDone
+  nameWithType: StoryAction.IsDone
+- uid: Saro.Gameplay.Story.StoryAction.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  name: IsWaitClick(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_IsWaitClick_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction.IsWaitClick(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction.IsWaitClick*
+  name: IsWaitClick
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_IsWaitClick_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction.IsWaitClick
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction.IsWaitClick
+  nameWithType: StoryAction.IsWaitClick
+- uid: Saro.Gameplay.Story.StoryAction.Reset
+  name: Reset()
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_Reset
+  commentId: M:Saro.Gameplay.Story.StoryAction.Reset
+  fullName: Saro.Gameplay.Story.StoryAction.Reset()
+  nameWithType: StoryAction.Reset()
+- uid: Saro.Gameplay.Story.StoryAction.Reset*
+  name: Reset
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_Reset_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction.Reset
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction.Reset
+  nameWithType: StoryAction.Reset
+- uid: Saro.Gameplay.Story.StoryAction.Start(Saro.Gameplay.Story.StoryManager)
+  name: Start(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_Start_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction.Start(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction.Start(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction.Start(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction.Start*
+  name: Start
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_Start_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction.Start
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction.Start
+  nameWithType: StoryAction.Start
+- uid: Saro.Gameplay.Story.StoryAction.StoryEvent
+  name: StoryEvent
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_StoryEvent
+  commentId: P:Saro.Gameplay.Story.StoryAction.StoryEvent
+  fullName: Saro.Gameplay.Story.StoryAction.StoryEvent
+  nameWithType: StoryAction.StoryEvent
+- uid: Saro.Gameplay.Story.StoryAction.StoryEvent*
+  name: StoryEvent
+  href: api/Saro.Gameplay.Story.StoryAction.html#Saro_Gameplay_Story_StoryAction_StoryEvent_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction.StoryEvent
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction.StoryEvent
+  nameWithType: StoryAction.StoryEvent
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent
+  name: StoryAction_CallEvent
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html
+  commentId: T:Saro.Gameplay.Story.StoryAction_CallEvent
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent
+  nameWithType: StoryAction_CallEvent
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.#ctor(System.String)
+  name: StoryAction_CallEvent(String)
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent__ctor_System_String_
+  commentId: M:Saro.Gameplay.Story.StoryAction_CallEvent.#ctor(System.String)
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.StoryAction_CallEvent(System.String)
+  nameWithType: StoryAction_CallEvent.StoryAction_CallEvent(String)
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.#ctor*
+  name: StoryAction_CallEvent
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent__ctor_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_CallEvent.#ctor
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.StoryAction_CallEvent
+  nameWithType: StoryAction_CallEvent.StoryAction_CallEvent
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.eventIndex
+  name: eventIndex
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent_eventIndex
+  commentId: F:Saro.Gameplay.Story.StoryAction_CallEvent.eventIndex
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.eventIndex
+  nameWithType: StoryAction_CallEvent.eventIndex
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  name: IsWaitClick(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent_IsWaitClick_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction_CallEvent.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction_CallEvent.IsWaitClick(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.IsWaitClick*
+  name: IsWaitClick
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent_IsWaitClick_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_CallEvent.IsWaitClick
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.IsWaitClick
+  nameWithType: StoryAction_CallEvent.IsWaitClick
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.Parse(System.String[],Saro.Gameplay.Story.StoryEvent)
+  name: Parse(String[], StoryEvent)
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent_Parse_System_String___Saro_Gameplay_Story_StoryEvent_
+  commentId: M:Saro.Gameplay.Story.StoryAction_CallEvent.Parse(System.String[],Saro.Gameplay.Story.StoryEvent)
+  name.vb: Parse(String(), StoryEvent)
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.Parse(System.String[], Saro.Gameplay.Story.StoryEvent)
+  fullName.vb: Saro.Gameplay.Story.StoryAction_CallEvent.Parse(System.String(), Saro.Gameplay.Story.StoryEvent)
+  nameWithType: StoryAction_CallEvent.Parse(String[], StoryEvent)
+  nameWithType.vb: StoryAction_CallEvent.Parse(String(), StoryEvent)
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.Parse*
+  name: Parse
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent_Parse_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_CallEvent.Parse
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.Parse
+  nameWithType: StoryAction_CallEvent.Parse
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.Reset
+  name: Reset()
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent_Reset
+  commentId: M:Saro.Gameplay.Story.StoryAction_CallEvent.Reset
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.Reset()
+  nameWithType: StoryAction_CallEvent.Reset()
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.Reset*
+  name: Reset
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent_Reset_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_CallEvent.Reset
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.Reset
+  nameWithType: StoryAction_CallEvent.Reset
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.Start(Saro.Gameplay.Story.StoryManager)
+  name: Start(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent_Start_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction_CallEvent.Start(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.Start(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction_CallEvent.Start(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction_CallEvent.Start*
+  name: Start
+  href: api/Saro.Gameplay.Story.StoryAction_CallEvent.html#Saro_Gameplay_Story_StoryAction_CallEvent_Start_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_CallEvent.Start
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_CallEvent.Start
+  nameWithType: StoryAction_CallEvent.Start
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent
+  name: StoryAction_EvaluateEvent
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html
+  commentId: T:Saro.Gameplay.Story.StoryAction_EvaluateEvent
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent
+  nameWithType: StoryAction_EvaluateEvent
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.#ctor(System.String)
+  name: StoryAction_EvaluateEvent(String)
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent__ctor_System_String_
+  commentId: M:Saro.Gameplay.Story.StoryAction_EvaluateEvent.#ctor(System.String)
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.StoryAction_EvaluateEvent(System.String)
+  nameWithType: StoryAction_EvaluateEvent.StoryAction_EvaluateEvent(String)
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.#ctor*
+  name: StoryAction_EvaluateEvent
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent__ctor_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_EvaluateEvent.#ctor
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.StoryAction_EvaluateEvent
+  nameWithType: StoryAction_EvaluateEvent.StoryAction_EvaluateEvent
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.eventIndex
+  name: eventIndex
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent_eventIndex
+  commentId: F:Saro.Gameplay.Story.StoryAction_EvaluateEvent.eventIndex
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.eventIndex
+  nameWithType: StoryAction_EvaluateEvent.eventIndex
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  name: IsWaitClick(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent_IsWaitClick_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction_EvaluateEvent.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction_EvaluateEvent.IsWaitClick(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.IsWaitClick*
+  name: IsWaitClick
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent_IsWaitClick_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_EvaluateEvent.IsWaitClick
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.IsWaitClick
+  nameWithType: StoryAction_EvaluateEvent.IsWaitClick
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Parse(System.String[],Saro.Gameplay.Story.StoryEvent)
+  name: Parse(String[], StoryEvent)
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent_Parse_System_String___Saro_Gameplay_Story_StoryEvent_
+  commentId: M:Saro.Gameplay.Story.StoryAction_EvaluateEvent.Parse(System.String[],Saro.Gameplay.Story.StoryEvent)
+  name.vb: Parse(String(), StoryEvent)
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Parse(System.String[], Saro.Gameplay.Story.StoryEvent)
+  fullName.vb: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Parse(System.String(), Saro.Gameplay.Story.StoryEvent)
+  nameWithType: StoryAction_EvaluateEvent.Parse(String[], StoryEvent)
+  nameWithType.vb: StoryAction_EvaluateEvent.Parse(String(), StoryEvent)
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Parse*
+  name: Parse
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent_Parse_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_EvaluateEvent.Parse
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Parse
+  nameWithType: StoryAction_EvaluateEvent.Parse
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Reset
+  name: Reset()
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent_Reset
+  commentId: M:Saro.Gameplay.Story.StoryAction_EvaluateEvent.Reset
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Reset()
+  nameWithType: StoryAction_EvaluateEvent.Reset()
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Reset*
+  name: Reset
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent_Reset_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_EvaluateEvent.Reset
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Reset
+  nameWithType: StoryAction_EvaluateEvent.Reset
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Start(Saro.Gameplay.Story.StoryManager)
+  name: Start(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent_Start_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction_EvaluateEvent.Start(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Start(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction_EvaluateEvent.Start(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Start*
+  name: Start
+  href: api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html#Saro_Gameplay_Story_StoryAction_EvaluateEvent_Start_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_EvaluateEvent.Start
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_EvaluateEvent.Start
+  nameWithType: StoryAction_EvaluateEvent.Start
+- uid: Saro.Gameplay.Story.StoryAction_Load
+  name: StoryAction_Load
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html
+  commentId: T:Saro.Gameplay.Story.StoryAction_Load
+  fullName: Saro.Gameplay.Story.StoryAction_Load
+  nameWithType: StoryAction_Load
+- uid: Saro.Gameplay.Story.StoryAction_Load.#ctor(System.String[])
+  name: StoryAction_Load(String[])
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load__ctor_System_String___
+  commentId: M:Saro.Gameplay.Story.StoryAction_Load.#ctor(System.String[])
+  name.vb: StoryAction_Load(String())
+  fullName: Saro.Gameplay.Story.StoryAction_Load.StoryAction_Load(System.String[])
+  fullName.vb: Saro.Gameplay.Story.StoryAction_Load.StoryAction_Load(System.String())
+  nameWithType: StoryAction_Load.StoryAction_Load(String[])
+  nameWithType.vb: StoryAction_Load.StoryAction_Load(String())
+- uid: Saro.Gameplay.Story.StoryAction_Load.#ctor*
+  name: StoryAction_Load
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load__ctor_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_Load.#ctor
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_Load.StoryAction_Load
+  nameWithType: StoryAction_Load.StoryAction_Load
+- uid: Saro.Gameplay.Story.StoryAction_Load.fileNames
+  name: fileNames
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load_fileNames
+  commentId: F:Saro.Gameplay.Story.StoryAction_Load.fileNames
+  fullName: Saro.Gameplay.Story.StoryAction_Load.fileNames
+  nameWithType: StoryAction_Load.fileNames
+- uid: Saro.Gameplay.Story.StoryAction_Load.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  name: IsWaitClick(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load_IsWaitClick_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction_Load.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction_Load.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction_Load.IsWaitClick(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction_Load.IsWaitClick*
+  name: IsWaitClick
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load_IsWaitClick_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_Load.IsWaitClick
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_Load.IsWaitClick
+  nameWithType: StoryAction_Load.IsWaitClick
+- uid: Saro.Gameplay.Story.StoryAction_Load.Parse(System.String[],Saro.Gameplay.Story.StoryEvent)
+  name: Parse(String[], StoryEvent)
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load_Parse_System_String___Saro_Gameplay_Story_StoryEvent_
+  commentId: M:Saro.Gameplay.Story.StoryAction_Load.Parse(System.String[],Saro.Gameplay.Story.StoryEvent)
+  name.vb: Parse(String(), StoryEvent)
+  fullName: Saro.Gameplay.Story.StoryAction_Load.Parse(System.String[], Saro.Gameplay.Story.StoryEvent)
+  fullName.vb: Saro.Gameplay.Story.StoryAction_Load.Parse(System.String(), Saro.Gameplay.Story.StoryEvent)
+  nameWithType: StoryAction_Load.Parse(String[], StoryEvent)
+  nameWithType.vb: StoryAction_Load.Parse(String(), StoryEvent)
+- uid: Saro.Gameplay.Story.StoryAction_Load.Parse*
+  name: Parse
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load_Parse_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_Load.Parse
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_Load.Parse
+  nameWithType: StoryAction_Load.Parse
+- uid: Saro.Gameplay.Story.StoryAction_Load.Reset
+  name: Reset()
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load_Reset
+  commentId: M:Saro.Gameplay.Story.StoryAction_Load.Reset
+  fullName: Saro.Gameplay.Story.StoryAction_Load.Reset()
+  nameWithType: StoryAction_Load.Reset()
+- uid: Saro.Gameplay.Story.StoryAction_Load.Reset*
+  name: Reset
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load_Reset_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_Load.Reset
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_Load.Reset
+  nameWithType: StoryAction_Load.Reset
+- uid: Saro.Gameplay.Story.StoryAction_Load.Start(Saro.Gameplay.Story.StoryManager)
+  name: Start(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load_Start_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction_Load.Start(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction_Load.Start(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction_Load.Start(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction_Load.Start*
+  name: Start
+  href: api/Saro.Gameplay.Story.StoryAction_Load.html#Saro_Gameplay_Story_StoryAction_Load_Start_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_Load.Start
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_Load.Start
+  nameWithType: StoryAction_Load.Start
+- uid: Saro.Gameplay.Story.StoryAction_Set
+  name: StoryAction_Set
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html
+  commentId: T:Saro.Gameplay.Story.StoryAction_Set
+  fullName: Saro.Gameplay.Story.StoryAction_Set
+  nameWithType: StoryAction_Set
+- uid: Saro.Gameplay.Story.StoryAction_Set.#ctor(System.String,System.String,System.String)
+  name: StoryAction_Set(String, String, String)
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set__ctor_System_String_System_String_System_String_
+  commentId: M:Saro.Gameplay.Story.StoryAction_Set.#ctor(System.String,System.String,System.String)
+  fullName: Saro.Gameplay.Story.StoryAction_Set.StoryAction_Set(System.String, System.String, System.String)
+  nameWithType: StoryAction_Set.StoryAction_Set(String, String, String)
+- uid: Saro.Gameplay.Story.StoryAction_Set.#ctor*
+  name: StoryAction_Set
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set__ctor_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_Set.#ctor
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_Set.StoryAction_Set
+  nameWithType: StoryAction_Set.StoryAction_Set
+- uid: Saro.Gameplay.Story.StoryAction_Set.entityKey
+  name: entityKey
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_entityKey
+  commentId: F:Saro.Gameplay.Story.StoryAction_Set.entityKey
+  fullName: Saro.Gameplay.Story.StoryAction_Set.entityKey
+  nameWithType: StoryAction_Set.entityKey
+- uid: Saro.Gameplay.Story.StoryAction_Set.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  name: IsWaitClick(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_IsWaitClick_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction_Set.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction_Set.IsWaitClick(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction_Set.IsWaitClick(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction_Set.IsWaitClick*
+  name: IsWaitClick
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_IsWaitClick_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_Set.IsWaitClick
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_Set.IsWaitClick
+  nameWithType: StoryAction_Set.IsWaitClick
+- uid: Saro.Gameplay.Story.StoryAction_Set.key
+  name: key
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_key
+  commentId: F:Saro.Gameplay.Story.StoryAction_Set.key
+  fullName: Saro.Gameplay.Story.StoryAction_Set.key
+  nameWithType: StoryAction_Set.key
+- uid: Saro.Gameplay.Story.StoryAction_Set.Parse(System.String[],Saro.Gameplay.Story.StoryEvent)
+  name: Parse(String[], StoryEvent)
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_Parse_System_String___Saro_Gameplay_Story_StoryEvent_
+  commentId: M:Saro.Gameplay.Story.StoryAction_Set.Parse(System.String[],Saro.Gameplay.Story.StoryEvent)
+  name.vb: Parse(String(), StoryEvent)
+  fullName: Saro.Gameplay.Story.StoryAction_Set.Parse(System.String[], Saro.Gameplay.Story.StoryEvent)
+  fullName.vb: Saro.Gameplay.Story.StoryAction_Set.Parse(System.String(), Saro.Gameplay.Story.StoryEvent)
+  nameWithType: StoryAction_Set.Parse(String[], StoryEvent)
+  nameWithType.vb: StoryAction_Set.Parse(String(), StoryEvent)
+- uid: Saro.Gameplay.Story.StoryAction_Set.Parse*
+  name: Parse
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_Parse_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_Set.Parse
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_Set.Parse
+  nameWithType: StoryAction_Set.Parse
+- uid: Saro.Gameplay.Story.StoryAction_Set.Reset
+  name: Reset()
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_Reset
+  commentId: M:Saro.Gameplay.Story.StoryAction_Set.Reset
+  fullName: Saro.Gameplay.Story.StoryAction_Set.Reset()
+  nameWithType: StoryAction_Set.Reset()
+- uid: Saro.Gameplay.Story.StoryAction_Set.Reset*
+  name: Reset
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_Reset_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_Set.Reset
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_Set.Reset
+  nameWithType: StoryAction_Set.Reset
+- uid: Saro.Gameplay.Story.StoryAction_Set.Start(Saro.Gameplay.Story.StoryManager)
+  name: Start(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_Start_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryAction_Set.Start(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryAction_Set.Start(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryAction_Set.Start(StoryManager)
+- uid: Saro.Gameplay.Story.StoryAction_Set.Start*
+  name: Start
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_Start_
+  commentId: Overload:Saro.Gameplay.Story.StoryAction_Set.Start
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryAction_Set.Start
+  nameWithType: StoryAction_Set.Start
+- uid: Saro.Gameplay.Story.StoryAction_Set.value
+  name: value
+  href: api/Saro.Gameplay.Story.StoryAction_Set.html#Saro_Gameplay_Story_StoryAction_Set_value
+  commentId: F:Saro.Gameplay.Story.StoryAction_Set.value
+  fullName: Saro.Gameplay.Story.StoryAction_Set.value
+  nameWithType: StoryAction_Set.value
+- uid: Saro.Gameplay.Story.StoryActor
+  name: StoryActor
+  href: api/Saro.Gameplay.Story.StoryActor.html
+  commentId: T:Saro.Gameplay.Story.StoryActor
+  fullName: Saro.Gameplay.Story.StoryActor
+  nameWithType: StoryActor
+- uid: Saro.Gameplay.Story.StoryActor.AutoReset(Saro.Gameplay.Story.StoryActor@)
+  name: AutoReset(ref StoryActor)
+  href: api/Saro.Gameplay.Story.StoryActor.html#Saro_Gameplay_Story_StoryActor_AutoReset_Saro_Gameplay_Story_StoryActor__
+  commentId: M:Saro.Gameplay.Story.StoryActor.AutoReset(Saro.Gameplay.Story.StoryActor@)
+  name.vb: AutoReset(ByRef StoryActor)
+  fullName: Saro.Gameplay.Story.StoryActor.AutoReset(ref Saro.Gameplay.Story.StoryActor)
+  fullName.vb: Saro.Gameplay.Story.StoryActor.AutoReset(ByRef Saro.Gameplay.Story.StoryActor)
+  nameWithType: StoryActor.AutoReset(ref StoryActor)
+  nameWithType.vb: StoryActor.AutoReset(ByRef StoryActor)
+- uid: Saro.Gameplay.Story.StoryActor.AutoReset*
+  name: AutoReset
+  href: api/Saro.Gameplay.Story.StoryActor.html#Saro_Gameplay_Story_StoryActor_AutoReset_
+  commentId: Overload:Saro.Gameplay.Story.StoryActor.AutoReset
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryActor.AutoReset
+  nameWithType: StoryActor.AutoReset
+- uid: Saro.Gameplay.Story.StoryActor.variables
+  name: variables
+  href: api/Saro.Gameplay.Story.StoryActor.html#Saro_Gameplay_Story_StoryActor_variables
+  commentId: F:Saro.Gameplay.Story.StoryActor.variables
+  fullName: Saro.Gameplay.Story.StoryActor.variables
+  nameWithType: StoryActor.variables
+- uid: Saro.Gameplay.Story.StoryActorUtil
+  name: StoryActorUtil
+  href: api/Saro.Gameplay.Story.StoryActorUtil.html
+  commentId: T:Saro.Gameplay.Story.StoryActorUtil
+  fullName: Saro.Gameplay.Story.StoryActorUtil
+  nameWithType: StoryActorUtil
+- uid: Saro.Gameplay.Story.StoryActorUtil.GetVariable(Saro.Gameplay.Story.StoryActor@,System.String)
+  name: GetVariable(ref StoryActor, String)
+  href: api/Saro.Gameplay.Story.StoryActorUtil.html#Saro_Gameplay_Story_StoryActorUtil_GetVariable_Saro_Gameplay_Story_StoryActor__System_String_
+  commentId: M:Saro.Gameplay.Story.StoryActorUtil.GetVariable(Saro.Gameplay.Story.StoryActor@,System.String)
+  name.vb: GetVariable(ByRef StoryActor, String)
+  fullName: Saro.Gameplay.Story.StoryActorUtil.GetVariable(ref Saro.Gameplay.Story.StoryActor, System.String)
+  fullName.vb: Saro.Gameplay.Story.StoryActorUtil.GetVariable(ByRef Saro.Gameplay.Story.StoryActor, System.String)
+  nameWithType: StoryActorUtil.GetVariable(ref StoryActor, String)
+  nameWithType.vb: StoryActorUtil.GetVariable(ByRef StoryActor, String)
+- uid: Saro.Gameplay.Story.StoryActorUtil.GetVariable*
+  name: GetVariable
+  href: api/Saro.Gameplay.Story.StoryActorUtil.html#Saro_Gameplay_Story_StoryActorUtil_GetVariable_
+  commentId: Overload:Saro.Gameplay.Story.StoryActorUtil.GetVariable
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryActorUtil.GetVariable
+  nameWithType: StoryActorUtil.GetVariable
+- uid: Saro.Gameplay.Story.StoryActorUtil.SetVariable(Saro.Gameplay.Story.StoryActor@,System.String,System.String)
+  name: SetVariable(ref StoryActor, String, String)
+  href: api/Saro.Gameplay.Story.StoryActorUtil.html#Saro_Gameplay_Story_StoryActorUtil_SetVariable_Saro_Gameplay_Story_StoryActor__System_String_System_String_
+  commentId: M:Saro.Gameplay.Story.StoryActorUtil.SetVariable(Saro.Gameplay.Story.StoryActor@,System.String,System.String)
+  name.vb: SetVariable(ByRef StoryActor, String, String)
+  fullName: Saro.Gameplay.Story.StoryActorUtil.SetVariable(ref Saro.Gameplay.Story.StoryActor, System.String, System.String)
+  fullName.vb: Saro.Gameplay.Story.StoryActorUtil.SetVariable(ByRef Saro.Gameplay.Story.StoryActor, System.String, System.String)
+  nameWithType: StoryActorUtil.SetVariable(ref StoryActor, String, String)
+  nameWithType.vb: StoryActorUtil.SetVariable(ByRef StoryActor, String, String)
+- uid: Saro.Gameplay.Story.StoryActorUtil.SetVariable*
+  name: SetVariable
+  href: api/Saro.Gameplay.Story.StoryActorUtil.html#Saro_Gameplay_Story_StoryActorUtil_SetVariable_
+  commentId: Overload:Saro.Gameplay.Story.StoryActorUtil.SetVariable
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryActorUtil.SetVariable
+  nameWithType: StoryActorUtil.SetVariable
+- uid: Saro.Gameplay.Story.StoryCondition
+  name: StoryCondition
+  href: api/Saro.Gameplay.Story.StoryCondition.html
+  commentId: T:Saro.Gameplay.Story.StoryCondition
+  fullName: Saro.Gameplay.Story.StoryCondition
+  nameWithType: StoryCondition
+- uid: Saro.Gameplay.Story.StoryCondition.#ctor(System.String,System.String,System.String)
+  name: StoryCondition(String, String, String)
+  href: api/Saro.Gameplay.Story.StoryCondition.html#Saro_Gameplay_Story_StoryCondition__ctor_System_String_System_String_System_String_
+  commentId: M:Saro.Gameplay.Story.StoryCondition.#ctor(System.String,System.String,System.String)
+  fullName: Saro.Gameplay.Story.StoryCondition.StoryCondition(System.String, System.String, System.String)
+  nameWithType: StoryCondition.StoryCondition(String, String, String)
+- uid: Saro.Gameplay.Story.StoryCondition.#ctor*
+  name: StoryCondition
+  href: api/Saro.Gameplay.Story.StoryCondition.html#Saro_Gameplay_Story_StoryCondition__ctor_
+  commentId: Overload:Saro.Gameplay.Story.StoryCondition.#ctor
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryCondition.StoryCondition
+  nameWithType: StoryCondition.StoryCondition
+- uid: Saro.Gameplay.Story.StoryCondition.Evaluate
+  name: Evaluate()
+  href: api/Saro.Gameplay.Story.StoryCondition.html#Saro_Gameplay_Story_StoryCondition_Evaluate
+  commentId: M:Saro.Gameplay.Story.StoryCondition.Evaluate
+  fullName: Saro.Gameplay.Story.StoryCondition.Evaluate()
+  nameWithType: StoryCondition.Evaluate()
+- uid: Saro.Gameplay.Story.StoryCondition.Evaluate*
+  name: Evaluate
+  href: api/Saro.Gameplay.Story.StoryCondition.html#Saro_Gameplay_Story_StoryCondition_Evaluate_
+  commentId: Overload:Saro.Gameplay.Story.StoryCondition.Evaluate
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryCondition.Evaluate
+  nameWithType: StoryCondition.Evaluate
+- uid: Saro.Gameplay.Story.StoryCondition.ToString
+  name: ToString()
+  href: api/Saro.Gameplay.Story.StoryCondition.html#Saro_Gameplay_Story_StoryCondition_ToString
+  commentId: M:Saro.Gameplay.Story.StoryCondition.ToString
+  fullName: Saro.Gameplay.Story.StoryCondition.ToString()
+  nameWithType: StoryCondition.ToString()
+- uid: Saro.Gameplay.Story.StoryCondition.ToString*
+  name: ToString
+  href: api/Saro.Gameplay.Story.StoryCondition.html#Saro_Gameplay_Story_StoryCondition_ToString_
+  commentId: Overload:Saro.Gameplay.Story.StoryCondition.ToString
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryCondition.ToString
+  nameWithType: StoryCondition.ToString
+- uid: Saro.Gameplay.Story.StoryEvent
+  name: StoryEvent
+  href: api/Saro.Gameplay.Story.StoryEvent.html
+  commentId: T:Saro.Gameplay.Story.StoryEvent
+  fullName: Saro.Gameplay.Story.StoryEvent
+  nameWithType: StoryEvent
+- uid: Saro.Gameplay.Story.StoryEvent.#ctor
+  name: StoryEvent()
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent__ctor
+  commentId: M:Saro.Gameplay.Story.StoryEvent.#ctor
+  fullName: Saro.Gameplay.Story.StoryEvent.StoryEvent()
+  nameWithType: StoryEvent.StoryEvent()
+- uid: Saro.Gameplay.Story.StoryEvent.#ctor(System.Collections.Generic.List{System.String},System.Collections.Generic.List{Saro.Gameplay.Story.StoryCondition},System.Collections.Generic.List{System.String[]},System.Boolean,System.Boolean,System.String,System.Collections.Generic.List{System.Int32})
+  name: StoryEvent(List<String>, List<StoryCondition>, List<String[]>, Boolean, Boolean, String, List<Int32>)
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent__ctor_System_Collections_Generic_List_System_String__System_Collections_Generic_List_Saro_Gameplay_Story_StoryCondition__System_Collections_Generic_List_System_String____System_Boolean_System_Boolean_System_String_System_Collections_Generic_List_System_Int32__
+  commentId: M:Saro.Gameplay.Story.StoryEvent.#ctor(System.Collections.Generic.List{System.String},System.Collections.Generic.List{Saro.Gameplay.Story.StoryCondition},System.Collections.Generic.List{System.String[]},System.Boolean,System.Boolean,System.String,System.Collections.Generic.List{System.Int32})
+  name.vb: StoryEvent(List(Of String), List(Of StoryCondition), List(Of String()), Boolean, Boolean, String, List(Of Int32))
+  fullName: Saro.Gameplay.Story.StoryEvent.StoryEvent(System.Collections.Generic.List<System.String>, System.Collections.Generic.List<Saro.Gameplay.Story.StoryCondition>, System.Collections.Generic.List<System.String[]>, System.Boolean, System.Boolean, System.String, System.Collections.Generic.List<System.Int32>)
+  fullName.vb: Saro.Gameplay.Story.StoryEvent.StoryEvent(System.Collections.Generic.List(Of System.String), System.Collections.Generic.List(Of Saro.Gameplay.Story.StoryCondition), System.Collections.Generic.List(Of System.String()), System.Boolean, System.Boolean, System.String, System.Collections.Generic.List(Of System.Int32))
+  nameWithType: StoryEvent.StoryEvent(List<String>, List<StoryCondition>, List<String[]>, Boolean, Boolean, String, List<Int32>)
+  nameWithType.vb: StoryEvent.StoryEvent(List(Of String), List(Of StoryCondition), List(Of String()), Boolean, Boolean, String, List(Of Int32))
+- uid: Saro.Gameplay.Story.StoryEvent.#ctor*
+  name: StoryEvent
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent__ctor_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.#ctor
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.StoryEvent
+  nameWithType: StoryEvent.StoryEvent
+- uid: Saro.Gameplay.Story.StoryEvent.ActionLineNumbers
+  name: ActionLineNumbers
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_ActionLineNumbers
+  commentId: P:Saro.Gameplay.Story.StoryEvent.ActionLineNumbers
+  fullName: Saro.Gameplay.Story.StoryEvent.ActionLineNumbers
+  nameWithType: StoryEvent.ActionLineNumbers
+- uid: Saro.Gameplay.Story.StoryEvent.ActionLineNumbers*
+  name: ActionLineNumbers
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_ActionLineNumbers_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.ActionLineNumbers
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.ActionLineNumbers
+  nameWithType: StoryEvent.ActionLineNumbers
+- uid: Saro.Gameplay.Story.StoryEvent.Command
+  name: StoryEvent.Command
+  href: api/Saro.Gameplay.Story.StoryEvent.Command.html
+  commentId: T:Saro.Gameplay.Story.StoryEvent.Command
+  fullName: Saro.Gameplay.Story.StoryEvent.Command
+  nameWithType: StoryEvent.Command
+- uid: Saro.Gameplay.Story.StoryEvent.Command.call_event
+  name: call_event
+  href: api/Saro.Gameplay.Story.StoryEvent.Command.html#Saro_Gameplay_Story_StoryEvent_Command_call_event
+  commentId: F:Saro.Gameplay.Story.StoryEvent.Command.call_event
+  fullName: Saro.Gameplay.Story.StoryEvent.Command.call_event
+  nameWithType: StoryEvent.Command.call_event
+- uid: Saro.Gameplay.Story.StoryEvent.Command.evaluate_event
+  name: evaluate_event
+  href: api/Saro.Gameplay.Story.StoryEvent.Command.html#Saro_Gameplay_Story_StoryEvent_Command_evaluate_event
+  commentId: F:Saro.Gameplay.Story.StoryEvent.Command.evaluate_event
+  fullName: Saro.Gameplay.Story.StoryEvent.Command.evaluate_event
+  nameWithType: StoryEvent.Command.evaluate_event
+- uid: Saro.Gameplay.Story.StoryEvent.Command.load
+  name: load
+  href: api/Saro.Gameplay.Story.StoryEvent.Command.html#Saro_Gameplay_Story_StoryEvent_Command_load
+  commentId: F:Saro.Gameplay.Story.StoryEvent.Command.load
+  fullName: Saro.Gameplay.Story.StoryEvent.Command.load
+  nameWithType: StoryEvent.Command.load
+- uid: Saro.Gameplay.Story.StoryEvent.Command.set
+  name: set
+  href: api/Saro.Gameplay.Story.StoryEvent.Command.html#Saro_Gameplay_Story_StoryEvent_Command_set
+  commentId: F:Saro.Gameplay.Story.StoryEvent.Command.set
+  fullName: Saro.Gameplay.Story.StoryEvent.Command.set
+  nameWithType: StoryEvent.Command.set
+- uid: Saro.Gameplay.Story.StoryEvent.DebugLogError(System.String)
+  name: DebugLogError(String)
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_DebugLogError_System_String_
+  commentId: M:Saro.Gameplay.Story.StoryEvent.DebugLogError(System.String)
+  fullName: Saro.Gameplay.Story.StoryEvent.DebugLogError(System.String)
+  nameWithType: StoryEvent.DebugLogError(String)
+- uid: Saro.Gameplay.Story.StoryEvent.DebugLogError*
+  name: DebugLogError
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_DebugLogError_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.DebugLogError
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.DebugLogError
+  nameWithType: StoryEvent.DebugLogError
+- uid: Saro.Gameplay.Story.StoryEvent.DoContinue
+  name: DoContinue
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_DoContinue
+  commentId: P:Saro.Gameplay.Story.StoryEvent.DoContinue
+  fullName: Saro.Gameplay.Story.StoryEvent.DoContinue
+  nameWithType: StoryEvent.DoContinue
+- uid: Saro.Gameplay.Story.StoryEvent.DoContinue*
+  name: DoContinue
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_DoContinue_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.DoContinue
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.DoContinue
+  nameWithType: StoryEvent.DoContinue
+- uid: Saro.Gameplay.Story.StoryEvent.Evaluate(System.Collections.Generic.List{System.String},System.Boolean)
+  name: Evaluate(List<String>, Boolean)
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_Evaluate_System_Collections_Generic_List_System_String__System_Boolean_
+  commentId: M:Saro.Gameplay.Story.StoryEvent.Evaluate(System.Collections.Generic.List{System.String},System.Boolean)
+  name.vb: Evaluate(List(Of String), Boolean)
+  fullName: Saro.Gameplay.Story.StoryEvent.Evaluate(System.Collections.Generic.List<System.String>, System.Boolean)
+  fullName.vb: Saro.Gameplay.Story.StoryEvent.Evaluate(System.Collections.Generic.List(Of System.String), System.Boolean)
+  nameWithType: StoryEvent.Evaluate(List<String>, Boolean)
+  nameWithType.vb: StoryEvent.Evaluate(List(Of String), Boolean)
+- uid: Saro.Gameplay.Story.StoryEvent.Evaluate*
+  name: Evaluate
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_Evaluate_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.Evaluate
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.Evaluate
+  nameWithType: StoryEvent.Evaluate
+- uid: Saro.Gameplay.Story.StoryEvent.EventName
+  name: EventName
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_EventName
+  commentId: P:Saro.Gameplay.Story.StoryEvent.EventName
+  fullName: Saro.Gameplay.Story.StoryEvent.EventName
+  nameWithType: StoryEvent.EventName
+- uid: Saro.Gameplay.Story.StoryEvent.EventName*
+  name: EventName
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_EventName_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.EventName
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.EventName
+  nameWithType: StoryEvent.EventName
+- uid: Saro.Gameplay.Story.StoryEvent.Execute(Saro.Gameplay.Story.StoryManager)
+  name: Execute(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_Execute_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryEvent.Execute(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryEvent.Execute(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryEvent.Execute(StoryManager)
+- uid: Saro.Gameplay.Story.StoryEvent.Execute*
+  name: Execute
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_Execute_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.Execute
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.Execute
+  nameWithType: StoryEvent.Execute
+- uid: Saro.Gameplay.Story.StoryEvent.GetNextCommand
+  name: GetNextCommand()
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_GetNextCommand
+  commentId: M:Saro.Gameplay.Story.StoryEvent.GetNextCommand
+  fullName: Saro.Gameplay.Story.StoryEvent.GetNextCommand()
+  nameWithType: StoryEvent.GetNextCommand()
+- uid: Saro.Gameplay.Story.StoryEvent.GetNextCommand*
+  name: GetNextCommand
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_GetNextCommand_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.GetNextCommand
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.GetNextCommand
+  nameWithType: StoryEvent.GetNextCommand
+- uid: Saro.Gameplay.Story.StoryEvent.IsDone
+  name: IsDone
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_IsDone
+  commentId: P:Saro.Gameplay.Story.StoryEvent.IsDone
+  fullName: Saro.Gameplay.Story.StoryEvent.IsDone
+  nameWithType: StoryEvent.IsDone
+- uid: Saro.Gameplay.Story.StoryEvent.IsDone*
+  name: IsDone
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_IsDone_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.IsDone
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.IsDone
+  nameWithType: StoryEvent.IsDone
+- uid: Saro.Gameplay.Story.StoryEvent.LineNumber
+  name: LineNumber
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_LineNumber
+  commentId: P:Saro.Gameplay.Story.StoryEvent.LineNumber
+  fullName: Saro.Gameplay.Story.StoryEvent.LineNumber
+  nameWithType: StoryEvent.LineNumber
+- uid: Saro.Gameplay.Story.StoryEvent.LineNumber*
+  name: LineNumber
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_LineNumber_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.LineNumber
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.LineNumber
+  nameWithType: StoryEvent.LineNumber
+- uid: Saro.Gameplay.Story.StoryEvent.OnGUI(Saro.Gameplay.Story.StoryManager)
+  name: OnGUI(StoryManager)
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_OnGUI_Saro_Gameplay_Story_StoryManager_
+  commentId: M:Saro.Gameplay.Story.StoryEvent.OnGUI(Saro.Gameplay.Story.StoryManager)
+  fullName: Saro.Gameplay.Story.StoryEvent.OnGUI(Saro.Gameplay.Story.StoryManager)
+  nameWithType: StoryEvent.OnGUI(StoryManager)
+- uid: Saro.Gameplay.Story.StoryEvent.OnGUI*
+  name: OnGUI
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_OnGUI_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.OnGUI
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.OnGUI
+  nameWithType: StoryEvent.OnGUI
+- uid: Saro.Gameplay.Story.StoryEvent.RegisterStoryActionParser(System.String,Saro.Gameplay.Story.StoryEvent.StoryActionParser)
+  name: RegisterStoryActionParser(String, StoryEvent.StoryActionParser)
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_RegisterStoryActionParser_System_String_Saro_Gameplay_Story_StoryEvent_StoryActionParser_
+  commentId: M:Saro.Gameplay.Story.StoryEvent.RegisterStoryActionParser(System.String,Saro.Gameplay.Story.StoryEvent.StoryActionParser)
+  fullName: Saro.Gameplay.Story.StoryEvent.RegisterStoryActionParser(System.String, Saro.Gameplay.Story.StoryEvent.StoryActionParser)
+  nameWithType: StoryEvent.RegisterStoryActionParser(String, StoryEvent.StoryActionParser)
+- uid: Saro.Gameplay.Story.StoryEvent.RegisterStoryActionParser*
+  name: RegisterStoryActionParser
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_RegisterStoryActionParser_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.RegisterStoryActionParser
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.RegisterStoryActionParser
+  nameWithType: StoryEvent.RegisterStoryActionParser
+- uid: Saro.Gameplay.Story.StoryEvent.Start
+  name: Start()
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_Start
+  commentId: M:Saro.Gameplay.Story.StoryEvent.Start
+  fullName: Saro.Gameplay.Story.StoryEvent.Start()
+  nameWithType: StoryEvent.Start()
+- uid: Saro.Gameplay.Story.StoryEvent.Start*
+  name: Start
+  href: api/Saro.Gameplay.Story.StoryEvent.html#Saro_Gameplay_Story_StoryEvent_Start_
+  commentId: Overload:Saro.Gameplay.Story.StoryEvent.Start
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryEvent.Start
+  nameWithType: StoryEvent.Start
+- uid: Saro.Gameplay.Story.StoryEvent.StoryActionParser
+  name: StoryEvent.StoryActionParser
+  href: api/Saro.Gameplay.Story.StoryEvent.StoryActionParser.html
+  commentId: T:Saro.Gameplay.Story.StoryEvent.StoryActionParser
+  fullName: Saro.Gameplay.Story.StoryEvent.StoryActionParser
+  nameWithType: StoryEvent.StoryActionParser
+- uid: Saro.Gameplay.Story.StoryManager
+  name: StoryManager
+  href: api/Saro.Gameplay.Story.StoryManager.html
+  commentId: T:Saro.Gameplay.Story.StoryManager
+  fullName: Saro.Gameplay.Story.StoryManager
+  nameWithType: StoryManager
+- uid: Saro.Gameplay.Story.StoryManager.ActiveStoryEvent
+  name: ActiveStoryEvent
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_ActiveStoryEvent
+  commentId: P:Saro.Gameplay.Story.StoryManager.ActiveStoryEvent
+  fullName: Saro.Gameplay.Story.StoryManager.ActiveStoryEvent
+  nameWithType: StoryManager.ActiveStoryEvent
+- uid: Saro.Gameplay.Story.StoryManager.ActiveStoryEvent*
+  name: ActiveStoryEvent
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_ActiveStoryEvent_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.ActiveStoryEvent
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.ActiveStoryEvent
+  nameWithType: StoryManager.ActiveStoryEvent
+- uid: Saro.Gameplay.Story.StoryManager.AddContactingObject(EcsEntity)
+  name: AddContactingObject(EcsEntity)
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_AddContactingObject_EcsEntity_
+  commentId: M:Saro.Gameplay.Story.StoryManager.AddContactingObject(EcsEntity)
+  fullName: Saro.Gameplay.Story.StoryManager.AddContactingObject(EcsEntity)
+  nameWithType: StoryManager.AddContactingObject(EcsEntity)
+- uid: Saro.Gameplay.Story.StoryManager.AddContactingObject*
+  name: AddContactingObject
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_AddContactingObject_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.AddContactingObject
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.AddContactingObject
+  nameWithType: StoryManager.AddContactingObject
+- uid: Saro.Gameplay.Story.StoryManager.eventScripts
+  name: eventScripts
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_eventScripts
+  commentId: F:Saro.Gameplay.Story.StoryManager.eventScripts
+  fullName: Saro.Gameplay.Story.StoryManager.eventScripts
+  nameWithType: StoryManager.eventScripts
+- uid: Saro.Gameplay.Story.StoryManager.FindEventScripts(System.String[])
+  name: FindEventScripts(String[])
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_FindEventScripts_System_String___
+  commentId: M:Saro.Gameplay.Story.StoryManager.FindEventScripts(System.String[])
+  name.vb: FindEventScripts(String())
+  fullName: Saro.Gameplay.Story.StoryManager.FindEventScripts(System.String[])
+  fullName.vb: Saro.Gameplay.Story.StoryManager.FindEventScripts(System.String())
+  nameWithType: StoryManager.FindEventScripts(String[])
+  nameWithType.vb: StoryManager.FindEventScripts(String())
+- uid: Saro.Gameplay.Story.StoryManager.FindEventScripts*
+  name: FindEventScripts
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_FindEventScripts_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.FindEventScripts
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.FindEventScripts
+  nameWithType: StoryManager.FindEventScripts
+- uid: Saro.Gameplay.Story.StoryManager.firstScriptFiles
+  name: firstScriptFiles
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_firstScriptFiles
+  commentId: F:Saro.Gameplay.Story.StoryManager.firstScriptFiles
+  fullName: Saro.Gameplay.Story.StoryManager.firstScriptFiles
+  nameWithType: StoryManager.firstScriptFiles
+- uid: Saro.Gameplay.Story.StoryManager.GetEventIndexByName(System.String)
+  name: GetEventIndexByName(String)
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_GetEventIndexByName_System_String_
+  commentId: M:Saro.Gameplay.Story.StoryManager.GetEventIndexByName(System.String)
+  fullName: Saro.Gameplay.Story.StoryManager.GetEventIndexByName(System.String)
+  nameWithType: StoryManager.GetEventIndexByName(String)
+- uid: Saro.Gameplay.Story.StoryManager.GetEventIndexByName*
+  name: GetEventIndexByName
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_GetEventIndexByName_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.GetEventIndexByName
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.GetEventIndexByName
+  nameWithType: StoryManager.GetEventIndexByName
+- uid: Saro.Gameplay.Story.StoryManager.IsExecutingEvents
+  name: IsExecutingEvents()
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_IsExecutingEvents
+  commentId: M:Saro.Gameplay.Story.StoryManager.IsExecutingEvents
+  fullName: Saro.Gameplay.Story.StoryManager.IsExecutingEvents()
+  nameWithType: StoryManager.IsExecutingEvents()
+- uid: Saro.Gameplay.Story.StoryManager.IsExecutingEvents*
+  name: IsExecutingEvents
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_IsExecutingEvents_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.IsExecutingEvents
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.IsExecutingEvents
+  nameWithType: StoryManager.IsExecutingEvents
+- uid: Saro.Gameplay.Story.StoryManager.OnActiveStoryEventDone
+  name: OnActiveStoryEventDone
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_OnActiveStoryEventDone
+  commentId: F:Saro.Gameplay.Story.StoryManager.OnActiveStoryEventDone
+  fullName: Saro.Gameplay.Story.StoryManager.OnActiveStoryEventDone
+  nameWithType: StoryManager.OnActiveStoryEventDone
+- uid: Saro.Gameplay.Story.StoryManager.OnGUI
+  name: OnGUI()
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_OnGUI
+  commentId: M:Saro.Gameplay.Story.StoryManager.OnGUI
+  fullName: Saro.Gameplay.Story.StoryManager.OnGUI()
+  nameWithType: StoryManager.OnGUI()
+- uid: Saro.Gameplay.Story.StoryManager.OnGUI*
+  name: OnGUI
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_OnGUI_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.OnGUI
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.OnGUI
+  nameWithType: StoryManager.OnGUI
+- uid: Saro.Gameplay.Story.StoryManager.SetNextEvaluatingEventIndex(System.Int32)
+  name: SetNextEvaluatingEventIndex(Int32)
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_SetNextEvaluatingEventIndex_System_Int32_
+  commentId: M:Saro.Gameplay.Story.StoryManager.SetNextEvaluatingEventIndex(System.Int32)
+  fullName: Saro.Gameplay.Story.StoryManager.SetNextEvaluatingEventIndex(System.Int32)
+  nameWithType: StoryManager.SetNextEvaluatingEventIndex(Int32)
+- uid: Saro.Gameplay.Story.StoryManager.SetNextEvaluatingEventIndex*
+  name: SetNextEvaluatingEventIndex
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_SetNextEvaluatingEventIndex_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.SetNextEvaluatingEventIndex
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.SetNextEvaluatingEventIndex
+  nameWithType: StoryManager.SetNextEvaluatingEventIndex
+- uid: Saro.Gameplay.Story.StoryManager.SetNextScriptFiles(System.String[])
+  name: SetNextScriptFiles(String[])
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_SetNextScriptFiles_System_String___
+  commentId: M:Saro.Gameplay.Story.StoryManager.SetNextScriptFiles(System.String[])
+  name.vb: SetNextScriptFiles(String())
+  fullName: Saro.Gameplay.Story.StoryManager.SetNextScriptFiles(System.String[])
+  fullName.vb: Saro.Gameplay.Story.StoryManager.SetNextScriptFiles(System.String())
+  nameWithType: StoryManager.SetNextScriptFiles(String[])
+  nameWithType.vb: StoryManager.SetNextScriptFiles(String())
+- uid: Saro.Gameplay.Story.StoryManager.SetNextScriptFiles*
+  name: SetNextScriptFiles
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_SetNextScriptFiles_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.SetNextScriptFiles
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.SetNextScriptFiles
+  nameWithType: StoryManager.SetNextScriptFiles
+- uid: Saro.Gameplay.Story.StoryManager.StartEvent(System.Int32)
+  name: StartEvent(Int32)
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_StartEvent_System_Int32_
+  commentId: M:Saro.Gameplay.Story.StoryManager.StartEvent(System.Int32)
+  fullName: Saro.Gameplay.Story.StoryManager.StartEvent(System.Int32)
+  nameWithType: StoryManager.StartEvent(Int32)
+- uid: Saro.Gameplay.Story.StoryManager.StartEvent*
+  name: StartEvent
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_StartEvent_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.StartEvent
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.StartEvent
+  nameWithType: StoryManager.StartEvent
+- uid: Saro.Gameplay.Story.StoryManager.StartStory
+  name: StartStory()
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_StartStory
+  commentId: M:Saro.Gameplay.Story.StoryManager.StartStory
+  fullName: Saro.Gameplay.Story.StoryManager.StartStory()
+  nameWithType: StoryManager.StartStory()
+- uid: Saro.Gameplay.Story.StoryManager.StartStory*
+  name: StartStory
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_StartStory_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.StartStory
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.StartStory
+  nameWithType: StoryManager.StartStory
+- uid: Saro.Gameplay.Story.StoryManager.Tick
+  name: Tick()
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_Tick
+  commentId: M:Saro.Gameplay.Story.StoryManager.Tick
+  fullName: Saro.Gameplay.Story.StoryManager.Tick()
+  nameWithType: StoryManager.Tick()
+- uid: Saro.Gameplay.Story.StoryManager.Tick*
+  name: Tick
+  href: api/Saro.Gameplay.Story.StoryManager.html#Saro_Gameplay_Story_StoryManager_Tick_
+  commentId: Overload:Saro.Gameplay.Story.StoryManager.Tick
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryManager.Tick
+  nameWithType: StoryManager.Tick
+- uid: Saro.Gameplay.Story.StoryScriptParser
+  name: StoryScriptParser
+  href: api/Saro.Gameplay.Story.StoryScriptParser.html
+  commentId: T:Saro.Gameplay.Story.StoryScriptParser
+  fullName: Saro.Gameplay.Story.StoryScriptParser
+  nameWithType: StoryScriptParser
+- uid: Saro.Gameplay.Story.StoryScriptParser.Compile(System.String)
+  name: Compile(String)
+  href: api/Saro.Gameplay.Story.StoryScriptParser.html#Saro_Gameplay_Story_StoryScriptParser_Compile_System_String_
+  commentId: M:Saro.Gameplay.Story.StoryScriptParser.Compile(System.String)
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Compile(System.String)
+  nameWithType: StoryScriptParser.Compile(String)
+- uid: Saro.Gameplay.Story.StoryScriptParser.Compile*
+  name: Compile
+  href: api/Saro.Gameplay.Story.StoryScriptParser.html#Saro_Gameplay_Story_StoryScriptParser_Compile_
+  commentId: Overload:Saro.Gameplay.Story.StoryScriptParser.Compile
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Compile
+  nameWithType: StoryScriptParser.Compile
+- uid: Saro.Gameplay.Story.StoryScriptParser.Load
+  name: Load()
+  href: api/Saro.Gameplay.Story.StoryScriptParser.html#Saro_Gameplay_Story_StoryScriptParser_Load
+  commentId: M:Saro.Gameplay.Story.StoryScriptParser.Load
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Load()
+  nameWithType: StoryScriptParser.Load()
+- uid: Saro.Gameplay.Story.StoryScriptParser.Load*
+  name: Load
+  href: api/Saro.Gameplay.Story.StoryScriptParser.html#Saro_Gameplay_Story_StoryScriptParser_Load_
+  commentId: Overload:Saro.Gameplay.Story.StoryScriptParser.Load
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Load
+  nameWithType: StoryScriptParser.Load
+- uid: Saro.Gameplay.Story.StoryScriptParser.ParseAndCreateEvents(System.Collections.Generic.IList{System.String})
+  name: ParseAndCreateEvents(IList<String>)
+  href: api/Saro.Gameplay.Story.StoryScriptParser.html#Saro_Gameplay_Story_StoryScriptParser_ParseAndCreateEvents_System_Collections_Generic_IList_System_String__
+  commentId: M:Saro.Gameplay.Story.StoryScriptParser.ParseAndCreateEvents(System.Collections.Generic.IList{System.String})
+  name.vb: ParseAndCreateEvents(IList(Of String))
+  fullName: Saro.Gameplay.Story.StoryScriptParser.ParseAndCreateEvents(System.Collections.Generic.IList<System.String>)
+  fullName.vb: Saro.Gameplay.Story.StoryScriptParser.ParseAndCreateEvents(System.Collections.Generic.IList(Of System.String))
+  nameWithType: StoryScriptParser.ParseAndCreateEvents(IList<String>)
+  nameWithType.vb: StoryScriptParser.ParseAndCreateEvents(IList(Of String))
+- uid: Saro.Gameplay.Story.StoryScriptParser.ParseAndCreateEvents*
+  name: ParseAndCreateEvents
+  href: api/Saro.Gameplay.Story.StoryScriptParser.html#Saro_Gameplay_Story_StoryScriptParser_ParseAndCreateEvents_
+  commentId: Overload:Saro.Gameplay.Story.StoryScriptParser.ParseAndCreateEvents
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryScriptParser.ParseAndCreateEvents
+  nameWithType: StoryScriptParser.ParseAndCreateEvents
+- uid: Saro.Gameplay.Story.StoryScriptParser.Token
+  name: StoryScriptParser.Token
+  href: api/Saro.Gameplay.Story.StoryScriptParser.Token.html
+  commentId: T:Saro.Gameplay.Story.StoryScriptParser.Token
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Token
+  nameWithType: StoryScriptParser.Token
+- uid: Saro.Gameplay.Story.StoryScriptParser.Token.begin
+  name: begin
+  href: api/Saro.Gameplay.Story.StoryScriptParser.Token.html#Saro_Gameplay_Story_StoryScriptParser_Token_begin
+  commentId: F:Saro.Gameplay.Story.StoryScriptParser.Token.begin
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Token.begin
+  nameWithType: StoryScriptParser.Token.begin
+- uid: Saro.Gameplay.Story.StoryScriptParser.Token.comment
+  name: comment
+  href: api/Saro.Gameplay.Story.StoryScriptParser.Token.html#Saro_Gameplay_Story_StoryScriptParser_Token_comment
+  commentId: F:Saro.Gameplay.Story.StoryScriptParser.Token.comment
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Token.comment
+  nameWithType: StoryScriptParser.Token.comment
+- uid: Saro.Gameplay.Story.StoryScriptParser.Token.condition
+  name: condition
+  href: api/Saro.Gameplay.Story.StoryScriptParser.Token.html#Saro_Gameplay_Story_StoryScriptParser_Token_condition
+  commentId: F:Saro.Gameplay.Story.StoryScriptParser.Token.condition
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Token.condition
+  nameWithType: StoryScriptParser.Token.condition
+- uid: Saro.Gameplay.Story.StoryScriptParser.Token.continue
+  name: continue
+  href: api/Saro.Gameplay.Story.StoryScriptParser.Token.html#Saro_Gameplay_Story_StoryScriptParser_Token_continue
+  commentId: F:Saro.Gameplay.Story.StoryScriptParser.Token.continue
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Token.continue
+  nameWithType: StoryScriptParser.Token.continue
+- uid: Saro.Gameplay.Story.StoryScriptParser.Token.end
+  name: end
+  href: api/Saro.Gameplay.Story.StoryScriptParser.Token.html#Saro_Gameplay_Story_StoryScriptParser_Token_end
+  commentId: F:Saro.Gameplay.Story.StoryScriptParser.Token.end
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Token.end
+  nameWithType: StoryScriptParser.Token.end
+- uid: Saro.Gameplay.Story.StoryScriptParser.Token.leftBracket
+  name: leftBracket
+  href: api/Saro.Gameplay.Story.StoryScriptParser.Token.html#Saro_Gameplay_Story_StoryScriptParser_Token_leftBracket
+  commentId: F:Saro.Gameplay.Story.StoryScriptParser.Token.leftBracket
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Token.leftBracket
+  nameWithType: StoryScriptParser.Token.leftBracket
+- uid: Saro.Gameplay.Story.StoryScriptParser.Token.prologue
+  name: prologue
+  href: api/Saro.Gameplay.Story.StoryScriptParser.Token.html#Saro_Gameplay_Story_StoryScriptParser_Token_prologue
+  commentId: F:Saro.Gameplay.Story.StoryScriptParser.Token.prologue
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Token.prologue
+  nameWithType: StoryScriptParser.Token.prologue
+- uid: Saro.Gameplay.Story.StoryScriptParser.Token.rightBracket
+  name: rightBracket
+  href: api/Saro.Gameplay.Story.StoryScriptParser.Token.html#Saro_Gameplay_Story_StoryScriptParser_Token_rightBracket
+  commentId: F:Saro.Gameplay.Story.StoryScriptParser.Token.rightBracket
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Token.rightBracket
+  nameWithType: StoryScriptParser.Token.rightBracket
+- uid: Saro.Gameplay.Story.StoryScriptParser.Token.target
+  name: target
+  href: api/Saro.Gameplay.Story.StoryScriptParser.Token.html#Saro_Gameplay_Story_StoryScriptParser_Token_target
+  commentId: F:Saro.Gameplay.Story.StoryScriptParser.Token.target
+  fullName: Saro.Gameplay.Story.StoryScriptParser.Token.target
+  nameWithType: StoryScriptParser.Token.target
+- uid: Saro.Gameplay.Story.StoryService
+  name: StoryService
+  href: api/Saro.Gameplay.Story.StoryService.html
+  commentId: T:Saro.Gameplay.Story.StoryService
+  fullName: Saro.Gameplay.Story.StoryService
+  nameWithType: StoryService
+- uid: Saro.Gameplay.Story.StoryService.Current
+  name: Current
+  href: api/Saro.Gameplay.Story.StoryService.html#Saro_Gameplay_Story_StoryService_Current
+  commentId: P:Saro.Gameplay.Story.StoryService.Current
+  fullName: Saro.Gameplay.Story.StoryService.Current
+  nameWithType: StoryService.Current
+- uid: Saro.Gameplay.Story.StoryService.Current*
+  name: Current
+  href: api/Saro.Gameplay.Story.StoryService.html#Saro_Gameplay_Story_StoryService_Current_
+  commentId: Overload:Saro.Gameplay.Story.StoryService.Current
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryService.Current
+  nameWithType: StoryService.Current
+- uid: Saro.Gameplay.Story.StoryService.Manager
+  name: Manager
+  href: api/Saro.Gameplay.Story.StoryService.html#Saro_Gameplay_Story_StoryService_Manager
+  commentId: P:Saro.Gameplay.Story.StoryService.Manager
+  fullName: Saro.Gameplay.Story.StoryService.Manager
+  nameWithType: StoryService.Manager
+- uid: Saro.Gameplay.Story.StoryService.Manager*
+  name: Manager
+  href: api/Saro.Gameplay.Story.StoryService.html#Saro_Gameplay_Story_StoryService_Manager_
+  commentId: Overload:Saro.Gameplay.Story.StoryService.Manager
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryService.Manager
+  nameWithType: StoryService.Manager
+- uid: Saro.Gameplay.Story.StoryService.Register(TextAsset[])
+  name: Register(TextAsset[])
+  href: api/Saro.Gameplay.Story.StoryService.html#Saro_Gameplay_Story_StoryService_Register_TextAsset___
+  commentId: M:Saro.Gameplay.Story.StoryService.Register(TextAsset[])
+  name.vb: Register(TextAsset())
+  fullName: Saro.Gameplay.Story.StoryService.Register(TextAsset[])
+  fullName.vb: Saro.Gameplay.Story.StoryService.Register(TextAsset())
+  nameWithType: StoryService.Register(TextAsset[])
+  nameWithType.vb: StoryService.Register(TextAsset())
+- uid: Saro.Gameplay.Story.StoryService.Register*
+  name: Register
+  href: api/Saro.Gameplay.Story.StoryService.html#Saro_Gameplay_Story_StoryService_Register_
+  commentId: Overload:Saro.Gameplay.Story.StoryService.Register
+  isSpec: "True"
+  fullName: Saro.Gameplay.Story.StoryService.Register
+  nameWithType: StoryService.Register
 - uid: Saro.Gameplay.Tag
   name: Saro.Gameplay.Tag
   href: api/Saro.Gameplay.Tag.html
@@ -11454,15 +12632,15 @@ references:
   isSpec: "True"
   fullName: Saro.SPhysics.BroadPhase_SAP.FilterPossibleBodies
   nameWithType: BroadPhase_SAP.FilterPossibleBodies
-- uid: Saro.SPhysics.BroadPhase_SAP.OverlapBox(Vector3@,Vector3@,Quaternion@,System.Int32,System.Collections.Generic.IList{System.Int32})
-  name: OverlapBox(Vector3, Vector3, Quaternion, Int32, IList<Int32>)
-  href: api/Saro.SPhysics.BroadPhase_SAP.html#Saro_SPhysics_BroadPhase_SAP_OverlapBox_Vector3__Vector3__Quaternion__System_Int32_System_Collections_Generic_IList_System_Int32__
-  commentId: M:Saro.SPhysics.BroadPhase_SAP.OverlapBox(Vector3@,Vector3@,Quaternion@,System.Int32,System.Collections.Generic.IList{System.Int32})
-  name.vb: OverlapBox(ByRef Vector3, ByRef Vector3, ByRef Quaternion, Int32, IList(Of Int32))
-  fullName: Saro.SPhysics.BroadPhase_SAP.OverlapBox(Vector3, Vector3, Quaternion, System.Int32, System.Collections.Generic.IList<System.Int32>)
-  fullName.vb: Saro.SPhysics.BroadPhase_SAP.OverlapBox(ByRef Vector3, ByRef Vector3, ByRef Quaternion, System.Int32, System.Collections.Generic.IList(Of System.Int32))
-  nameWithType: BroadPhase_SAP.OverlapBox(Vector3, Vector3, Quaternion, Int32, IList<Int32>)
-  nameWithType.vb: BroadPhase_SAP.OverlapBox(ByRef Vector3, ByRef Vector3, ByRef Quaternion, Int32, IList(Of Int32))
+- uid: Saro.SPhysics.BroadPhase_SAP.OverlapBox(float3@,float3@,quaternion@,System.Int32,System.Collections.Generic.IList{System.Int32})
+  name: OverlapBox(float3, float3, quaternion, Int32, IList<Int32>)
+  href: api/Saro.SPhysics.BroadPhase_SAP.html#Saro_SPhysics_BroadPhase_SAP_OverlapBox_float3__float3__quaternion__System_Int32_System_Collections_Generic_IList_System_Int32__
+  commentId: M:Saro.SPhysics.BroadPhase_SAP.OverlapBox(float3@,float3@,quaternion@,System.Int32,System.Collections.Generic.IList{System.Int32})
+  name.vb: OverlapBox(ByRef float3, ByRef float3, ByRef quaternion, Int32, IList(Of Int32))
+  fullName: Saro.SPhysics.BroadPhase_SAP.OverlapBox(float3, float3, quaternion, System.Int32, System.Collections.Generic.IList<System.Int32>)
+  fullName.vb: Saro.SPhysics.BroadPhase_SAP.OverlapBox(ByRef float3, ByRef float3, ByRef quaternion, System.Int32, System.Collections.Generic.IList(Of System.Int32))
+  nameWithType: BroadPhase_SAP.OverlapBox(float3, float3, quaternion, Int32, IList<Int32>)
+  nameWithType.vb: BroadPhase_SAP.OverlapBox(ByRef float3, ByRef float3, ByRef quaternion, Int32, IList(Of Int32))
 - uid: Saro.SPhysics.BroadPhase_SAP.OverlapBox*
   name: OverlapBox
   href: api/Saro.SPhysics.BroadPhase_SAP.html#Saro_SPhysics_BroadPhase_SAP_OverlapBox_
@@ -11470,15 +12648,15 @@ references:
   isSpec: "True"
   fullName: Saro.SPhysics.BroadPhase_SAP.OverlapBox
   nameWithType: BroadPhase_SAP.OverlapBox
-- uid: Saro.SPhysics.BroadPhase_SAP.OverlapSphere(Vector3@,System.Single,System.Int32,System.Collections.Generic.List{System.Int32})
-  name: OverlapSphere(Vector3, Single, Int32, List<Int32>)
-  href: api/Saro.SPhysics.BroadPhase_SAP.html#Saro_SPhysics_BroadPhase_SAP_OverlapSphere_Vector3__System_Single_System_Int32_System_Collections_Generic_List_System_Int32__
-  commentId: M:Saro.SPhysics.BroadPhase_SAP.OverlapSphere(Vector3@,System.Single,System.Int32,System.Collections.Generic.List{System.Int32})
-  name.vb: OverlapSphere(ByRef Vector3, Single, Int32, List(Of Int32))
-  fullName: Saro.SPhysics.BroadPhase_SAP.OverlapSphere(Vector3, System.Single, System.Int32, System.Collections.Generic.List<System.Int32>)
-  fullName.vb: Saro.SPhysics.BroadPhase_SAP.OverlapSphere(ByRef Vector3, System.Single, System.Int32, System.Collections.Generic.List(Of System.Int32))
-  nameWithType: BroadPhase_SAP.OverlapSphere(Vector3, Single, Int32, List<Int32>)
-  nameWithType.vb: BroadPhase_SAP.OverlapSphere(ByRef Vector3, Single, Int32, List(Of Int32))
+- uid: Saro.SPhysics.BroadPhase_SAP.OverlapSphere(float3@,System.Single,System.Int32,System.Collections.Generic.List{System.Int32})
+  name: OverlapSphere(float3, Single, Int32, List<Int32>)
+  href: api/Saro.SPhysics.BroadPhase_SAP.html#Saro_SPhysics_BroadPhase_SAP_OverlapSphere_float3__System_Single_System_Int32_System_Collections_Generic_List_System_Int32__
+  commentId: M:Saro.SPhysics.BroadPhase_SAP.OverlapSphere(float3@,System.Single,System.Int32,System.Collections.Generic.List{System.Int32})
+  name.vb: OverlapSphere(ByRef float3, Single, Int32, List(Of Int32))
+  fullName: Saro.SPhysics.BroadPhase_SAP.OverlapSphere(float3, System.Single, System.Int32, System.Collections.Generic.List<System.Int32>)
+  fullName.vb: Saro.SPhysics.BroadPhase_SAP.OverlapSphere(ByRef float3, System.Single, System.Int32, System.Collections.Generic.List(Of System.Int32))
+  nameWithType: BroadPhase_SAP.OverlapSphere(float3, Single, Int32, List<Int32>)
+  nameWithType.vb: BroadPhase_SAP.OverlapSphere(ByRef float3, Single, Int32, List(Of Int32))
 - uid: Saro.SPhysics.BroadPhase_SAP.OverlapSphere*
   name: OverlapSphere
   href: api/Saro.SPhysics.BroadPhase_SAP.html#Saro_SPhysics_BroadPhase_SAP_OverlapSphere_
@@ -11486,15 +12664,15 @@ references:
   isSpec: "True"
   fullName: Saro.SPhysics.BroadPhase_SAP.OverlapSphere
   nameWithType: BroadPhase_SAP.OverlapSphere
-- uid: Saro.SPhysics.BroadPhase_SAP.Raycast(Vector3@,Vector3@,System.Int32,Saro.SPhysics.Hit@)
-  name: Raycast(Vector3, Vector3, Int32, ref Hit)
-  href: api/Saro.SPhysics.BroadPhase_SAP.html#Saro_SPhysics_BroadPhase_SAP_Raycast_Vector3__Vector3__System_Int32_Saro_SPhysics_Hit__
-  commentId: M:Saro.SPhysics.BroadPhase_SAP.Raycast(Vector3@,Vector3@,System.Int32,Saro.SPhysics.Hit@)
-  name.vb: Raycast(ByRef Vector3, ByRef Vector3, Int32, ByRef Hit)
-  fullName: Saro.SPhysics.BroadPhase_SAP.Raycast(Vector3, Vector3, System.Int32, ref Saro.SPhysics.Hit)
-  fullName.vb: Saro.SPhysics.BroadPhase_SAP.Raycast(ByRef Vector3, ByRef Vector3, System.Int32, ByRef Saro.SPhysics.Hit)
-  nameWithType: BroadPhase_SAP.Raycast(Vector3, Vector3, Int32, ref Hit)
-  nameWithType.vb: BroadPhase_SAP.Raycast(ByRef Vector3, ByRef Vector3, Int32, ByRef Hit)
+- uid: Saro.SPhysics.BroadPhase_SAP.Raycast(float3@,float3@,System.Int32,Saro.SPhysics.Hit@)
+  name: Raycast(float3, float3, Int32, ref Hit)
+  href: api/Saro.SPhysics.BroadPhase_SAP.html#Saro_SPhysics_BroadPhase_SAP_Raycast_float3__float3__System_Int32_Saro_SPhysics_Hit__
+  commentId: M:Saro.SPhysics.BroadPhase_SAP.Raycast(float3@,float3@,System.Int32,Saro.SPhysics.Hit@)
+  name.vb: Raycast(ByRef float3, ByRef float3, Int32, ByRef Hit)
+  fullName: Saro.SPhysics.BroadPhase_SAP.Raycast(float3, float3, System.Int32, ref Saro.SPhysics.Hit)
+  fullName.vb: Saro.SPhysics.BroadPhase_SAP.Raycast(ByRef float3, ByRef float3, System.Int32, ByRef Saro.SPhysics.Hit)
+  nameWithType: BroadPhase_SAP.Raycast(float3, float3, Int32, ref Hit)
+  nameWithType.vb: BroadPhase_SAP.Raycast(ByRef float3, ByRef float3, Int32, ByRef Hit)
 - uid: Saro.SPhysics.BroadPhase_SAP.Raycast*
   name: Raycast
   href: api/Saro.SPhysics.BroadPhase_SAP.html#Saro_SPhysics_BroadPhase_SAP_Raycast_
@@ -11615,15 +12793,15 @@ references:
   commentId: F:Saro.SPhysics.BroadPhaseBase.m_World
   fullName: Saro.SPhysics.BroadPhaseBase.m_World
   nameWithType: BroadPhaseBase.m_World
-- uid: Saro.SPhysics.BroadPhaseBase.Raycast(Vector3@,Vector3@,System.Int32,Saro.SPhysics.Hit@)
-  name: Raycast(Vector3, Vector3, Int32, ref Hit)
-  href: api/Saro.SPhysics.BroadPhaseBase.html#Saro_SPhysics_BroadPhaseBase_Raycast_Vector3__Vector3__System_Int32_Saro_SPhysics_Hit__
-  commentId: M:Saro.SPhysics.BroadPhaseBase.Raycast(Vector3@,Vector3@,System.Int32,Saro.SPhysics.Hit@)
-  name.vb: Raycast(ByRef Vector3, ByRef Vector3, Int32, ByRef Hit)
-  fullName: Saro.SPhysics.BroadPhaseBase.Raycast(Vector3, Vector3, System.Int32, ref Saro.SPhysics.Hit)
-  fullName.vb: Saro.SPhysics.BroadPhaseBase.Raycast(ByRef Vector3, ByRef Vector3, System.Int32, ByRef Saro.SPhysics.Hit)
-  nameWithType: BroadPhaseBase.Raycast(Vector3, Vector3, Int32, ref Hit)
-  nameWithType.vb: BroadPhaseBase.Raycast(ByRef Vector3, ByRef Vector3, Int32, ByRef Hit)
+- uid: Saro.SPhysics.BroadPhaseBase.Raycast(float3@,float3@,System.Int32,Saro.SPhysics.Hit@)
+  name: Raycast(float3, float3, Int32, ref Hit)
+  href: api/Saro.SPhysics.BroadPhaseBase.html#Saro_SPhysics_BroadPhaseBase_Raycast_float3__float3__System_Int32_Saro_SPhysics_Hit__
+  commentId: M:Saro.SPhysics.BroadPhaseBase.Raycast(float3@,float3@,System.Int32,Saro.SPhysics.Hit@)
+  name.vb: Raycast(ByRef float3, ByRef float3, Int32, ByRef Hit)
+  fullName: Saro.SPhysics.BroadPhaseBase.Raycast(float3, float3, System.Int32, ref Saro.SPhysics.Hit)
+  fullName.vb: Saro.SPhysics.BroadPhaseBase.Raycast(ByRef float3, ByRef float3, System.Int32, ByRef Saro.SPhysics.Hit)
+  nameWithType: BroadPhaseBase.Raycast(float3, float3, Int32, ref Hit)
+  nameWithType.vb: BroadPhaseBase.Raycast(ByRef float3, ByRef float3, Int32, ByRef Hit)
 - uid: Saro.SPhysics.BroadPhaseBase.Raycast*
   name: Raycast
   href: api/Saro.SPhysics.BroadPhaseBase.html#Saro_SPhysics_BroadPhaseBase_Raycast_
@@ -11975,15 +13153,15 @@ references:
   fullName.vb: Saro.SPhysics.ContactTesterBase(Of ShapeA, ShapeB)
   nameWithType: ContactTesterBase<ShapeA, ShapeB>
   nameWithType.vb: ContactTesterBase(Of ShapeA, ShapeB)
-- uid: Saro.SPhysics.ContactTesterBase`2.AddContact(Saro.SPhysics.PossibleContact{`0,`1}@,System.Single,Vector3@,Vector3@)
-  name: AddContact(PossibleContact<ShapeA, ShapeB>, Single, Vector3, Vector3)
-  href: api/Saro.SPhysics.ContactTesterBase-2.html#Saro_SPhysics_ContactTesterBase_2_AddContact_Saro_SPhysics_PossibleContact__0__1___System_Single_Vector3__Vector3__
-  commentId: M:Saro.SPhysics.ContactTesterBase`2.AddContact(Saro.SPhysics.PossibleContact{`0,`1}@,System.Single,Vector3@,Vector3@)
-  name.vb: AddContact(ByRef PossibleContact(Of ShapeA, ShapeB), Single, ByRef Vector3, ByRef Vector3)
-  fullName: Saro.SPhysics.ContactTesterBase<ShapeA, ShapeB>.AddContact(Saro.SPhysics.PossibleContact<ShapeA, ShapeB>, System.Single, Vector3, Vector3)
-  fullName.vb: Saro.SPhysics.ContactTesterBase(Of ShapeA, ShapeB).AddContact(ByRef Saro.SPhysics.PossibleContact(Of ShapeA, ShapeB), System.Single, ByRef Vector3, ByRef Vector3)
-  nameWithType: ContactTesterBase<ShapeA, ShapeB>.AddContact(PossibleContact<ShapeA, ShapeB>, Single, Vector3, Vector3)
-  nameWithType.vb: ContactTesterBase(Of ShapeA, ShapeB).AddContact(ByRef PossibleContact(Of ShapeA, ShapeB), Single, ByRef Vector3, ByRef Vector3)
+- uid: Saro.SPhysics.ContactTesterBase`2.AddContact(Saro.SPhysics.PossibleContact{`0,`1}@,System.Single,float3@,float3@)
+  name: AddContact(PossibleContact<ShapeA, ShapeB>, Single, float3, float3)
+  href: api/Saro.SPhysics.ContactTesterBase-2.html#Saro_SPhysics_ContactTesterBase_2_AddContact_Saro_SPhysics_PossibleContact__0__1___System_Single_float3__float3__
+  commentId: M:Saro.SPhysics.ContactTesterBase`2.AddContact(Saro.SPhysics.PossibleContact{`0,`1}@,System.Single,float3@,float3@)
+  name.vb: AddContact(ByRef PossibleContact(Of ShapeA, ShapeB), Single, ByRef float3, ByRef float3)
+  fullName: Saro.SPhysics.ContactTesterBase<ShapeA, ShapeB>.AddContact(Saro.SPhysics.PossibleContact<ShapeA, ShapeB>, System.Single, float3, float3)
+  fullName.vb: Saro.SPhysics.ContactTesterBase(Of ShapeA, ShapeB).AddContact(ByRef Saro.SPhysics.PossibleContact(Of ShapeA, ShapeB), System.Single, ByRef float3, ByRef float3)
+  nameWithType: ContactTesterBase<ShapeA, ShapeB>.AddContact(PossibleContact<ShapeA, ShapeB>, Single, float3, float3)
+  nameWithType.vb: ContactTesterBase(Of ShapeA, ShapeB).AddContact(ByRef PossibleContact(Of ShapeA, ShapeB), Single, ByRef float3, ByRef float3)
 - uid: Saro.SPhysics.ContactTesterBase`2.AddContact*
   name: AddContact
   href: api/Saro.SPhysics.ContactTesterBase-2.html#Saro_SPhysics_ContactTesterBase_2_AddContact_
@@ -12783,15 +13961,15 @@ references:
   isSpec: "True"
   fullName: Saro.SPhysics.PhysicsFeature.LoadMatrixAsync
   nameWithType: PhysicsFeature.LoadMatrixAsync
-- uid: Saro.SPhysics.PhysicsFeature.OverlapSphere(Vector3@,System.Single,System.Int32,System.Collections.Generic.List{System.Int32})
-  name: OverlapSphere(Vector3, Single, Int32, List<Int32>)
-  href: api/Saro.SPhysics.PhysicsFeature.html#Saro_SPhysics_PhysicsFeature_OverlapSphere_Vector3__System_Single_System_Int32_System_Collections_Generic_List_System_Int32__
-  commentId: M:Saro.SPhysics.PhysicsFeature.OverlapSphere(Vector3@,System.Single,System.Int32,System.Collections.Generic.List{System.Int32})
-  name.vb: OverlapSphere(ByRef Vector3, Single, Int32, List(Of Int32))
-  fullName: Saro.SPhysics.PhysicsFeature.OverlapSphere(Vector3, System.Single, System.Int32, System.Collections.Generic.List<System.Int32>)
-  fullName.vb: Saro.SPhysics.PhysicsFeature.OverlapSphere(ByRef Vector3, System.Single, System.Int32, System.Collections.Generic.List(Of System.Int32))
-  nameWithType: PhysicsFeature.OverlapSphere(Vector3, Single, Int32, List<Int32>)
-  nameWithType.vb: PhysicsFeature.OverlapSphere(ByRef Vector3, Single, Int32, List(Of Int32))
+- uid: Saro.SPhysics.PhysicsFeature.OverlapSphere(float3@,System.Single,System.Int32,System.Collections.Generic.List{System.Int32})
+  name: OverlapSphere(float3, Single, Int32, List<Int32>)
+  href: api/Saro.SPhysics.PhysicsFeature.html#Saro_SPhysics_PhysicsFeature_OverlapSphere_float3__System_Single_System_Int32_System_Collections_Generic_List_System_Int32__
+  commentId: M:Saro.SPhysics.PhysicsFeature.OverlapSphere(float3@,System.Single,System.Int32,System.Collections.Generic.List{System.Int32})
+  name.vb: OverlapSphere(ByRef float3, Single, Int32, List(Of Int32))
+  fullName: Saro.SPhysics.PhysicsFeature.OverlapSphere(float3, System.Single, System.Int32, System.Collections.Generic.List<System.Int32>)
+  fullName.vb: Saro.SPhysics.PhysicsFeature.OverlapSphere(ByRef float3, System.Single, System.Int32, System.Collections.Generic.List(Of System.Int32))
+  nameWithType: PhysicsFeature.OverlapSphere(float3, Single, Int32, List<Int32>)
+  nameWithType.vb: PhysicsFeature.OverlapSphere(ByRef float3, Single, Int32, List(Of Int32))
 - uid: Saro.SPhysics.PhysicsFeature.OverlapSphere*
   name: OverlapSphere
   href: api/Saro.SPhysics.PhysicsFeature.html#Saro_SPhysics_PhysicsFeature_OverlapSphere_
@@ -12799,15 +13977,15 @@ references:
   isSpec: "True"
   fullName: Saro.SPhysics.PhysicsFeature.OverlapSphere
   nameWithType: PhysicsFeature.OverlapSphere
-- uid: Saro.SPhysics.PhysicsFeature.Raycast(Vector3@,Vector3@,Saro.SPhysics.Hit@)
-  name: Raycast(Vector3, Vector3, ref Hit)
-  href: api/Saro.SPhysics.PhysicsFeature.html#Saro_SPhysics_PhysicsFeature_Raycast_Vector3__Vector3__Saro_SPhysics_Hit__
-  commentId: M:Saro.SPhysics.PhysicsFeature.Raycast(Vector3@,Vector3@,Saro.SPhysics.Hit@)
-  name.vb: Raycast(ByRef Vector3, ByRef Vector3, ByRef Hit)
-  fullName: Saro.SPhysics.PhysicsFeature.Raycast(Vector3, Vector3, ref Saro.SPhysics.Hit)
-  fullName.vb: Saro.SPhysics.PhysicsFeature.Raycast(ByRef Vector3, ByRef Vector3, ByRef Saro.SPhysics.Hit)
-  nameWithType: PhysicsFeature.Raycast(Vector3, Vector3, ref Hit)
-  nameWithType.vb: PhysicsFeature.Raycast(ByRef Vector3, ByRef Vector3, ByRef Hit)
+- uid: Saro.SPhysics.PhysicsFeature.Raycast(float3@,float3@,Saro.SPhysics.Hit@)
+  name: Raycast(float3, float3, ref Hit)
+  href: api/Saro.SPhysics.PhysicsFeature.html#Saro_SPhysics_PhysicsFeature_Raycast_float3__float3__Saro_SPhysics_Hit__
+  commentId: M:Saro.SPhysics.PhysicsFeature.Raycast(float3@,float3@,Saro.SPhysics.Hit@)
+  name.vb: Raycast(ByRef float3, ByRef float3, ByRef Hit)
+  fullName: Saro.SPhysics.PhysicsFeature.Raycast(float3, float3, ref Saro.SPhysics.Hit)
+  fullName.vb: Saro.SPhysics.PhysicsFeature.Raycast(ByRef float3, ByRef float3, ByRef Saro.SPhysics.Hit)
+  nameWithType: PhysicsFeature.Raycast(float3, float3, ref Hit)
+  nameWithType.vb: PhysicsFeature.Raycast(ByRef float3, ByRef float3, ByRef Hit)
 - uid: Saro.SPhysics.PhysicsFeature.Raycast*
   name: Raycast
   href: api/Saro.SPhysics.PhysicsFeature.html#Saro_SPhysics_PhysicsFeature_Raycast_

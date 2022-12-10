@@ -162,7 +162,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Gameplay.Ability.AoE.html",
-          "hash": "rLs1Qc1/GEG2JilgILdHNA=="
+          "hash": "CCUGl/vyMRp+Qoi+aqXRZw=="
         }
       },
       "is_incremental": false,
@@ -498,7 +498,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Gameplay.Ability.EffectObj.html",
-          "hash": "gh8Q0Ulqv1oElTl8zVdDcw=="
+          "hash": "gd8HW9d8lUnMI97cWV40tw=="
         }
       },
       "is_incremental": false,
@@ -558,7 +558,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Gameplay.Ability.EventArgs_ProjectileHit.html",
-          "hash": "/yX7n04P386ZkCx5SwjjHg=="
+          "hash": "V5Z9QZ6RlsoV0ctBdZRHFQ=="
         }
       },
       "is_incremental": false,
@@ -1206,7 +1206,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Gameplay.Ability.ProjectileObj.html",
-          "hash": "NtFvsaX9I5G1QO4H5LZaoA=="
+          "hash": "mgmTeU+zLr4CLcB6CTu1/w=="
         }
       },
       "is_incremental": false,
@@ -1242,7 +1242,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Gameplay.Ability.ProjectileUtility.html",
-          "hash": "TxpOzVCbDIdgxEtucYDBeA=="
+          "hash": "8Jfvn3mwe096EVuNECDcPA=="
         }
       },
       "is_incremental": false,
@@ -2018,6 +2018,222 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.IStoryActionParserRegister.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.IStoryActionParserRegister.html",
+          "hash": "aPV54A/AanQhea8TuTr+Og=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.ParseException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.ParseException.html",
+          "hash": "LspiFEfA2JwJWu4cNnt3TA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryAction.html",
+          "hash": "SS02MBLyy6V3InzZXRWLBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryAction_CallEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryAction_CallEvent.html",
+          "hash": "TCfeAYyHzJf4lxOgqxqjTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryAction_EvaluateEvent.html",
+          "hash": "Xgvgw3QFMU6+VfMgM7yGiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryAction_Load.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryAction_Load.html",
+          "hash": "qFfyLXpwsBSzKM6oz6Ar9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryAction_Set.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryAction_Set.html",
+          "hash": "x1JzH+mKjt+5FVwv8TIl5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryActor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryActor.html",
+          "hash": "eO8Xk8b+zzsHT/ke1sKSmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryActorUtil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryActorUtil.html",
+          "hash": "frLbaU53AbC+SXskfhJyDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryCondition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryCondition.html",
+          "hash": "zMhcFax2rgTKlTiNcKjvgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryEvent.Command.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryEvent.Command.html",
+          "hash": "0p473k/zoTfakJ01pgMlAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryEvent.StoryActionParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryEvent.StoryActionParser.html",
+          "hash": "oTij+kQFa4DsiTJFlgCQTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryEvent.html",
+          "hash": "UWpw39+YdLjT8+b4iUa5Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryManager.html",
+          "hash": "d0pt/PfDoKBXKk94Rt2LCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryScriptParser.Token.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryScriptParser.Token.html",
+          "hash": "bILwtYdA5BTZlFgJWkrnwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryScriptParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryScriptParser.html",
+          "hash": "rDLsNmfWUlUTonpt3H0XGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.StoryService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.StoryService.html",
+          "hash": "WEc9143cWwLZxmpb46eHzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.Gameplay.Story.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.Gameplay.Story.html",
+          "hash": "YtuwErq0bHqDyzWEWY+kHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Saro.Gameplay.Tag.ETagEventType.yml",
       "output": {
         ".html": {
@@ -2334,7 +2550,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.SPhysics.BroadPhaseBase.html",
-          "hash": "pgXB+CLDT+ULeNAhCnxMOA=="
+          "hash": "eBIupCuvliy3sAARHGU2Ng=="
         }
       },
       "is_incremental": false,
@@ -2346,7 +2562,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.SPhysics.BroadPhase_Brute.html",
-          "hash": "5lJwLSQoaWd3csSENCvY1g=="
+          "hash": "Axbo3DY2aLiZEj8NmmX0CA=="
         }
       },
       "is_incremental": false,
@@ -2358,7 +2574,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.SPhysics.BroadPhase_DynamicTree.html",
-          "hash": "BG3fJZ+5NWM1A7IJitDDwQ=="
+          "hash": "RSHXYsgYcan3wNd+00CU2g=="
         }
       },
       "is_incremental": false,
@@ -2370,7 +2586,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.SPhysics.BroadPhase_SAP.html",
-          "hash": "l1YysN0U6tMOm4gS1D40gg=="
+          "hash": "aRG5YFfPKHMd4ZEH6INIVQ=="
         }
       },
       "is_incremental": false,
@@ -2394,7 +2610,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.SPhysics.ContactTesterBase-2.html",
-          "hash": "4jleC3ILvGBkgRxqfx2i+w=="
+          "hash": "7bfXgCf13zZ1aowtXA//MQ=="
         }
       },
       "is_incremental": false,
@@ -2430,7 +2646,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.SPhysics.ContactTester_BoxBox.html",
-          "hash": "UZ2Ao06TQwd9KKNSeqbmBQ=="
+          "hash": "qGyI7V5A2B1WUTUEa7h9Gg=="
         }
       },
       "is_incremental": false,
@@ -2442,7 +2658,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.SPhysics.ContactTester_SphereBox.html",
-          "hash": "ceT0JDyMoqulMhmWA/5SCA=="
+          "hash": "l9dO8QW8cceSX7vwPpuaiQ=="
         }
       },
       "is_incremental": false,
@@ -2454,7 +2670,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.SPhysics.ContactTester_SphereSphere.html",
-          "hash": "wQBLCG9hwe21PJ0kGHlGdw=="
+          "hash": "mbvqcBATVmQqtxED9LrljQ=="
         }
       },
       "is_incremental": false,
@@ -2586,7 +2802,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.SPhysics.PhysicsFeature.html",
-          "hash": "E8161eDeQZlFJePdPIhMeA=="
+          "hash": "WWU9qzlR9XIIMyAlR/CU3g=="
         }
       },
       "is_incremental": false,
@@ -2670,7 +2886,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.SPhysics.Trigger.html",
-          "hash": "/XlC7MR8ozfsrrP3f7PRsA=="
+          "hash": "HljY5AQEhVWbwUOjBiQdog=="
         }
       },
       "is_incremental": false,
@@ -2754,7 +2970,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "PBcg9tkcFPZs6g6byXaFJQ=="
+          "hash": "178mhB3q4Bfjk5uG0XiMmw=="
         }
       },
       "is_incremental": false,
@@ -2891,13 +3107,6 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -2905,16 +3114,23 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
-        "ConceptualDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
-          "total_file_count": 6,
+          "total_file_count": 0,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 227,
+          "total_file_count": 245,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
           "skipped_file_count": 0
         }
       }

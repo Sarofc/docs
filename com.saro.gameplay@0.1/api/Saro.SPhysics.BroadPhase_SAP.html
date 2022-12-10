@@ -174,12 +174,12 @@
   
   
   <a id="Saro_SPhysics_BroadPhase_SAP_OverlapBox_" data-uid="Saro.SPhysics.BroadPhase_SAP.OverlapBox*"></a>
-  <h4 id="Saro_SPhysics_BroadPhase_SAP_OverlapBox_Vector3__Vector3__Quaternion__System_Int32_System_Collections_Generic_IList_System_Int32__" data-uid="Saro.SPhysics.BroadPhase_SAP.OverlapBox(Vector3@,Vector3@,Quaternion@,System.Int32,System.Collections.Generic.IList{System.Int32})">OverlapBox(Vector3, Vector3, Quaternion, Int32, IList&lt;Int32&gt;)</h4>
+  <h4 id="Saro_SPhysics_BroadPhase_SAP_OverlapBox_float3__float3__quaternion__System_Int32_System_Collections_Generic_IList_System_Int32__" data-uid="Saro.SPhysics.BroadPhase_SAP.OverlapBox(float3@,float3@,quaternion@,System.Int32,System.Collections.Generic.IList{System.Int32})">OverlapBox(float3, float3, quaternion, Int32, IList&lt;Int32&gt;)</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public int OverlapBox(in Vector3 center, in Vector3 halfExtents, in Quaternion quaternion, int layerMask, IList&lt;int&gt; entities)</code></pre>
+    <pre><code class="lang-csharp hljs">public int OverlapBox(in float3 center, in float3 halfExtents, in quaternion quaternion, int layerMask, IList&lt;int&gt; entities)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -192,17 +192,17 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">float3</span></td>
         <td><span class="parametername">center</span></td>
         <td></td>
       </tr>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">float3</span></td>
         <td><span class="parametername">halfExtents</span></td>
         <td></td>
       </tr>
       <tr>
-        <td><span class="xref">Quaternion</span></td>
+        <td><span class="xref">quaternion</span></td>
         <td><span class="parametername">quaternion</span></td>
         <td></td>
       </tr>
@@ -236,12 +236,12 @@
   
   
   <a id="Saro_SPhysics_BroadPhase_SAP_OverlapSphere_" data-uid="Saro.SPhysics.BroadPhase_SAP.OverlapSphere*"></a>
-  <h4 id="Saro_SPhysics_BroadPhase_SAP_OverlapSphere_Vector3__System_Single_System_Int32_System_Collections_Generic_List_System_Int32__" data-uid="Saro.SPhysics.BroadPhase_SAP.OverlapSphere(Vector3@,System.Single,System.Int32,System.Collections.Generic.List{System.Int32})">OverlapSphere(Vector3, Single, Int32, List&lt;Int32&gt;)</h4>
+  <h4 id="Saro_SPhysics_BroadPhase_SAP_OverlapSphere_float3__System_Single_System_Int32_System_Collections_Generic_List_System_Int32__" data-uid="Saro.SPhysics.BroadPhase_SAP.OverlapSphere(float3@,System.Single,System.Int32,System.Collections.Generic.List{System.Int32})">OverlapSphere(float3, Single, Int32, List&lt;Int32&gt;)</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void OverlapSphere(in Vector3 position, float radius, int layerMask, List&lt;int&gt; entities)</code></pre>
+    <pre><code class="lang-csharp hljs">public void OverlapSphere(in float3 position, float radius, int layerMask, List&lt;int&gt; entities)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -254,7 +254,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">float3</span></td>
         <td><span class="parametername">position</span></td>
         <td></td>
       </tr>
@@ -278,12 +278,12 @@
   
   
   <a id="Saro_SPhysics_BroadPhase_SAP_Raycast_" data-uid="Saro.SPhysics.BroadPhase_SAP.Raycast*"></a>
-  <h4 id="Saro_SPhysics_BroadPhase_SAP_Raycast_Vector3__Vector3__System_Int32_Saro_SPhysics_Hit__" data-uid="Saro.SPhysics.BroadPhase_SAP.Raycast(Vector3@,Vector3@,System.Int32,Saro.SPhysics.Hit@)">Raycast(Vector3, Vector3, Int32, ref Hit)</h4>
+  <h4 id="Saro_SPhysics_BroadPhase_SAP_Raycast_float3__float3__System_Int32_Saro_SPhysics_Hit__" data-uid="Saro.SPhysics.BroadPhase_SAP.Raycast(float3@,float3@,System.Int32,Saro.SPhysics.Hit@)">Raycast(float3, float3, Int32, ref Hit)</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public override bool Raycast(in Vector3 start, in Vector3 end, int layerMask, ref Hit hit)</code></pre>
+    <pre><code class="lang-csharp hljs">public override bool Raycast(in float3 start, in float3 end, int layerMask, ref Hit hit)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -296,12 +296,12 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">float3</span></td>
         <td><span class="parametername">start</span></td>
         <td></td>
       </tr>
       <tr>
-        <td><span class="xref">Vector3</span></td>
+        <td><span class="xref">float3</span></td>
         <td><span class="parametername">end</span></td>
         <td></td>
       </tr>
@@ -333,7 +333,7 @@
     </tbody>
   </table>
   <h5 class="overrides">Overrides</h5>
-  <div><a class="xref" href="Saro.SPhysics.BroadPhaseBase.html#Saro_SPhysics_BroadPhaseBase_Raycast_Vector3__Vector3__System_Int32_Saro_SPhysics_Hit__">BroadPhaseBase.Raycast(Vector3, Vector3, Int32, ref Hit)</a></div>
+  <div><a class="xref" href="Saro.SPhysics.BroadPhaseBase.html#Saro_SPhysics_BroadPhaseBase_Raycast_float3__float3__System_Int32_Saro_SPhysics_Hit__">BroadPhaseBase.Raycast(float3, float3, Int32, ref Hit)</a></div>
 </article>
           </div>
           

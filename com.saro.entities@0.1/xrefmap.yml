@@ -1,0 +1,3334 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Saro.Entities
+  name: Saro.Entities
+  href: api/Saro.Entities.html
+  commentId: N:Saro.Entities
+  fullName: Saro.Entities
+  nameWithType: Saro.Entities
+- uid: Saro.Entities.Collections
+  name: Saro.Entities.Collections
+  href: api/Saro.Entities.Collections.html
+  commentId: N:Saro.Entities.Collections
+  fullName: Saro.Entities.Collections
+  nameWithType: Saro.Entities.Collections
+- uid: Saro.Entities.Collections.IIntrusiveList
+  name: IIntrusiveList
+  href: api/Saro.Entities.Collections.IIntrusiveList.html
+  commentId: T:Saro.Entities.Collections.IIntrusiveList
+  fullName: Saro.Entities.Collections.IIntrusiveList
+  nameWithType: IIntrusiveList
+- uid: Saro.Entities.Collections.IIntrusiveList.Add(Saro.Entities.EcsEntity)
+  name: Add(EcsEntity)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Add_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.Add(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Collections.IIntrusiveList.Add(Saro.Entities.EcsEntity)
+  nameWithType: IIntrusiveList.Add(EcsEntity)
+- uid: Saro.Entities.Collections.IIntrusiveList.Add*
+  name: Add
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Add_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.Add
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.Add
+  nameWithType: IIntrusiveList.Add
+- uid: Saro.Entities.Collections.IIntrusiveList.AddFirst(Saro.Entities.EcsEntity)
+  name: AddFirst(EcsEntity)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_AddFirst_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.AddFirst(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Collections.IIntrusiveList.AddFirst(Saro.Entities.EcsEntity)
+  nameWithType: IIntrusiveList.AddFirst(EcsEntity)
+- uid: Saro.Entities.Collections.IIntrusiveList.AddFirst*
+  name: AddFirst
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_AddFirst_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.AddFirst
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.AddFirst
+  nameWithType: IIntrusiveList.AddFirst
+- uid: Saro.Entities.Collections.IIntrusiveList.Clear(System.Boolean)
+  name: Clear(Boolean)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Clear_System_Boolean_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.Clear(System.Boolean)
+  fullName: Saro.Entities.Collections.IIntrusiveList.Clear(System.Boolean)
+  nameWithType: IIntrusiveList.Clear(Boolean)
+- uid: Saro.Entities.Collections.IIntrusiveList.Clear*
+  name: Clear
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Clear_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.Clear
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.Clear
+  nameWithType: IIntrusiveList.Clear
+- uid: Saro.Entities.Collections.IIntrusiveList.Contains(Saro.Entities.EcsEntity)
+  name: Contains(EcsEntity)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Contains_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.Contains(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Collections.IIntrusiveList.Contains(Saro.Entities.EcsEntity)
+  nameWithType: IIntrusiveList.Contains(EcsEntity)
+- uid: Saro.Entities.Collections.IIntrusiveList.Contains*
+  name: Contains
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Contains_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.Contains
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.Contains
+  nameWithType: IIntrusiveList.Contains
+- uid: Saro.Entities.Collections.IIntrusiveList.Count
+  name: Count
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Count
+  commentId: P:Saro.Entities.Collections.IIntrusiveList.Count
+  fullName: Saro.Entities.Collections.IIntrusiveList.Count
+  nameWithType: IIntrusiveList.Count
+- uid: Saro.Entities.Collections.IIntrusiveList.Count*
+  name: Count
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Count_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.Count
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.Count
+  nameWithType: IIntrusiveList.Count
+- uid: Saro.Entities.Collections.IIntrusiveList.GetFirst
+  name: GetFirst()
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetFirst
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.GetFirst
+  fullName: Saro.Entities.Collections.IIntrusiveList.GetFirst()
+  nameWithType: IIntrusiveList.GetFirst()
+- uid: Saro.Entities.Collections.IIntrusiveList.GetFirst*
+  name: GetFirst
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetFirst_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.GetFirst
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.GetFirst
+  nameWithType: IIntrusiveList.GetFirst
+- uid: Saro.Entities.Collections.IIntrusiveList.GetLast
+  name: GetLast()
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetLast
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.GetLast
+  fullName: Saro.Entities.Collections.IIntrusiveList.GetLast()
+  nameWithType: IIntrusiveList.GetLast()
+- uid: Saro.Entities.Collections.IIntrusiveList.GetLast*
+  name: GetLast
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetLast_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.GetLast
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.GetLast
+  nameWithType: IIntrusiveList.GetLast
+- uid: Saro.Entities.Collections.IIntrusiveList.GetRange(System.Int32,System.Int32)
+  name: GetRange(Int32, Int32)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetRange_System_Int32_System_Int32_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.GetRange(System.Int32,System.Int32)
+  fullName: Saro.Entities.Collections.IIntrusiveList.GetRange(System.Int32, System.Int32)
+  nameWithType: IIntrusiveList.GetRange(Int32, Int32)
+- uid: Saro.Entities.Collections.IIntrusiveList.GetRange*
+  name: GetRange
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetRange_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.GetRange
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.GetRange
+  nameWithType: IIntrusiveList.GetRange
+- uid: Saro.Entities.Collections.IIntrusiveList.GetValue(System.Int32)
+  name: GetValue(Int32)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetValue_System_Int32_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.GetValue(System.Int32)
+  fullName: Saro.Entities.Collections.IIntrusiveList.GetValue(System.Int32)
+  nameWithType: IIntrusiveList.GetValue(Int32)
+- uid: Saro.Entities.Collections.IIntrusiveList.GetValue*
+  name: GetValue
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_GetValue_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.GetValue
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.GetValue
+  nameWithType: IIntrusiveList.GetValue
+- uid: Saro.Entities.Collections.IIntrusiveList.Insert(Saro.Entities.EcsEntity,System.Int32)
+  name: Insert(EcsEntity, Int32)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Insert_Saro_Entities_EcsEntity_System_Int32_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.Insert(Saro.Entities.EcsEntity,System.Int32)
+  fullName: Saro.Entities.Collections.IIntrusiveList.Insert(Saro.Entities.EcsEntity, System.Int32)
+  nameWithType: IIntrusiveList.Insert(EcsEntity, Int32)
+- uid: Saro.Entities.Collections.IIntrusiveList.Insert*
+  name: Insert
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Insert_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.Insert
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.Insert
+  nameWithType: IIntrusiveList.Insert
+- uid: Saro.Entities.Collections.IIntrusiveList.Remove(Saro.Entities.EcsEntity)
+  name: Remove(EcsEntity)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Remove_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.Remove(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Collections.IIntrusiveList.Remove(Saro.Entities.EcsEntity)
+  nameWithType: IIntrusiveList.Remove(EcsEntity)
+- uid: Saro.Entities.Collections.IIntrusiveList.Remove*
+  name: Remove
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Remove_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.Remove
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.Remove
+  nameWithType: IIntrusiveList.Remove
+- uid: Saro.Entities.Collections.IIntrusiveList.RemoveAll(Saro.Entities.EcsEntity)
+  name: RemoveAll(EcsEntity)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveAll_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.RemoveAll(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Collections.IIntrusiveList.RemoveAll(Saro.Entities.EcsEntity)
+  nameWithType: IIntrusiveList.RemoveAll(EcsEntity)
+- uid: Saro.Entities.Collections.IIntrusiveList.RemoveAll*
+  name: RemoveAll
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveAll_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.RemoveAll
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.RemoveAll
+  nameWithType: IIntrusiveList.RemoveAll
+- uid: Saro.Entities.Collections.IIntrusiveList.RemoveAt(System.Int32,System.Boolean)
+  name: RemoveAt(Int32, Boolean)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveAt_System_Int32_System_Boolean_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.RemoveAt(System.Int32,System.Boolean)
+  fullName: Saro.Entities.Collections.IIntrusiveList.RemoveAt(System.Int32, System.Boolean)
+  nameWithType: IIntrusiveList.RemoveAt(Int32, Boolean)
+- uid: Saro.Entities.Collections.IIntrusiveList.RemoveAt*
+  name: RemoveAt
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveAt_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.RemoveAt
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.RemoveAt
+  nameWithType: IIntrusiveList.RemoveAt
+- uid: Saro.Entities.Collections.IIntrusiveList.RemoveFirst(System.Boolean)
+  name: RemoveFirst(Boolean)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveFirst_System_Boolean_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.RemoveFirst(System.Boolean)
+  fullName: Saro.Entities.Collections.IIntrusiveList.RemoveFirst(System.Boolean)
+  nameWithType: IIntrusiveList.RemoveFirst(Boolean)
+- uid: Saro.Entities.Collections.IIntrusiveList.RemoveFirst*
+  name: RemoveFirst
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveFirst_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.RemoveFirst
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.RemoveFirst
+  nameWithType: IIntrusiveList.RemoveFirst
+- uid: Saro.Entities.Collections.IIntrusiveList.RemoveLast(System.Boolean)
+  name: RemoveLast(Boolean)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveLast_System_Boolean_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.RemoveLast(System.Boolean)
+  fullName: Saro.Entities.Collections.IIntrusiveList.RemoveLast(System.Boolean)
+  nameWithType: IIntrusiveList.RemoveLast(Boolean)
+- uid: Saro.Entities.Collections.IIntrusiveList.RemoveLast*
+  name: RemoveLast
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveLast_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.RemoveLast
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.RemoveLast
+  nameWithType: IIntrusiveList.RemoveLast
+- uid: Saro.Entities.Collections.IIntrusiveList.RemoveRange(System.Int32,System.Int32,System.Boolean)
+  name: RemoveRange(Int32, Int32, Boolean)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveRange_System_Int32_System_Int32_System_Boolean_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.RemoveRange(System.Int32,System.Int32,System.Boolean)
+  fullName: Saro.Entities.Collections.IIntrusiveList.RemoveRange(System.Int32, System.Int32, System.Boolean)
+  nameWithType: IIntrusiveList.RemoveRange(Int32, Int32, Boolean)
+- uid: Saro.Entities.Collections.IIntrusiveList.RemoveRange*
+  name: RemoveRange
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_RemoveRange_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.RemoveRange
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.RemoveRange
+  nameWithType: IIntrusiveList.RemoveRange
+- uid: Saro.Entities.Collections.IIntrusiveList.Replace(Saro.Entities.EcsEntity,System.Int32)
+  name: Replace(EcsEntity, Int32)
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Replace_Saro_Entities_EcsEntity_System_Int32_
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.Replace(Saro.Entities.EcsEntity,System.Int32)
+  fullName: Saro.Entities.Collections.IIntrusiveList.Replace(Saro.Entities.EcsEntity, System.Int32)
+  nameWithType: IIntrusiveList.Replace(EcsEntity, Int32)
+- uid: Saro.Entities.Collections.IIntrusiveList.Replace*
+  name: Replace
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_Replace_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.Replace
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.Replace
+  nameWithType: IIntrusiveList.Replace
+- uid: Saro.Entities.Collections.IIntrusiveList.ToArray
+  name: ToArray()
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_ToArray
+  commentId: M:Saro.Entities.Collections.IIntrusiveList.ToArray
+  fullName: Saro.Entities.Collections.IIntrusiveList.ToArray()
+  nameWithType: IIntrusiveList.ToArray()
+- uid: Saro.Entities.Collections.IIntrusiveList.ToArray*
+  name: ToArray
+  href: api/Saro.Entities.Collections.IIntrusiveList.html#Saro_Entities_Collections_IIntrusiveList_ToArray_
+  commentId: Overload:Saro.Entities.Collections.IIntrusiveList.ToArray
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IIntrusiveList.ToArray
+  nameWithType: IIntrusiveList.ToArray
+- uid: Saro.Entities.Collections.IntrusiveList
+  name: IntrusiveList
+  href: api/Saro.Entities.Collections.IntrusiveList.html
+  commentId: T:Saro.Entities.Collections.IntrusiveList
+  fullName: Saro.Entities.Collections.IntrusiveList
+  nameWithType: IntrusiveList
+- uid: Saro.Entities.Collections.IntrusiveList.Add(Saro.Entities.EcsEntity)
+  name: Add(EcsEntity)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Add_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.Add(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Collections.IntrusiveList.Add(Saro.Entities.EcsEntity)
+  nameWithType: IntrusiveList.Add(EcsEntity)
+- uid: Saro.Entities.Collections.IntrusiveList.Add(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity@)
+  name: Add(EcsEntity, out EcsEntity)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Add_Saro_Entities_EcsEntity_Saro_Entities_EcsEntity__
+  commentId: M:Saro.Entities.Collections.IntrusiveList.Add(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity@)
+  name.vb: Add(EcsEntity, ByRef EcsEntity)
+  fullName: Saro.Entities.Collections.IntrusiveList.Add(Saro.Entities.EcsEntity, out Saro.Entities.EcsEntity)
+  fullName.vb: Saro.Entities.Collections.IntrusiveList.Add(Saro.Entities.EcsEntity, ByRef Saro.Entities.EcsEntity)
+  nameWithType: IntrusiveList.Add(EcsEntity, out EcsEntity)
+  nameWithType.vb: IntrusiveList.Add(EcsEntity, ByRef EcsEntity)
+- uid: Saro.Entities.Collections.IntrusiveList.Add*
+  name: Add
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Add_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.Add
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.Add
+  nameWithType: IntrusiveList.Add
+- uid: Saro.Entities.Collections.IntrusiveList.AddFirst(Saro.Entities.EcsEntity)
+  name: AddFirst(EcsEntity)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_AddFirst_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.AddFirst(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Collections.IntrusiveList.AddFirst(Saro.Entities.EcsEntity)
+  nameWithType: IntrusiveList.AddFirst(EcsEntity)
+- uid: Saro.Entities.Collections.IntrusiveList.AddFirst*
+  name: AddFirst
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_AddFirst_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.AddFirst
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.AddFirst
+  nameWithType: IntrusiveList.AddFirst
+- uid: Saro.Entities.Collections.IntrusiveList.Clear(System.Boolean)
+  name: Clear(Boolean)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Clear_System_Boolean_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.Clear(System.Boolean)
+  fullName: Saro.Entities.Collections.IntrusiveList.Clear(System.Boolean)
+  nameWithType: IntrusiveList.Clear(Boolean)
+- uid: Saro.Entities.Collections.IntrusiveList.Clear*
+  name: Clear
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Clear_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.Clear
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.Clear
+  nameWithType: IntrusiveList.Clear
+- uid: Saro.Entities.Collections.IntrusiveList.Contains(Saro.Entities.EcsEntity)
+  name: Contains(EcsEntity)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Contains_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.Contains(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Collections.IntrusiveList.Contains(Saro.Entities.EcsEntity)
+  nameWithType: IntrusiveList.Contains(EcsEntity)
+- uid: Saro.Entities.Collections.IntrusiveList.Contains*
+  name: Contains
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Contains_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.Contains
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.Contains
+  nameWithType: IntrusiveList.Contains
+- uid: Saro.Entities.Collections.IntrusiveList.Count
+  name: Count
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Count
+  commentId: P:Saro.Entities.Collections.IntrusiveList.Count
+  fullName: Saro.Entities.Collections.IntrusiveList.Count
+  nameWithType: IntrusiveList.Count
+- uid: Saro.Entities.Collections.IntrusiveList.Count*
+  name: Count
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Count_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.Count
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.Count
+  nameWithType: IntrusiveList.Count
+- uid: Saro.Entities.Collections.IntrusiveList.Enumerator
+  name: IntrusiveList.Enumerator
+  href: api/Saro.Entities.Collections.IntrusiveList.Enumerator.html
+  commentId: T:Saro.Entities.Collections.IntrusiveList.Enumerator
+  fullName: Saro.Entities.Collections.IntrusiveList.Enumerator
+  nameWithType: IntrusiveList.Enumerator
+- uid: Saro.Entities.Collections.IntrusiveList.Enumerator.#ctor(Saro.Entities.Collections.IntrusiveList)
+  name: Enumerator(IntrusiveList)
+  href: api/Saro.Entities.Collections.IntrusiveList.Enumerator.html#Saro_Entities_Collections_IntrusiveList_Enumerator__ctor_Saro_Entities_Collections_IntrusiveList_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.Enumerator.#ctor(Saro.Entities.Collections.IntrusiveList)
+  fullName: Saro.Entities.Collections.IntrusiveList.Enumerator.Enumerator(Saro.Entities.Collections.IntrusiveList)
+  nameWithType: IntrusiveList.Enumerator.Enumerator(IntrusiveList)
+- uid: Saro.Entities.Collections.IntrusiveList.Enumerator.#ctor*
+  name: Enumerator
+  href: api/Saro.Entities.Collections.IntrusiveList.Enumerator.html#Saro_Entities_Collections_IntrusiveList_Enumerator__ctor_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.Enumerator.#ctor
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.Enumerator.Enumerator
+  nameWithType: IntrusiveList.Enumerator.Enumerator
+- uid: Saro.Entities.Collections.IntrusiveList.Enumerator.Current
+  name: Current
+  href: api/Saro.Entities.Collections.IntrusiveList.Enumerator.html#Saro_Entities_Collections_IntrusiveList_Enumerator_Current
+  commentId: P:Saro.Entities.Collections.IntrusiveList.Enumerator.Current
+  fullName: Saro.Entities.Collections.IntrusiveList.Enumerator.Current
+  nameWithType: IntrusiveList.Enumerator.Current
+- uid: Saro.Entities.Collections.IntrusiveList.Enumerator.Current*
+  name: Current
+  href: api/Saro.Entities.Collections.IntrusiveList.Enumerator.html#Saro_Entities_Collections_IntrusiveList_Enumerator_Current_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.Enumerator.Current
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.Enumerator.Current
+  nameWithType: IntrusiveList.Enumerator.Current
+- uid: Saro.Entities.Collections.IntrusiveList.Enumerator.MoveNext
+  name: MoveNext()
+  href: api/Saro.Entities.Collections.IntrusiveList.Enumerator.html#Saro_Entities_Collections_IntrusiveList_Enumerator_MoveNext
+  commentId: M:Saro.Entities.Collections.IntrusiveList.Enumerator.MoveNext
+  fullName: Saro.Entities.Collections.IntrusiveList.Enumerator.MoveNext()
+  nameWithType: IntrusiveList.Enumerator.MoveNext()
+- uid: Saro.Entities.Collections.IntrusiveList.Enumerator.MoveNext*
+  name: MoveNext
+  href: api/Saro.Entities.Collections.IntrusiveList.Enumerator.html#Saro_Entities_Collections_IntrusiveList_Enumerator_MoveNext_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.Enumerator.MoveNext
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.Enumerator.MoveNext
+  nameWithType: IntrusiveList.Enumerator.MoveNext
+- uid: Saro.Entities.Collections.IntrusiveList.GetEnumerator
+  name: GetEnumerator()
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_GetEnumerator
+  commentId: M:Saro.Entities.Collections.IntrusiveList.GetEnumerator
+  fullName: Saro.Entities.Collections.IntrusiveList.GetEnumerator()
+  nameWithType: IntrusiveList.GetEnumerator()
+- uid: Saro.Entities.Collections.IntrusiveList.GetEnumerator*
+  name: GetEnumerator
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_GetEnumerator_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.GetEnumerator
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.GetEnumerator
+  nameWithType: IntrusiveList.GetEnumerator
+- uid: Saro.Entities.Collections.IntrusiveList.GetFirst
+  name: GetFirst()
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_GetFirst
+  commentId: M:Saro.Entities.Collections.IntrusiveList.GetFirst
+  fullName: Saro.Entities.Collections.IntrusiveList.GetFirst()
+  nameWithType: IntrusiveList.GetFirst()
+- uid: Saro.Entities.Collections.IntrusiveList.GetFirst*
+  name: GetFirst
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_GetFirst_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.GetFirst
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.GetFirst
+  nameWithType: IntrusiveList.GetFirst
+- uid: Saro.Entities.Collections.IntrusiveList.GetLast
+  name: GetLast()
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_GetLast
+  commentId: M:Saro.Entities.Collections.IntrusiveList.GetLast
+  fullName: Saro.Entities.Collections.IntrusiveList.GetLast()
+  nameWithType: IntrusiveList.GetLast()
+- uid: Saro.Entities.Collections.IntrusiveList.GetLast*
+  name: GetLast
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_GetLast_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.GetLast
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.GetLast
+  nameWithType: IntrusiveList.GetLast
+- uid: Saro.Entities.Collections.IntrusiveList.GetRange(System.Int32,System.Int32)
+  name: GetRange(Int32, Int32)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_GetRange_System_Int32_System_Int32_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.GetRange(System.Int32,System.Int32)
+  fullName: Saro.Entities.Collections.IntrusiveList.GetRange(System.Int32, System.Int32)
+  nameWithType: IntrusiveList.GetRange(Int32, Int32)
+- uid: Saro.Entities.Collections.IntrusiveList.GetRange*
+  name: GetRange
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_GetRange_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.GetRange
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.GetRange
+  nameWithType: IntrusiveList.GetRange
+- uid: Saro.Entities.Collections.IntrusiveList.GetValue(System.Int32)
+  name: GetValue(Int32)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_GetValue_System_Int32_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.GetValue(System.Int32)
+  fullName: Saro.Entities.Collections.IntrusiveList.GetValue(System.Int32)
+  nameWithType: IntrusiveList.GetValue(Int32)
+- uid: Saro.Entities.Collections.IntrusiveList.GetValue*
+  name: GetValue
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_GetValue_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.GetValue
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.GetValue
+  nameWithType: IntrusiveList.GetValue
+- uid: Saro.Entities.Collections.IntrusiveList.Insert(Saro.Entities.EcsEntity,System.Int32)
+  name: Insert(EcsEntity, Int32)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Insert_Saro_Entities_EcsEntity_System_Int32_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.Insert(Saro.Entities.EcsEntity,System.Int32)
+  fullName: Saro.Entities.Collections.IntrusiveList.Insert(Saro.Entities.EcsEntity, System.Int32)
+  nameWithType: IntrusiveList.Insert(EcsEntity, Int32)
+- uid: Saro.Entities.Collections.IntrusiveList.Insert*
+  name: Insert
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Insert_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.Insert
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.Insert
+  nameWithType: IntrusiveList.Insert
+- uid: Saro.Entities.Collections.IntrusiveList.Remove(Saro.Entities.EcsEntity)
+  name: Remove(EcsEntity)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Remove_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.Remove(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Collections.IntrusiveList.Remove(Saro.Entities.EcsEntity)
+  nameWithType: IntrusiveList.Remove(EcsEntity)
+- uid: Saro.Entities.Collections.IntrusiveList.Remove*
+  name: Remove
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Remove_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.Remove
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.Remove
+  nameWithType: IntrusiveList.Remove
+- uid: Saro.Entities.Collections.IntrusiveList.RemoveAll(Saro.Entities.EcsEntity)
+  name: RemoveAll(EcsEntity)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_RemoveAll_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.RemoveAll(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Collections.IntrusiveList.RemoveAll(Saro.Entities.EcsEntity)
+  nameWithType: IntrusiveList.RemoveAll(EcsEntity)
+- uid: Saro.Entities.Collections.IntrusiveList.RemoveAll*
+  name: RemoveAll
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_RemoveAll_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.RemoveAll
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.RemoveAll
+  nameWithType: IntrusiveList.RemoveAll
+- uid: Saro.Entities.Collections.IntrusiveList.RemoveAt(System.Int32,System.Boolean)
+  name: RemoveAt(Int32, Boolean)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_RemoveAt_System_Int32_System_Boolean_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.RemoveAt(System.Int32,System.Boolean)
+  fullName: Saro.Entities.Collections.IntrusiveList.RemoveAt(System.Int32, System.Boolean)
+  nameWithType: IntrusiveList.RemoveAt(Int32, Boolean)
+- uid: Saro.Entities.Collections.IntrusiveList.RemoveAt*
+  name: RemoveAt
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_RemoveAt_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.RemoveAt
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.RemoveAt
+  nameWithType: IntrusiveList.RemoveAt
+- uid: Saro.Entities.Collections.IntrusiveList.RemoveFirst(System.Boolean)
+  name: RemoveFirst(Boolean)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_RemoveFirst_System_Boolean_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.RemoveFirst(System.Boolean)
+  fullName: Saro.Entities.Collections.IntrusiveList.RemoveFirst(System.Boolean)
+  nameWithType: IntrusiveList.RemoveFirst(Boolean)
+- uid: Saro.Entities.Collections.IntrusiveList.RemoveFirst*
+  name: RemoveFirst
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_RemoveFirst_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.RemoveFirst
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.RemoveFirst
+  nameWithType: IntrusiveList.RemoveFirst
+- uid: Saro.Entities.Collections.IntrusiveList.RemoveLast(System.Boolean)
+  name: RemoveLast(Boolean)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_RemoveLast_System_Boolean_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.RemoveLast(System.Boolean)
+  fullName: Saro.Entities.Collections.IntrusiveList.RemoveLast(System.Boolean)
+  nameWithType: IntrusiveList.RemoveLast(Boolean)
+- uid: Saro.Entities.Collections.IntrusiveList.RemoveLast*
+  name: RemoveLast
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_RemoveLast_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.RemoveLast
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.RemoveLast
+  nameWithType: IntrusiveList.RemoveLast
+- uid: Saro.Entities.Collections.IntrusiveList.RemoveRange(System.Int32,System.Int32,System.Boolean)
+  name: RemoveRange(Int32, Int32, Boolean)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_RemoveRange_System_Int32_System_Int32_System_Boolean_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.RemoveRange(System.Int32,System.Int32,System.Boolean)
+  fullName: Saro.Entities.Collections.IntrusiveList.RemoveRange(System.Int32, System.Int32, System.Boolean)
+  nameWithType: IntrusiveList.RemoveRange(Int32, Int32, Boolean)
+- uid: Saro.Entities.Collections.IntrusiveList.RemoveRange*
+  name: RemoveRange
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_RemoveRange_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.RemoveRange
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.RemoveRange
+  nameWithType: IntrusiveList.RemoveRange
+- uid: Saro.Entities.Collections.IntrusiveList.Replace(Saro.Entities.EcsEntity,System.Int32)
+  name: Replace(EcsEntity, Int32)
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Replace_Saro_Entities_EcsEntity_System_Int32_
+  commentId: M:Saro.Entities.Collections.IntrusiveList.Replace(Saro.Entities.EcsEntity,System.Int32)
+  fullName: Saro.Entities.Collections.IntrusiveList.Replace(Saro.Entities.EcsEntity, System.Int32)
+  nameWithType: IntrusiveList.Replace(EcsEntity, Int32)
+- uid: Saro.Entities.Collections.IntrusiveList.Replace*
+  name: Replace
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_Replace_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.Replace
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.Replace
+  nameWithType: IntrusiveList.Replace
+- uid: Saro.Entities.Collections.IntrusiveList.ToArray
+  name: ToArray()
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_ToArray
+  commentId: M:Saro.Entities.Collections.IntrusiveList.ToArray
+  fullName: Saro.Entities.Collections.IntrusiveList.ToArray()
+  nameWithType: IntrusiveList.ToArray()
+- uid: Saro.Entities.Collections.IntrusiveList.ToArray*
+  name: ToArray
+  href: api/Saro.Entities.Collections.IntrusiveList.html#Saro_Entities_Collections_IntrusiveList_ToArray_
+  commentId: Overload:Saro.Entities.Collections.IntrusiveList.ToArray
+  isSpec: "True"
+  fullName: Saro.Entities.Collections.IntrusiveList.ToArray
+  nameWithType: IntrusiveList.ToArray
+- uid: Saro.Entities.Collections.IntrusiveListNode
+  name: IntrusiveListNode
+  href: api/Saro.Entities.Collections.IntrusiveListNode.html
+  commentId: T:Saro.Entities.Collections.IntrusiveListNode
+  fullName: Saro.Entities.Collections.IntrusiveListNode
+  nameWithType: IntrusiveListNode
+- uid: Saro.Entities.Collections.IntrusiveListNode.data
+  name: data
+  href: api/Saro.Entities.Collections.IntrusiveListNode.html#Saro_Entities_Collections_IntrusiveListNode_data
+  commentId: F:Saro.Entities.Collections.IntrusiveListNode.data
+  fullName: Saro.Entities.Collections.IntrusiveListNode.data
+  nameWithType: IntrusiveListNode.data
+- uid: Saro.Entities.Collections.IntrusiveListNode.next
+  name: next
+  href: api/Saro.Entities.Collections.IntrusiveListNode.html#Saro_Entities_Collections_IntrusiveListNode_next
+  commentId: F:Saro.Entities.Collections.IntrusiveListNode.next
+  fullName: Saro.Entities.Collections.IntrusiveListNode.next
+  nameWithType: IntrusiveListNode.next
+- uid: Saro.Entities.Collections.IntrusiveListNode.prev
+  name: prev
+  href: api/Saro.Entities.Collections.IntrusiveListNode.html#Saro_Entities_Collections_IntrusiveListNode_prev
+  commentId: F:Saro.Entities.Collections.IntrusiveListNode.prev
+  fullName: Saro.Entities.Collections.IntrusiveListNode.prev
+  nameWithType: IntrusiveListNode.prev
+- uid: Saro.Entities.EcsEntity
+  name: EcsEntity
+  href: api/Saro.Entities.EcsEntity.html
+  commentId: T:Saro.Entities.EcsEntity
+  fullName: Saro.Entities.EcsEntity
+  nameWithType: EcsEntity
+- uid: Saro.Entities.EcsEntity.Destroy
+  name: Destroy()
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_Destroy
+  commentId: M:Saro.Entities.EcsEntity.Destroy
+  fullName: Saro.Entities.EcsEntity.Destroy()
+  nameWithType: EcsEntity.Destroy()
+- uid: Saro.Entities.EcsEntity.Destroy*
+  name: Destroy
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_Destroy_
+  commentId: Overload:Saro.Entities.EcsEntity.Destroy
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntity.Destroy
+  nameWithType: EcsEntity.Destroy
+- uid: Saro.Entities.EcsEntity.Equals(Saro.Entities.EcsEntity)
+  name: Equals(EcsEntity)
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_Equals_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.EcsEntity.Equals(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.EcsEntity.Equals(Saro.Entities.EcsEntity)
+  nameWithType: EcsEntity.Equals(EcsEntity)
+- uid: Saro.Entities.EcsEntity.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_Equals_System_Object_
+  commentId: M:Saro.Entities.EcsEntity.Equals(System.Object)
+  fullName: Saro.Entities.EcsEntity.Equals(System.Object)
+  nameWithType: EcsEntity.Equals(Object)
+- uid: Saro.Entities.EcsEntity.Equals*
+  name: Equals
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_Equals_
+  commentId: Overload:Saro.Entities.EcsEntity.Equals
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntity.Equals
+  nameWithType: EcsEntity.Equals
+- uid: Saro.Entities.EcsEntity.GetComponents(System.Object[]@)
+  name: GetComponents(ref Object[])
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_GetComponents_System_Object____
+  commentId: M:Saro.Entities.EcsEntity.GetComponents(System.Object[]@)
+  name.vb: GetComponents(ByRef Object())
+  fullName: Saro.Entities.EcsEntity.GetComponents(ref System.Object[])
+  fullName.vb: Saro.Entities.EcsEntity.GetComponents(ByRef System.Object())
+  nameWithType: EcsEntity.GetComponents(ref Object[])
+  nameWithType.vb: EcsEntity.GetComponents(ByRef Object())
+- uid: Saro.Entities.EcsEntity.GetComponents*
+  name: GetComponents
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_GetComponents_
+  commentId: Overload:Saro.Entities.EcsEntity.GetComponents
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntity.GetComponents
+  nameWithType: EcsEntity.GetComponents
+- uid: Saro.Entities.EcsEntity.GetHashCode
+  name: GetHashCode()
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_GetHashCode
+  commentId: M:Saro.Entities.EcsEntity.GetHashCode
+  fullName: Saro.Entities.EcsEntity.GetHashCode()
+  nameWithType: EcsEntity.GetHashCode()
+- uid: Saro.Entities.EcsEntity.GetHashCode*
+  name: GetHashCode
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_GetHashCode_
+  commentId: Overload:Saro.Entities.EcsEntity.GetHashCode
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntity.GetHashCode
+  nameWithType: EcsEntity.GetHashCode
+- uid: Saro.Entities.EcsEntity.id
+  name: id
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_id
+  commentId: F:Saro.Entities.EcsEntity.id
+  fullName: Saro.Entities.EcsEntity.id
+  nameWithType: EcsEntity.id
+- uid: Saro.Entities.EcsEntity.IsAlive
+  name: IsAlive()
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_IsAlive
+  commentId: M:Saro.Entities.EcsEntity.IsAlive
+  fullName: Saro.Entities.EcsEntity.IsAlive()
+  nameWithType: EcsEntity.IsAlive()
+- uid: Saro.Entities.EcsEntity.IsAlive*
+  name: IsAlive
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_IsAlive_
+  commentId: Overload:Saro.Entities.EcsEntity.IsAlive
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntity.IsAlive
+  nameWithType: EcsEntity.IsAlive
+- uid: Saro.Entities.EcsEntity.IsNull
+  name: IsNull()
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_IsNull
+  commentId: M:Saro.Entities.EcsEntity.IsNull
+  fullName: Saro.Entities.EcsEntity.IsNull()
+  nameWithType: EcsEntity.IsNull()
+- uid: Saro.Entities.EcsEntity.IsNull*
+  name: IsNull
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_IsNull_
+  commentId: Overload:Saro.Entities.EcsEntity.IsNull
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntity.IsNull
+  nameWithType: EcsEntity.IsNull
+- uid: Saro.Entities.EcsEntity.k_Null
+  name: k_Null
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_k_Null
+  commentId: F:Saro.Entities.EcsEntity.k_Null
+  fullName: Saro.Entities.EcsEntity.k_Null
+  nameWithType: EcsEntity.k_Null
+- uid: Saro.Entities.EcsEntity.op_Equality(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity)
+  name: Equality(EcsEntity, EcsEntity)
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_op_Equality_Saro_Entities_EcsEntity_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.EcsEntity.op_Equality(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.EcsEntity.Equality(Saro.Entities.EcsEntity, Saro.Entities.EcsEntity)
+  nameWithType: EcsEntity.Equality(EcsEntity, EcsEntity)
+- uid: Saro.Entities.EcsEntity.op_Equality*
+  name: Equality
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_op_Equality_
+  commentId: Overload:Saro.Entities.EcsEntity.op_Equality
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntity.Equality
+  nameWithType: EcsEntity.Equality
+- uid: Saro.Entities.EcsEntity.op_Inequality(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity)
+  name: Inequality(EcsEntity, EcsEntity)
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_op_Inequality_Saro_Entities_EcsEntity_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.EcsEntity.op_Inequality(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.EcsEntity.Inequality(Saro.Entities.EcsEntity, Saro.Entities.EcsEntity)
+  nameWithType: EcsEntity.Inequality(EcsEntity, EcsEntity)
+- uid: Saro.Entities.EcsEntity.op_Inequality*
+  name: Inequality
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_op_Inequality_
+  commentId: Overload:Saro.Entities.EcsEntity.op_Inequality
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntity.Inequality
+  nameWithType: EcsEntity.Inequality
+- uid: Saro.Entities.EcsEntity.World
+  name: World
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_World
+  commentId: P:Saro.Entities.EcsEntity.World
+  fullName: Saro.Entities.EcsEntity.World
+  nameWithType: EcsEntity.World
+- uid: Saro.Entities.EcsEntity.World*
+  name: World
+  href: api/Saro.Entities.EcsEntity.html#Saro_Entities_EcsEntity_World_
+  commentId: Overload:Saro.Entities.EcsEntity.World
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntity.World
+  nameWithType: EcsEntity.World
+- uid: Saro.Entities.EcsEntityExtensions
+  name: EcsEntityExtensions
+  href: api/Saro.Entities.EcsEntityExtensions.html
+  commentId: T:Saro.Entities.EcsEntityExtensions
+  fullName: Saro.Entities.EcsEntityExtensions
+  nameWithType: EcsEntityExtensions
+- uid: Saro.Entities.EcsEntityExtensions.Add*
+  name: Add
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Add_
+  commentId: Overload:Saro.Entities.EcsEntityExtensions.Add
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntityExtensions.Add
+  nameWithType: EcsEntityExtensions.Add
+- uid: Saro.Entities.EcsEntityExtensions.Add``1(Saro.Entities.EcsEntity)
+  name: Add<T>(EcsEntity)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Add__1_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.EcsEntityExtensions.Add``1(Saro.Entities.EcsEntity)
+  name.vb: Add(Of T)(EcsEntity)
+  fullName: Saro.Entities.EcsEntityExtensions.Add<T>(Saro.Entities.EcsEntity)
+  fullName.vb: Saro.Entities.EcsEntityExtensions.Add(Of T)(Saro.Entities.EcsEntity)
+  nameWithType: EcsEntityExtensions.Add<T>(EcsEntity)
+  nameWithType.vb: EcsEntityExtensions.Add(Of T)(EcsEntity)
+- uid: Saro.Entities.EcsEntityExtensions.Add``1(System.Int32,Saro.Entities.EcsWorld)
+  name: Add<T>(Int32, EcsWorld)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Add__1_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.EcsEntityExtensions.Add``1(System.Int32,Saro.Entities.EcsWorld)
+  name.vb: Add(Of T)(Int32, EcsWorld)
+  fullName: Saro.Entities.EcsEntityExtensions.Add<T>(System.Int32, Saro.Entities.EcsWorld)
+  fullName.vb: Saro.Entities.EcsEntityExtensions.Add(Of T)(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsEntityExtensions.Add<T>(Int32, EcsWorld)
+  nameWithType.vb: EcsEntityExtensions.Add(Of T)(Int32, EcsWorld)
+- uid: Saro.Entities.EcsEntityExtensions.Del*
+  name: Del
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Del_
+  commentId: Overload:Saro.Entities.EcsEntityExtensions.Del
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntityExtensions.Del
+  nameWithType: EcsEntityExtensions.Del
+- uid: Saro.Entities.EcsEntityExtensions.Del``1(Saro.Entities.EcsEntity@)
+  name: Del<T>(EcsEntity)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Del__1_Saro_Entities_EcsEntity__
+  commentId: M:Saro.Entities.EcsEntityExtensions.Del``1(Saro.Entities.EcsEntity@)
+  name.vb: Del(Of T)(ByRef EcsEntity)
+  fullName: Saro.Entities.EcsEntityExtensions.Del<T>(Saro.Entities.EcsEntity)
+  fullName.vb: Saro.Entities.EcsEntityExtensions.Del(Of T)(ByRef Saro.Entities.EcsEntity)
+  nameWithType: EcsEntityExtensions.Del<T>(EcsEntity)
+  nameWithType.vb: EcsEntityExtensions.Del(Of T)(ByRef EcsEntity)
+- uid: Saro.Entities.EcsEntityExtensions.Del``1(System.Int32,Saro.Entities.EcsWorld)
+  name: Del<T>(Int32, EcsWorld)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Del__1_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.EcsEntityExtensions.Del``1(System.Int32,Saro.Entities.EcsWorld)
+  name.vb: Del(Of T)(Int32, EcsWorld)
+  fullName: Saro.Entities.EcsEntityExtensions.Del<T>(System.Int32, Saro.Entities.EcsWorld)
+  fullName.vb: Saro.Entities.EcsEntityExtensions.Del(Of T)(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsEntityExtensions.Del<T>(Int32, EcsWorld)
+  nameWithType.vb: EcsEntityExtensions.Del(Of T)(Int32, EcsWorld)
+- uid: Saro.Entities.EcsEntityExtensions.Get*
+  name: Get
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Get_
+  commentId: Overload:Saro.Entities.EcsEntityExtensions.Get
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntityExtensions.Get
+  nameWithType: EcsEntityExtensions.Get
+- uid: Saro.Entities.EcsEntityExtensions.Get``1(Saro.Entities.EcsEntity@)
+  name: Get<T>(EcsEntity)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Get__1_Saro_Entities_EcsEntity__
+  commentId: M:Saro.Entities.EcsEntityExtensions.Get``1(Saro.Entities.EcsEntity@)
+  name.vb: Get(Of T)(ByRef EcsEntity)
+  fullName: Saro.Entities.EcsEntityExtensions.Get<T>(Saro.Entities.EcsEntity)
+  fullName.vb: Saro.Entities.EcsEntityExtensions.Get(Of T)(ByRef Saro.Entities.EcsEntity)
+  nameWithType: EcsEntityExtensions.Get<T>(EcsEntity)
+  nameWithType.vb: EcsEntityExtensions.Get(Of T)(ByRef EcsEntity)
+- uid: Saro.Entities.EcsEntityExtensions.Get``1(System.Int32,Saro.Entities.EcsWorld)
+  name: Get<T>(Int32, EcsWorld)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Get__1_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.EcsEntityExtensions.Get``1(System.Int32,Saro.Entities.EcsWorld)
+  name.vb: Get(Of T)(Int32, EcsWorld)
+  fullName: Saro.Entities.EcsEntityExtensions.Get<T>(System.Int32, Saro.Entities.EcsWorld)
+  fullName.vb: Saro.Entities.EcsEntityExtensions.Get(Of T)(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsEntityExtensions.Get<T>(Int32, EcsWorld)
+  nameWithType.vb: EcsEntityExtensions.Get(Of T)(Int32, EcsWorld)
+- uid: Saro.Entities.EcsEntityExtensions.GetOrAdd*
+  name: GetOrAdd
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_GetOrAdd_
+  commentId: Overload:Saro.Entities.EcsEntityExtensions.GetOrAdd
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntityExtensions.GetOrAdd
+  nameWithType: EcsEntityExtensions.GetOrAdd
+- uid: Saro.Entities.EcsEntityExtensions.GetOrAdd``1(Saro.Entities.EcsEntity)
+  name: GetOrAdd<T>(EcsEntity)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_GetOrAdd__1_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.EcsEntityExtensions.GetOrAdd``1(Saro.Entities.EcsEntity)
+  name.vb: GetOrAdd(Of T)(EcsEntity)
+  fullName: Saro.Entities.EcsEntityExtensions.GetOrAdd<T>(Saro.Entities.EcsEntity)
+  fullName.vb: Saro.Entities.EcsEntityExtensions.GetOrAdd(Of T)(Saro.Entities.EcsEntity)
+  nameWithType: EcsEntityExtensions.GetOrAdd<T>(EcsEntity)
+  nameWithType.vb: EcsEntityExtensions.GetOrAdd(Of T)(EcsEntity)
+- uid: Saro.Entities.EcsEntityExtensions.GetOrAdd``1(System.Int32,Saro.Entities.EcsWorld)
+  name: GetOrAdd<T>(Int32, EcsWorld)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_GetOrAdd__1_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.EcsEntityExtensions.GetOrAdd``1(System.Int32,Saro.Entities.EcsWorld)
+  name.vb: GetOrAdd(Of T)(Int32, EcsWorld)
+  fullName: Saro.Entities.EcsEntityExtensions.GetOrAdd<T>(System.Int32, Saro.Entities.EcsWorld)
+  fullName.vb: Saro.Entities.EcsEntityExtensions.GetOrAdd(Of T)(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsEntityExtensions.GetOrAdd<T>(Int32, EcsWorld)
+  nameWithType.vb: EcsEntityExtensions.GetOrAdd(Of T)(Int32, EcsWorld)
+- uid: Saro.Entities.EcsEntityExtensions.Has*
+  name: Has
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Has_
+  commentId: Overload:Saro.Entities.EcsEntityExtensions.Has
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntityExtensions.Has
+  nameWithType: EcsEntityExtensions.Has
+- uid: Saro.Entities.EcsEntityExtensions.Has``1(Saro.Entities.EcsEntity@)
+  name: Has<T>(EcsEntity)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Has__1_Saro_Entities_EcsEntity__
+  commentId: M:Saro.Entities.EcsEntityExtensions.Has``1(Saro.Entities.EcsEntity@)
+  name.vb: Has(Of T)(ByRef EcsEntity)
+  fullName: Saro.Entities.EcsEntityExtensions.Has<T>(Saro.Entities.EcsEntity)
+  fullName.vb: Saro.Entities.EcsEntityExtensions.Has(Of T)(ByRef Saro.Entities.EcsEntity)
+  nameWithType: EcsEntityExtensions.Has<T>(EcsEntity)
+  nameWithType.vb: EcsEntityExtensions.Has(Of T)(ByRef EcsEntity)
+- uid: Saro.Entities.EcsEntityExtensions.Has``1(System.Int32,Saro.Entities.EcsWorld)
+  name: Has<T>(Int32, EcsWorld)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Has__1_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.EcsEntityExtensions.Has``1(System.Int32,Saro.Entities.EcsWorld)
+  name.vb: Has(Of T)(Int32, EcsWorld)
+  fullName: Saro.Entities.EcsEntityExtensions.Has<T>(System.Int32, Saro.Entities.EcsWorld)
+  fullName.vb: Saro.Entities.EcsEntityExtensions.Has(Of T)(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsEntityExtensions.Has<T>(Int32, EcsWorld)
+  nameWithType.vb: EcsEntityExtensions.Has(Of T)(Int32, EcsWorld)
+- uid: Saro.Entities.EcsEntityExtensions.NewEcsEntity(Saro.Entities.EcsWorld)
+  name: NewEcsEntity(EcsWorld)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_NewEcsEntity_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.EcsEntityExtensions.NewEcsEntity(Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.EcsEntityExtensions.NewEcsEntity(Saro.Entities.EcsWorld)
+  nameWithType: EcsEntityExtensions.NewEcsEntity(EcsWorld)
+- uid: Saro.Entities.EcsEntityExtensions.NewEcsEntity(Saro.Entities.EcsWorld,System.String)
+  name: NewEcsEntity(EcsWorld, String)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_NewEcsEntity_Saro_Entities_EcsWorld_System_String_
+  commentId: M:Saro.Entities.EcsEntityExtensions.NewEcsEntity(Saro.Entities.EcsWorld,System.String)
+  fullName: Saro.Entities.EcsEntityExtensions.NewEcsEntity(Saro.Entities.EcsWorld, System.String)
+  nameWithType: EcsEntityExtensions.NewEcsEntity(EcsWorld, String)
+- uid: Saro.Entities.EcsEntityExtensions.NewEcsEntity*
+  name: NewEcsEntity
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_NewEcsEntity_
+  commentId: Overload:Saro.Entities.EcsEntityExtensions.NewEcsEntity
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntityExtensions.NewEcsEntity
+  nameWithType: EcsEntityExtensions.NewEcsEntity
+- uid: Saro.Entities.EcsEntityExtensions.Pack(Saro.Entities.EcsWorld,System.Int32)
+  name: Pack(EcsWorld, Int32)
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Pack_Saro_Entities_EcsWorld_System_Int32_
+  commentId: M:Saro.Entities.EcsEntityExtensions.Pack(Saro.Entities.EcsWorld,System.Int32)
+  fullName: Saro.Entities.EcsEntityExtensions.Pack(Saro.Entities.EcsWorld, System.Int32)
+  nameWithType: EcsEntityExtensions.Pack(EcsWorld, Int32)
+- uid: Saro.Entities.EcsEntityExtensions.Pack*
+  name: Pack
+  href: api/Saro.Entities.EcsEntityExtensions.html#Saro_Entities_EcsEntityExtensions_Pack_
+  commentId: Overload:Saro.Entities.EcsEntityExtensions.Pack
+  isSpec: "True"
+  fullName: Saro.Entities.EcsEntityExtensions.Pack
+  nameWithType: EcsEntityExtensions.Pack
+- uid: Saro.Entities.EcsException
+  name: EcsException
+  href: api/Saro.Entities.EcsException.html
+  commentId: T:Saro.Entities.EcsException
+  fullName: Saro.Entities.EcsException
+  nameWithType: EcsException
+- uid: Saro.Entities.EcsException.#ctor(System.String)
+  name: EcsException(String)
+  href: api/Saro.Entities.EcsException.html#Saro_Entities_EcsException__ctor_System_String_
+  commentId: M:Saro.Entities.EcsException.#ctor(System.String)
+  fullName: Saro.Entities.EcsException.EcsException(System.String)
+  nameWithType: EcsException.EcsException(String)
+- uid: Saro.Entities.EcsException.#ctor*
+  name: EcsException
+  href: api/Saro.Entities.EcsException.html#Saro_Entities_EcsException__ctor_
+  commentId: Overload:Saro.Entities.EcsException.#ctor
+  isSpec: "True"
+  fullName: Saro.Entities.EcsException.EcsException
+  nameWithType: EcsException.EcsException
+- uid: Saro.Entities.EcsFilter
+  name: EcsFilter
+  href: api/Saro.Entities.EcsFilter.html
+  commentId: T:Saro.Entities.EcsFilter
+  fullName: Saro.Entities.EcsFilter
+  nameWithType: EcsFilter
+- uid: Saro.Entities.EcsFilter.EntitiesCount
+  name: EntitiesCount
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_EntitiesCount
+  commentId: P:Saro.Entities.EcsFilter.EntitiesCount
+  fullName: Saro.Entities.EcsFilter.EntitiesCount
+  nameWithType: EcsFilter.EntitiesCount
+- uid: Saro.Entities.EcsFilter.EntitiesCount*
+  name: EntitiesCount
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_EntitiesCount_
+  commentId: Overload:Saro.Entities.EcsFilter.EntitiesCount
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.EntitiesCount
+  nameWithType: EcsFilter.EntitiesCount
+- uid: Saro.Entities.EcsFilter.Enumerator
+  name: EcsFilter.Enumerator
+  href: api/Saro.Entities.EcsFilter.Enumerator.html
+  commentId: T:Saro.Entities.EcsFilter.Enumerator
+  fullName: Saro.Entities.EcsFilter.Enumerator
+  nameWithType: EcsFilter.Enumerator
+- uid: Saro.Entities.EcsFilter.Enumerator.#ctor(Saro.Entities.EcsFilter)
+  name: Enumerator(EcsFilter)
+  href: api/Saro.Entities.EcsFilter.Enumerator.html#Saro_Entities_EcsFilter_Enumerator__ctor_Saro_Entities_EcsFilter_
+  commentId: M:Saro.Entities.EcsFilter.Enumerator.#ctor(Saro.Entities.EcsFilter)
+  fullName: Saro.Entities.EcsFilter.Enumerator.Enumerator(Saro.Entities.EcsFilter)
+  nameWithType: EcsFilter.Enumerator.Enumerator(EcsFilter)
+- uid: Saro.Entities.EcsFilter.Enumerator.#ctor*
+  name: Enumerator
+  href: api/Saro.Entities.EcsFilter.Enumerator.html#Saro_Entities_EcsFilter_Enumerator__ctor_
+  commentId: Overload:Saro.Entities.EcsFilter.Enumerator.#ctor
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.Enumerator.Enumerator
+  nameWithType: EcsFilter.Enumerator.Enumerator
+- uid: Saro.Entities.EcsFilter.Enumerator.Current
+  name: Current
+  href: api/Saro.Entities.EcsFilter.Enumerator.html#Saro_Entities_EcsFilter_Enumerator_Current
+  commentId: P:Saro.Entities.EcsFilter.Enumerator.Current
+  fullName: Saro.Entities.EcsFilter.Enumerator.Current
+  nameWithType: EcsFilter.Enumerator.Current
+- uid: Saro.Entities.EcsFilter.Enumerator.Current*
+  name: Current
+  href: api/Saro.Entities.EcsFilter.Enumerator.html#Saro_Entities_EcsFilter_Enumerator_Current_
+  commentId: Overload:Saro.Entities.EcsFilter.Enumerator.Current
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.Enumerator.Current
+  nameWithType: EcsFilter.Enumerator.Current
+- uid: Saro.Entities.EcsFilter.Enumerator.Dispose
+  name: Dispose()
+  href: api/Saro.Entities.EcsFilter.Enumerator.html#Saro_Entities_EcsFilter_Enumerator_Dispose
+  commentId: M:Saro.Entities.EcsFilter.Enumerator.Dispose
+  fullName: Saro.Entities.EcsFilter.Enumerator.Dispose()
+  nameWithType: EcsFilter.Enumerator.Dispose()
+- uid: Saro.Entities.EcsFilter.Enumerator.Dispose*
+  name: Dispose
+  href: api/Saro.Entities.EcsFilter.Enumerator.html#Saro_Entities_EcsFilter_Enumerator_Dispose_
+  commentId: Overload:Saro.Entities.EcsFilter.Enumerator.Dispose
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.Enumerator.Dispose
+  nameWithType: EcsFilter.Enumerator.Dispose
+- uid: Saro.Entities.EcsFilter.Enumerator.MoveNext
+  name: MoveNext()
+  href: api/Saro.Entities.EcsFilter.Enumerator.html#Saro_Entities_EcsFilter_Enumerator_MoveNext
+  commentId: M:Saro.Entities.EcsFilter.Enumerator.MoveNext
+  fullName: Saro.Entities.EcsFilter.Enumerator.MoveNext()
+  nameWithType: EcsFilter.Enumerator.MoveNext()
+- uid: Saro.Entities.EcsFilter.Enumerator.MoveNext*
+  name: MoveNext
+  href: api/Saro.Entities.EcsFilter.Enumerator.html#Saro_Entities_EcsFilter_Enumerator_MoveNext_
+  commentId: Overload:Saro.Entities.EcsFilter.Enumerator.MoveNext
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.Enumerator.MoveNext
+  nameWithType: EcsFilter.Enumerator.MoveNext
+- uid: Saro.Entities.EcsFilter.GetEntitiesCount
+  name: GetEntitiesCount()
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_GetEntitiesCount
+  commentId: M:Saro.Entities.EcsFilter.GetEntitiesCount
+  fullName: Saro.Entities.EcsFilter.GetEntitiesCount()
+  nameWithType: EcsFilter.GetEntitiesCount()
+- uid: Saro.Entities.EcsFilter.GetEntitiesCount*
+  name: GetEntitiesCount
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_GetEntitiesCount_
+  commentId: Overload:Saro.Entities.EcsFilter.GetEntitiesCount
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.GetEntitiesCount
+  nameWithType: EcsFilter.GetEntitiesCount
+- uid: Saro.Entities.EcsFilter.GetEnumerator
+  name: GetEnumerator()
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_GetEnumerator
+  commentId: M:Saro.Entities.EcsFilter.GetEnumerator
+  fullName: Saro.Entities.EcsFilter.GetEnumerator()
+  nameWithType: EcsFilter.GetEnumerator()
+- uid: Saro.Entities.EcsFilter.GetEnumerator*
+  name: GetEnumerator
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_GetEnumerator_
+  commentId: Overload:Saro.Entities.EcsFilter.GetEnumerator
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.GetEnumerator
+  nameWithType: EcsFilter.GetEnumerator
+- uid: Saro.Entities.EcsFilter.GetRawEntities
+  name: GetRawEntities()
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_GetRawEntities
+  commentId: M:Saro.Entities.EcsFilter.GetRawEntities
+  fullName: Saro.Entities.EcsFilter.GetRawEntities()
+  nameWithType: EcsFilter.GetRawEntities()
+- uid: Saro.Entities.EcsFilter.GetRawEntities*
+  name: GetRawEntities
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_GetRawEntities_
+  commentId: Overload:Saro.Entities.EcsFilter.GetRawEntities
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.GetRawEntities
+  nameWithType: EcsFilter.GetRawEntities
+- uid: Saro.Entities.EcsFilter.GetSparseIndex
+  name: GetSparseIndex()
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_GetSparseIndex
+  commentId: M:Saro.Entities.EcsFilter.GetSparseIndex
+  fullName: Saro.Entities.EcsFilter.GetSparseIndex()
+  nameWithType: EcsFilter.GetSparseIndex()
+- uid: Saro.Entities.EcsFilter.GetSparseIndex*
+  name: GetSparseIndex
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_GetSparseIndex_
+  commentId: Overload:Saro.Entities.EcsFilter.GetSparseIndex
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.GetSparseIndex
+  nameWithType: EcsFilter.GetSparseIndex
+- uid: Saro.Entities.EcsFilter.GetWorld
+  name: GetWorld()
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_GetWorld
+  commentId: M:Saro.Entities.EcsFilter.GetWorld
+  fullName: Saro.Entities.EcsFilter.GetWorld()
+  nameWithType: EcsFilter.GetWorld()
+- uid: Saro.Entities.EcsFilter.GetWorld*
+  name: GetWorld
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_GetWorld_
+  commentId: Overload:Saro.Entities.EcsFilter.GetWorld
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.GetWorld
+  nameWithType: EcsFilter.GetWorld
+- uid: Saro.Entities.EcsFilter.Item(System.Int32)
+  name: Item[Int32]
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_Item_System_Int32_
+  commentId: P:Saro.Entities.EcsFilter.Item(System.Int32)
+  name.vb: Item(Int32)
+  fullName: Saro.Entities.EcsFilter.Item[System.Int32]
+  fullName.vb: Saro.Entities.EcsFilter.Item(System.Int32)
+  nameWithType: EcsFilter.Item[Int32]
+  nameWithType.vb: EcsFilter.Item(Int32)
+- uid: Saro.Entities.EcsFilter.Item*
+  name: Item
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_Item_
+  commentId: Overload:Saro.Entities.EcsFilter.Item
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.Item
+  nameWithType: EcsFilter.Item
+- uid: Saro.Entities.EcsFilter.ToString
+  name: ToString()
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_ToString
+  commentId: M:Saro.Entities.EcsFilter.ToString
+  fullName: Saro.Entities.EcsFilter.ToString()
+  nameWithType: EcsFilter.ToString()
+- uid: Saro.Entities.EcsFilter.ToString*
+  name: ToString
+  href: api/Saro.Entities.EcsFilter.html#Saro_Entities_EcsFilter_ToString_
+  commentId: Overload:Saro.Entities.EcsFilter.ToString
+  isSpec: "True"
+  fullName: Saro.Entities.EcsFilter.ToString
+  nameWithType: EcsFilter.ToString
+- uid: Saro.Entities.EcsPool`1
+  name: EcsPool<T>
+  href: api/Saro.Entities.EcsPool-1.html
+  commentId: T:Saro.Entities.EcsPool`1
+  name.vb: EcsPool(Of T)
+  fullName: Saro.Entities.EcsPool<T>
+  fullName.vb: Saro.Entities.EcsPool(Of T)
+  nameWithType: EcsPool<T>
+  nameWithType.vb: EcsPool(Of T)
+- uid: Saro.Entities.EcsPool`1.Add(System.Int32)
+  name: Add(Int32)
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Add_System_Int32_
+  commentId: M:Saro.Entities.EcsPool`1.Add(System.Int32)
+  fullName: Saro.Entities.EcsPool<T>.Add(System.Int32)
+  fullName.vb: Saro.Entities.EcsPool(Of T).Add(System.Int32)
+  nameWithType: EcsPool<T>.Add(Int32)
+  nameWithType.vb: EcsPool(Of T).Add(Int32)
+- uid: Saro.Entities.EcsPool`1.Add*
+  name: Add
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Add_
+  commentId: Overload:Saro.Entities.EcsPool`1.Add
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.Add
+  fullName.vb: Saro.Entities.EcsPool(Of T).Add
+  nameWithType: EcsPool<T>.Add
+  nameWithType.vb: EcsPool(Of T).Add
+- uid: Saro.Entities.EcsPool`1.Del(System.Int32)
+  name: Del(Int32)
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Del_System_Int32_
+  commentId: M:Saro.Entities.EcsPool`1.Del(System.Int32)
+  fullName: Saro.Entities.EcsPool<T>.Del(System.Int32)
+  fullName.vb: Saro.Entities.EcsPool(Of T).Del(System.Int32)
+  nameWithType: EcsPool<T>.Del(Int32)
+  nameWithType.vb: EcsPool(Of T).Del(Int32)
+- uid: Saro.Entities.EcsPool`1.Del*
+  name: Del
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Del_
+  commentId: Overload:Saro.Entities.EcsPool`1.Del
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.Del
+  fullName.vb: Saro.Entities.EcsPool(Of T).Del
+  nameWithType: EcsPool<T>.Del
+  nameWithType.vb: EcsPool(Of T).Del
+- uid: Saro.Entities.EcsPool`1.Get(System.Int32)
+  name: Get(Int32)
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Get_System_Int32_
+  commentId: M:Saro.Entities.EcsPool`1.Get(System.Int32)
+  fullName: Saro.Entities.EcsPool<T>.Get(System.Int32)
+  fullName.vb: Saro.Entities.EcsPool(Of T).Get(System.Int32)
+  nameWithType: EcsPool<T>.Get(Int32)
+  nameWithType.vb: EcsPool(Of T).Get(Int32)
+- uid: Saro.Entities.EcsPool`1.Get*
+  name: Get
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Get_
+  commentId: Overload:Saro.Entities.EcsPool`1.Get
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.Get
+  fullName.vb: Saro.Entities.EcsPool(Of T).Get
+  nameWithType: EcsPool<T>.Get
+  nameWithType.vb: EcsPool(Of T).Get
+- uid: Saro.Entities.EcsPool`1.GetComponentType
+  name: GetComponentType()
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetComponentType
+  commentId: M:Saro.Entities.EcsPool`1.GetComponentType
+  fullName: Saro.Entities.EcsPool<T>.GetComponentType()
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetComponentType()
+  nameWithType: EcsPool<T>.GetComponentType()
+  nameWithType.vb: EcsPool(Of T).GetComponentType()
+- uid: Saro.Entities.EcsPool`1.GetComponentType*
+  name: GetComponentType
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetComponentType_
+  commentId: Overload:Saro.Entities.EcsPool`1.GetComponentType
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.GetComponentType
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetComponentType
+  nameWithType: EcsPool<T>.GetComponentType
+  nameWithType.vb: EcsPool(Of T).GetComponentType
+- uid: Saro.Entities.EcsPool`1.GetId
+  name: GetId()
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetId
+  commentId: M:Saro.Entities.EcsPool`1.GetId
+  fullName: Saro.Entities.EcsPool<T>.GetId()
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetId()
+  nameWithType: EcsPool<T>.GetId()
+  nameWithType.vb: EcsPool(Of T).GetId()
+- uid: Saro.Entities.EcsPool`1.GetId*
+  name: GetId
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetId_
+  commentId: Overload:Saro.Entities.EcsPool`1.GetId
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.GetId
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetId
+  nameWithType: EcsPool<T>.GetId
+  nameWithType.vb: EcsPool(Of T).GetId
+- uid: Saro.Entities.EcsPool`1.GetOrAdd(System.Int32)
+  name: GetOrAdd(Int32)
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetOrAdd_System_Int32_
+  commentId: M:Saro.Entities.EcsPool`1.GetOrAdd(System.Int32)
+  fullName: Saro.Entities.EcsPool<T>.GetOrAdd(System.Int32)
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetOrAdd(System.Int32)
+  nameWithType: EcsPool<T>.GetOrAdd(Int32)
+  nameWithType.vb: EcsPool(Of T).GetOrAdd(Int32)
+- uid: Saro.Entities.EcsPool`1.GetOrAdd*
+  name: GetOrAdd
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetOrAdd_
+  commentId: Overload:Saro.Entities.EcsPool`1.GetOrAdd
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.GetOrAdd
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetOrAdd
+  nameWithType: EcsPool<T>.GetOrAdd
+  nameWithType.vb: EcsPool(Of T).GetOrAdd
+- uid: Saro.Entities.EcsPool`1.GetRawDenseItems
+  name: GetRawDenseItems()
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetRawDenseItems
+  commentId: M:Saro.Entities.EcsPool`1.GetRawDenseItems
+  fullName: Saro.Entities.EcsPool<T>.GetRawDenseItems()
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetRawDenseItems()
+  nameWithType: EcsPool<T>.GetRawDenseItems()
+  nameWithType.vb: EcsPool(Of T).GetRawDenseItems()
+- uid: Saro.Entities.EcsPool`1.GetRawDenseItems*
+  name: GetRawDenseItems
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetRawDenseItems_
+  commentId: Overload:Saro.Entities.EcsPool`1.GetRawDenseItems
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.GetRawDenseItems
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetRawDenseItems
+  nameWithType: EcsPool<T>.GetRawDenseItems
+  nameWithType.vb: EcsPool(Of T).GetRawDenseItems
+- uid: Saro.Entities.EcsPool`1.GetRawDenseItemsCount
+  name: GetRawDenseItemsCount()
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetRawDenseItemsCount
+  commentId: M:Saro.Entities.EcsPool`1.GetRawDenseItemsCount
+  fullName: Saro.Entities.EcsPool<T>.GetRawDenseItemsCount()
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetRawDenseItemsCount()
+  nameWithType: EcsPool<T>.GetRawDenseItemsCount()
+  nameWithType.vb: EcsPool(Of T).GetRawDenseItemsCount()
+- uid: Saro.Entities.EcsPool`1.GetRawDenseItemsCount*
+  name: GetRawDenseItemsCount
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetRawDenseItemsCount_
+  commentId: Overload:Saro.Entities.EcsPool`1.GetRawDenseItemsCount
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.GetRawDenseItemsCount
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetRawDenseItemsCount
+  nameWithType: EcsPool<T>.GetRawDenseItemsCount
+  nameWithType.vb: EcsPool(Of T).GetRawDenseItemsCount
+- uid: Saro.Entities.EcsPool`1.GetRawRecycledItems
+  name: GetRawRecycledItems()
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetRawRecycledItems
+  commentId: M:Saro.Entities.EcsPool`1.GetRawRecycledItems
+  fullName: Saro.Entities.EcsPool<T>.GetRawRecycledItems()
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetRawRecycledItems()
+  nameWithType: EcsPool<T>.GetRawRecycledItems()
+  nameWithType.vb: EcsPool(Of T).GetRawRecycledItems()
+- uid: Saro.Entities.EcsPool`1.GetRawRecycledItems*
+  name: GetRawRecycledItems
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetRawRecycledItems_
+  commentId: Overload:Saro.Entities.EcsPool`1.GetRawRecycledItems
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.GetRawRecycledItems
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetRawRecycledItems
+  nameWithType: EcsPool<T>.GetRawRecycledItems
+  nameWithType.vb: EcsPool(Of T).GetRawRecycledItems
+- uid: Saro.Entities.EcsPool`1.GetRawRecycledItemsCount
+  name: GetRawRecycledItemsCount()
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetRawRecycledItemsCount
+  commentId: M:Saro.Entities.EcsPool`1.GetRawRecycledItemsCount
+  fullName: Saro.Entities.EcsPool<T>.GetRawRecycledItemsCount()
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetRawRecycledItemsCount()
+  nameWithType: EcsPool<T>.GetRawRecycledItemsCount()
+  nameWithType.vb: EcsPool(Of T).GetRawRecycledItemsCount()
+- uid: Saro.Entities.EcsPool`1.GetRawRecycledItemsCount*
+  name: GetRawRecycledItemsCount
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetRawRecycledItemsCount_
+  commentId: Overload:Saro.Entities.EcsPool`1.GetRawRecycledItemsCount
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.GetRawRecycledItemsCount
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetRawRecycledItemsCount
+  nameWithType: EcsPool<T>.GetRawRecycledItemsCount
+  nameWithType.vb: EcsPool(Of T).GetRawRecycledItemsCount
+- uid: Saro.Entities.EcsPool`1.GetRawSparseItems
+  name: GetRawSparseItems()
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetRawSparseItems
+  commentId: M:Saro.Entities.EcsPool`1.GetRawSparseItems
+  fullName: Saro.Entities.EcsPool<T>.GetRawSparseItems()
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetRawSparseItems()
+  nameWithType: EcsPool<T>.GetRawSparseItems()
+  nameWithType.vb: EcsPool(Of T).GetRawSparseItems()
+- uid: Saro.Entities.EcsPool`1.GetRawSparseItems*
+  name: GetRawSparseItems
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetRawSparseItems_
+  commentId: Overload:Saro.Entities.EcsPool`1.GetRawSparseItems
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.GetRawSparseItems
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetRawSparseItems
+  nameWithType: EcsPool<T>.GetRawSparseItems
+  nameWithType.vb: EcsPool(Of T).GetRawSparseItems
+- uid: Saro.Entities.EcsPool`1.GetWorld
+  name: GetWorld()
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetWorld
+  commentId: M:Saro.Entities.EcsPool`1.GetWorld
+  fullName: Saro.Entities.EcsPool<T>.GetWorld()
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetWorld()
+  nameWithType: EcsPool<T>.GetWorld()
+  nameWithType.vb: EcsPool(Of T).GetWorld()
+- uid: Saro.Entities.EcsPool`1.GetWorld*
+  name: GetWorld
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_GetWorld_
+  commentId: Overload:Saro.Entities.EcsPool`1.GetWorld
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.GetWorld
+  fullName.vb: Saro.Entities.EcsPool(Of T).GetWorld
+  nameWithType: EcsPool<T>.GetWorld
+  nameWithType.vb: EcsPool(Of T).GetWorld
+- uid: Saro.Entities.EcsPool`1.Has(System.Int32)
+  name: Has(Int32)
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Has_System_Int32_
+  commentId: M:Saro.Entities.EcsPool`1.Has(System.Int32)
+  fullName: Saro.Entities.EcsPool<T>.Has(System.Int32)
+  fullName.vb: Saro.Entities.EcsPool(Of T).Has(System.Int32)
+  nameWithType: EcsPool<T>.Has(Int32)
+  nameWithType.vb: EcsPool(Of T).Has(Int32)
+- uid: Saro.Entities.EcsPool`1.Has*
+  name: Has
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Has_
+  commentId: Overload:Saro.Entities.EcsPool`1.Has
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.Has
+  fullName.vb: Saro.Entities.EcsPool(Of T).Has
+  nameWithType: EcsPool<T>.Has
+  nameWithType.vb: EcsPool(Of T).Has
+- uid: Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#AddRaw(System.Int32,System.Object)
+  name: IEcsPool.AddRaw(Int32, Object)
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Saro_Entities_IEcsPool_AddRaw_System_Int32_System_Object_
+  commentId: M:Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#AddRaw(System.Int32,System.Object)
+  name.vb: Saro.Entities.IEcsPool.AddRaw(Int32, Object)
+  fullName: Saro.Entities.EcsPool<T>.Saro.Entities.IEcsPool.AddRaw(System.Int32, System.Object)
+  fullName.vb: Saro.Entities.EcsPool(Of T).Saro.Entities.IEcsPool.AddRaw(System.Int32, System.Object)
+  nameWithType: EcsPool<T>.IEcsPool.AddRaw(Int32, Object)
+  nameWithType.vb: EcsPool(Of T).Saro.Entities.IEcsPool.AddRaw(Int32, Object)
+- uid: Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#AddRaw*
+  name: IEcsPool.AddRaw
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Saro_Entities_IEcsPool_AddRaw_
+  commentId: Overload:Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#AddRaw
+  isSpec: "True"
+  name.vb: Saro.Entities.IEcsPool.AddRaw
+  fullName: Saro.Entities.EcsPool<T>.Saro.Entities.IEcsPool.AddRaw
+  fullName.vb: Saro.Entities.EcsPool(Of T).Saro.Entities.IEcsPool.AddRaw
+  nameWithType: EcsPool<T>.IEcsPool.AddRaw
+  nameWithType.vb: EcsPool(Of T).Saro.Entities.IEcsPool.AddRaw
+- uid: Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#GetRaw(System.Int32)
+  name: IEcsPool.GetRaw(Int32)
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Saro_Entities_IEcsPool_GetRaw_System_Int32_
+  commentId: M:Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#GetRaw(System.Int32)
+  name.vb: Saro.Entities.IEcsPool.GetRaw(Int32)
+  fullName: Saro.Entities.EcsPool<T>.Saro.Entities.IEcsPool.GetRaw(System.Int32)
+  fullName.vb: Saro.Entities.EcsPool(Of T).Saro.Entities.IEcsPool.GetRaw(System.Int32)
+  nameWithType: EcsPool<T>.IEcsPool.GetRaw(Int32)
+  nameWithType.vb: EcsPool(Of T).Saro.Entities.IEcsPool.GetRaw(Int32)
+- uid: Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#GetRaw*
+  name: IEcsPool.GetRaw
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Saro_Entities_IEcsPool_GetRaw_
+  commentId: Overload:Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#GetRaw
+  isSpec: "True"
+  name.vb: Saro.Entities.IEcsPool.GetRaw
+  fullName: Saro.Entities.EcsPool<T>.Saro.Entities.IEcsPool.GetRaw
+  fullName.vb: Saro.Entities.EcsPool(Of T).Saro.Entities.IEcsPool.GetRaw
+  nameWithType: EcsPool<T>.IEcsPool.GetRaw
+  nameWithType.vb: EcsPool(Of T).Saro.Entities.IEcsPool.GetRaw
+- uid: Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#Resize(System.Int32)
+  name: IEcsPool.Resize(Int32)
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Saro_Entities_IEcsPool_Resize_System_Int32_
+  commentId: M:Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#Resize(System.Int32)
+  name.vb: Saro.Entities.IEcsPool.Resize(Int32)
+  fullName: Saro.Entities.EcsPool<T>.Saro.Entities.IEcsPool.Resize(System.Int32)
+  fullName.vb: Saro.Entities.EcsPool(Of T).Saro.Entities.IEcsPool.Resize(System.Int32)
+  nameWithType: EcsPool<T>.IEcsPool.Resize(Int32)
+  nameWithType.vb: EcsPool(Of T).Saro.Entities.IEcsPool.Resize(Int32)
+- uid: Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#Resize*
+  name: IEcsPool.Resize
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Saro_Entities_IEcsPool_Resize_
+  commentId: Overload:Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#Resize
+  isSpec: "True"
+  name.vb: Saro.Entities.IEcsPool.Resize
+  fullName: Saro.Entities.EcsPool<T>.Saro.Entities.IEcsPool.Resize
+  fullName.vb: Saro.Entities.EcsPool(Of T).Saro.Entities.IEcsPool.Resize
+  nameWithType: EcsPool<T>.IEcsPool.Resize
+  nameWithType.vb: EcsPool(Of T).Saro.Entities.IEcsPool.Resize
+- uid: Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#SetRaw(System.Int32,System.Object)
+  name: IEcsPool.SetRaw(Int32, Object)
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Saro_Entities_IEcsPool_SetRaw_System_Int32_System_Object_
+  commentId: M:Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#SetRaw(System.Int32,System.Object)
+  name.vb: Saro.Entities.IEcsPool.SetRaw(Int32, Object)
+  fullName: Saro.Entities.EcsPool<T>.Saro.Entities.IEcsPool.SetRaw(System.Int32, System.Object)
+  fullName.vb: Saro.Entities.EcsPool(Of T).Saro.Entities.IEcsPool.SetRaw(System.Int32, System.Object)
+  nameWithType: EcsPool<T>.IEcsPool.SetRaw(Int32, Object)
+  nameWithType.vb: EcsPool(Of T).Saro.Entities.IEcsPool.SetRaw(Int32, Object)
+- uid: Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#SetRaw*
+  name: IEcsPool.SetRaw
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Saro_Entities_IEcsPool_SetRaw_
+  commentId: Overload:Saro.Entities.EcsPool`1.Saro#Entities#IEcsPool#SetRaw
+  isSpec: "True"
+  name.vb: Saro.Entities.IEcsPool.SetRaw
+  fullName: Saro.Entities.EcsPool<T>.Saro.Entities.IEcsPool.SetRaw
+  fullName.vb: Saro.Entities.EcsPool(Of T).Saro.Entities.IEcsPool.SetRaw
+  nameWithType: EcsPool<T>.IEcsPool.SetRaw
+  nameWithType.vb: EcsPool(Of T).Saro.Entities.IEcsPool.SetRaw
+- uid: Saro.Entities.EcsPool`1.Singleton
+  name: Singleton
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Singleton
+  commentId: P:Saro.Entities.EcsPool`1.Singleton
+  fullName: Saro.Entities.EcsPool<T>.Singleton
+  fullName.vb: Saro.Entities.EcsPool(Of T).Singleton
+  nameWithType: EcsPool<T>.Singleton
+  nameWithType.vb: EcsPool(Of T).Singleton
+- uid: Saro.Entities.EcsPool`1.Singleton*
+  name: Singleton
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_Singleton_
+  commentId: Overload:Saro.Entities.EcsPool`1.Singleton
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.Singleton
+  fullName.vb: Saro.Entities.EcsPool(Of T).Singleton
+  nameWithType: EcsPool<T>.Singleton
+  nameWithType.vb: EcsPool(Of T).Singleton
+- uid: Saro.Entities.EcsPool`1.ToString
+  name: ToString()
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_ToString
+  commentId: M:Saro.Entities.EcsPool`1.ToString
+  fullName: Saro.Entities.EcsPool<T>.ToString()
+  fullName.vb: Saro.Entities.EcsPool(Of T).ToString()
+  nameWithType: EcsPool<T>.ToString()
+  nameWithType.vb: EcsPool(Of T).ToString()
+- uid: Saro.Entities.EcsPool`1.ToString*
+  name: ToString
+  href: api/Saro.Entities.EcsPool-1.html#Saro_Entities_EcsPool_1_ToString_
+  commentId: Overload:Saro.Entities.EcsPool`1.ToString
+  isSpec: "True"
+  fullName: Saro.Entities.EcsPool<T>.ToString
+  fullName.vb: Saro.Entities.EcsPool(Of T).ToString
+  nameWithType: EcsPool<T>.ToString
+  nameWithType.vb: EcsPool(Of T).ToString
+- uid: Saro.Entities.EcsSystemFeature
+  name: EcsSystemFeature
+  href: api/Saro.Entities.EcsSystemFeature.html
+  commentId: T:Saro.Entities.EcsSystemFeature
+  fullName: Saro.Entities.EcsSystemFeature
+  nameWithType: EcsSystemFeature
+- uid: Saro.Entities.EcsSystemFeature.#ctor
+  name: EcsSystemFeature()
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature__ctor
+  commentId: M:Saro.Entities.EcsSystemFeature.#ctor
+  fullName: Saro.Entities.EcsSystemFeature.EcsSystemFeature()
+  nameWithType: EcsSystemFeature.EcsSystemFeature()
+- uid: Saro.Entities.EcsSystemFeature.#ctor*
+  name: EcsSystemFeature
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature__ctor_
+  commentId: Overload:Saro.Entities.EcsSystemFeature.#ctor
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystemFeature.EcsSystemFeature
+  nameWithType: EcsSystemFeature.EcsSystemFeature
+- uid: Saro.Entities.EcsSystemFeature.AddSystem(Saro.Entities.IEcsSystem)
+  name: AddSystem(IEcsSystem)
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_AddSystem_Saro_Entities_IEcsSystem_
+  commentId: M:Saro.Entities.EcsSystemFeature.AddSystem(Saro.Entities.IEcsSystem)
+  fullName: Saro.Entities.EcsSystemFeature.AddSystem(Saro.Entities.IEcsSystem)
+  nameWithType: EcsSystemFeature.AddSystem(IEcsSystem)
+- uid: Saro.Entities.EcsSystemFeature.AddSystem*
+  name: AddSystem
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_AddSystem_
+  commentId: Overload:Saro.Entities.EcsSystemFeature.AddSystem
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystemFeature.AddSystem
+  nameWithType: EcsSystemFeature.AddSystem
+- uid: Saro.Entities.EcsSystemFeature.Destroy(Saro.Entities.EcsSystems)
+  name: Destroy(EcsSystems)
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_Destroy_Saro_Entities_EcsSystems_
+  commentId: M:Saro.Entities.EcsSystemFeature.Destroy(Saro.Entities.EcsSystems)
+  fullName: Saro.Entities.EcsSystemFeature.Destroy(Saro.Entities.EcsSystems)
+  nameWithType: EcsSystemFeature.Destroy(EcsSystems)
+- uid: Saro.Entities.EcsSystemFeature.Destroy*
+  name: Destroy
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_Destroy_
+  commentId: Overload:Saro.Entities.EcsSystemFeature.Destroy
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystemFeature.Destroy
+  nameWithType: EcsSystemFeature.Destroy
+- uid: Saro.Entities.EcsSystemFeature.Enable
+  name: Enable
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_Enable
+  commentId: P:Saro.Entities.EcsSystemFeature.Enable
+  fullName: Saro.Entities.EcsSystemFeature.Enable
+  nameWithType: EcsSystemFeature.Enable
+- uid: Saro.Entities.EcsSystemFeature.Enable*
+  name: Enable
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_Enable_
+  commentId: Overload:Saro.Entities.EcsSystemFeature.Enable
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystemFeature.Enable
+  nameWithType: EcsSystemFeature.Enable
+- uid: Saro.Entities.EcsSystemFeature.Init(Saro.Entities.EcsSystems)
+  name: Init(EcsSystems)
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_Init_Saro_Entities_EcsSystems_
+  commentId: M:Saro.Entities.EcsSystemFeature.Init(Saro.Entities.EcsSystems)
+  fullName: Saro.Entities.EcsSystemFeature.Init(Saro.Entities.EcsSystems)
+  nameWithType: EcsSystemFeature.Init(EcsSystems)
+- uid: Saro.Entities.EcsSystemFeature.Init*
+  name: Init
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_Init_
+  commentId: Overload:Saro.Entities.EcsSystemFeature.Init
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystemFeature.Init
+  nameWithType: EcsSystemFeature.Init
+- uid: Saro.Entities.EcsSystemFeature.PostDestroy(Saro.Entities.EcsSystems)
+  name: PostDestroy(EcsSystems)
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_PostDestroy_Saro_Entities_EcsSystems_
+  commentId: M:Saro.Entities.EcsSystemFeature.PostDestroy(Saro.Entities.EcsSystems)
+  fullName: Saro.Entities.EcsSystemFeature.PostDestroy(Saro.Entities.EcsSystems)
+  nameWithType: EcsSystemFeature.PostDestroy(EcsSystems)
+- uid: Saro.Entities.EcsSystemFeature.PostDestroy*
+  name: PostDestroy
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_PostDestroy_
+  commentId: Overload:Saro.Entities.EcsSystemFeature.PostDestroy
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystemFeature.PostDestroy
+  nameWithType: EcsSystemFeature.PostDestroy
+- uid: Saro.Entities.EcsSystemFeature.PreInit(Saro.Entities.EcsSystems)
+  name: PreInit(EcsSystems)
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_PreInit_Saro_Entities_EcsSystems_
+  commentId: M:Saro.Entities.EcsSystemFeature.PreInit(Saro.Entities.EcsSystems)
+  fullName: Saro.Entities.EcsSystemFeature.PreInit(Saro.Entities.EcsSystems)
+  nameWithType: EcsSystemFeature.PreInit(EcsSystems)
+- uid: Saro.Entities.EcsSystemFeature.PreInit*
+  name: PreInit
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_PreInit_
+  commentId: Overload:Saro.Entities.EcsSystemFeature.PreInit
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystemFeature.PreInit
+  nameWithType: EcsSystemFeature.PreInit
+- uid: Saro.Entities.EcsSystemFeature.RemoveSystem(Saro.Entities.IEcsSystem)
+  name: RemoveSystem(IEcsSystem)
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_RemoveSystem_Saro_Entities_IEcsSystem_
+  commentId: M:Saro.Entities.EcsSystemFeature.RemoveSystem(Saro.Entities.IEcsSystem)
+  fullName: Saro.Entities.EcsSystemFeature.RemoveSystem(Saro.Entities.IEcsSystem)
+  nameWithType: EcsSystemFeature.RemoveSystem(IEcsSystem)
+- uid: Saro.Entities.EcsSystemFeature.RemoveSystem*
+  name: RemoveSystem
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_RemoveSystem_
+  commentId: Overload:Saro.Entities.EcsSystemFeature.RemoveSystem
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystemFeature.RemoveSystem
+  nameWithType: EcsSystemFeature.RemoveSystem
+- uid: Saro.Entities.EcsSystemFeature.Run(Saro.Entities.EcsSystems,System.Single)
+  name: Run(EcsSystems, Single)
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_Run_Saro_Entities_EcsSystems_System_Single_
+  commentId: M:Saro.Entities.EcsSystemFeature.Run(Saro.Entities.EcsSystems,System.Single)
+  fullName: Saro.Entities.EcsSystemFeature.Run(Saro.Entities.EcsSystems, System.Single)
+  nameWithType: EcsSystemFeature.Run(EcsSystems, Single)
+- uid: Saro.Entities.EcsSystemFeature.Run*
+  name: Run
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_Run_
+  commentId: Overload:Saro.Entities.EcsSystemFeature.Run
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystemFeature.Run
+  nameWithType: EcsSystemFeature.Run
+- uid: Saro.Entities.EcsSystemFeature.Systems
+  name: Systems
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_Systems
+  commentId: P:Saro.Entities.EcsSystemFeature.Systems
+  fullName: Saro.Entities.EcsSystemFeature.Systems
+  nameWithType: EcsSystemFeature.Systems
+- uid: Saro.Entities.EcsSystemFeature.Systems*
+  name: Systems
+  href: api/Saro.Entities.EcsSystemFeature.html#Saro_Entities_EcsSystemFeature_Systems_
+  commentId: Overload:Saro.Entities.EcsSystemFeature.Systems
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystemFeature.Systems
+  nameWithType: EcsSystemFeature.Systems
+- uid: Saro.Entities.EcsSystems
+  name: EcsSystems
+  href: api/Saro.Entities.EcsSystems.html
+  commentId: T:Saro.Entities.EcsSystems
+  fullName: Saro.Entities.EcsSystems
+  nameWithType: EcsSystems
+- uid: Saro.Entities.EcsSystems.#ctor(Saro.Entities.EcsWorld,System.Object)
+  name: EcsSystems(EcsWorld, Object)
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems__ctor_Saro_Entities_EcsWorld_System_Object_
+  commentId: M:Saro.Entities.EcsSystems.#ctor(Saro.Entities.EcsWorld,System.Object)
+  fullName: Saro.Entities.EcsSystems.EcsSystems(Saro.Entities.EcsWorld, System.Object)
+  nameWithType: EcsSystems.EcsSystems(EcsWorld, Object)
+- uid: Saro.Entities.EcsSystems.#ctor(System.String,Saro.Entities.EcsWorld,System.Object)
+  name: EcsSystems(String, EcsWorld, Object)
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems__ctor_System_String_Saro_Entities_EcsWorld_System_Object_
+  commentId: M:Saro.Entities.EcsSystems.#ctor(System.String,Saro.Entities.EcsWorld,System.Object)
+  fullName: Saro.Entities.EcsSystems.EcsSystems(System.String, Saro.Entities.EcsWorld, System.Object)
+  nameWithType: EcsSystems.EcsSystems(String, EcsWorld, Object)
+- uid: Saro.Entities.EcsSystems.#ctor*
+  name: EcsSystems
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems__ctor_
+  commentId: Overload:Saro.Entities.EcsSystems.#ctor
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.EcsSystems
+  nameWithType: EcsSystems.EcsSystems
+- uid: Saro.Entities.EcsSystems.Add(Saro.Entities.IEcsSystem)
+  name: Add(IEcsSystem)
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_Add_Saro_Entities_IEcsSystem_
+  commentId: M:Saro.Entities.EcsSystems.Add(Saro.Entities.IEcsSystem)
+  fullName: Saro.Entities.EcsSystems.Add(Saro.Entities.IEcsSystem)
+  nameWithType: EcsSystems.Add(IEcsSystem)
+- uid: Saro.Entities.EcsSystems.Add*
+  name: Add
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_Add_
+  commentId: Overload:Saro.Entities.EcsSystems.Add
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.Add
+  nameWithType: EcsSystems.Add
+- uid: Saro.Entities.EcsSystems.AddWorld(Saro.Entities.EcsWorld,System.String)
+  name: AddWorld(EcsWorld, String)
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_AddWorld_Saro_Entities_EcsWorld_System_String_
+  commentId: M:Saro.Entities.EcsSystems.AddWorld(Saro.Entities.EcsWorld,System.String)
+  fullName: Saro.Entities.EcsSystems.AddWorld(Saro.Entities.EcsWorld, System.String)
+  nameWithType: EcsSystems.AddWorld(EcsWorld, String)
+- uid: Saro.Entities.EcsSystems.AddWorld*
+  name: AddWorld
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_AddWorld_
+  commentId: Overload:Saro.Entities.EcsSystems.AddWorld
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.AddWorld
+  nameWithType: EcsSystems.AddWorld
+- uid: Saro.Entities.EcsSystems.GetAllNamedWorlds
+  name: GetAllNamedWorlds()
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetAllNamedWorlds
+  commentId: M:Saro.Entities.EcsSystems.GetAllNamedWorlds
+  fullName: Saro.Entities.EcsSystems.GetAllNamedWorlds()
+  nameWithType: EcsSystems.GetAllNamedWorlds()
+- uid: Saro.Entities.EcsSystems.GetAllNamedWorlds*
+  name: GetAllNamedWorlds
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetAllNamedWorlds_
+  commentId: Overload:Saro.Entities.EcsSystems.GetAllNamedWorlds
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.GetAllNamedWorlds
+  nameWithType: EcsSystems.GetAllNamedWorlds
+- uid: Saro.Entities.EcsSystems.GetAllSystems(Saro.Entities.IEcsSystem[]@)
+  name: GetAllSystems(ref IEcsSystem[])
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetAllSystems_Saro_Entities_IEcsSystem____
+  commentId: M:Saro.Entities.EcsSystems.GetAllSystems(Saro.Entities.IEcsSystem[]@)
+  name.vb: GetAllSystems(ByRef IEcsSystem())
+  fullName: Saro.Entities.EcsSystems.GetAllSystems(ref Saro.Entities.IEcsSystem[])
+  fullName.vb: Saro.Entities.EcsSystems.GetAllSystems(ByRef Saro.Entities.IEcsSystem())
+  nameWithType: EcsSystems.GetAllSystems(ref IEcsSystem[])
+  nameWithType.vb: EcsSystems.GetAllSystems(ByRef IEcsSystem())
+- uid: Saro.Entities.EcsSystems.GetAllSystems*
+  name: GetAllSystems
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetAllSystems_
+  commentId: Overload:Saro.Entities.EcsSystems.GetAllSystems
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.GetAllSystems
+  nameWithType: EcsSystems.GetAllSystems
+- uid: Saro.Entities.EcsSystems.GetRunSystems(Saro.Entities.IEcsRunSystem[]@)
+  name: GetRunSystems(ref IEcsRunSystem[])
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetRunSystems_Saro_Entities_IEcsRunSystem____
+  commentId: M:Saro.Entities.EcsSystems.GetRunSystems(Saro.Entities.IEcsRunSystem[]@)
+  name.vb: GetRunSystems(ByRef IEcsRunSystem())
+  fullName: Saro.Entities.EcsSystems.GetRunSystems(ref Saro.Entities.IEcsRunSystem[])
+  fullName.vb: Saro.Entities.EcsSystems.GetRunSystems(ByRef Saro.Entities.IEcsRunSystem())
+  nameWithType: EcsSystems.GetRunSystems(ref IEcsRunSystem[])
+  nameWithType.vb: EcsSystems.GetRunSystems(ByRef IEcsRunSystem())
+- uid: Saro.Entities.EcsSystems.GetRunSystems*
+  name: GetRunSystems
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetRunSystems_
+  commentId: Overload:Saro.Entities.EcsSystems.GetRunSystems
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.GetRunSystems
+  nameWithType: EcsSystems.GetRunSystems
+- uid: Saro.Entities.EcsSystems.GetShared*
+  name: GetShared
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetShared_
+  commentId: Overload:Saro.Entities.EcsSystems.GetShared
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.GetShared
+  nameWithType: EcsSystems.GetShared
+- uid: Saro.Entities.EcsSystems.GetShared``1
+  name: GetShared<T>()
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetShared__1
+  commentId: M:Saro.Entities.EcsSystems.GetShared``1
+  name.vb: GetShared(Of T)()
+  fullName: Saro.Entities.EcsSystems.GetShared<T>()
+  fullName.vb: Saro.Entities.EcsSystems.GetShared(Of T)()
+  nameWithType: EcsSystems.GetShared<T>()
+  nameWithType.vb: EcsSystems.GetShared(Of T)()
+- uid: Saro.Entities.EcsSystems.GetSystem*
+  name: GetSystem
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetSystem_
+  commentId: Overload:Saro.Entities.EcsSystems.GetSystem
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.GetSystem
+  nameWithType: EcsSystems.GetSystem
+- uid: Saro.Entities.EcsSystems.GetSystem``1
+  name: GetSystem<T>()
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetSystem__1
+  commentId: M:Saro.Entities.EcsSystems.GetSystem``1
+  name.vb: GetSystem(Of T)()
+  fullName: Saro.Entities.EcsSystems.GetSystem<T>()
+  fullName.vb: Saro.Entities.EcsSystems.GetSystem(Of T)()
+  nameWithType: EcsSystems.GetSystem<T>()
+  nameWithType.vb: EcsSystems.GetSystem(Of T)()
+- uid: Saro.Entities.EcsSystems.GetWorld(System.String)
+  name: GetWorld(String)
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetWorld_System_String_
+  commentId: M:Saro.Entities.EcsSystems.GetWorld(System.String)
+  fullName: Saro.Entities.EcsSystems.GetWorld(System.String)
+  nameWithType: EcsSystems.GetWorld(String)
+- uid: Saro.Entities.EcsSystems.GetWorld*
+  name: GetWorld
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_GetWorld_
+  commentId: Overload:Saro.Entities.EcsSystems.GetWorld
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.GetWorld
+  nameWithType: EcsSystems.GetWorld
+- uid: Saro.Entities.EcsSystems.Init
+  name: Init()
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_Init
+  commentId: M:Saro.Entities.EcsSystems.Init
+  fullName: Saro.Entities.EcsSystems.Init()
+  nameWithType: EcsSystems.Init()
+- uid: Saro.Entities.EcsSystems.Init*
+  name: Init
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_Init_
+  commentId: Overload:Saro.Entities.EcsSystems.Init
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.Init
+  nameWithType: EcsSystems.Init
+- uid: Saro.Entities.EcsSystems.Run(System.Single)
+  name: Run(Single)
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_Run_System_Single_
+  commentId: M:Saro.Entities.EcsSystems.Run(System.Single)
+  fullName: Saro.Entities.EcsSystems.Run(System.Single)
+  nameWithType: EcsSystems.Run(Single)
+- uid: Saro.Entities.EcsSystems.Run*
+  name: Run
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_Run_
+  commentId: Overload:Saro.Entities.EcsSystems.Run
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.Run
+  nameWithType: EcsSystems.Run
+- uid: Saro.Entities.EcsSystems.SystemsName
+  name: SystemsName
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_SystemsName
+  commentId: P:Saro.Entities.EcsSystems.SystemsName
+  fullName: Saro.Entities.EcsSystems.SystemsName
+  nameWithType: EcsSystems.SystemsName
+- uid: Saro.Entities.EcsSystems.SystemsName*
+  name: SystemsName
+  href: api/Saro.Entities.EcsSystems.html#Saro_Entities_EcsSystems_SystemsName_
+  commentId: Overload:Saro.Entities.EcsSystems.SystemsName
+  isSpec: "True"
+  fullName: Saro.Entities.EcsSystems.SystemsName
+  nameWithType: EcsSystems.SystemsName
+- uid: Saro.Entities.EcsWorld
+  name: EcsWorld
+  href: api/Saro.Entities.EcsWorld.html
+  commentId: T:Saro.Entities.EcsWorld
+  fullName: Saro.Entities.EcsWorld
+  nameWithType: EcsWorld
+- uid: Saro.Entities.EcsWorld.#ctor(System.String,Saro.Entities.EcsWorld.Config@)
+  name: EcsWorld(String, EcsWorld.Config)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld__ctor_System_String_Saro_Entities_EcsWorld_Config__
+  commentId: M:Saro.Entities.EcsWorld.#ctor(System.String,Saro.Entities.EcsWorld.Config@)
+  name.vb: EcsWorld(String, ByRef EcsWorld.Config)
+  fullName: Saro.Entities.EcsWorld.EcsWorld(System.String, Saro.Entities.EcsWorld.Config)
+  fullName.vb: Saro.Entities.EcsWorld.EcsWorld(System.String, ByRef Saro.Entities.EcsWorld.Config)
+  nameWithType: EcsWorld.EcsWorld(String, EcsWorld.Config)
+  nameWithType.vb: EcsWorld.EcsWorld(String, ByRef EcsWorld.Config)
+- uid: Saro.Entities.EcsWorld.#ctor*
+  name: EcsWorld
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld__ctor_
+  commentId: Overload:Saro.Entities.EcsWorld.#ctor
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.EcsWorld
+  nameWithType: EcsWorld.EcsWorld
+- uid: Saro.Entities.EcsWorld.Config
+  name: EcsWorld.Config
+  href: api/Saro.Entities.EcsWorld.Config.html
+  commentId: T:Saro.Entities.EcsWorld.Config
+  fullName: Saro.Entities.EcsWorld.Config
+  nameWithType: EcsWorld.Config
+- uid: Saro.Entities.EcsWorld.Config.entities
+  name: entities
+  href: api/Saro.Entities.EcsWorld.Config.html#Saro_Entities_EcsWorld_Config_entities
+  commentId: F:Saro.Entities.EcsWorld.Config.entities
+  fullName: Saro.Entities.EcsWorld.Config.entities
+  nameWithType: EcsWorld.Config.entities
+- uid: Saro.Entities.EcsWorld.Config.filters
+  name: filters
+  href: api/Saro.Entities.EcsWorld.Config.html#Saro_Entities_EcsWorld_Config_filters
+  commentId: F:Saro.Entities.EcsWorld.Config.filters
+  fullName: Saro.Entities.EcsWorld.Config.filters
+  nameWithType: EcsWorld.Config.filters
+- uid: Saro.Entities.EcsWorld.Config.poolDenseSize
+  name: poolDenseSize
+  href: api/Saro.Entities.EcsWorld.Config.html#Saro_Entities_EcsWorld_Config_poolDenseSize
+  commentId: F:Saro.Entities.EcsWorld.Config.poolDenseSize
+  fullName: Saro.Entities.EcsWorld.Config.poolDenseSize
+  nameWithType: EcsWorld.Config.poolDenseSize
+- uid: Saro.Entities.EcsWorld.Config.poolRecycledSize
+  name: poolRecycledSize
+  href: api/Saro.Entities.EcsWorld.Config.html#Saro_Entities_EcsWorld_Config_poolRecycledSize
+  commentId: F:Saro.Entities.EcsWorld.Config.poolRecycledSize
+  fullName: Saro.Entities.EcsWorld.Config.poolRecycledSize
+  nameWithType: EcsWorld.Config.poolRecycledSize
+- uid: Saro.Entities.EcsWorld.Config.pools
+  name: pools
+  href: api/Saro.Entities.EcsWorld.Config.html#Saro_Entities_EcsWorld_Config_pools
+  commentId: F:Saro.Entities.EcsWorld.Config.pools
+  fullName: Saro.Entities.EcsWorld.Config.pools
+  nameWithType: EcsWorld.Config.pools
+- uid: Saro.Entities.EcsWorld.Config.recycledEntities
+  name: recycledEntities
+  href: api/Saro.Entities.EcsWorld.Config.html#Saro_Entities_EcsWorld_Config_recycledEntities
+  commentId: F:Saro.Entities.EcsWorld.Config.recycledEntities
+  fullName: Saro.Entities.EcsWorld.Config.recycledEntities
+  nameWithType: EcsWorld.Config.recycledEntities
+- uid: Saro.Entities.EcsWorld.DelEntity(Saro.Entities.EcsEntity)
+  name: DelEntity(EcsEntity)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_DelEntity_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.EcsWorld.DelEntity(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.EcsWorld.DelEntity(Saro.Entities.EcsEntity)
+  nameWithType: EcsWorld.DelEntity(EcsEntity)
+- uid: Saro.Entities.EcsWorld.DelEntity(System.Int32)
+  name: DelEntity(Int32)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_DelEntity_System_Int32_
+  commentId: M:Saro.Entities.EcsWorld.DelEntity(System.Int32)
+  fullName: Saro.Entities.EcsWorld.DelEntity(System.Int32)
+  nameWithType: EcsWorld.DelEntity(Int32)
+- uid: Saro.Entities.EcsWorld.DelEntity*
+  name: DelEntity
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_DelEntity_
+  commentId: Overload:Saro.Entities.EcsWorld.DelEntity
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.DelEntity
+  nameWithType: EcsWorld.DelEntity
+- uid: Saro.Entities.EcsWorld.Destroy
+  name: Destroy()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_Destroy
+  commentId: M:Saro.Entities.EcsWorld.Destroy
+  fullName: Saro.Entities.EcsWorld.Destroy()
+  nameWithType: EcsWorld.Destroy()
+- uid: Saro.Entities.EcsWorld.Destroy*
+  name: Destroy
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_Destroy_
+  commentId: Overload:Saro.Entities.EcsWorld.Destroy
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.Destroy
+  nameWithType: EcsWorld.Destroy
+- uid: Saro.Entities.EcsWorld.EntityData
+  name: EcsWorld.EntityData
+  href: api/Saro.Entities.EcsWorld.EntityData.html
+  commentId: T:Saro.Entities.EcsWorld.EntityData
+  fullName: Saro.Entities.EcsWorld.EntityData
+  nameWithType: EcsWorld.EntityData
+- uid: Saro.Entities.EcsWorld.EntityData.compsCount
+  name: compsCount
+  href: api/Saro.Entities.EcsWorld.EntityData.html#Saro_Entities_EcsWorld_EntityData_compsCount
+  commentId: F:Saro.Entities.EcsWorld.EntityData.compsCount
+  fullName: Saro.Entities.EcsWorld.EntityData.compsCount
+  nameWithType: EcsWorld.EntityData.compsCount
+- uid: Saro.Entities.EcsWorld.EntityData.gen
+  name: gen
+  href: api/Saro.Entities.EcsWorld.EntityData.html#Saro_Entities_EcsWorld_EntityData_gen
+  commentId: F:Saro.Entities.EcsWorld.EntityData.gen
+  fullName: Saro.Entities.EcsWorld.EntityData.gen
+  nameWithType: EcsWorld.EntityData.gen
+- uid: Saro.Entities.EcsWorld.Filter
+  name: Filter()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_Filter
+  commentId: M:Saro.Entities.EcsWorld.Filter
+  fullName: Saro.Entities.EcsWorld.Filter()
+  nameWithType: EcsWorld.Filter()
+- uid: Saro.Entities.EcsWorld.Filter*
+  name: Filter
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_Filter_
+  commentId: Overload:Saro.Entities.EcsWorld.Filter
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.Filter
+  nameWithType: EcsWorld.Filter
+- uid: Saro.Entities.EcsWorld.Filter``1
+  name: Filter<T>()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_Filter__1
+  commentId: M:Saro.Entities.EcsWorld.Filter``1
+  name.vb: Filter(Of T)()
+  fullName: Saro.Entities.EcsWorld.Filter<T>()
+  fullName.vb: Saro.Entities.EcsWorld.Filter(Of T)()
+  nameWithType: EcsWorld.Filter<T>()
+  nameWithType.vb: EcsWorld.Filter(Of T)()
+- uid: Saro.Entities.EcsWorld.GetAllEntities(System.Int32[]@)
+  name: GetAllEntities(ref Int32[])
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetAllEntities_System_Int32____
+  commentId: M:Saro.Entities.EcsWorld.GetAllEntities(System.Int32[]@)
+  name.vb: GetAllEntities(ByRef Int32())
+  fullName: Saro.Entities.EcsWorld.GetAllEntities(ref System.Int32[])
+  fullName.vb: Saro.Entities.EcsWorld.GetAllEntities(ByRef System.Int32())
+  nameWithType: EcsWorld.GetAllEntities(ref Int32[])
+  nameWithType.vb: EcsWorld.GetAllEntities(ByRef Int32())
+- uid: Saro.Entities.EcsWorld.GetAllEntities*
+  name: GetAllEntities
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetAllEntities_
+  commentId: Overload:Saro.Entities.EcsWorld.GetAllEntities
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetAllEntities
+  nameWithType: EcsWorld.GetAllEntities
+- uid: Saro.Entities.EcsWorld.GetAllFilters(Saro.Entities.EcsFilter[]@)
+  name: GetAllFilters(ref EcsFilter[])
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetAllFilters_Saro_Entities_EcsFilter____
+  commentId: M:Saro.Entities.EcsWorld.GetAllFilters(Saro.Entities.EcsFilter[]@)
+  name.vb: GetAllFilters(ByRef EcsFilter())
+  fullName: Saro.Entities.EcsWorld.GetAllFilters(ref Saro.Entities.EcsFilter[])
+  fullName.vb: Saro.Entities.EcsWorld.GetAllFilters(ByRef Saro.Entities.EcsFilter())
+  nameWithType: EcsWorld.GetAllFilters(ref EcsFilter[])
+  nameWithType.vb: EcsWorld.GetAllFilters(ByRef EcsFilter())
+- uid: Saro.Entities.EcsWorld.GetAllFilters*
+  name: GetAllFilters
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetAllFilters_
+  commentId: Overload:Saro.Entities.EcsWorld.GetAllFilters
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetAllFilters
+  nameWithType: EcsWorld.GetAllFilters
+- uid: Saro.Entities.EcsWorld.GetAllocatedEntitiesCount
+  name: GetAllocatedEntitiesCount()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetAllocatedEntitiesCount
+  commentId: M:Saro.Entities.EcsWorld.GetAllocatedEntitiesCount
+  fullName: Saro.Entities.EcsWorld.GetAllocatedEntitiesCount()
+  nameWithType: EcsWorld.GetAllocatedEntitiesCount()
+- uid: Saro.Entities.EcsWorld.GetAllocatedEntitiesCount*
+  name: GetAllocatedEntitiesCount
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetAllocatedEntitiesCount_
+  commentId: Overload:Saro.Entities.EcsWorld.GetAllocatedEntitiesCount
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetAllocatedEntitiesCount
+  nameWithType: EcsWorld.GetAllocatedEntitiesCount
+- uid: Saro.Entities.EcsWorld.GetAllPools(Saro.Entities.IEcsPool[]@)
+  name: GetAllPools(ref IEcsPool[])
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetAllPools_Saro_Entities_IEcsPool____
+  commentId: M:Saro.Entities.EcsWorld.GetAllPools(Saro.Entities.IEcsPool[]@)
+  name.vb: GetAllPools(ByRef IEcsPool())
+  fullName: Saro.Entities.EcsWorld.GetAllPools(ref Saro.Entities.IEcsPool[])
+  fullName.vb: Saro.Entities.EcsWorld.GetAllPools(ByRef Saro.Entities.IEcsPool())
+  nameWithType: EcsWorld.GetAllPools(ref IEcsPool[])
+  nameWithType.vb: EcsWorld.GetAllPools(ByRef IEcsPool())
+- uid: Saro.Entities.EcsWorld.GetAllPools*
+  name: GetAllPools
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetAllPools_
+  commentId: Overload:Saro.Entities.EcsWorld.GetAllPools
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetAllPools
+  nameWithType: EcsWorld.GetAllPools
+- uid: Saro.Entities.EcsWorld.GetComponents(System.Int32,System.Collections.Generic.List{System.Object}@)
+  name: GetComponents(Int32, ref List<Object>)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetComponents_System_Int32_System_Collections_Generic_List_System_Object___
+  commentId: M:Saro.Entities.EcsWorld.GetComponents(System.Int32,System.Collections.Generic.List{System.Object}@)
+  name.vb: GetComponents(Int32, ByRef List(Of Object))
+  fullName: Saro.Entities.EcsWorld.GetComponents(System.Int32, ref System.Collections.Generic.List<System.Object>)
+  fullName.vb: Saro.Entities.EcsWorld.GetComponents(System.Int32, ByRef System.Collections.Generic.List(Of System.Object))
+  nameWithType: EcsWorld.GetComponents(Int32, ref List<Object>)
+  nameWithType.vb: EcsWorld.GetComponents(Int32, ByRef List(Of Object))
+- uid: Saro.Entities.EcsWorld.GetComponents(System.Int32,System.Object[]@)
+  name: GetComponents(Int32, ref Object[])
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetComponents_System_Int32_System_Object____
+  commentId: M:Saro.Entities.EcsWorld.GetComponents(System.Int32,System.Object[]@)
+  name.vb: GetComponents(Int32, ByRef Object())
+  fullName: Saro.Entities.EcsWorld.GetComponents(System.Int32, ref System.Object[])
+  fullName.vb: Saro.Entities.EcsWorld.GetComponents(System.Int32, ByRef System.Object())
+  nameWithType: EcsWorld.GetComponents(Int32, ref Object[])
+  nameWithType.vb: EcsWorld.GetComponents(Int32, ByRef Object())
+- uid: Saro.Entities.EcsWorld.GetComponents*
+  name: GetComponents
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetComponents_
+  commentId: Overload:Saro.Entities.EcsWorld.GetComponents
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetComponents
+  nameWithType: EcsWorld.GetComponents
+- uid: Saro.Entities.EcsWorld.GetComponentsCount(System.Int32)
+  name: GetComponentsCount(Int32)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetComponentsCount_System_Int32_
+  commentId: M:Saro.Entities.EcsWorld.GetComponentsCount(System.Int32)
+  fullName: Saro.Entities.EcsWorld.GetComponentsCount(System.Int32)
+  nameWithType: EcsWorld.GetComponentsCount(Int32)
+- uid: Saro.Entities.EcsWorld.GetComponentsCount*
+  name: GetComponentsCount
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetComponentsCount_
+  commentId: Overload:Saro.Entities.EcsWorld.GetComponentsCount
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetComponentsCount
+  nameWithType: EcsWorld.GetComponentsCount
+- uid: Saro.Entities.EcsWorld.GetComponentTypes(System.Int32,System.Type[]@)
+  name: GetComponentTypes(Int32, ref Type[])
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetComponentTypes_System_Int32_System_Type____
+  commentId: M:Saro.Entities.EcsWorld.GetComponentTypes(System.Int32,System.Type[]@)
+  name.vb: GetComponentTypes(Int32, ByRef Type())
+  fullName: Saro.Entities.EcsWorld.GetComponentTypes(System.Int32, ref System.Type[])
+  fullName.vb: Saro.Entities.EcsWorld.GetComponentTypes(System.Int32, ByRef System.Type())
+  nameWithType: EcsWorld.GetComponentTypes(Int32, ref Type[])
+  nameWithType.vb: EcsWorld.GetComponentTypes(Int32, ByRef Type())
+- uid: Saro.Entities.EcsWorld.GetComponentTypes*
+  name: GetComponentTypes
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetComponentTypes_
+  commentId: Overload:Saro.Entities.EcsWorld.GetComponentTypes
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetComponentTypes
+  nameWithType: EcsWorld.GetComponentTypes
+- uid: Saro.Entities.EcsWorld.GetEntitiesCount
+  name: GetEntitiesCount()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetEntitiesCount
+  commentId: M:Saro.Entities.EcsWorld.GetEntitiesCount
+  fullName: Saro.Entities.EcsWorld.GetEntitiesCount()
+  nameWithType: EcsWorld.GetEntitiesCount()
+- uid: Saro.Entities.EcsWorld.GetEntitiesCount*
+  name: GetEntitiesCount
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetEntitiesCount_
+  commentId: Overload:Saro.Entities.EcsWorld.GetEntitiesCount
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetEntitiesCount
+  nameWithType: EcsWorld.GetEntitiesCount
+- uid: Saro.Entities.EcsWorld.GetEntityGen(System.Int32)
+  name: GetEntityGen(Int32)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetEntityGen_System_Int32_
+  commentId: M:Saro.Entities.EcsWorld.GetEntityGen(System.Int32)
+  fullName: Saro.Entities.EcsWorld.GetEntityGen(System.Int32)
+  nameWithType: EcsWorld.GetEntityGen(Int32)
+- uid: Saro.Entities.EcsWorld.GetEntityGen*
+  name: GetEntityGen
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetEntityGen_
+  commentId: Overload:Saro.Entities.EcsWorld.GetEntityGen
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetEntityGen
+  nameWithType: EcsWorld.GetEntityGen
+- uid: Saro.Entities.EcsWorld.GetFreeMaskCount
+  name: GetFreeMaskCount()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetFreeMaskCount
+  commentId: M:Saro.Entities.EcsWorld.GetFreeMaskCount
+  fullName: Saro.Entities.EcsWorld.GetFreeMaskCount()
+  nameWithType: EcsWorld.GetFreeMaskCount()
+- uid: Saro.Entities.EcsWorld.GetFreeMaskCount*
+  name: GetFreeMaskCount
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetFreeMaskCount_
+  commentId: Overload:Saro.Entities.EcsWorld.GetFreeMaskCount
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetFreeMaskCount
+  nameWithType: EcsWorld.GetFreeMaskCount
+- uid: Saro.Entities.EcsWorld.GetPool*
+  name: GetPool
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetPool_
+  commentId: Overload:Saro.Entities.EcsWorld.GetPool
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetPool
+  nameWithType: EcsWorld.GetPool
+- uid: Saro.Entities.EcsWorld.GetPool``1
+  name: GetPool<T>()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetPool__1
+  commentId: M:Saro.Entities.EcsWorld.GetPool``1
+  name.vb: GetPool(Of T)()
+  fullName: Saro.Entities.EcsWorld.GetPool<T>()
+  fullName.vb: Saro.Entities.EcsWorld.GetPool(Of T)()
+  nameWithType: EcsWorld.GetPool<T>()
+  nameWithType.vb: EcsWorld.GetPool(Of T)()
+- uid: Saro.Entities.EcsWorld.GetPoolById(System.Int32)
+  name: GetPoolById(Int32)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetPoolById_System_Int32_
+  commentId: M:Saro.Entities.EcsWorld.GetPoolById(System.Int32)
+  fullName: Saro.Entities.EcsWorld.GetPoolById(System.Int32)
+  nameWithType: EcsWorld.GetPoolById(Int32)
+- uid: Saro.Entities.EcsWorld.GetPoolById*
+  name: GetPoolById
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetPoolById_
+  commentId: Overload:Saro.Entities.EcsWorld.GetPoolById
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetPoolById
+  nameWithType: EcsWorld.GetPoolById
+- uid: Saro.Entities.EcsWorld.GetPoolByType(System.Type)
+  name: GetPoolByType(Type)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetPoolByType_System_Type_
+  commentId: M:Saro.Entities.EcsWorld.GetPoolByType(System.Type)
+  fullName: Saro.Entities.EcsWorld.GetPoolByType(System.Type)
+  nameWithType: EcsWorld.GetPoolByType(Type)
+- uid: Saro.Entities.EcsWorld.GetPoolByType*
+  name: GetPoolByType
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetPoolByType_
+  commentId: Overload:Saro.Entities.EcsWorld.GetPoolByType
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetPoolByType
+  nameWithType: EcsWorld.GetPoolByType
+- uid: Saro.Entities.EcsWorld.GetPoolsCount
+  name: GetPoolsCount()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetPoolsCount
+  commentId: M:Saro.Entities.EcsWorld.GetPoolsCount
+  fullName: Saro.Entities.EcsWorld.GetPoolsCount()
+  nameWithType: EcsWorld.GetPoolsCount()
+- uid: Saro.Entities.EcsWorld.GetPoolsCount*
+  name: GetPoolsCount
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetPoolsCount_
+  commentId: Overload:Saro.Entities.EcsWorld.GetPoolsCount
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetPoolsCount
+  nameWithType: EcsWorld.GetPoolsCount
+- uid: Saro.Entities.EcsWorld.GetRawEntities
+  name: GetRawEntities()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetRawEntities
+  commentId: M:Saro.Entities.EcsWorld.GetRawEntities
+  fullName: Saro.Entities.EcsWorld.GetRawEntities()
+  nameWithType: EcsWorld.GetRawEntities()
+- uid: Saro.Entities.EcsWorld.GetRawEntities*
+  name: GetRawEntities
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetRawEntities_
+  commentId: Overload:Saro.Entities.EcsWorld.GetRawEntities
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetRawEntities
+  nameWithType: EcsWorld.GetRawEntities
+- uid: Saro.Entities.EcsWorld.GetSingleton*
+  name: GetSingleton
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetSingleton_
+  commentId: Overload:Saro.Entities.EcsWorld.GetSingleton
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetSingleton
+  nameWithType: EcsWorld.GetSingleton
+- uid: Saro.Entities.EcsWorld.GetSingleton``1
+  name: GetSingleton<T>()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetSingleton__1
+  commentId: M:Saro.Entities.EcsWorld.GetSingleton``1
+  name.vb: GetSingleton(Of T)()
+  fullName: Saro.Entities.EcsWorld.GetSingleton<T>()
+  fullName.vb: Saro.Entities.EcsWorld.GetSingleton(Of T)()
+  nameWithType: EcsWorld.GetSingleton<T>()
+  nameWithType.vb: EcsWorld.GetSingleton(Of T)()
+- uid: Saro.Entities.EcsWorld.GetSingletonEntity
+  name: GetSingletonEntity()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetSingletonEntity
+  commentId: M:Saro.Entities.EcsWorld.GetSingletonEntity
+  fullName: Saro.Entities.EcsWorld.GetSingletonEntity()
+  nameWithType: EcsWorld.GetSingletonEntity()
+- uid: Saro.Entities.EcsWorld.GetSingletonEntity*
+  name: GetSingletonEntity
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetSingletonEntity_
+  commentId: Overload:Saro.Entities.EcsWorld.GetSingletonEntity
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetSingletonEntity
+  nameWithType: EcsWorld.GetSingletonEntity
+- uid: Saro.Entities.EcsWorld.GetSystem*
+  name: GetSystem
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetSystem_
+  commentId: Overload:Saro.Entities.EcsWorld.GetSystem
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetSystem
+  nameWithType: EcsWorld.GetSystem
+- uid: Saro.Entities.EcsWorld.GetSystem``1
+  name: GetSystem<T>()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetSystem__1
+  commentId: M:Saro.Entities.EcsWorld.GetSystem``1
+  name.vb: GetSystem(Of T)()
+  fullName: Saro.Entities.EcsWorld.GetSystem<T>()
+  fullName.vb: Saro.Entities.EcsWorld.GetSystem(Of T)()
+  nameWithType: EcsWorld.GetSystem<T>()
+  nameWithType.vb: EcsWorld.GetSystem(Of T)()
+- uid: Saro.Entities.EcsWorld.GetWorld(System.Int32)
+  name: GetWorld(Int32)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetWorld_System_Int32_
+  commentId: M:Saro.Entities.EcsWorld.GetWorld(System.Int32)
+  fullName: Saro.Entities.EcsWorld.GetWorld(System.Int32)
+  nameWithType: EcsWorld.GetWorld(Int32)
+- uid: Saro.Entities.EcsWorld.GetWorld*
+  name: GetWorld
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetWorld_
+  commentId: Overload:Saro.Entities.EcsWorld.GetWorld
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetWorld
+  nameWithType: EcsWorld.GetWorld
+- uid: Saro.Entities.EcsWorld.GetWorldSize
+  name: GetWorldSize()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetWorldSize
+  commentId: M:Saro.Entities.EcsWorld.GetWorldSize
+  fullName: Saro.Entities.EcsWorld.GetWorldSize()
+  nameWithType: EcsWorld.GetWorldSize()
+- uid: Saro.Entities.EcsWorld.GetWorldSize*
+  name: GetWorldSize
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_GetWorldSize_
+  commentId: Overload:Saro.Entities.EcsWorld.GetWorldSize
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.GetWorldSize
+  nameWithType: EcsWorld.GetWorldSize
+- uid: Saro.Entities.EcsWorld.IsAlive
+  name: IsAlive()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_IsAlive
+  commentId: M:Saro.Entities.EcsWorld.IsAlive
+  fullName: Saro.Entities.EcsWorld.IsAlive()
+  nameWithType: EcsWorld.IsAlive()
+- uid: Saro.Entities.EcsWorld.IsAlive*
+  name: IsAlive
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_IsAlive_
+  commentId: Overload:Saro.Entities.EcsWorld.IsAlive
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.IsAlive
+  nameWithType: EcsWorld.IsAlive
+- uid: Saro.Entities.EcsWorld.IsEntityAlive(System.Int32)
+  name: IsEntityAlive(Int32)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_IsEntityAlive_System_Int32_
+  commentId: M:Saro.Entities.EcsWorld.IsEntityAlive(System.Int32)
+  fullName: Saro.Entities.EcsWorld.IsEntityAlive(System.Int32)
+  nameWithType: EcsWorld.IsEntityAlive(Int32)
+- uid: Saro.Entities.EcsWorld.IsEntityAlive*
+  name: IsEntityAlive
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_IsEntityAlive_
+  commentId: Overload:Saro.Entities.EcsWorld.IsEntityAlive
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.IsEntityAlive
+  nameWithType: EcsWorld.IsEntityAlive
+- uid: Saro.Entities.EcsWorld.Mask
+  name: EcsWorld.Mask
+  href: api/Saro.Entities.EcsWorld.Mask.html
+  commentId: T:Saro.Entities.EcsWorld.Mask
+  fullName: Saro.Entities.EcsWorld.Mask
+  nameWithType: EcsWorld.Mask
+- uid: Saro.Entities.EcsWorld.Mask.End(System.Int32)
+  name: End(Int32)
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_End_System_Int32_
+  commentId: M:Saro.Entities.EcsWorld.Mask.End(System.Int32)
+  fullName: Saro.Entities.EcsWorld.Mask.End(System.Int32)
+  nameWithType: EcsWorld.Mask.End(Int32)
+- uid: Saro.Entities.EcsWorld.Mask.End*
+  name: End
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_End_
+  commentId: Overload:Saro.Entities.EcsWorld.Mask.End
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.Mask.End
+  nameWithType: EcsWorld.Mask.End
+- uid: Saro.Entities.EcsWorld.Mask.Exc*
+  name: Exc
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Exc_
+  commentId: Overload:Saro.Entities.EcsWorld.Mask.Exc
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.Mask.Exc
+  nameWithType: EcsWorld.Mask.Exc
+- uid: Saro.Entities.EcsWorld.Mask.Exc``1
+  name: Exc<T>()
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Exc__1
+  commentId: M:Saro.Entities.EcsWorld.Mask.Exc``1
+  name.vb: Exc(Of T)()
+  fullName: Saro.Entities.EcsWorld.Mask.Exc<T>()
+  fullName.vb: Saro.Entities.EcsWorld.Mask.Exc(Of T)()
+  nameWithType: EcsWorld.Mask.Exc<T>()
+  nameWithType.vb: EcsWorld.Mask.Exc(Of T)()
+- uid: Saro.Entities.EcsWorld.Mask.Exc``2
+  name: Exc<T1, T2>()
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Exc__2
+  commentId: M:Saro.Entities.EcsWorld.Mask.Exc``2
+  name.vb: Exc(Of T1, T2)()
+  fullName: Saro.Entities.EcsWorld.Mask.Exc<T1, T2>()
+  fullName.vb: Saro.Entities.EcsWorld.Mask.Exc(Of T1, T2)()
+  nameWithType: EcsWorld.Mask.Exc<T1, T2>()
+  nameWithType.vb: EcsWorld.Mask.Exc(Of T1, T2)()
+- uid: Saro.Entities.EcsWorld.Mask.Exc``3
+  name: Exc<T1, T2, T3>()
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Exc__3
+  commentId: M:Saro.Entities.EcsWorld.Mask.Exc``3
+  name.vb: Exc(Of T1, T2, T3)()
+  fullName: Saro.Entities.EcsWorld.Mask.Exc<T1, T2, T3>()
+  fullName.vb: Saro.Entities.EcsWorld.Mask.Exc(Of T1, T2, T3)()
+  nameWithType: EcsWorld.Mask.Exc<T1, T2, T3>()
+  nameWithType.vb: EcsWorld.Mask.Exc(Of T1, T2, T3)()
+- uid: Saro.Entities.EcsWorld.Mask.Exc``4
+  name: Exc<T1, T2, T3, T4>()
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Exc__4
+  commentId: M:Saro.Entities.EcsWorld.Mask.Exc``4
+  name.vb: Exc(Of T1, T2, T3, T4)()
+  fullName: Saro.Entities.EcsWorld.Mask.Exc<T1, T2, T3, T4>()
+  fullName.vb: Saro.Entities.EcsWorld.Mask.Exc(Of T1, T2, T3, T4)()
+  nameWithType: EcsWorld.Mask.Exc<T1, T2, T3, T4>()
+  nameWithType.vb: EcsWorld.Mask.Exc(Of T1, T2, T3, T4)()
+- uid: Saro.Entities.EcsWorld.Mask.Exc``5
+  name: Exc<T1, T2, T3, T4, T5>()
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Exc__5
+  commentId: M:Saro.Entities.EcsWorld.Mask.Exc``5
+  name.vb: Exc(Of T1, T2, T3, T4, T5)()
+  fullName: Saro.Entities.EcsWorld.Mask.Exc<T1, T2, T3, T4, T5>()
+  fullName.vb: Saro.Entities.EcsWorld.Mask.Exc(Of T1, T2, T3, T4, T5)()
+  nameWithType: EcsWorld.Mask.Exc<T1, T2, T3, T4, T5>()
+  nameWithType.vb: EcsWorld.Mask.Exc(Of T1, T2, T3, T4, T5)()
+- uid: Saro.Entities.EcsWorld.Mask.Inc*
+  name: Inc
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Inc_
+  commentId: Overload:Saro.Entities.EcsWorld.Mask.Inc
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.Mask.Inc
+  nameWithType: EcsWorld.Mask.Inc
+- uid: Saro.Entities.EcsWorld.Mask.Inc``1
+  name: Inc<T>()
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Inc__1
+  commentId: M:Saro.Entities.EcsWorld.Mask.Inc``1
+  name.vb: Inc(Of T)()
+  fullName: Saro.Entities.EcsWorld.Mask.Inc<T>()
+  fullName.vb: Saro.Entities.EcsWorld.Mask.Inc(Of T)()
+  nameWithType: EcsWorld.Mask.Inc<T>()
+  nameWithType.vb: EcsWorld.Mask.Inc(Of T)()
+- uid: Saro.Entities.EcsWorld.Mask.Inc``2
+  name: Inc<T1, T2>()
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Inc__2
+  commentId: M:Saro.Entities.EcsWorld.Mask.Inc``2
+  name.vb: Inc(Of T1, T2)()
+  fullName: Saro.Entities.EcsWorld.Mask.Inc<T1, T2>()
+  fullName.vb: Saro.Entities.EcsWorld.Mask.Inc(Of T1, T2)()
+  nameWithType: EcsWorld.Mask.Inc<T1, T2>()
+  nameWithType.vb: EcsWorld.Mask.Inc(Of T1, T2)()
+- uid: Saro.Entities.EcsWorld.Mask.Inc``3
+  name: Inc<T1, T2, T3>()
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Inc__3
+  commentId: M:Saro.Entities.EcsWorld.Mask.Inc``3
+  name.vb: Inc(Of T1, T2, T3)()
+  fullName: Saro.Entities.EcsWorld.Mask.Inc<T1, T2, T3>()
+  fullName.vb: Saro.Entities.EcsWorld.Mask.Inc(Of T1, T2, T3)()
+  nameWithType: EcsWorld.Mask.Inc<T1, T2, T3>()
+  nameWithType.vb: EcsWorld.Mask.Inc(Of T1, T2, T3)()
+- uid: Saro.Entities.EcsWorld.Mask.Inc``4
+  name: Inc<T1, T2, T3, T4>()
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Inc__4
+  commentId: M:Saro.Entities.EcsWorld.Mask.Inc``4
+  name.vb: Inc(Of T1, T2, T3, T4)()
+  fullName: Saro.Entities.EcsWorld.Mask.Inc<T1, T2, T3, T4>()
+  fullName.vb: Saro.Entities.EcsWorld.Mask.Inc(Of T1, T2, T3, T4)()
+  nameWithType: EcsWorld.Mask.Inc<T1, T2, T3, T4>()
+  nameWithType.vb: EcsWorld.Mask.Inc(Of T1, T2, T3, T4)()
+- uid: Saro.Entities.EcsWorld.Mask.Inc``5
+  name: Inc<T1, T2, T3, T4, T5>()
+  href: api/Saro.Entities.EcsWorld.Mask.html#Saro_Entities_EcsWorld_Mask_Inc__5
+  commentId: M:Saro.Entities.EcsWorld.Mask.Inc``5
+  name.vb: Inc(Of T1, T2, T3, T4, T5)()
+  fullName: Saro.Entities.EcsWorld.Mask.Inc<T1, T2, T3, T4, T5>()
+  fullName.vb: Saro.Entities.EcsWorld.Mask.Inc(Of T1, T2, T3, T4, T5)()
+  nameWithType: EcsWorld.Mask.Inc<T1, T2, T3, T4, T5>()
+  nameWithType.vb: EcsWorld.Mask.Inc(Of T1, T2, T3, T4, T5)()
+- uid: Saro.Entities.EcsWorld.NamePool
+  name: NamePool
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_NamePool
+  commentId: P:Saro.Entities.EcsWorld.NamePool
+  fullName: Saro.Entities.EcsWorld.NamePool
+  nameWithType: EcsWorld.NamePool
+- uid: Saro.Entities.EcsWorld.NamePool*
+  name: NamePool
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_NamePool_
+  commentId: Overload:Saro.Entities.EcsWorld.NamePool
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.NamePool
+  nameWithType: EcsWorld.NamePool
+- uid: Saro.Entities.EcsWorld.NewEntity
+  name: NewEntity()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_NewEntity
+  commentId: M:Saro.Entities.EcsWorld.NewEntity
+  fullName: Saro.Entities.EcsWorld.NewEntity()
+  nameWithType: EcsWorld.NewEntity()
+- uid: Saro.Entities.EcsWorld.NewEntity(System.String)
+  name: NewEntity(String)
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_NewEntity_System_String_
+  commentId: M:Saro.Entities.EcsWorld.NewEntity(System.String)
+  fullName: Saro.Entities.EcsWorld.NewEntity(System.String)
+  nameWithType: EcsWorld.NewEntity(String)
+- uid: Saro.Entities.EcsWorld.NewEntity*
+  name: NewEntity
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_NewEntity_
+  commentId: Overload:Saro.Entities.EcsWorld.NewEntity
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.NewEntity
+  nameWithType: EcsWorld.NewEntity
+- uid: Saro.Entities.EcsWorld.ToString
+  name: ToString()
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_ToString
+  commentId: M:Saro.Entities.EcsWorld.ToString
+  fullName: Saro.Entities.EcsWorld.ToString()
+  nameWithType: EcsWorld.ToString()
+- uid: Saro.Entities.EcsWorld.ToString*
+  name: ToString
+  href: api/Saro.Entities.EcsWorld.html#Saro_Entities_EcsWorld_ToString_
+  commentId: Overload:Saro.Entities.EcsWorld.ToString
+  isSpec: "True"
+  fullName: Saro.Entities.EcsWorld.ToString
+  nameWithType: EcsWorld.ToString
+- uid: Saro.Entities.IEcsAutoReset`1
+  name: IEcsAutoReset<T>
+  href: api/Saro.Entities.IEcsAutoReset-1.html
+  commentId: T:Saro.Entities.IEcsAutoReset`1
+  name.vb: IEcsAutoReset(Of T)
+  fullName: Saro.Entities.IEcsAutoReset<T>
+  fullName.vb: Saro.Entities.IEcsAutoReset(Of T)
+  nameWithType: IEcsAutoReset<T>
+  nameWithType.vb: IEcsAutoReset(Of T)
+- uid: Saro.Entities.IEcsAutoReset`1.AutoReset(`0@)
+  name: AutoReset(ref T)
+  href: api/Saro.Entities.IEcsAutoReset-1.html#Saro_Entities_IEcsAutoReset_1_AutoReset__0__
+  commentId: M:Saro.Entities.IEcsAutoReset`1.AutoReset(`0@)
+  name.vb: AutoReset(ByRef T)
+  fullName: Saro.Entities.IEcsAutoReset<T>.AutoReset(ref T)
+  fullName.vb: Saro.Entities.IEcsAutoReset(Of T).AutoReset(ByRef T)
+  nameWithType: IEcsAutoReset<T>.AutoReset(ref T)
+  nameWithType.vb: IEcsAutoReset(Of T).AutoReset(ByRef T)
+- uid: Saro.Entities.IEcsAutoReset`1.AutoReset*
+  name: AutoReset
+  href: api/Saro.Entities.IEcsAutoReset-1.html#Saro_Entities_IEcsAutoReset_1_AutoReset_
+  commentId: Overload:Saro.Entities.IEcsAutoReset`1.AutoReset
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsAutoReset<T>.AutoReset
+  fullName.vb: Saro.Entities.IEcsAutoReset(Of T).AutoReset
+  nameWithType: IEcsAutoReset<T>.AutoReset
+  nameWithType.vb: IEcsAutoReset(Of T).AutoReset
+- uid: Saro.Entities.IEcsComponent
+  name: IEcsComponent
+  href: api/Saro.Entities.IEcsComponent.html
+  commentId: T:Saro.Entities.IEcsComponent
+  fullName: Saro.Entities.IEcsComponent
+  nameWithType: IEcsComponent
+- uid: Saro.Entities.IEcsComponentSingleton
+  name: IEcsComponentSingleton
+  href: api/Saro.Entities.IEcsComponentSingleton.html
+  commentId: T:Saro.Entities.IEcsComponentSingleton
+  fullName: Saro.Entities.IEcsComponentSingleton
+  nameWithType: IEcsComponentSingleton
+- uid: Saro.Entities.IEcsDestroySystem
+  name: IEcsDestroySystem
+  href: api/Saro.Entities.IEcsDestroySystem.html
+  commentId: T:Saro.Entities.IEcsDestroySystem
+  fullName: Saro.Entities.IEcsDestroySystem
+  nameWithType: IEcsDestroySystem
+- uid: Saro.Entities.IEcsDestroySystem.Destroy(Saro.Entities.EcsSystems)
+  name: Destroy(EcsSystems)
+  href: api/Saro.Entities.IEcsDestroySystem.html#Saro_Entities_IEcsDestroySystem_Destroy_Saro_Entities_EcsSystems_
+  commentId: M:Saro.Entities.IEcsDestroySystem.Destroy(Saro.Entities.EcsSystems)
+  fullName: Saro.Entities.IEcsDestroySystem.Destroy(Saro.Entities.EcsSystems)
+  nameWithType: IEcsDestroySystem.Destroy(EcsSystems)
+- uid: Saro.Entities.IEcsDestroySystem.Destroy*
+  name: Destroy
+  href: api/Saro.Entities.IEcsDestroySystem.html#Saro_Entities_IEcsDestroySystem_Destroy_
+  commentId: Overload:Saro.Entities.IEcsDestroySystem.Destroy
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsDestroySystem.Destroy
+  nameWithType: IEcsDestroySystem.Destroy
+- uid: Saro.Entities.IEcsInitSystem
+  name: IEcsInitSystem
+  href: api/Saro.Entities.IEcsInitSystem.html
+  commentId: T:Saro.Entities.IEcsInitSystem
+  fullName: Saro.Entities.IEcsInitSystem
+  nameWithType: IEcsInitSystem
+- uid: Saro.Entities.IEcsInitSystem.Init(Saro.Entities.EcsSystems)
+  name: Init(EcsSystems)
+  href: api/Saro.Entities.IEcsInitSystem.html#Saro_Entities_IEcsInitSystem_Init_Saro_Entities_EcsSystems_
+  commentId: M:Saro.Entities.IEcsInitSystem.Init(Saro.Entities.EcsSystems)
+  fullName: Saro.Entities.IEcsInitSystem.Init(Saro.Entities.EcsSystems)
+  nameWithType: IEcsInitSystem.Init(EcsSystems)
+- uid: Saro.Entities.IEcsInitSystem.Init*
+  name: Init
+  href: api/Saro.Entities.IEcsInitSystem.html#Saro_Entities_IEcsInitSystem_Init_
+  commentId: Overload:Saro.Entities.IEcsInitSystem.Init
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsInitSystem.Init
+  nameWithType: IEcsInitSystem.Init
+- uid: Saro.Entities.IEcsPool
+  name: IEcsPool
+  href: api/Saro.Entities.IEcsPool.html
+  commentId: T:Saro.Entities.IEcsPool
+  fullName: Saro.Entities.IEcsPool
+  nameWithType: IEcsPool
+- uid: Saro.Entities.IEcsPool.AddRaw(System.Int32,System.Object)
+  name: AddRaw(Int32, Object)
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_AddRaw_System_Int32_System_Object_
+  commentId: M:Saro.Entities.IEcsPool.AddRaw(System.Int32,System.Object)
+  fullName: Saro.Entities.IEcsPool.AddRaw(System.Int32, System.Object)
+  nameWithType: IEcsPool.AddRaw(Int32, Object)
+- uid: Saro.Entities.IEcsPool.AddRaw*
+  name: AddRaw
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_AddRaw_
+  commentId: Overload:Saro.Entities.IEcsPool.AddRaw
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPool.AddRaw
+  nameWithType: IEcsPool.AddRaw
+- uid: Saro.Entities.IEcsPool.Del(System.Int32)
+  name: Del(Int32)
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_Del_System_Int32_
+  commentId: M:Saro.Entities.IEcsPool.Del(System.Int32)
+  fullName: Saro.Entities.IEcsPool.Del(System.Int32)
+  nameWithType: IEcsPool.Del(Int32)
+- uid: Saro.Entities.IEcsPool.Del*
+  name: Del
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_Del_
+  commentId: Overload:Saro.Entities.IEcsPool.Del
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPool.Del
+  nameWithType: IEcsPool.Del
+- uid: Saro.Entities.IEcsPool.GetComponentType
+  name: GetComponentType()
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_GetComponentType
+  commentId: M:Saro.Entities.IEcsPool.GetComponentType
+  fullName: Saro.Entities.IEcsPool.GetComponentType()
+  nameWithType: IEcsPool.GetComponentType()
+- uid: Saro.Entities.IEcsPool.GetComponentType*
+  name: GetComponentType
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_GetComponentType_
+  commentId: Overload:Saro.Entities.IEcsPool.GetComponentType
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPool.GetComponentType
+  nameWithType: IEcsPool.GetComponentType
+- uid: Saro.Entities.IEcsPool.GetId
+  name: GetId()
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_GetId
+  commentId: M:Saro.Entities.IEcsPool.GetId
+  fullName: Saro.Entities.IEcsPool.GetId()
+  nameWithType: IEcsPool.GetId()
+- uid: Saro.Entities.IEcsPool.GetId*
+  name: GetId
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_GetId_
+  commentId: Overload:Saro.Entities.IEcsPool.GetId
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPool.GetId
+  nameWithType: IEcsPool.GetId
+- uid: Saro.Entities.IEcsPool.GetRaw(System.Int32)
+  name: GetRaw(Int32)
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_GetRaw_System_Int32_
+  commentId: M:Saro.Entities.IEcsPool.GetRaw(System.Int32)
+  fullName: Saro.Entities.IEcsPool.GetRaw(System.Int32)
+  nameWithType: IEcsPool.GetRaw(Int32)
+- uid: Saro.Entities.IEcsPool.GetRaw*
+  name: GetRaw
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_GetRaw_
+  commentId: Overload:Saro.Entities.IEcsPool.GetRaw
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPool.GetRaw
+  nameWithType: IEcsPool.GetRaw
+- uid: Saro.Entities.IEcsPool.Has(System.Int32)
+  name: Has(Int32)
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_Has_System_Int32_
+  commentId: M:Saro.Entities.IEcsPool.Has(System.Int32)
+  fullName: Saro.Entities.IEcsPool.Has(System.Int32)
+  nameWithType: IEcsPool.Has(Int32)
+- uid: Saro.Entities.IEcsPool.Has*
+  name: Has
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_Has_
+  commentId: Overload:Saro.Entities.IEcsPool.Has
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPool.Has
+  nameWithType: IEcsPool.Has
+- uid: Saro.Entities.IEcsPool.Resize(System.Int32)
+  name: Resize(Int32)
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_Resize_System_Int32_
+  commentId: M:Saro.Entities.IEcsPool.Resize(System.Int32)
+  fullName: Saro.Entities.IEcsPool.Resize(System.Int32)
+  nameWithType: IEcsPool.Resize(Int32)
+- uid: Saro.Entities.IEcsPool.Resize*
+  name: Resize
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_Resize_
+  commentId: Overload:Saro.Entities.IEcsPool.Resize
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPool.Resize
+  nameWithType: IEcsPool.Resize
+- uid: Saro.Entities.IEcsPool.SetRaw(System.Int32,System.Object)
+  name: SetRaw(Int32, Object)
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_SetRaw_System_Int32_System_Object_
+  commentId: M:Saro.Entities.IEcsPool.SetRaw(System.Int32,System.Object)
+  fullName: Saro.Entities.IEcsPool.SetRaw(System.Int32, System.Object)
+  nameWithType: IEcsPool.SetRaw(Int32, Object)
+- uid: Saro.Entities.IEcsPool.SetRaw*
+  name: SetRaw
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_SetRaw_
+  commentId: Overload:Saro.Entities.IEcsPool.SetRaw
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPool.SetRaw
+  nameWithType: IEcsPool.SetRaw
+- uid: Saro.Entities.IEcsPool.Singleton
+  name: Singleton
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_Singleton
+  commentId: P:Saro.Entities.IEcsPool.Singleton
+  fullName: Saro.Entities.IEcsPool.Singleton
+  nameWithType: IEcsPool.Singleton
+- uid: Saro.Entities.IEcsPool.Singleton*
+  name: Singleton
+  href: api/Saro.Entities.IEcsPool.html#Saro_Entities_IEcsPool_Singleton_
+  commentId: Overload:Saro.Entities.IEcsPool.Singleton
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPool.Singleton
+  nameWithType: IEcsPool.Singleton
+- uid: Saro.Entities.IEcsPostDestroySystem
+  name: IEcsPostDestroySystem
+  href: api/Saro.Entities.IEcsPostDestroySystem.html
+  commentId: T:Saro.Entities.IEcsPostDestroySystem
+  fullName: Saro.Entities.IEcsPostDestroySystem
+  nameWithType: IEcsPostDestroySystem
+- uid: Saro.Entities.IEcsPostDestroySystem.PostDestroy(Saro.Entities.EcsSystems)
+  name: PostDestroy(EcsSystems)
+  href: api/Saro.Entities.IEcsPostDestroySystem.html#Saro_Entities_IEcsPostDestroySystem_PostDestroy_Saro_Entities_EcsSystems_
+  commentId: M:Saro.Entities.IEcsPostDestroySystem.PostDestroy(Saro.Entities.EcsSystems)
+  fullName: Saro.Entities.IEcsPostDestroySystem.PostDestroy(Saro.Entities.EcsSystems)
+  nameWithType: IEcsPostDestroySystem.PostDestroy(EcsSystems)
+- uid: Saro.Entities.IEcsPostDestroySystem.PostDestroy*
+  name: PostDestroy
+  href: api/Saro.Entities.IEcsPostDestroySystem.html#Saro_Entities_IEcsPostDestroySystem_PostDestroy_
+  commentId: Overload:Saro.Entities.IEcsPostDestroySystem.PostDestroy
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPostDestroySystem.PostDestroy
+  nameWithType: IEcsPostDestroySystem.PostDestroy
+- uid: Saro.Entities.IEcsPreInitSystem
+  name: IEcsPreInitSystem
+  href: api/Saro.Entities.IEcsPreInitSystem.html
+  commentId: T:Saro.Entities.IEcsPreInitSystem
+  fullName: Saro.Entities.IEcsPreInitSystem
+  nameWithType: IEcsPreInitSystem
+- uid: Saro.Entities.IEcsPreInitSystem.PreInit(Saro.Entities.EcsSystems)
+  name: PreInit(EcsSystems)
+  href: api/Saro.Entities.IEcsPreInitSystem.html#Saro_Entities_IEcsPreInitSystem_PreInit_Saro_Entities_EcsSystems_
+  commentId: M:Saro.Entities.IEcsPreInitSystem.PreInit(Saro.Entities.EcsSystems)
+  fullName: Saro.Entities.IEcsPreInitSystem.PreInit(Saro.Entities.EcsSystems)
+  nameWithType: IEcsPreInitSystem.PreInit(EcsSystems)
+- uid: Saro.Entities.IEcsPreInitSystem.PreInit*
+  name: PreInit
+  href: api/Saro.Entities.IEcsPreInitSystem.html#Saro_Entities_IEcsPreInitSystem_PreInit_
+  commentId: Overload:Saro.Entities.IEcsPreInitSystem.PreInit
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsPreInitSystem.PreInit
+  nameWithType: IEcsPreInitSystem.PreInit
+- uid: Saro.Entities.IEcsRunSystem
+  name: IEcsRunSystem
+  href: api/Saro.Entities.IEcsRunSystem.html
+  commentId: T:Saro.Entities.IEcsRunSystem
+  fullName: Saro.Entities.IEcsRunSystem
+  nameWithType: IEcsRunSystem
+- uid: Saro.Entities.IEcsRunSystem.Enable
+  name: Enable
+  href: api/Saro.Entities.IEcsRunSystem.html#Saro_Entities_IEcsRunSystem_Enable
+  commentId: P:Saro.Entities.IEcsRunSystem.Enable
+  fullName: Saro.Entities.IEcsRunSystem.Enable
+  nameWithType: IEcsRunSystem.Enable
+- uid: Saro.Entities.IEcsRunSystem.Enable*
+  name: Enable
+  href: api/Saro.Entities.IEcsRunSystem.html#Saro_Entities_IEcsRunSystem_Enable_
+  commentId: Overload:Saro.Entities.IEcsRunSystem.Enable
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsRunSystem.Enable
+  nameWithType: IEcsRunSystem.Enable
+- uid: Saro.Entities.IEcsRunSystem.Run(Saro.Entities.EcsSystems,System.Single)
+  name: Run(EcsSystems, Single)
+  href: api/Saro.Entities.IEcsRunSystem.html#Saro_Entities_IEcsRunSystem_Run_Saro_Entities_EcsSystems_System_Single_
+  commentId: M:Saro.Entities.IEcsRunSystem.Run(Saro.Entities.EcsSystems,System.Single)
+  fullName: Saro.Entities.IEcsRunSystem.Run(Saro.Entities.EcsSystems, System.Single)
+  nameWithType: IEcsRunSystem.Run(EcsSystems, Single)
+- uid: Saro.Entities.IEcsRunSystem.Run*
+  name: Run
+  href: api/Saro.Entities.IEcsRunSystem.html#Saro_Entities_IEcsRunSystem_Run_
+  commentId: Overload:Saro.Entities.IEcsRunSystem.Run
+  isSpec: "True"
+  fullName: Saro.Entities.IEcsRunSystem.Run
+  nameWithType: IEcsRunSystem.Run
+- uid: Saro.Entities.IEcsSystem
+  name: IEcsSystem
+  href: api/Saro.Entities.IEcsSystem.html
+  commentId: T:Saro.Entities.IEcsSystem
+  fullName: Saro.Entities.IEcsSystem
+  nameWithType: IEcsSystem
+- uid: Saro.Entities.Name
+  name: Name
+  href: api/Saro.Entities.Name.html
+  commentId: T:Saro.Entities.Name
+  fullName: Saro.Entities.Name
+  nameWithType: Name
+- uid: Saro.Entities.Name.#ctor(System.String)
+  name: Name(String)
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name__ctor_System_String_
+  commentId: M:Saro.Entities.Name.#ctor(System.String)
+  fullName: Saro.Entities.Name.Name(System.String)
+  nameWithType: Name.Name(String)
+- uid: Saro.Entities.Name.#ctor*
+  name: Name
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name__ctor_
+  commentId: Overload:Saro.Entities.Name.#ctor
+  isSpec: "True"
+  fullName: Saro.Entities.Name.Name
+  nameWithType: Name.Name
+- uid: Saro.Entities.Name.Equals(Saro.Entities.Name)
+  name: Equals(Name)
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_Equals_Saro_Entities_Name_
+  commentId: M:Saro.Entities.Name.Equals(Saro.Entities.Name)
+  fullName: Saro.Entities.Name.Equals(Saro.Entities.Name)
+  nameWithType: Name.Equals(Name)
+- uid: Saro.Entities.Name.Equals(System.Object)
+  name: Equals(Object)
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_Equals_System_Object_
+  commentId: M:Saro.Entities.Name.Equals(System.Object)
+  fullName: Saro.Entities.Name.Equals(System.Object)
+  nameWithType: Name.Equals(Object)
+- uid: Saro.Entities.Name.Equals*
+  name: Equals
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_Equals_
+  commentId: Overload:Saro.Entities.Name.Equals
+  isSpec: "True"
+  fullName: Saro.Entities.Name.Equals
+  nameWithType: Name.Equals
+- uid: Saro.Entities.Name.GetEntityDetial(System.Int32,Saro.Entities.EcsWorld,System.String)
+  name: GetEntityDetial(Int32, EcsWorld, String)
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_GetEntityDetial_System_Int32_Saro_Entities_EcsWorld_System_String_
+  commentId: M:Saro.Entities.Name.GetEntityDetial(System.Int32,Saro.Entities.EcsWorld,System.String)
+  fullName: Saro.Entities.Name.GetEntityDetial(System.Int32, Saro.Entities.EcsWorld, System.String)
+  nameWithType: Name.GetEntityDetial(Int32, EcsWorld, String)
+- uid: Saro.Entities.Name.GetEntityDetial*
+  name: GetEntityDetial
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_GetEntityDetial_
+  commentId: Overload:Saro.Entities.Name.GetEntityDetial
+  isSpec: "True"
+  fullName: Saro.Entities.Name.GetEntityDetial
+  nameWithType: Name.GetEntityDetial
+- uid: Saro.Entities.Name.GetEntityInfo(Saro.Entities.EcsEntity,System.String)
+  name: GetEntityInfo(EcsEntity, String)
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_GetEntityInfo_Saro_Entities_EcsEntity_System_String_
+  commentId: M:Saro.Entities.Name.GetEntityInfo(Saro.Entities.EcsEntity,System.String)
+  fullName: Saro.Entities.Name.GetEntityInfo(Saro.Entities.EcsEntity, System.String)
+  nameWithType: Name.GetEntityInfo(EcsEntity, String)
+- uid: Saro.Entities.Name.GetEntityInfo(System.Int32,Saro.Entities.EcsWorld,System.String)
+  name: GetEntityInfo(Int32, EcsWorld, String)
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_GetEntityInfo_System_Int32_Saro_Entities_EcsWorld_System_String_
+  commentId: M:Saro.Entities.Name.GetEntityInfo(System.Int32,Saro.Entities.EcsWorld,System.String)
+  fullName: Saro.Entities.Name.GetEntityInfo(System.Int32, Saro.Entities.EcsWorld, System.String)
+  nameWithType: Name.GetEntityInfo(Int32, EcsWorld, String)
+- uid: Saro.Entities.Name.GetEntityInfo*
+  name: GetEntityInfo
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_GetEntityInfo_
+  commentId: Overload:Saro.Entities.Name.GetEntityInfo
+  isSpec: "True"
+  fullName: Saro.Entities.Name.GetEntityInfo
+  nameWithType: Name.GetEntityInfo
+- uid: Saro.Entities.Name.GetEntityName(Saro.Entities.EcsEntity,System.String)
+  name: GetEntityName(EcsEntity, String)
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_GetEntityName_Saro_Entities_EcsEntity_System_String_
+  commentId: M:Saro.Entities.Name.GetEntityName(Saro.Entities.EcsEntity,System.String)
+  fullName: Saro.Entities.Name.GetEntityName(Saro.Entities.EcsEntity, System.String)
+  nameWithType: Name.GetEntityName(EcsEntity, String)
+- uid: Saro.Entities.Name.GetEntityName(System.Int32,Saro.Entities.EcsWorld,System.String)
+  name: GetEntityName(Int32, EcsWorld, String)
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_GetEntityName_System_Int32_Saro_Entities_EcsWorld_System_String_
+  commentId: M:Saro.Entities.Name.GetEntityName(System.Int32,Saro.Entities.EcsWorld,System.String)
+  fullName: Saro.Entities.Name.GetEntityName(System.Int32, Saro.Entities.EcsWorld, System.String)
+  nameWithType: Name.GetEntityName(Int32, EcsWorld, String)
+- uid: Saro.Entities.Name.GetEntityName*
+  name: GetEntityName
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_GetEntityName_
+  commentId: Overload:Saro.Entities.Name.GetEntityName
+  isSpec: "True"
+  fullName: Saro.Entities.Name.GetEntityName
+  nameWithType: Name.GetEntityName
+- uid: Saro.Entities.Name.GetHashCode
+  name: GetHashCode()
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_GetHashCode
+  commentId: M:Saro.Entities.Name.GetHashCode
+  fullName: Saro.Entities.Name.GetHashCode()
+  nameWithType: Name.GetHashCode()
+- uid: Saro.Entities.Name.GetHashCode*
+  name: GetHashCode
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_GetHashCode_
+  commentId: Overload:Saro.Entities.Name.GetHashCode
+  isSpec: "True"
+  fullName: Saro.Entities.Name.GetHashCode
+  nameWithType: Name.GetHashCode
+- uid: Saro.Entities.Name.k_EntityNameFormat
+  name: k_EntityNameFormat
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_k_EntityNameFormat
+  commentId: F:Saro.Entities.Name.k_EntityNameFormat
+  fullName: Saro.Entities.Name.k_EntityNameFormat
+  nameWithType: Name.k_EntityNameFormat
+- uid: Saro.Entities.Name.name
+  name: name
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_name
+  commentId: F:Saro.Entities.Name.name
+  fullName: Saro.Entities.Name.name
+  nameWithType: Name.name
+- uid: Saro.Entities.Name.op_Equality(Saro.Entities.Name@,Saro.Entities.Name@)
+  name: Equality(Name, Name)
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_op_Equality_Saro_Entities_Name__Saro_Entities_Name__
+  commentId: M:Saro.Entities.Name.op_Equality(Saro.Entities.Name@,Saro.Entities.Name@)
+  name.vb: Equality(ByRef Name, ByRef Name)
+  fullName: Saro.Entities.Name.Equality(Saro.Entities.Name, Saro.Entities.Name)
+  fullName.vb: Saro.Entities.Name.Equality(ByRef Saro.Entities.Name, ByRef Saro.Entities.Name)
+  nameWithType: Name.Equality(Name, Name)
+  nameWithType.vb: Name.Equality(ByRef Name, ByRef Name)
+- uid: Saro.Entities.Name.op_Equality*
+  name: Equality
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_op_Equality_
+  commentId: Overload:Saro.Entities.Name.op_Equality
+  isSpec: "True"
+  fullName: Saro.Entities.Name.Equality
+  nameWithType: Name.Equality
+- uid: Saro.Entities.Name.op_Inequality(Saro.Entities.Name@,Saro.Entities.Name@)
+  name: Inequality(Name, Name)
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_op_Inequality_Saro_Entities_Name__Saro_Entities_Name__
+  commentId: M:Saro.Entities.Name.op_Inequality(Saro.Entities.Name@,Saro.Entities.Name@)
+  name.vb: Inequality(ByRef Name, ByRef Name)
+  fullName: Saro.Entities.Name.Inequality(Saro.Entities.Name, Saro.Entities.Name)
+  fullName.vb: Saro.Entities.Name.Inequality(ByRef Saro.Entities.Name, ByRef Saro.Entities.Name)
+  nameWithType: Name.Inequality(Name, Name)
+  nameWithType.vb: Name.Inequality(ByRef Name, ByRef Name)
+- uid: Saro.Entities.Name.op_Inequality*
+  name: Inequality
+  href: api/Saro.Entities.Name.html#Saro_Entities_Name_op_Inequality_
+  commentId: Overload:Saro.Entities.Name.op_Inequality
+  isSpec: "True"
+  fullName: Saro.Entities.Name.Inequality
+  nameWithType: Name.Inequality
+- uid: Saro.Entities.Transforms
+  name: Saro.Entities.Transforms
+  href: api/Saro.Entities.Transforms.html
+  commentId: N:Saro.Entities.Transforms
+  fullName: Saro.Entities.Transforms
+  nameWithType: Saro.Entities.Transforms
+- uid: Saro.Entities.Transforms.EcsTransformExtensions
+  name: EcsTransformExtensions
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html
+  commentId: T:Saro.Entities.Transforms.EcsTransformExtensions
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions
+  nameWithType: EcsTransformExtensions
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.
+  name: ''
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_
+  commentId: F:Saro.Entities.Transforms.EcsTransformExtensions.
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.
+  nameWithType: EcsTransformExtensions.
+- uid: Saro.Entities.Transforms.EcsTransformExtensions._one
+  name: _one
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions__one
+  commentId: F:Saro.Entities.Transforms.EcsTransformExtensions._one
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions._one
+  nameWithType: EcsTransformExtensions._one
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.FromToRotation(float3@,float3@)
+  name: FromToRotation(float3, float3)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_FromToRotation_float3__float3__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.FromToRotation(float3@,float3@)
+  name.vb: FromToRotation(ByRef float3, ByRef float3)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.FromToRotation(float3, float3)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.FromToRotation(ByRef float3, ByRef float3)
+  nameWithType: EcsTransformExtensions.FromToRotation(float3, float3)
+  nameWithType.vb: EcsTransformExtensions.FromToRotation(ByRef float3, ByRef float3)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.FromToRotation*
+  name: FromToRotation
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_FromToRotation_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.FromToRotation
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.FromToRotation
+  nameWithType: EcsTransformExtensions.FromToRotation
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetForward(Saro.Entities.EcsEntity)
+  name: GetForward(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetForward_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetForward(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetForward(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformExtensions.GetForward(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetForward(System.Int32,Saro.Entities.EcsWorld)
+  name: GetForward(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetForward_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetForward(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetForward(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.GetForward(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetForward*
+  name: GetForward
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetForward_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.GetForward
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetForward
+  nameWithType: EcsTransformExtensions.GetForward
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalPosition(Saro.Entities.EcsEntity)
+  name: GetLocalPosition(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetLocalPosition_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetLocalPosition(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalPosition(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformExtensions.GetLocalPosition(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalPosition(System.Int32,Saro.Entities.EcsWorld)
+  name: GetLocalPosition(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetLocalPosition_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetLocalPosition(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalPosition(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.GetLocalPosition(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalPosition*
+  name: GetLocalPosition
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetLocalPosition_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.GetLocalPosition
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalPosition
+  nameWithType: EcsTransformExtensions.GetLocalPosition
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalRotation(Saro.Entities.EcsEntity)
+  name: GetLocalRotation(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetLocalRotation_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetLocalRotation(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalRotation(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformExtensions.GetLocalRotation(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalRotation(System.Int32,Saro.Entities.EcsWorld)
+  name: GetLocalRotation(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetLocalRotation_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetLocalRotation(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalRotation(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.GetLocalRotation(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalRotation*
+  name: GetLocalRotation
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetLocalRotation_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.GetLocalRotation
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalRotation
+  nameWithType: EcsTransformExtensions.GetLocalRotation
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalScale(Saro.Entities.EcsEntity)
+  name: GetLocalScale(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetLocalScale_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetLocalScale(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalScale(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformExtensions.GetLocalScale(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalScale(System.Int32,Saro.Entities.EcsWorld)
+  name: GetLocalScale(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetLocalScale_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetLocalScale(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalScale(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.GetLocalScale(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalScale*
+  name: GetLocalScale
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetLocalScale_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.GetLocalScale
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetLocalScale
+  nameWithType: EcsTransformExtensions.GetLocalScale
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetPosition(Saro.Entities.EcsEntity)
+  name: GetPosition(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetPosition_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetPosition(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetPosition(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformExtensions.GetPosition(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetPosition(System.Int32,Saro.Entities.EcsWorld)
+  name: GetPosition(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetPosition_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetPosition(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetPosition(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.GetPosition(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetPosition*
+  name: GetPosition
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetPosition_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.GetPosition
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetPosition
+  nameWithType: EcsTransformExtensions.GetPosition
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetRight(Saro.Entities.EcsEntity)
+  name: GetRight(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetRight_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetRight(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetRight(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformExtensions.GetRight(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetRight(System.Int32,Saro.Entities.EcsWorld)
+  name: GetRight(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetRight_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetRight(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetRight(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.GetRight(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetRight*
+  name: GetRight
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetRight_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.GetRight
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetRight
+  nameWithType: EcsTransformExtensions.GetRight
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetRotation(Saro.Entities.EcsEntity)
+  name: GetRotation(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetRotation_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetRotation(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetRotation(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformExtensions.GetRotation(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetRotation(System.Int32,Saro.Entities.EcsWorld)
+  name: GetRotation(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetRotation_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetRotation(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetRotation(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.GetRotation(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetRotation*
+  name: GetRotation
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetRotation_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.GetRotation
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetRotation
+  nameWithType: EcsTransformExtensions.GetRotation
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetScale(Saro.Entities.EcsEntity)
+  name: GetScale(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetScale_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetScale(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetScale(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformExtensions.GetScale(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetScale(System.Int32,Saro.Entities.EcsWorld)
+  name: GetScale(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetScale_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetScale(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetScale(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.GetScale(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetScale*
+  name: GetScale
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetScale_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.GetScale
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetScale
+  nameWithType: EcsTransformExtensions.GetScale
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetUp(Saro.Entities.EcsEntity)
+  name: GetUp(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetUp_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetUp(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetUp(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformExtensions.GetUp(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetUp(System.Int32,Saro.Entities.EcsWorld)
+  name: GetUp(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetUp_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.GetUp(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetUp(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.GetUp(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.GetUp*
+  name: GetUp
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_GetUp_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.GetUp
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.GetUp
+  nameWithType: EcsTransformExtensions.GetUp
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetForward(Saro.Entities.EcsEntity,float3)
+  name: SetForward(EcsEntity, float3)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetForward_Saro_Entities_EcsEntity_float3_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetForward(Saro.Entities.EcsEntity,float3)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetForward(Saro.Entities.EcsEntity, float3)
+  nameWithType: EcsTransformExtensions.SetForward(EcsEntity, float3)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetForward(System.Int32,float3,Saro.Entities.EcsWorld)
+  name: SetForward(Int32, float3, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetForward_System_Int32_float3_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetForward(System.Int32,float3,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetForward(System.Int32, float3, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.SetForward(Int32, float3, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetForward*
+  name: SetForward
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetForward_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.SetForward
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetForward
+  nameWithType: EcsTransformExtensions.SetForward
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition(Saro.Entities.EcsEntity,float3@)
+  name: SetLocalPosition(EcsEntity, float3)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetLocalPosition_Saro_Entities_EcsEntity_float3__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition(Saro.Entities.EcsEntity,float3@)
+  name.vb: SetLocalPosition(EcsEntity, ByRef float3)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition(Saro.Entities.EcsEntity, float3)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition(Saro.Entities.EcsEntity, ByRef float3)
+  nameWithType: EcsTransformExtensions.SetLocalPosition(EcsEntity, float3)
+  nameWithType.vb: EcsTransformExtensions.SetLocalPosition(EcsEntity, ByRef float3)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition(System.Int32,Saro.Entities.EcsWorld,float3@)
+  name: SetLocalPosition(Int32, EcsWorld, float3)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetLocalPosition_System_Int32_Saro_Entities_EcsWorld_float3__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition(System.Int32,Saro.Entities.EcsWorld,float3@)
+  name.vb: SetLocalPosition(Int32, EcsWorld, ByRef float3)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition(System.Int32, Saro.Entities.EcsWorld, float3)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition(System.Int32, Saro.Entities.EcsWorld, ByRef float3)
+  nameWithType: EcsTransformExtensions.SetLocalPosition(Int32, EcsWorld, float3)
+  nameWithType.vb: EcsTransformExtensions.SetLocalPosition(Int32, EcsWorld, ByRef float3)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition*
+  name: SetLocalPosition
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetLocalPosition_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalPosition
+  nameWithType: EcsTransformExtensions.SetLocalPosition
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation(Saro.Entities.EcsEntity,quaternion@)
+  name: SetLocalRotation(EcsEntity, quaternion)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetLocalRotation_Saro_Entities_EcsEntity_quaternion__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation(Saro.Entities.EcsEntity,quaternion@)
+  name.vb: SetLocalRotation(EcsEntity, ByRef quaternion)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation(Saro.Entities.EcsEntity, quaternion)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation(Saro.Entities.EcsEntity, ByRef quaternion)
+  nameWithType: EcsTransformExtensions.SetLocalRotation(EcsEntity, quaternion)
+  nameWithType.vb: EcsTransformExtensions.SetLocalRotation(EcsEntity, ByRef quaternion)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation(System.Int32,Saro.Entities.EcsWorld,quaternion@)
+  name: SetLocalRotation(Int32, EcsWorld, quaternion)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetLocalRotation_System_Int32_Saro_Entities_EcsWorld_quaternion__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation(System.Int32,Saro.Entities.EcsWorld,quaternion@)
+  name.vb: SetLocalRotation(Int32, EcsWorld, ByRef quaternion)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation(System.Int32, Saro.Entities.EcsWorld, quaternion)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation(System.Int32, Saro.Entities.EcsWorld, ByRef quaternion)
+  nameWithType: EcsTransformExtensions.SetLocalRotation(Int32, EcsWorld, quaternion)
+  nameWithType.vb: EcsTransformExtensions.SetLocalRotation(Int32, EcsWorld, ByRef quaternion)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation*
+  name: SetLocalRotation
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetLocalRotation_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalRotation
+  nameWithType: EcsTransformExtensions.SetLocalRotation
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale(Saro.Entities.EcsEntity,float3@)
+  name: SetLocalScale(EcsEntity, float3)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetLocalScale_Saro_Entities_EcsEntity_float3__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale(Saro.Entities.EcsEntity,float3@)
+  name.vb: SetLocalScale(EcsEntity, ByRef float3)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale(Saro.Entities.EcsEntity, float3)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale(Saro.Entities.EcsEntity, ByRef float3)
+  nameWithType: EcsTransformExtensions.SetLocalScale(EcsEntity, float3)
+  nameWithType.vb: EcsTransformExtensions.SetLocalScale(EcsEntity, ByRef float3)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale(System.Int32,Saro.Entities.EcsWorld,float3@)
+  name: SetLocalScale(Int32, EcsWorld, float3)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetLocalScale_System_Int32_Saro_Entities_EcsWorld_float3__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale(System.Int32,Saro.Entities.EcsWorld,float3@)
+  name.vb: SetLocalScale(Int32, EcsWorld, ByRef float3)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale(System.Int32, Saro.Entities.EcsWorld, float3)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale(System.Int32, Saro.Entities.EcsWorld, ByRef float3)
+  nameWithType: EcsTransformExtensions.SetLocalScale(Int32, EcsWorld, float3)
+  nameWithType.vb: EcsTransformExtensions.SetLocalScale(Int32, EcsWorld, ByRef float3)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale*
+  name: SetLocalScale
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetLocalScale_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetLocalScale
+  nameWithType: EcsTransformExtensions.SetLocalScale
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetPosition(Saro.Entities.EcsEntity,float3@)
+  name: SetPosition(EcsEntity, float3)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetPosition_Saro_Entities_EcsEntity_float3__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetPosition(Saro.Entities.EcsEntity,float3@)
+  name.vb: SetPosition(EcsEntity, ByRef float3)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetPosition(Saro.Entities.EcsEntity, float3)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.SetPosition(Saro.Entities.EcsEntity, ByRef float3)
+  nameWithType: EcsTransformExtensions.SetPosition(EcsEntity, float3)
+  nameWithType.vb: EcsTransformExtensions.SetPosition(EcsEntity, ByRef float3)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetPosition(System.Int32,Saro.Entities.EcsWorld,float3@)
+  name: SetPosition(Int32, EcsWorld, float3)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetPosition_System_Int32_Saro_Entities_EcsWorld_float3__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetPosition(System.Int32,Saro.Entities.EcsWorld,float3@)
+  name.vb: SetPosition(Int32, EcsWorld, ByRef float3)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetPosition(System.Int32, Saro.Entities.EcsWorld, float3)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.SetPosition(System.Int32, Saro.Entities.EcsWorld, ByRef float3)
+  nameWithType: EcsTransformExtensions.SetPosition(Int32, EcsWorld, float3)
+  nameWithType.vb: EcsTransformExtensions.SetPosition(Int32, EcsWorld, ByRef float3)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetPosition*
+  name: SetPosition
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetPosition_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.SetPosition
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetPosition
+  nameWithType: EcsTransformExtensions.SetPosition
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetRight(Saro.Entities.EcsEntity,float3)
+  name: SetRight(EcsEntity, float3)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetRight_Saro_Entities_EcsEntity_float3_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetRight(Saro.Entities.EcsEntity,float3)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetRight(Saro.Entities.EcsEntity, float3)
+  nameWithType: EcsTransformExtensions.SetRight(EcsEntity, float3)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetRight(System.Int32,float3,Saro.Entities.EcsWorld)
+  name: SetRight(Int32, float3, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetRight_System_Int32_float3_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetRight(System.Int32,float3,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetRight(System.Int32, float3, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.SetRight(Int32, float3, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetRight*
+  name: SetRight
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetRight_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.SetRight
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetRight
+  nameWithType: EcsTransformExtensions.SetRight
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetRotation(Saro.Entities.EcsEntity,quaternion@)
+  name: SetRotation(EcsEntity, quaternion)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetRotation_Saro_Entities_EcsEntity_quaternion__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetRotation(Saro.Entities.EcsEntity,quaternion@)
+  name.vb: SetRotation(EcsEntity, ByRef quaternion)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetRotation(Saro.Entities.EcsEntity, quaternion)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.SetRotation(Saro.Entities.EcsEntity, ByRef quaternion)
+  nameWithType: EcsTransformExtensions.SetRotation(EcsEntity, quaternion)
+  nameWithType.vb: EcsTransformExtensions.SetRotation(EcsEntity, ByRef quaternion)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetRotation(System.Int32,Saro.Entities.EcsWorld,quaternion@)
+  name: SetRotation(Int32, EcsWorld, quaternion)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetRotation_System_Int32_Saro_Entities_EcsWorld_quaternion__
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetRotation(System.Int32,Saro.Entities.EcsWorld,quaternion@)
+  name.vb: SetRotation(Int32, EcsWorld, ByRef quaternion)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetRotation(System.Int32, Saro.Entities.EcsWorld, quaternion)
+  fullName.vb: Saro.Entities.Transforms.EcsTransformExtensions.SetRotation(System.Int32, Saro.Entities.EcsWorld, ByRef quaternion)
+  nameWithType: EcsTransformExtensions.SetRotation(Int32, EcsWorld, quaternion)
+  nameWithType.vb: EcsTransformExtensions.SetRotation(Int32, EcsWorld, ByRef quaternion)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetRotation*
+  name: SetRotation
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetRotation_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.SetRotation
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetRotation
+  nameWithType: EcsTransformExtensions.SetRotation
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetUp(Saro.Entities.EcsEntity,float3)
+  name: SetUp(EcsEntity, float3)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetUp_Saro_Entities_EcsEntity_float3_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetUp(Saro.Entities.EcsEntity,float3)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetUp(Saro.Entities.EcsEntity, float3)
+  nameWithType: EcsTransformExtensions.SetUp(EcsEntity, float3)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetUp(System.Int32,float3,Saro.Entities.EcsWorld)
+  name: SetUp(Int32, float3, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetUp_System_Int32_float3_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformExtensions.SetUp(System.Int32,float3,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetUp(System.Int32, float3, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformExtensions.SetUp(Int32, float3, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformExtensions.SetUp*
+  name: SetUp
+  href: api/Saro.Entities.Transforms.EcsTransformExtensions.html#Saro_Entities_Transforms_EcsTransformExtensions_SetUp_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformExtensions.SetUp
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformExtensions.SetUp
+  nameWithType: EcsTransformExtensions.SetUp
+- uid: Saro.Entities.Transforms.EcsTransformUtility
+  name: EcsTransformUtility
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html
+  commentId: T:Saro.Entities.Transforms.EcsTransformUtility
+  fullName: Saro.Entities.Transforms.EcsTransformUtility
+  nameWithType: EcsTransformUtility
+- uid: Saro.Entities.Transforms.EcsTransformUtility.GetParent(Saro.Entities.EcsEntity)
+  name: GetParent(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_GetParent_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformUtility.GetParent(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.GetParent(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformUtility.GetParent(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformUtility.GetParent(System.Int32,Saro.Entities.EcsWorld)
+  name: GetParent(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_GetParent_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformUtility.GetParent(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.GetParent(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformUtility.GetParent(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformUtility.GetParent*
+  name: GetParent
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_GetParent_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformUtility.GetParent
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.GetParent
+  nameWithType: EcsTransformUtility.GetParent
+- uid: Saro.Entities.Transforms.EcsTransformUtility.GetRoot(Saro.Entities.EcsEntity)
+  name: GetRoot(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_GetRoot_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformUtility.GetRoot(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.GetRoot(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformUtility.GetRoot(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformUtility.GetRoot*
+  name: GetRoot
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_GetRoot_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformUtility.GetRoot
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.GetRoot
+  nameWithType: EcsTransformUtility.GetRoot
+- uid: Saro.Entities.Transforms.EcsTransformUtility.HasParent(Saro.Entities.EcsEntity)
+  name: HasParent(EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_HasParent_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformUtility.HasParent(Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.HasParent(Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformUtility.HasParent(EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformUtility.HasParent(System.Int32,Saro.Entities.EcsWorld)
+  name: HasParent(Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_HasParent_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformUtility.HasParent(System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.HasParent(System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformUtility.HasParent(Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformUtility.HasParent*
+  name: HasParent
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_HasParent_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformUtility.HasParent
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.HasParent
+  nameWithType: EcsTransformUtility.HasParent
+- uid: Saro.Entities.Transforms.EcsTransformUtility.SetParent(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity)
+  name: SetParent(EcsEntity, EcsEntity)
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_SetParent_Saro_Entities_EcsEntity_Saro_Entities_EcsEntity_
+  commentId: M:Saro.Entities.Transforms.EcsTransformUtility.SetParent(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity)
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.SetParent(Saro.Entities.EcsEntity, Saro.Entities.EcsEntity)
+  nameWithType: EcsTransformUtility.SetParent(EcsEntity, EcsEntity)
+- uid: Saro.Entities.Transforms.EcsTransformUtility.SetParent(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity,System.Boolean)
+  name: SetParent(EcsEntity, EcsEntity, Boolean)
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_SetParent_Saro_Entities_EcsEntity_Saro_Entities_EcsEntity_System_Boolean_
+  commentId: M:Saro.Entities.Transforms.EcsTransformUtility.SetParent(Saro.Entities.EcsEntity,Saro.Entities.EcsEntity,System.Boolean)
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.SetParent(Saro.Entities.EcsEntity, Saro.Entities.EcsEntity, System.Boolean)
+  nameWithType: EcsTransformUtility.SetParent(EcsEntity, EcsEntity, Boolean)
+- uid: Saro.Entities.Transforms.EcsTransformUtility.SetParent(System.Int32,System.Int32,Saro.Entities.EcsWorld)
+  name: SetParent(Int32, Int32, EcsWorld)
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_SetParent_System_Int32_System_Int32_Saro_Entities_EcsWorld_
+  commentId: M:Saro.Entities.Transforms.EcsTransformUtility.SetParent(System.Int32,System.Int32,Saro.Entities.EcsWorld)
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.SetParent(System.Int32, System.Int32, Saro.Entities.EcsWorld)
+  nameWithType: EcsTransformUtility.SetParent(Int32, Int32, EcsWorld)
+- uid: Saro.Entities.Transforms.EcsTransformUtility.SetParent*
+  name: SetParent
+  href: api/Saro.Entities.Transforms.EcsTransformUtility.html#Saro_Entities_Transforms_EcsTransformUtility_SetParent_
+  commentId: Overload:Saro.Entities.Transforms.EcsTransformUtility.SetParent
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.EcsTransformUtility.SetParent
+  nameWithType: EcsTransformUtility.SetParent
+- uid: Saro.Entities.Transforms.Position
+  name: Position
+  href: api/Saro.Entities.Transforms.Position.html
+  commentId: T:Saro.Entities.Transforms.Position
+  fullName: Saro.Entities.Transforms.Position
+  nameWithType: Position
+- uid: Saro.Entities.Transforms.Position.#ctor(float3)
+  name: Position(float3)
+  href: api/Saro.Entities.Transforms.Position.html#Saro_Entities_Transforms_Position__ctor_float3_
+  commentId: M:Saro.Entities.Transforms.Position.#ctor(float3)
+  fullName: Saro.Entities.Transforms.Position.Position(float3)
+  nameWithType: Position.Position(float3)
+- uid: Saro.Entities.Transforms.Position.#ctor*
+  name: Position
+  href: api/Saro.Entities.Transforms.Position.html#Saro_Entities_Transforms_Position__ctor_
+  commentId: Overload:Saro.Entities.Transforms.Position.#ctor
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.Position.Position
+  nameWithType: Position.Position
+- uid: Saro.Entities.Transforms.Position.value
+  name: value
+  href: api/Saro.Entities.Transforms.Position.html#Saro_Entities_Transforms_Position_value
+  commentId: F:Saro.Entities.Transforms.Position.value
+  fullName: Saro.Entities.Transforms.Position.value
+  nameWithType: Position.value
+- uid: Saro.Entities.Transforms.Rotation
+  name: Rotation
+  href: api/Saro.Entities.Transforms.Rotation.html
+  commentId: T:Saro.Entities.Transforms.Rotation
+  fullName: Saro.Entities.Transforms.Rotation
+  nameWithType: Rotation
+- uid: Saro.Entities.Transforms.Rotation.#ctor(quaternion)
+  name: Rotation(quaternion)
+  href: api/Saro.Entities.Transforms.Rotation.html#Saro_Entities_Transforms_Rotation__ctor_quaternion_
+  commentId: M:Saro.Entities.Transforms.Rotation.#ctor(quaternion)
+  fullName: Saro.Entities.Transforms.Rotation.Rotation(quaternion)
+  nameWithType: Rotation.Rotation(quaternion)
+- uid: Saro.Entities.Transforms.Rotation.#ctor*
+  name: Rotation
+  href: api/Saro.Entities.Transforms.Rotation.html#Saro_Entities_Transforms_Rotation__ctor_
+  commentId: Overload:Saro.Entities.Transforms.Rotation.#ctor
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.Rotation.Rotation
+  nameWithType: Rotation.Rotation
+- uid: Saro.Entities.Transforms.Rotation.value
+  name: value
+  href: api/Saro.Entities.Transforms.Rotation.html#Saro_Entities_Transforms_Rotation_value
+  commentId: F:Saro.Entities.Transforms.Rotation.value
+  fullName: Saro.Entities.Transforms.Rotation.value
+  nameWithType: Rotation.value
+- uid: Saro.Entities.Transforms.Scale
+  name: Scale
+  href: api/Saro.Entities.Transforms.Scale.html
+  commentId: T:Saro.Entities.Transforms.Scale
+  fullName: Saro.Entities.Transforms.Scale
+  nameWithType: Scale
+- uid: Saro.Entities.Transforms.Scale.#ctor(float3)
+  name: Scale(float3)
+  href: api/Saro.Entities.Transforms.Scale.html#Saro_Entities_Transforms_Scale__ctor_float3_
+  commentId: M:Saro.Entities.Transforms.Scale.#ctor(float3)
+  fullName: Saro.Entities.Transforms.Scale.Scale(float3)
+  nameWithType: Scale.Scale(float3)
+- uid: Saro.Entities.Transforms.Scale.#ctor*
+  name: Scale
+  href: api/Saro.Entities.Transforms.Scale.html#Saro_Entities_Transforms_Scale__ctor_
+  commentId: Overload:Saro.Entities.Transforms.Scale.#ctor
+  isSpec: "True"
+  fullName: Saro.Entities.Transforms.Scale.Scale
+  nameWithType: Scale.Scale
+- uid: Saro.Entities.Transforms.Scale.value
+  name: value
+  href: api/Saro.Entities.Transforms.Scale.html#Saro_Entities_Transforms_Scale_value
+  commentId: F:Saro.Entities.Transforms.Scale.value
+  fullName: Saro.Entities.Transforms.Scale.value
+  nameWithType: Scale.value
