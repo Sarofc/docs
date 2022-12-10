@@ -11,10 +11,10 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
   
-    <title>Interface IBinarySaveData
+    <title>Interface ISaveFile
    | Moon GameFramework | 0.1.0 </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Interface IBinarySaveData
+    <meta name="title" content="Interface ISaveFile
    | Moon GameFramework | 0.1.0 ">
     <meta name="generator" content="docfx 2.40.12.0">
     
@@ -88,30 +88,111 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="Saro.SaveSystem.IBinarySaveData">
+            <article class="content wrap" id="_content" data-uid="Saro.Saving.ISaveFile">
   
   
-  <h1 id="Saro_SaveSystem_IBinarySaveData" data-uid="Saro.SaveSystem.IBinarySaveData">Interface IBinarySaveData
+  <h1 id="Saro_Saving_ISaveFile" data-uid="Saro.Saving.ISaveFile">Interface ISaveFile
   </h1>
   <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="Saro.SaveSystem.html">Saro.SaveSystem</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Saro.Saving.html">Saro.Saving</a></h6>
   <!--h6><strong>Assembly</strong>: solution.dll</h6-->
-  <h5 id="Saro_SaveSystem_IBinarySaveData_syntax">Syntax</h5>
+  <h5 id="Saro_Saving_ISaveFile_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public interface IBinarySaveData : ISaveData</code></pre>
+    <pre><code class="lang-csharp hljs">public interface ISaveFile</code></pre>
   </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Saro_Saving_ISaveFile_FilePath_" data-uid="Saro.Saving.ISaveFile.FilePath*"></a>
+  <h4 id="Saro_Saving_ISaveFile_FilePath" data-uid="Saro.Saving.ISaveFile.FilePath">FilePath</h4>
+  <div class="markdown level1 summary"><p>存档文件路径，可以是本地，也可以是远端，看子类实现</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">string FilePath { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">String</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Saving_ISaveFile_SaveDataProvider_" data-uid="Saro.Saving.ISaveFile.SaveDataProvider*"></a>
+  <h4 id="Saro_Saving_ISaveFile_SaveDataProvider" data-uid="Saro.Saving.ISaveFile.SaveDataProvider">SaveDataProvider</h4>
+  <div class="markdown level1 summary"><p>存档数据加载接口，json、binary等等</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">ISaveDataProvider SaveDataProvider { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Saro.Saving.ISaveDataProvider.html">ISaveDataProvider</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Saving_ISaveFile_SaveDatas_" data-uid="Saro.Saving.ISaveFile.SaveDatas*"></a>
+  <h4 id="Saro_Saving_ISaveFile_SaveDatas" data-uid="Saro.Saving.ISaveFile.SaveDatas">SaveDatas</h4>
+  <div class="markdown level1 summary"><p>存档数据集合，一般一个模块实现一个 <a class="xref" href="Saro.Saving.ISaveData.html">ISaveData</a></p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">IList&lt;ISaveData&gt; SaveDatas { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.collections.generic.ilist-1">IList</a>&lt;<a class="xref" href="Saro.Saving.ISaveData.html">ISaveData</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="methods">Methods
   </h3>
   
   
-  <a id="Saro_SaveSystem_IBinarySaveData_LoadFields_" data-uid="Saro.SaveSystem.IBinarySaveData.LoadFields*"></a>
-  <h4 id="Saro_SaveSystem_IBinarySaveData_LoadFields_System_IO_BinaryReader_" data-uid="Saro.SaveSystem.IBinarySaveData.LoadFields(System.IO.BinaryReader)">LoadFields(BinaryReader)</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="Saro_Saving_ISaveFile_AddSaveData_" data-uid="Saro.Saving.ISaveFile.AddSaveData*"></a>
+  <h4 id="Saro_Saving_ISaveFile_AddSaveData_Saro_Saving_ISaveData_" data-uid="Saro.Saving.ISaveFile.AddSaveData(Saro.Saving.ISaveData)">AddSaveData(ISaveData)</h4>
+  <div class="markdown level1 summary"><p>添加 <a class="xref" href="Saro.Saving.ISaveData.html">ISaveData</a> 到 <a class="xref" href="Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_SaveDatas">SaveDatas</a></p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">void LoadFields(BinaryReader reader)</code></pre>
+    <pre><code class="lang-csharp hljs">void AddSaveData(ISaveData saveData)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -124,39 +205,69 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.io.binaryreader">BinaryReader</a></td>
-        <td><span class="parametername">reader</span></td>
+        <td><a class="xref" href="Saro.Saving.ISaveData.html">ISaveData</a></td>
+        <td><span class="parametername">saveData</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
   
   
-  <a id="Saro_SaveSystem_IBinarySaveData_WriteFields_" data-uid="Saro.SaveSystem.IBinarySaveData.WriteFields*"></a>
-  <h4 id="Saro_SaveSystem_IBinarySaveData_WriteFields_System_IO_BinaryWriter_" data-uid="Saro.SaveSystem.IBinarySaveData.WriteFields(System.IO.BinaryWriter)">WriteFields(BinaryWriter)</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="Saro_Saving_ISaveFile_ClearSaveDatas_" data-uid="Saro.Saving.ISaveFile.ClearSaveDatas*"></a>
+  <h4 id="Saro_Saving_ISaveFile_ClearSaveDatas" data-uid="Saro.Saving.ISaveFile.ClearSaveDatas">ClearSaveDatas()</h4>
+  <div class="markdown level1 summary"><p>清理内存中的<a class="xref" href="Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_SaveDatas">SaveDatas</a>数据</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">void WriteFields(BinaryWriter writer)</code></pre>
+    <pre><code class="lang-csharp hljs">void ClearSaveDatas()</code></pre>
   </div>
-  <h5 class="parameters">Parameters</h5>
+  
+  
+  <a id="Saro_Saving_ISaveFile_HasSaveFile_" data-uid="Saro.Saving.ISaveFile.HasSaveFile*"></a>
+  <h4 id="Saro_Saving_ISaveFile_HasSaveFile" data-uid="Saro.Saving.ISaveFile.HasSaveFile">HasSaveFile()</h4>
+  <div class="markdown level1 summary"><p><a class="xref" href="Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_FilePath">FilePath</a> 路径是否存在存档文件，并未校验存档是否有效</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">bool HasSaveFile()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
       <tr>
         <th>Type</th>
-        <th>Name</th>
         <th>Description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.io.binarywriter">BinaryWriter</a></td>
-        <td><span class="parametername">writer</span></td>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">Boolean</a></td>
         <td></td>
       </tr>
     </tbody>
   </table>
+  
+  
+  <a id="Saro_Saving_ISaveFile_Load_" data-uid="Saro.Saving.ISaveFile.Load*"></a>
+  <h4 id="Saro_Saving_ISaveFile_Load" data-uid="Saro.Saving.ISaveFile.Load">Load()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Load()</code></pre>
+  </div>
+  
+  
+  <a id="Saro_Saving_ISaveFile_Save_" data-uid="Saro.Saving.ISaveFile.Save*"></a>
+  <h4 id="Saro_Saving_ISaveFile_Save" data-uid="Saro.Saving.ISaveFile.Save">Save()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void Save()</code></pre>
+  </div>
   <h3 id="extensionmethods">Extension Methods</h3>
   <div>
       <a class="xref" href="Saro.Utility.TypeType.html#Saro_Utility_TypeType_isUnmanaged__1___0_">TypeType.isUnmanaged&lt;T&gt;(T)</a>

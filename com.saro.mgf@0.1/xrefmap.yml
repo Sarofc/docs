@@ -13256,404 +13256,378 @@ references:
   isSpec: "True"
   fullName: Saro.ReferenceBinder.Sort
   nameWithType: ReferenceBinder.Sort
-- uid: Saro.SaveSystem
-  name: Saro.SaveSystem
-  href: api/Saro.SaveSystem.html
-  commentId: N:Saro.SaveSystem
-  fullName: Saro.SaveSystem
-  nameWithType: Saro.SaveSystem
-- uid: Saro.SaveSystem.BinarySaveDataProvider
+- uid: Saro.Saving
+  name: Saro.Saving
+  href: api/Saro.Saving.html
+  commentId: N:Saro.Saving
+  fullName: Saro.Saving
+  nameWithType: Saro.Saving
+- uid: Saro.Saving.BinarySaveDataProvider
   name: BinarySaveDataProvider
-  href: api/Saro.SaveSystem.BinarySaveDataProvider.html
-  commentId: T:Saro.SaveSystem.BinarySaveDataProvider
-  fullName: Saro.SaveSystem.BinarySaveDataProvider
+  href: api/Saro.Saving.BinarySaveDataProvider.html
+  commentId: T:Saro.Saving.BinarySaveDataProvider
+  fullName: Saro.Saving.BinarySaveDataProvider
   nameWithType: BinarySaveDataProvider
-- uid: Saro.SaveSystem.BinarySaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Load(Saro.SaveSystem.ISaveFile)
+- uid: Saro.Saving.BinarySaveDataProvider.Saro#Saving#ISaveDataProvider#Load(Saro.Saving.ISaveFile)
   name: ISaveDataProvider.Load(ISaveFile)
-  href: api/Saro.SaveSystem.BinarySaveDataProvider.html#Saro_SaveSystem_BinarySaveDataProvider_Saro_SaveSystem_ISaveDataProvider_Load_Saro_SaveSystem_ISaveFile_
-  commentId: M:Saro.SaveSystem.BinarySaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Load(Saro.SaveSystem.ISaveFile)
-  name.vb: Saro.SaveSystem.ISaveDataProvider.Load(ISaveFile)
-  fullName: Saro.SaveSystem.BinarySaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Load(Saro.SaveSystem.ISaveFile)
+  href: api/Saro.Saving.BinarySaveDataProvider.html#Saro_Saving_BinarySaveDataProvider_Saro_Saving_ISaveDataProvider_Load_Saro_Saving_ISaveFile_
+  commentId: M:Saro.Saving.BinarySaveDataProvider.Saro#Saving#ISaveDataProvider#Load(Saro.Saving.ISaveFile)
+  name.vb: Saro.Saving.ISaveDataProvider.Load(ISaveFile)
+  fullName: Saro.Saving.BinarySaveDataProvider.Saro.Saving.ISaveDataProvider.Load(Saro.Saving.ISaveFile)
   nameWithType: BinarySaveDataProvider.ISaveDataProvider.Load(ISaveFile)
-  nameWithType.vb: BinarySaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Load(ISaveFile)
-- uid: Saro.SaveSystem.BinarySaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Load*
+  nameWithType.vb: BinarySaveDataProvider.Saro.Saving.ISaveDataProvider.Load(ISaveFile)
+- uid: Saro.Saving.BinarySaveDataProvider.Saro#Saving#ISaveDataProvider#Load*
   name: ISaveDataProvider.Load
-  href: api/Saro.SaveSystem.BinarySaveDataProvider.html#Saro_SaveSystem_BinarySaveDataProvider_Saro_SaveSystem_ISaveDataProvider_Load_
-  commentId: Overload:Saro.SaveSystem.BinarySaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Load
+  href: api/Saro.Saving.BinarySaveDataProvider.html#Saro_Saving_BinarySaveDataProvider_Saro_Saving_ISaveDataProvider_Load_
+  commentId: Overload:Saro.Saving.BinarySaveDataProvider.Saro#Saving#ISaveDataProvider#Load
   isSpec: "True"
-  name.vb: Saro.SaveSystem.ISaveDataProvider.Load
-  fullName: Saro.SaveSystem.BinarySaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Load
+  name.vb: Saro.Saving.ISaveDataProvider.Load
+  fullName: Saro.Saving.BinarySaveDataProvider.Saro.Saving.ISaveDataProvider.Load
   nameWithType: BinarySaveDataProvider.ISaveDataProvider.Load
-  nameWithType.vb: BinarySaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Load
-- uid: Saro.SaveSystem.BinarySaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Save(Saro.SaveSystem.ISaveFile)
+  nameWithType.vb: BinarySaveDataProvider.Saro.Saving.ISaveDataProvider.Load
+- uid: Saro.Saving.BinarySaveDataProvider.Saro#Saving#ISaveDataProvider#Save(Saro.Saving.ISaveFile)
   name: ISaveDataProvider.Save(ISaveFile)
-  href: api/Saro.SaveSystem.BinarySaveDataProvider.html#Saro_SaveSystem_BinarySaveDataProvider_Saro_SaveSystem_ISaveDataProvider_Save_Saro_SaveSystem_ISaveFile_
-  commentId: M:Saro.SaveSystem.BinarySaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Save(Saro.SaveSystem.ISaveFile)
-  name.vb: Saro.SaveSystem.ISaveDataProvider.Save(ISaveFile)
-  fullName: Saro.SaveSystem.BinarySaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Save(Saro.SaveSystem.ISaveFile)
+  href: api/Saro.Saving.BinarySaveDataProvider.html#Saro_Saving_BinarySaveDataProvider_Saro_Saving_ISaveDataProvider_Save_Saro_Saving_ISaveFile_
+  commentId: M:Saro.Saving.BinarySaveDataProvider.Saro#Saving#ISaveDataProvider#Save(Saro.Saving.ISaveFile)
+  name.vb: Saro.Saving.ISaveDataProvider.Save(ISaveFile)
+  fullName: Saro.Saving.BinarySaveDataProvider.Saro.Saving.ISaveDataProvider.Save(Saro.Saving.ISaveFile)
   nameWithType: BinarySaveDataProvider.ISaveDataProvider.Save(ISaveFile)
-  nameWithType.vb: BinarySaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Save(ISaveFile)
-- uid: Saro.SaveSystem.BinarySaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Save*
+  nameWithType.vb: BinarySaveDataProvider.Saro.Saving.ISaveDataProvider.Save(ISaveFile)
+- uid: Saro.Saving.BinarySaveDataProvider.Saro#Saving#ISaveDataProvider#Save*
   name: ISaveDataProvider.Save
-  href: api/Saro.SaveSystem.BinarySaveDataProvider.html#Saro_SaveSystem_BinarySaveDataProvider_Saro_SaveSystem_ISaveDataProvider_Save_
-  commentId: Overload:Saro.SaveSystem.BinarySaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Save
+  href: api/Saro.Saving.BinarySaveDataProvider.html#Saro_Saving_BinarySaveDataProvider_Saro_Saving_ISaveDataProvider_Save_
+  commentId: Overload:Saro.Saving.BinarySaveDataProvider.Saro#Saving#ISaveDataProvider#Save
   isSpec: "True"
-  name.vb: Saro.SaveSystem.ISaveDataProvider.Save
-  fullName: Saro.SaveSystem.BinarySaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Save
+  name.vb: Saro.Saving.ISaveDataProvider.Save
+  fullName: Saro.Saving.BinarySaveDataProvider.Saro.Saving.ISaveDataProvider.Save
   nameWithType: BinarySaveDataProvider.ISaveDataProvider.Save
-  nameWithType.vb: BinarySaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Save
-- uid: Saro.SaveSystem.DefaultSaveFile
+  nameWithType.vb: BinarySaveDataProvider.Saro.Saving.ISaveDataProvider.Save
+- uid: Saro.Saving.DefaultSaveFile
   name: DefaultSaveFile
-  href: api/Saro.SaveSystem.DefaultSaveFile.html
-  commentId: T:Saro.SaveSystem.DefaultSaveFile
-  fullName: Saro.SaveSystem.DefaultSaveFile
+  href: api/Saro.Saving.DefaultSaveFile.html
+  commentId: T:Saro.Saving.DefaultSaveFile
+  fullName: Saro.Saving.DefaultSaveFile
   nameWithType: DefaultSaveFile
-- uid: Saro.SaveSystem.DefaultSaveFile.#ctor(System.String,Saro.SaveSystem.ISaveDataProvider)
+- uid: Saro.Saving.DefaultSaveFile.#ctor(System.String,Saro.Saving.ISaveDataProvider)
   name: DefaultSaveFile(String, ISaveDataProvider)
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile__ctor_System_String_Saro_SaveSystem_ISaveDataProvider_
-  commentId: M:Saro.SaveSystem.DefaultSaveFile.#ctor(System.String,Saro.SaveSystem.ISaveDataProvider)
-  fullName: Saro.SaveSystem.DefaultSaveFile.DefaultSaveFile(System.String, Saro.SaveSystem.ISaveDataProvider)
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile__ctor_System_String_Saro_Saving_ISaveDataProvider_
+  commentId: M:Saro.Saving.DefaultSaveFile.#ctor(System.String,Saro.Saving.ISaveDataProvider)
+  fullName: Saro.Saving.DefaultSaveFile.DefaultSaveFile(System.String, Saro.Saving.ISaveDataProvider)
   nameWithType: DefaultSaveFile.DefaultSaveFile(String, ISaveDataProvider)
-- uid: Saro.SaveSystem.DefaultSaveFile.#ctor(System.String,Saro.SaveSystem.ISaveDataProvider,System.Collections.Generic.List{Saro.SaveSystem.ISaveData})
+- uid: Saro.Saving.DefaultSaveFile.#ctor(System.String,Saro.Saving.ISaveDataProvider,System.Collections.Generic.List{Saro.Saving.ISaveData})
   name: DefaultSaveFile(String, ISaveDataProvider, List<ISaveData>)
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile__ctor_System_String_Saro_SaveSystem_ISaveDataProvider_System_Collections_Generic_List_Saro_SaveSystem_ISaveData__
-  commentId: M:Saro.SaveSystem.DefaultSaveFile.#ctor(System.String,Saro.SaveSystem.ISaveDataProvider,System.Collections.Generic.List{Saro.SaveSystem.ISaveData})
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile__ctor_System_String_Saro_Saving_ISaveDataProvider_System_Collections_Generic_List_Saro_Saving_ISaveData__
+  commentId: M:Saro.Saving.DefaultSaveFile.#ctor(System.String,Saro.Saving.ISaveDataProvider,System.Collections.Generic.List{Saro.Saving.ISaveData})
   name.vb: DefaultSaveFile(String, ISaveDataProvider, List(Of ISaveData))
-  fullName: Saro.SaveSystem.DefaultSaveFile.DefaultSaveFile(System.String, Saro.SaveSystem.ISaveDataProvider, System.Collections.Generic.List<Saro.SaveSystem.ISaveData>)
-  fullName.vb: Saro.SaveSystem.DefaultSaveFile.DefaultSaveFile(System.String, Saro.SaveSystem.ISaveDataProvider, System.Collections.Generic.List(Of Saro.SaveSystem.ISaveData))
+  fullName: Saro.Saving.DefaultSaveFile.DefaultSaveFile(System.String, Saro.Saving.ISaveDataProvider, System.Collections.Generic.List<Saro.Saving.ISaveData>)
+  fullName.vb: Saro.Saving.DefaultSaveFile.DefaultSaveFile(System.String, Saro.Saving.ISaveDataProvider, System.Collections.Generic.List(Of Saro.Saving.ISaveData))
   nameWithType: DefaultSaveFile.DefaultSaveFile(String, ISaveDataProvider, List<ISaveData>)
   nameWithType.vb: DefaultSaveFile.DefaultSaveFile(String, ISaveDataProvider, List(Of ISaveData))
-- uid: Saro.SaveSystem.DefaultSaveFile.#ctor*
+- uid: Saro.Saving.DefaultSaveFile.#ctor*
   name: DefaultSaveFile
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile__ctor_
-  commentId: Overload:Saro.SaveSystem.DefaultSaveFile.#ctor
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile__ctor_
+  commentId: Overload:Saro.Saving.DefaultSaveFile.#ctor
   isSpec: "True"
-  fullName: Saro.SaveSystem.DefaultSaveFile.DefaultSaveFile
+  fullName: Saro.Saving.DefaultSaveFile.DefaultSaveFile
   nameWithType: DefaultSaveFile.DefaultSaveFile
-- uid: Saro.SaveSystem.DefaultSaveFile.AddSaveData(Saro.SaveSystem.ISaveData)
-  name: AddSaveData(ISaveData)
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_AddSaveData_Saro_SaveSystem_ISaveData_
-  commentId: M:Saro.SaveSystem.DefaultSaveFile.AddSaveData(Saro.SaveSystem.ISaveData)
-  fullName: Saro.SaveSystem.DefaultSaveFile.AddSaveData(Saro.SaveSystem.ISaveData)
-  nameWithType: DefaultSaveFile.AddSaveData(ISaveData)
-- uid: Saro.SaveSystem.DefaultSaveFile.AddSaveData*
-  name: AddSaveData
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_AddSaveData_
-  commentId: Overload:Saro.SaveSystem.DefaultSaveFile.AddSaveData
-  isSpec: "True"
-  fullName: Saro.SaveSystem.DefaultSaveFile.AddSaveData
-  nameWithType: DefaultSaveFile.AddSaveData
-- uid: Saro.SaveSystem.DefaultSaveFile.ClearSaveDatas
-  name: ClearSaveDatas()
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_ClearSaveDatas
-  commentId: M:Saro.SaveSystem.DefaultSaveFile.ClearSaveDatas
-  fullName: Saro.SaveSystem.DefaultSaveFile.ClearSaveDatas()
-  nameWithType: DefaultSaveFile.ClearSaveDatas()
-- uid: Saro.SaveSystem.DefaultSaveFile.ClearSaveDatas*
-  name: ClearSaveDatas
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_ClearSaveDatas_
-  commentId: Overload:Saro.SaveSystem.DefaultSaveFile.ClearSaveDatas
-  isSpec: "True"
-  fullName: Saro.SaveSystem.DefaultSaveFile.ClearSaveDatas
-  nameWithType: DefaultSaveFile.ClearSaveDatas
-- uid: Saro.SaveSystem.DefaultSaveFile.FilePath
+- uid: Saro.Saving.DefaultSaveFile.FilePath
   name: FilePath
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_FilePath
-  commentId: P:Saro.SaveSystem.DefaultSaveFile.FilePath
-  fullName: Saro.SaveSystem.DefaultSaveFile.FilePath
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_FilePath
+  commentId: P:Saro.Saving.DefaultSaveFile.FilePath
+  fullName: Saro.Saving.DefaultSaveFile.FilePath
   nameWithType: DefaultSaveFile.FilePath
-- uid: Saro.SaveSystem.DefaultSaveFile.FilePath*
+- uid: Saro.Saving.DefaultSaveFile.FilePath*
   name: FilePath
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_FilePath_
-  commentId: Overload:Saro.SaveSystem.DefaultSaveFile.FilePath
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_FilePath_
+  commentId: Overload:Saro.Saving.DefaultSaveFile.FilePath
   isSpec: "True"
-  fullName: Saro.SaveSystem.DefaultSaveFile.FilePath
+  fullName: Saro.Saving.DefaultSaveFile.FilePath
   nameWithType: DefaultSaveFile.FilePath
-- uid: Saro.SaveSystem.DefaultSaveFile.HasSaveFile
+- uid: Saro.Saving.DefaultSaveFile.HasSaveFile
   name: HasSaveFile()
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_HasSaveFile
-  commentId: M:Saro.SaveSystem.DefaultSaveFile.HasSaveFile
-  fullName: Saro.SaveSystem.DefaultSaveFile.HasSaveFile()
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_HasSaveFile
+  commentId: M:Saro.Saving.DefaultSaveFile.HasSaveFile
+  fullName: Saro.Saving.DefaultSaveFile.HasSaveFile()
   nameWithType: DefaultSaveFile.HasSaveFile()
-- uid: Saro.SaveSystem.DefaultSaveFile.HasSaveFile*
+- uid: Saro.Saving.DefaultSaveFile.HasSaveFile*
   name: HasSaveFile
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_HasSaveFile_
-  commentId: Overload:Saro.SaveSystem.DefaultSaveFile.HasSaveFile
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_HasSaveFile_
+  commentId: Overload:Saro.Saving.DefaultSaveFile.HasSaveFile
   isSpec: "True"
-  fullName: Saro.SaveSystem.DefaultSaveFile.HasSaveFile
+  fullName: Saro.Saving.DefaultSaveFile.HasSaveFile
   nameWithType: DefaultSaveFile.HasSaveFile
-- uid: Saro.SaveSystem.DefaultSaveFile.Load
+- uid: Saro.Saving.DefaultSaveFile.Load
   name: Load()
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_Load
-  commentId: M:Saro.SaveSystem.DefaultSaveFile.Load
-  fullName: Saro.SaveSystem.DefaultSaveFile.Load()
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_Load
+  commentId: M:Saro.Saving.DefaultSaveFile.Load
+  fullName: Saro.Saving.DefaultSaveFile.Load()
   nameWithType: DefaultSaveFile.Load()
-- uid: Saro.SaveSystem.DefaultSaveFile.Load*
+- uid: Saro.Saving.DefaultSaveFile.Load*
   name: Load
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_Load_
-  commentId: Overload:Saro.SaveSystem.DefaultSaveFile.Load
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_Load_
+  commentId: Overload:Saro.Saving.DefaultSaveFile.Load
   isSpec: "True"
-  fullName: Saro.SaveSystem.DefaultSaveFile.Load
+  fullName: Saro.Saving.DefaultSaveFile.Load
   nameWithType: DefaultSaveFile.Load
-- uid: Saro.SaveSystem.DefaultSaveFile.Save
+- uid: Saro.Saving.DefaultSaveFile.Save
   name: Save()
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_Save
-  commentId: M:Saro.SaveSystem.DefaultSaveFile.Save
-  fullName: Saro.SaveSystem.DefaultSaveFile.Save()
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_Save
+  commentId: M:Saro.Saving.DefaultSaveFile.Save
+  fullName: Saro.Saving.DefaultSaveFile.Save()
   nameWithType: DefaultSaveFile.Save()
-- uid: Saro.SaveSystem.DefaultSaveFile.Save*
+- uid: Saro.Saving.DefaultSaveFile.Save*
   name: Save
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_Save_
-  commentId: Overload:Saro.SaveSystem.DefaultSaveFile.Save
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_Save_
+  commentId: Overload:Saro.Saving.DefaultSaveFile.Save
   isSpec: "True"
-  fullName: Saro.SaveSystem.DefaultSaveFile.Save
+  fullName: Saro.Saving.DefaultSaveFile.Save
   nameWithType: DefaultSaveFile.Save
-- uid: Saro.SaveSystem.DefaultSaveFile.SaveDataProvider
+- uid: Saro.Saving.DefaultSaveFile.SaveDataProvider
   name: SaveDataProvider
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_SaveDataProvider
-  commentId: P:Saro.SaveSystem.DefaultSaveFile.SaveDataProvider
-  fullName: Saro.SaveSystem.DefaultSaveFile.SaveDataProvider
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_SaveDataProvider
+  commentId: P:Saro.Saving.DefaultSaveFile.SaveDataProvider
+  fullName: Saro.Saving.DefaultSaveFile.SaveDataProvider
   nameWithType: DefaultSaveFile.SaveDataProvider
-- uid: Saro.SaveSystem.DefaultSaveFile.SaveDataProvider*
+- uid: Saro.Saving.DefaultSaveFile.SaveDataProvider*
   name: SaveDataProvider
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_SaveDataProvider_
-  commentId: Overload:Saro.SaveSystem.DefaultSaveFile.SaveDataProvider
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_SaveDataProvider_
+  commentId: Overload:Saro.Saving.DefaultSaveFile.SaveDataProvider
   isSpec: "True"
-  fullName: Saro.SaveSystem.DefaultSaveFile.SaveDataProvider
+  fullName: Saro.Saving.DefaultSaveFile.SaveDataProvider
   nameWithType: DefaultSaveFile.SaveDataProvider
-- uid: Saro.SaveSystem.DefaultSaveFile.SaveDatas
+- uid: Saro.Saving.DefaultSaveFile.SaveDatas
   name: SaveDatas
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_SaveDatas
-  commentId: P:Saro.SaveSystem.DefaultSaveFile.SaveDatas
-  fullName: Saro.SaveSystem.DefaultSaveFile.SaveDatas
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_SaveDatas
+  commentId: P:Saro.Saving.DefaultSaveFile.SaveDatas
+  fullName: Saro.Saving.DefaultSaveFile.SaveDatas
   nameWithType: DefaultSaveFile.SaveDatas
-- uid: Saro.SaveSystem.DefaultSaveFile.SaveDatas*
+- uid: Saro.Saving.DefaultSaveFile.SaveDatas*
   name: SaveDatas
-  href: api/Saro.SaveSystem.DefaultSaveFile.html#Saro_SaveSystem_DefaultSaveFile_SaveDatas_
-  commentId: Overload:Saro.SaveSystem.DefaultSaveFile.SaveDatas
+  href: api/Saro.Saving.DefaultSaveFile.html#Saro_Saving_DefaultSaveFile_SaveDatas_
+  commentId: Overload:Saro.Saving.DefaultSaveFile.SaveDatas
   isSpec: "True"
-  fullName: Saro.SaveSystem.DefaultSaveFile.SaveDatas
+  fullName: Saro.Saving.DefaultSaveFile.SaveDatas
   nameWithType: DefaultSaveFile.SaveDatas
-- uid: Saro.SaveSystem.IBinarySaveData
+- uid: Saro.Saving.IBinarySaveData
   name: IBinarySaveData
-  href: api/Saro.SaveSystem.IBinarySaveData.html
-  commentId: T:Saro.SaveSystem.IBinarySaveData
-  fullName: Saro.SaveSystem.IBinarySaveData
+  href: api/Saro.Saving.IBinarySaveData.html
+  commentId: T:Saro.Saving.IBinarySaveData
+  fullName: Saro.Saving.IBinarySaveData
   nameWithType: IBinarySaveData
-- uid: Saro.SaveSystem.IBinarySaveData.LoadFields(System.IO.BinaryReader)
+- uid: Saro.Saving.IBinarySaveData.LoadFields(System.IO.BinaryReader)
   name: LoadFields(BinaryReader)
-  href: api/Saro.SaveSystem.IBinarySaveData.html#Saro_SaveSystem_IBinarySaveData_LoadFields_System_IO_BinaryReader_
-  commentId: M:Saro.SaveSystem.IBinarySaveData.LoadFields(System.IO.BinaryReader)
-  fullName: Saro.SaveSystem.IBinarySaveData.LoadFields(System.IO.BinaryReader)
+  href: api/Saro.Saving.IBinarySaveData.html#Saro_Saving_IBinarySaveData_LoadFields_System_IO_BinaryReader_
+  commentId: M:Saro.Saving.IBinarySaveData.LoadFields(System.IO.BinaryReader)
+  fullName: Saro.Saving.IBinarySaveData.LoadFields(System.IO.BinaryReader)
   nameWithType: IBinarySaveData.LoadFields(BinaryReader)
-- uid: Saro.SaveSystem.IBinarySaveData.LoadFields*
+- uid: Saro.Saving.IBinarySaveData.LoadFields*
   name: LoadFields
-  href: api/Saro.SaveSystem.IBinarySaveData.html#Saro_SaveSystem_IBinarySaveData_LoadFields_
-  commentId: Overload:Saro.SaveSystem.IBinarySaveData.LoadFields
+  href: api/Saro.Saving.IBinarySaveData.html#Saro_Saving_IBinarySaveData_LoadFields_
+  commentId: Overload:Saro.Saving.IBinarySaveData.LoadFields
   isSpec: "True"
-  fullName: Saro.SaveSystem.IBinarySaveData.LoadFields
+  fullName: Saro.Saving.IBinarySaveData.LoadFields
   nameWithType: IBinarySaveData.LoadFields
-- uid: Saro.SaveSystem.IBinarySaveData.WriteFields(System.IO.BinaryWriter)
+- uid: Saro.Saving.IBinarySaveData.WriteFields(System.IO.BinaryWriter)
   name: WriteFields(BinaryWriter)
-  href: api/Saro.SaveSystem.IBinarySaveData.html#Saro_SaveSystem_IBinarySaveData_WriteFields_System_IO_BinaryWriter_
-  commentId: M:Saro.SaveSystem.IBinarySaveData.WriteFields(System.IO.BinaryWriter)
-  fullName: Saro.SaveSystem.IBinarySaveData.WriteFields(System.IO.BinaryWriter)
+  href: api/Saro.Saving.IBinarySaveData.html#Saro_Saving_IBinarySaveData_WriteFields_System_IO_BinaryWriter_
+  commentId: M:Saro.Saving.IBinarySaveData.WriteFields(System.IO.BinaryWriter)
+  fullName: Saro.Saving.IBinarySaveData.WriteFields(System.IO.BinaryWriter)
   nameWithType: IBinarySaveData.WriteFields(BinaryWriter)
-- uid: Saro.SaveSystem.IBinarySaveData.WriteFields*
+- uid: Saro.Saving.IBinarySaveData.WriteFields*
   name: WriteFields
-  href: api/Saro.SaveSystem.IBinarySaveData.html#Saro_SaveSystem_IBinarySaveData_WriteFields_
-  commentId: Overload:Saro.SaveSystem.IBinarySaveData.WriteFields
+  href: api/Saro.Saving.IBinarySaveData.html#Saro_Saving_IBinarySaveData_WriteFields_
+  commentId: Overload:Saro.Saving.IBinarySaveData.WriteFields
   isSpec: "True"
-  fullName: Saro.SaveSystem.IBinarySaveData.WriteFields
+  fullName: Saro.Saving.IBinarySaveData.WriteFields
   nameWithType: IBinarySaveData.WriteFields
-- uid: Saro.SaveSystem.ISaveData
+- uid: Saro.Saving.ISaveData
   name: ISaveData
-  href: api/Saro.SaveSystem.ISaveData.html
-  commentId: T:Saro.SaveSystem.ISaveData
-  fullName: Saro.SaveSystem.ISaveData
+  href: api/Saro.Saving.ISaveData.html
+  commentId: T:Saro.Saving.ISaveData
+  fullName: Saro.Saving.ISaveData
   nameWithType: ISaveData
-- uid: Saro.SaveSystem.ISaveDataProvider
+- uid: Saro.Saving.ISaveDataProvider
   name: ISaveDataProvider
-  href: api/Saro.SaveSystem.ISaveDataProvider.html
-  commentId: T:Saro.SaveSystem.ISaveDataProvider
-  fullName: Saro.SaveSystem.ISaveDataProvider
+  href: api/Saro.Saving.ISaveDataProvider.html
+  commentId: T:Saro.Saving.ISaveDataProvider
+  fullName: Saro.Saving.ISaveDataProvider
   nameWithType: ISaveDataProvider
-- uid: Saro.SaveSystem.ISaveDataProvider.Load(Saro.SaveSystem.ISaveFile)
+- uid: Saro.Saving.ISaveDataProvider.Load(Saro.Saving.ISaveFile)
   name: Load(ISaveFile)
-  href: api/Saro.SaveSystem.ISaveDataProvider.html#Saro_SaveSystem_ISaveDataProvider_Load_Saro_SaveSystem_ISaveFile_
-  commentId: M:Saro.SaveSystem.ISaveDataProvider.Load(Saro.SaveSystem.ISaveFile)
-  fullName: Saro.SaveSystem.ISaveDataProvider.Load(Saro.SaveSystem.ISaveFile)
+  href: api/Saro.Saving.ISaveDataProvider.html#Saro_Saving_ISaveDataProvider_Load_Saro_Saving_ISaveFile_
+  commentId: M:Saro.Saving.ISaveDataProvider.Load(Saro.Saving.ISaveFile)
+  fullName: Saro.Saving.ISaveDataProvider.Load(Saro.Saving.ISaveFile)
   nameWithType: ISaveDataProvider.Load(ISaveFile)
-- uid: Saro.SaveSystem.ISaveDataProvider.Load*
+- uid: Saro.Saving.ISaveDataProvider.Load*
   name: Load
-  href: api/Saro.SaveSystem.ISaveDataProvider.html#Saro_SaveSystem_ISaveDataProvider_Load_
-  commentId: Overload:Saro.SaveSystem.ISaveDataProvider.Load
+  href: api/Saro.Saving.ISaveDataProvider.html#Saro_Saving_ISaveDataProvider_Load_
+  commentId: Overload:Saro.Saving.ISaveDataProvider.Load
   isSpec: "True"
-  fullName: Saro.SaveSystem.ISaveDataProvider.Load
+  fullName: Saro.Saving.ISaveDataProvider.Load
   nameWithType: ISaveDataProvider.Load
-- uid: Saro.SaveSystem.ISaveDataProvider.Save(Saro.SaveSystem.ISaveFile)
+- uid: Saro.Saving.ISaveDataProvider.Save(Saro.Saving.ISaveFile)
   name: Save(ISaveFile)
-  href: api/Saro.SaveSystem.ISaveDataProvider.html#Saro_SaveSystem_ISaveDataProvider_Save_Saro_SaveSystem_ISaveFile_
-  commentId: M:Saro.SaveSystem.ISaveDataProvider.Save(Saro.SaveSystem.ISaveFile)
-  fullName: Saro.SaveSystem.ISaveDataProvider.Save(Saro.SaveSystem.ISaveFile)
+  href: api/Saro.Saving.ISaveDataProvider.html#Saro_Saving_ISaveDataProvider_Save_Saro_Saving_ISaveFile_
+  commentId: M:Saro.Saving.ISaveDataProvider.Save(Saro.Saving.ISaveFile)
+  fullName: Saro.Saving.ISaveDataProvider.Save(Saro.Saving.ISaveFile)
   nameWithType: ISaveDataProvider.Save(ISaveFile)
-- uid: Saro.SaveSystem.ISaveDataProvider.Save*
+- uid: Saro.Saving.ISaveDataProvider.Save*
   name: Save
-  href: api/Saro.SaveSystem.ISaveDataProvider.html#Saro_SaveSystem_ISaveDataProvider_Save_
-  commentId: Overload:Saro.SaveSystem.ISaveDataProvider.Save
+  href: api/Saro.Saving.ISaveDataProvider.html#Saro_Saving_ISaveDataProvider_Save_
+  commentId: Overload:Saro.Saving.ISaveDataProvider.Save
   isSpec: "True"
-  fullName: Saro.SaveSystem.ISaveDataProvider.Save
+  fullName: Saro.Saving.ISaveDataProvider.Save
   nameWithType: ISaveDataProvider.Save
-- uid: Saro.SaveSystem.ISaveFile
+- uid: Saro.Saving.ISaveFile
   name: ISaveFile
-  href: api/Saro.SaveSystem.ISaveFile.html
-  commentId: T:Saro.SaveSystem.ISaveFile
-  fullName: Saro.SaveSystem.ISaveFile
+  href: api/Saro.Saving.ISaveFile.html
+  commentId: T:Saro.Saving.ISaveFile
+  fullName: Saro.Saving.ISaveFile
   nameWithType: ISaveFile
-- uid: Saro.SaveSystem.ISaveFile.AddSaveData(Saro.SaveSystem.ISaveData)
+- uid: Saro.Saving.ISaveFile.AddSaveData(Saro.Saving.ISaveData)
   name: AddSaveData(ISaveData)
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_AddSaveData_Saro_SaveSystem_ISaveData_
-  commentId: M:Saro.SaveSystem.ISaveFile.AddSaveData(Saro.SaveSystem.ISaveData)
-  fullName: Saro.SaveSystem.ISaveFile.AddSaveData(Saro.SaveSystem.ISaveData)
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_AddSaveData_Saro_Saving_ISaveData_
+  commentId: M:Saro.Saving.ISaveFile.AddSaveData(Saro.Saving.ISaveData)
+  fullName: Saro.Saving.ISaveFile.AddSaveData(Saro.Saving.ISaveData)
   nameWithType: ISaveFile.AddSaveData(ISaveData)
-- uid: Saro.SaveSystem.ISaveFile.AddSaveData*
+- uid: Saro.Saving.ISaveFile.AddSaveData*
   name: AddSaveData
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_AddSaveData_
-  commentId: Overload:Saro.SaveSystem.ISaveFile.AddSaveData
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_AddSaveData_
+  commentId: Overload:Saro.Saving.ISaveFile.AddSaveData
   isSpec: "True"
-  fullName: Saro.SaveSystem.ISaveFile.AddSaveData
+  fullName: Saro.Saving.ISaveFile.AddSaveData
   nameWithType: ISaveFile.AddSaveData
-- uid: Saro.SaveSystem.ISaveFile.ClearSaveDatas
+- uid: Saro.Saving.ISaveFile.ClearSaveDatas
   name: ClearSaveDatas()
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_ClearSaveDatas
-  commentId: M:Saro.SaveSystem.ISaveFile.ClearSaveDatas
-  fullName: Saro.SaveSystem.ISaveFile.ClearSaveDatas()
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_ClearSaveDatas
+  commentId: M:Saro.Saving.ISaveFile.ClearSaveDatas
+  fullName: Saro.Saving.ISaveFile.ClearSaveDatas()
   nameWithType: ISaveFile.ClearSaveDatas()
-- uid: Saro.SaveSystem.ISaveFile.ClearSaveDatas*
+- uid: Saro.Saving.ISaveFile.ClearSaveDatas*
   name: ClearSaveDatas
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_ClearSaveDatas_
-  commentId: Overload:Saro.SaveSystem.ISaveFile.ClearSaveDatas
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_ClearSaveDatas_
+  commentId: Overload:Saro.Saving.ISaveFile.ClearSaveDatas
   isSpec: "True"
-  fullName: Saro.SaveSystem.ISaveFile.ClearSaveDatas
+  fullName: Saro.Saving.ISaveFile.ClearSaveDatas
   nameWithType: ISaveFile.ClearSaveDatas
-- uid: Saro.SaveSystem.ISaveFile.FilePath
+- uid: Saro.Saving.ISaveFile.FilePath
   name: FilePath
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_FilePath
-  commentId: P:Saro.SaveSystem.ISaveFile.FilePath
-  fullName: Saro.SaveSystem.ISaveFile.FilePath
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_FilePath
+  commentId: P:Saro.Saving.ISaveFile.FilePath
+  fullName: Saro.Saving.ISaveFile.FilePath
   nameWithType: ISaveFile.FilePath
-- uid: Saro.SaveSystem.ISaveFile.FilePath*
+- uid: Saro.Saving.ISaveFile.FilePath*
   name: FilePath
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_FilePath_
-  commentId: Overload:Saro.SaveSystem.ISaveFile.FilePath
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_FilePath_
+  commentId: Overload:Saro.Saving.ISaveFile.FilePath
   isSpec: "True"
-  fullName: Saro.SaveSystem.ISaveFile.FilePath
+  fullName: Saro.Saving.ISaveFile.FilePath
   nameWithType: ISaveFile.FilePath
-- uid: Saro.SaveSystem.ISaveFile.HasSaveFile
+- uid: Saro.Saving.ISaveFile.HasSaveFile
   name: HasSaveFile()
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_HasSaveFile
-  commentId: M:Saro.SaveSystem.ISaveFile.HasSaveFile
-  fullName: Saro.SaveSystem.ISaveFile.HasSaveFile()
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_HasSaveFile
+  commentId: M:Saro.Saving.ISaveFile.HasSaveFile
+  fullName: Saro.Saving.ISaveFile.HasSaveFile()
   nameWithType: ISaveFile.HasSaveFile()
-- uid: Saro.SaveSystem.ISaveFile.HasSaveFile*
+- uid: Saro.Saving.ISaveFile.HasSaveFile*
   name: HasSaveFile
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_HasSaveFile_
-  commentId: Overload:Saro.SaveSystem.ISaveFile.HasSaveFile
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_HasSaveFile_
+  commentId: Overload:Saro.Saving.ISaveFile.HasSaveFile
   isSpec: "True"
-  fullName: Saro.SaveSystem.ISaveFile.HasSaveFile
+  fullName: Saro.Saving.ISaveFile.HasSaveFile
   nameWithType: ISaveFile.HasSaveFile
-- uid: Saro.SaveSystem.ISaveFile.Load
+- uid: Saro.Saving.ISaveFile.Load
   name: Load()
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_Load
-  commentId: M:Saro.SaveSystem.ISaveFile.Load
-  fullName: Saro.SaveSystem.ISaveFile.Load()
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_Load
+  commentId: M:Saro.Saving.ISaveFile.Load
+  fullName: Saro.Saving.ISaveFile.Load()
   nameWithType: ISaveFile.Load()
-- uid: Saro.SaveSystem.ISaveFile.Load*
+- uid: Saro.Saving.ISaveFile.Load*
   name: Load
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_Load_
-  commentId: Overload:Saro.SaveSystem.ISaveFile.Load
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_Load_
+  commentId: Overload:Saro.Saving.ISaveFile.Load
   isSpec: "True"
-  fullName: Saro.SaveSystem.ISaveFile.Load
+  fullName: Saro.Saving.ISaveFile.Load
   nameWithType: ISaveFile.Load
-- uid: Saro.SaveSystem.ISaveFile.Save
+- uid: Saro.Saving.ISaveFile.Save
   name: Save()
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_Save
-  commentId: M:Saro.SaveSystem.ISaveFile.Save
-  fullName: Saro.SaveSystem.ISaveFile.Save()
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_Save
+  commentId: M:Saro.Saving.ISaveFile.Save
+  fullName: Saro.Saving.ISaveFile.Save()
   nameWithType: ISaveFile.Save()
-- uid: Saro.SaveSystem.ISaveFile.Save*
+- uid: Saro.Saving.ISaveFile.Save*
   name: Save
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_Save_
-  commentId: Overload:Saro.SaveSystem.ISaveFile.Save
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_Save_
+  commentId: Overload:Saro.Saving.ISaveFile.Save
   isSpec: "True"
-  fullName: Saro.SaveSystem.ISaveFile.Save
+  fullName: Saro.Saving.ISaveFile.Save
   nameWithType: ISaveFile.Save
-- uid: Saro.SaveSystem.ISaveFile.SaveDataProvider
+- uid: Saro.Saving.ISaveFile.SaveDataProvider
   name: SaveDataProvider
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_SaveDataProvider
-  commentId: P:Saro.SaveSystem.ISaveFile.SaveDataProvider
-  fullName: Saro.SaveSystem.ISaveFile.SaveDataProvider
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_SaveDataProvider
+  commentId: P:Saro.Saving.ISaveFile.SaveDataProvider
+  fullName: Saro.Saving.ISaveFile.SaveDataProvider
   nameWithType: ISaveFile.SaveDataProvider
-- uid: Saro.SaveSystem.ISaveFile.SaveDataProvider*
+- uid: Saro.Saving.ISaveFile.SaveDataProvider*
   name: SaveDataProvider
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_SaveDataProvider_
-  commentId: Overload:Saro.SaveSystem.ISaveFile.SaveDataProvider
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_SaveDataProvider_
+  commentId: Overload:Saro.Saving.ISaveFile.SaveDataProvider
   isSpec: "True"
-  fullName: Saro.SaveSystem.ISaveFile.SaveDataProvider
+  fullName: Saro.Saving.ISaveFile.SaveDataProvider
   nameWithType: ISaveFile.SaveDataProvider
-- uid: Saro.SaveSystem.ISaveFile.SaveDatas
+- uid: Saro.Saving.ISaveFile.SaveDatas
   name: SaveDatas
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_SaveDatas
-  commentId: P:Saro.SaveSystem.ISaveFile.SaveDatas
-  fullName: Saro.SaveSystem.ISaveFile.SaveDatas
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_SaveDatas
+  commentId: P:Saro.Saving.ISaveFile.SaveDatas
+  fullName: Saro.Saving.ISaveFile.SaveDatas
   nameWithType: ISaveFile.SaveDatas
-- uid: Saro.SaveSystem.ISaveFile.SaveDatas*
+- uid: Saro.Saving.ISaveFile.SaveDatas*
   name: SaveDatas
-  href: api/Saro.SaveSystem.ISaveFile.html#Saro_SaveSystem_ISaveFile_SaveDatas_
-  commentId: Overload:Saro.SaveSystem.ISaveFile.SaveDatas
+  href: api/Saro.Saving.ISaveFile.html#Saro_Saving_ISaveFile_SaveDatas_
+  commentId: Overload:Saro.Saving.ISaveFile.SaveDatas
   isSpec: "True"
-  fullName: Saro.SaveSystem.ISaveFile.SaveDatas
+  fullName: Saro.Saving.ISaveFile.SaveDatas
   nameWithType: ISaveFile.SaveDatas
-- uid: Saro.SaveSystem.JsonSaveDataProvider
+- uid: Saro.Saving.JsonSaveDataProvider
   name: JsonSaveDataProvider
-  href: api/Saro.SaveSystem.JsonSaveDataProvider.html
-  commentId: T:Saro.SaveSystem.JsonSaveDataProvider
-  fullName: Saro.SaveSystem.JsonSaveDataProvider
+  href: api/Saro.Saving.JsonSaveDataProvider.html
+  commentId: T:Saro.Saving.JsonSaveDataProvider
+  fullName: Saro.Saving.JsonSaveDataProvider
   nameWithType: JsonSaveDataProvider
-- uid: Saro.SaveSystem.JsonSaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Load(Saro.SaveSystem.ISaveFile)
+- uid: Saro.Saving.JsonSaveDataProvider.Saro#Saving#ISaveDataProvider#Load(Saro.Saving.ISaveFile)
   name: ISaveDataProvider.Load(ISaveFile)
-  href: api/Saro.SaveSystem.JsonSaveDataProvider.html#Saro_SaveSystem_JsonSaveDataProvider_Saro_SaveSystem_ISaveDataProvider_Load_Saro_SaveSystem_ISaveFile_
-  commentId: M:Saro.SaveSystem.JsonSaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Load(Saro.SaveSystem.ISaveFile)
-  name.vb: Saro.SaveSystem.ISaveDataProvider.Load(ISaveFile)
-  fullName: Saro.SaveSystem.JsonSaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Load(Saro.SaveSystem.ISaveFile)
+  href: api/Saro.Saving.JsonSaveDataProvider.html#Saro_Saving_JsonSaveDataProvider_Saro_Saving_ISaveDataProvider_Load_Saro_Saving_ISaveFile_
+  commentId: M:Saro.Saving.JsonSaveDataProvider.Saro#Saving#ISaveDataProvider#Load(Saro.Saving.ISaveFile)
+  name.vb: Saro.Saving.ISaveDataProvider.Load(ISaveFile)
+  fullName: Saro.Saving.JsonSaveDataProvider.Saro.Saving.ISaveDataProvider.Load(Saro.Saving.ISaveFile)
   nameWithType: JsonSaveDataProvider.ISaveDataProvider.Load(ISaveFile)
-  nameWithType.vb: JsonSaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Load(ISaveFile)
-- uid: Saro.SaveSystem.JsonSaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Load*
+  nameWithType.vb: JsonSaveDataProvider.Saro.Saving.ISaveDataProvider.Load(ISaveFile)
+- uid: Saro.Saving.JsonSaveDataProvider.Saro#Saving#ISaveDataProvider#Load*
   name: ISaveDataProvider.Load
-  href: api/Saro.SaveSystem.JsonSaveDataProvider.html#Saro_SaveSystem_JsonSaveDataProvider_Saro_SaveSystem_ISaveDataProvider_Load_
-  commentId: Overload:Saro.SaveSystem.JsonSaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Load
+  href: api/Saro.Saving.JsonSaveDataProvider.html#Saro_Saving_JsonSaveDataProvider_Saro_Saving_ISaveDataProvider_Load_
+  commentId: Overload:Saro.Saving.JsonSaveDataProvider.Saro#Saving#ISaveDataProvider#Load
   isSpec: "True"
-  name.vb: Saro.SaveSystem.ISaveDataProvider.Load
-  fullName: Saro.SaveSystem.JsonSaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Load
+  name.vb: Saro.Saving.ISaveDataProvider.Load
+  fullName: Saro.Saving.JsonSaveDataProvider.Saro.Saving.ISaveDataProvider.Load
   nameWithType: JsonSaveDataProvider.ISaveDataProvider.Load
-  nameWithType.vb: JsonSaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Load
-- uid: Saro.SaveSystem.JsonSaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Save(Saro.SaveSystem.ISaveFile)
+  nameWithType.vb: JsonSaveDataProvider.Saro.Saving.ISaveDataProvider.Load
+- uid: Saro.Saving.JsonSaveDataProvider.Saro#Saving#ISaveDataProvider#Save(Saro.Saving.ISaveFile)
   name: ISaveDataProvider.Save(ISaveFile)
-  href: api/Saro.SaveSystem.JsonSaveDataProvider.html#Saro_SaveSystem_JsonSaveDataProvider_Saro_SaveSystem_ISaveDataProvider_Save_Saro_SaveSystem_ISaveFile_
-  commentId: M:Saro.SaveSystem.JsonSaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Save(Saro.SaveSystem.ISaveFile)
-  name.vb: Saro.SaveSystem.ISaveDataProvider.Save(ISaveFile)
-  fullName: Saro.SaveSystem.JsonSaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Save(Saro.SaveSystem.ISaveFile)
+  href: api/Saro.Saving.JsonSaveDataProvider.html#Saro_Saving_JsonSaveDataProvider_Saro_Saving_ISaveDataProvider_Save_Saro_Saving_ISaveFile_
+  commentId: M:Saro.Saving.JsonSaveDataProvider.Saro#Saving#ISaveDataProvider#Save(Saro.Saving.ISaveFile)
+  name.vb: Saro.Saving.ISaveDataProvider.Save(ISaveFile)
+  fullName: Saro.Saving.JsonSaveDataProvider.Saro.Saving.ISaveDataProvider.Save(Saro.Saving.ISaveFile)
   nameWithType: JsonSaveDataProvider.ISaveDataProvider.Save(ISaveFile)
-  nameWithType.vb: JsonSaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Save(ISaveFile)
-- uid: Saro.SaveSystem.JsonSaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Save*
+  nameWithType.vb: JsonSaveDataProvider.Saro.Saving.ISaveDataProvider.Save(ISaveFile)
+- uid: Saro.Saving.JsonSaveDataProvider.Saro#Saving#ISaveDataProvider#Save*
   name: ISaveDataProvider.Save
-  href: api/Saro.SaveSystem.JsonSaveDataProvider.html#Saro_SaveSystem_JsonSaveDataProvider_Saro_SaveSystem_ISaveDataProvider_Save_
-  commentId: Overload:Saro.SaveSystem.JsonSaveDataProvider.Saro#SaveSystem#ISaveDataProvider#Save
+  href: api/Saro.Saving.JsonSaveDataProvider.html#Saro_Saving_JsonSaveDataProvider_Saro_Saving_ISaveDataProvider_Save_
+  commentId: Overload:Saro.Saving.JsonSaveDataProvider.Saro#Saving#ISaveDataProvider#Save
   isSpec: "True"
-  name.vb: Saro.SaveSystem.ISaveDataProvider.Save
-  fullName: Saro.SaveSystem.JsonSaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Save
+  name.vb: Saro.Saving.ISaveDataProvider.Save
+  fullName: Saro.Saving.JsonSaveDataProvider.Saro.Saving.ISaveDataProvider.Save
   nameWithType: JsonSaveDataProvider.ISaveDataProvider.Save
-  nameWithType.vb: JsonSaveDataProvider.Saro.SaveSystem.ISaveDataProvider.Save
+  nameWithType.vb: JsonSaveDataProvider.Saro.Saving.ISaveDataProvider.Save
 - uid: Saro.SEditor
   name: Saro.SEditor
   href: api/Saro.SEditor.html
@@ -16835,6 +16809,15 @@ references:
   isSpec: "True"
   fullName: Saro.UI.UIManager.GetWindow
   nameWithType: UIManager.GetWindow
+- uid: Saro.UI.UIManager.GetWindow``1(System.Enum)
+  name: GetWindow<T>(Enum)
+  href: api/Saro.UI.UIManager.html#Saro_UI_UIManager_GetWindow__1_System_Enum_
+  commentId: M:Saro.UI.UIManager.GetWindow``1(System.Enum)
+  name.vb: GetWindow(Of T)(Enum)
+  fullName: Saro.UI.UIManager.GetWindow<T>(System.Enum)
+  fullName.vb: Saro.UI.UIManager.GetWindow(Of T)(System.Enum)
+  nameWithType: UIManager.GetWindow<T>(Enum)
+  nameWithType.vb: UIManager.GetWindow(Of T)(Enum)
 - uid: Saro.UI.UIManager.HideWindow(System.Enum)
   name: HideWindow(Enum)
   href: api/Saro.UI.UIManager.html#Saro_UI_UIManager_HideWindow_System_Enum_

@@ -1182,7 +1182,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Localization.ILocalizationDataProvider.html",
-          "hash": "Ryp+Huv8YNDJAACH0NUWqQ=="
+          "hash": "bygd/zV3ei96cAsttz0Y4Q=="
         }
       },
       "is_incremental": false,
@@ -1206,7 +1206,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Localization.LocalizationManager.html",
-          "hash": "8mMGg8Zak2JfUWiqzRjDOg=="
+          "hash": "mUYir/IsZ/7ipeV6DiaA5A=="
         }
       },
       "is_incremental": false,
@@ -1230,7 +1230,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Localization.html",
-          "hash": "ax76VHeCOntWt32Uc3n8pg=="
+          "hash": "p+Qxt7qEClk8vfdbXdGepQ=="
         }
       },
       "is_incremental": false,
@@ -1278,7 +1278,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.MonoSingleton-1.html",
-          "hash": "rurj1XJ6ip89tIoTEG0irg=="
+          "hash": "Y0dL50IMDVvxD6mdk8Gd+w=="
         }
       },
       "is_incremental": false,
@@ -1626,7 +1626,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Pool.CollectionPool-2.html",
-          "hash": "MOUkAQTc4ZbiLph3rBy4tA=="
+          "hash": "KJ0A4PWj0tGSjOXo3pPAmQ=="
         }
       },
       "is_incremental": false,
@@ -1830,7 +1830,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Pool.html",
-          "hash": "YdMxyKY5fTJUfBiE+imlsg=="
+          "hash": "DGamdjRyWFERAFxBzemf/g=="
         }
       },
       "is_incremental": false,
@@ -2234,11 +2234,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Saro.SaveSystem.BinarySaveDataProvider.yml",
+      "source_relative_path": "api/Saro.Saving.BinarySaveDataProvider.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Saro.SaveSystem.BinarySaveDataProvider.html",
-          "hash": "oCTctTfc9ov0jw70M1Kypg=="
+          "relative_path": "api/Saro.Saving.BinarySaveDataProvider.html",
+          "hash": "ydbbK34jKGkb3VrnqX8Zfw=="
         }
       },
       "is_incremental": false,
@@ -2246,11 +2246,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Saro.SaveSystem.DefaultSaveFile.yml",
+      "source_relative_path": "api/Saro.Saving.DefaultSaveFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Saro.SaveSystem.DefaultSaveFile.html",
-          "hash": "6ho1q/fnEzNjmFbBjWDa6w=="
+          "relative_path": "api/Saro.Saving.DefaultSaveFile.html",
+          "hash": "wZENzitxCynMTvI39Y36zg=="
         }
       },
       "is_incremental": false,
@@ -2258,11 +2258,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Saro.SaveSystem.IBinarySaveData.yml",
+      "source_relative_path": "api/Saro.Saving.IBinarySaveData.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Saro.SaveSystem.IBinarySaveData.html",
-          "hash": "9vaSHrVo0XfFwZXehMtOfw=="
+          "relative_path": "api/Saro.Saving.IBinarySaveData.html",
+          "hash": "GlGdlzyHpeJAhVZy6rNT5A=="
         }
       },
       "is_incremental": false,
@@ -2270,11 +2270,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Saro.SaveSystem.ISaveData.yml",
+      "source_relative_path": "api/Saro.Saving.ISaveData.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Saro.SaveSystem.ISaveData.html",
-          "hash": "/721TR3XfU6QAS6EypY28Q=="
+          "relative_path": "api/Saro.Saving.ISaveData.html",
+          "hash": "TpcxYrMGNMZkOrWQyVqJ6w=="
         }
       },
       "is_incremental": false,
@@ -2282,11 +2282,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Saro.SaveSystem.ISaveDataProvider.yml",
+      "source_relative_path": "api/Saro.Saving.ISaveDataProvider.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Saro.SaveSystem.ISaveDataProvider.html",
-          "hash": "2WTTFZoARVHCnQK0vcmF0Q=="
+          "relative_path": "api/Saro.Saving.ISaveDataProvider.html",
+          "hash": "+r0C1RZHb/snNmc6yc7yUg=="
         }
       },
       "is_incremental": false,
@@ -2294,11 +2294,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Saro.SaveSystem.ISaveFile.yml",
+      "source_relative_path": "api/Saro.Saving.ISaveFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Saro.SaveSystem.ISaveFile.html",
-          "hash": "SP1DZAROQUAVAgUYkvz9sg=="
+          "relative_path": "api/Saro.Saving.ISaveFile.html",
+          "hash": "NyF0AR+JUi59dLyKZwF3aw=="
         }
       },
       "is_incremental": false,
@@ -2306,11 +2306,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Saro.SaveSystem.JsonSaveDataProvider.yml",
+      "source_relative_path": "api/Saro.Saving.JsonSaveDataProvider.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Saro.SaveSystem.JsonSaveDataProvider.html",
-          "hash": "PFLjKBLV6ckkeibdi9okXQ=="
+          "relative_path": "api/Saro.Saving.JsonSaveDataProvider.html",
+          "hash": "PgitS8xXcLYL8MXOqPZLDQ=="
         }
       },
       "is_incremental": false,
@@ -2318,11 +2318,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Saro.SaveSystem.yml",
+      "source_relative_path": "api/Saro.Saving.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Saro.SaveSystem.html",
-          "hash": "X9x+WD0eJrPr+XkoPjDlJg=="
+          "relative_path": "api/Saro.Saving.html",
+          "hash": "EBkN7UK6+8C8hCErmawbYg=="
         }
       },
       "is_incremental": false,
@@ -2346,7 +2346,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.Singleton-1.html",
-          "hash": "DvGQ4JUekWVX3nkz28IcrA=="
+          "hash": "B9CUIUuSCPphjJxt85xC9Q=="
         }
       },
       "is_incremental": false,
@@ -2550,7 +2550,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.UI.UIAlertDialog.html",
-          "hash": "TXRThN21C/ck9Sj2qiApJw=="
+          "hash": "oHzhPm/rnIj6MGhysjgubQ=="
         }
       },
       "is_incremental": false,
@@ -2646,7 +2646,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.UI.UIManager.html",
-          "hash": "mK6s6B1SUaHaOJOt6peSYQ=="
+          "hash": "Iz4neA2RwyVGeAn67npV7A=="
         }
       },
       "is_incremental": false,
@@ -2658,7 +2658,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.UI.UIWaiting.html",
-          "hash": "lZgzDpPl4bNmVvITzYgzig=="
+          "hash": "NXjWVJToGxzrUMEfwBpM1A=="
         }
       },
       "is_incremental": false,
@@ -3342,7 +3342,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Saro.html",
-          "hash": "DbD4//PjM6ebdfYYGRymWw=="
+          "hash": "iaRcGsgULhKSfQ8QJiw2VA=="
         }
       },
       "is_incremental": false,
@@ -3414,7 +3414,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "uO4zbz5wBkwwnvM5Y33dmQ=="
+          "hash": "IE7yw6nRVT497Q4QXGehWw=="
         }
       },
       "is_incremental": false,
@@ -3551,16 +3551,16 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "TocDocumentProcessor": {
+        "ResourceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0
         },
-        "ResourceDocumentProcessor": {
+        "TocDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0

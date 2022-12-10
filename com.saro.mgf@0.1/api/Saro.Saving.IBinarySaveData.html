@@ -11,10 +11,10 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
   
-    <title>Interface ISaveData
+    <title>Interface IBinarySaveData
    | Moon GameFramework | 0.1.0 </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Interface ISaveData
+    <meta name="title" content="Interface IBinarySaveData
    | Moon GameFramework | 0.1.0 ">
     <meta name="generator" content="docfx 2.40.12.0">
     
@@ -88,19 +88,75 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="Saro.SaveSystem.ISaveData">
+            <article class="content wrap" id="_content" data-uid="Saro.Saving.IBinarySaveData">
   
   
-  <h1 id="Saro_SaveSystem_ISaveData" data-uid="Saro.SaveSystem.ISaveData">Interface ISaveData
+  <h1 id="Saro_Saving_IBinarySaveData" data-uid="Saro.Saving.IBinarySaveData">Interface IBinarySaveData
   </h1>
   <div class="markdown level0 summary"></div>
   <div class="markdown level0 conceptual"></div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="Saro.SaveSystem.html">Saro.SaveSystem</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Saro.Saving.html">Saro.Saving</a></h6>
   <!--h6><strong>Assembly</strong>: solution.dll</h6-->
-  <h5 id="Saro_SaveSystem_ISaveData_syntax">Syntax</h5>
+  <h5 id="Saro_Saving_IBinarySaveData_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public interface ISaveData</code></pre>
+    <pre><code class="lang-csharp hljs">public interface IBinarySaveData : ISaveData</code></pre>
   </div>
+  <h3 id="methods">Methods
+  </h3>
+  
+  
+  <a id="Saro_Saving_IBinarySaveData_LoadFields_" data-uid="Saro.Saving.IBinarySaveData.LoadFields*"></a>
+  <h4 id="Saro_Saving_IBinarySaveData_LoadFields_System_IO_BinaryReader_" data-uid="Saro.Saving.IBinarySaveData.LoadFields(System.IO.BinaryReader)">LoadFields(BinaryReader)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void LoadFields(BinaryReader reader)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.io.binaryreader">BinaryReader</a></td>
+        <td><span class="parametername">reader</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Saro_Saving_IBinarySaveData_WriteFields_" data-uid="Saro.Saving.IBinarySaveData.WriteFields*"></a>
+  <h4 id="Saro_Saving_IBinarySaveData_WriteFields_System_IO_BinaryWriter_" data-uid="Saro.Saving.IBinarySaveData.WriteFields(System.IO.BinaryWriter)">WriteFields(BinaryWriter)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void WriteFields(BinaryWriter writer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.io.binarywriter">BinaryWriter</a></td>
+        <td><span class="parametername">writer</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="extensionmethods">Extension Methods</h3>
   <div>
       <a class="xref" href="Saro.Utility.TypeType.html#Saro_Utility_TypeType_isUnmanaged__1___0_">TypeType.isUnmanaged&lt;T&gt;(T)</a>
