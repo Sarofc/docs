@@ -1,0 +1,2081 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Saro.FSnapshot
+  name: Saro.FSnapshot
+  href: api/Saro.FSnapshot.html
+  commentId: N:Saro.FSnapshot
+  fullName: Saro.FSnapshot
+  nameWithType: Saro.FSnapshot
+- uid: Saro.FSnapshot.DictionaryFormatter`2
+  name: DictionaryFormatter<TKey, TValue>
+  href: api/Saro.FSnapshot.DictionaryFormatter-2.html
+  commentId: T:Saro.FSnapshot.DictionaryFormatter`2
+  name.vb: DictionaryFormatter(Of TKey, TValue)
+  fullName: Saro.FSnapshot.DictionaryFormatter<TKey, TValue>
+  fullName.vb: Saro.FSnapshot.DictionaryFormatter(Of TKey, TValue)
+  nameWithType: DictionaryFormatter<TKey, TValue>
+  nameWithType.vb: DictionaryFormatter(Of TKey, TValue)
+- uid: Saro.FSnapshot.DictionaryFormatter`2.#ctor
+  name: DictionaryFormatter()
+  href: api/Saro.FSnapshot.DictionaryFormatter-2.html#Saro_FSnapshot_DictionaryFormatter_2__ctor
+  commentId: M:Saro.FSnapshot.DictionaryFormatter`2.#ctor
+  fullName: Saro.FSnapshot.DictionaryFormatter<TKey, TValue>.DictionaryFormatter()
+  fullName.vb: Saro.FSnapshot.DictionaryFormatter(Of TKey, TValue).DictionaryFormatter()
+  nameWithType: DictionaryFormatter<TKey, TValue>.DictionaryFormatter()
+  nameWithType.vb: DictionaryFormatter(Of TKey, TValue).DictionaryFormatter()
+- uid: Saro.FSnapshot.DictionaryFormatter`2.#ctor(System.Collections.Generic.IEqualityComparer{`0})
+  name: DictionaryFormatter(IEqualityComparer<TKey>)
+  href: api/Saro.FSnapshot.DictionaryFormatter-2.html#Saro_FSnapshot_DictionaryFormatter_2__ctor_System_Collections_Generic_IEqualityComparer__0__
+  commentId: M:Saro.FSnapshot.DictionaryFormatter`2.#ctor(System.Collections.Generic.IEqualityComparer{`0})
+  name.vb: DictionaryFormatter(IEqualityComparer(Of TKey))
+  fullName: Saro.FSnapshot.DictionaryFormatter<TKey, TValue>.DictionaryFormatter(System.Collections.Generic.IEqualityComparer<TKey>)
+  fullName.vb: Saro.FSnapshot.DictionaryFormatter(Of TKey, TValue).DictionaryFormatter(System.Collections.Generic.IEqualityComparer(Of TKey))
+  nameWithType: DictionaryFormatter<TKey, TValue>.DictionaryFormatter(IEqualityComparer<TKey>)
+  nameWithType.vb: DictionaryFormatter(Of TKey, TValue).DictionaryFormatter(IEqualityComparer(Of TKey))
+- uid: Saro.FSnapshot.DictionaryFormatter`2.#ctor*
+  name: DictionaryFormatter
+  href: api/Saro.FSnapshot.DictionaryFormatter-2.html#Saro_FSnapshot_DictionaryFormatter_2__ctor_
+  commentId: Overload:Saro.FSnapshot.DictionaryFormatter`2.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.DictionaryFormatter<TKey, TValue>.DictionaryFormatter
+  fullName.vb: Saro.FSnapshot.DictionaryFormatter(Of TKey, TValue).DictionaryFormatter
+  nameWithType: DictionaryFormatter<TKey, TValue>.DictionaryFormatter
+  nameWithType.vb: DictionaryFormatter(Of TKey, TValue).DictionaryFormatter
+- uid: Saro.FSnapshot.DictionaryFormatter`2.Dump(Saro.FSnapshot.FTextWriter@,System.Collections.Generic.Dictionary{`0,`1}@)
+  name: Dump(ref FTextWriter, Dictionary<TKey, TValue>)
+  href: api/Saro.FSnapshot.DictionaryFormatter-2.html#Saro_FSnapshot_DictionaryFormatter_2_Dump_Saro_FSnapshot_FTextWriter__System_Collections_Generic_Dictionary__0__1___
+  commentId: M:Saro.FSnapshot.DictionaryFormatter`2.Dump(Saro.FSnapshot.FTextWriter@,System.Collections.Generic.Dictionary{`0,`1}@)
+  name.vb: Dump(ByRef FTextWriter, ByRef Dictionary(Of TKey, TValue))
+  fullName: Saro.FSnapshot.DictionaryFormatter<TKey, TValue>.Dump(ref Saro.FSnapshot.FTextWriter, System.Collections.Generic.Dictionary<TKey, TValue>)
+  fullName.vb: Saro.FSnapshot.DictionaryFormatter(Of TKey, TValue).Dump(ByRef Saro.FSnapshot.FTextWriter, ByRef System.Collections.Generic.Dictionary(Of TKey, TValue))
+  nameWithType: DictionaryFormatter<TKey, TValue>.Dump(ref FTextWriter, Dictionary<TKey, TValue>)
+  nameWithType.vb: DictionaryFormatter(Of TKey, TValue).Dump(ByRef FTextWriter, ByRef Dictionary(Of TKey, TValue))
+- uid: Saro.FSnapshot.DictionaryFormatter`2.Dump*
+  name: Dump
+  href: api/Saro.FSnapshot.DictionaryFormatter-2.html#Saro_FSnapshot_DictionaryFormatter_2_Dump_
+  commentId: Overload:Saro.FSnapshot.DictionaryFormatter`2.Dump
+  isSpec: "True"
+  fullName: Saro.FSnapshot.DictionaryFormatter<TKey, TValue>.Dump
+  fullName.vb: Saro.FSnapshot.DictionaryFormatter(Of TKey, TValue).Dump
+  nameWithType: DictionaryFormatter<TKey, TValue>.Dump
+  nameWithType.vb: DictionaryFormatter(Of TKey, TValue).Dump
+- uid: Saro.FSnapshot.DictionaryFormatter`2.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,System.Collections.Generic.Dictionary{`0,`1}@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref Dictionary<TKey, TValue>)
+  href: api/Saro.FSnapshot.DictionaryFormatter-2.html#Saro_FSnapshot_DictionaryFormatter_2_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__System_Collections_Generic_Dictionary__0__1___
+  commentId: M:Saro.FSnapshot.DictionaryFormatter`2.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,System.Collections.Generic.Dictionary{`0,`1}@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef Dictionary(Of TKey, TValue))
+  fullName: Saro.FSnapshot.DictionaryFormatter<TKey, TValue>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref System.Collections.Generic.Dictionary<TKey, TValue>)
+  fullName.vb: Saro.FSnapshot.DictionaryFormatter(Of TKey, TValue).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef System.Collections.Generic.Dictionary(Of TKey, TValue))
+  nameWithType: DictionaryFormatter<TKey, TValue>.RestoreSnapshot(ref FSnapshotReader, ref Dictionary<TKey, TValue>)
+  nameWithType.vb: DictionaryFormatter(Of TKey, TValue).RestoreSnapshot(ByRef FSnapshotReader, ByRef Dictionary(Of TKey, TValue))
+- uid: Saro.FSnapshot.DictionaryFormatter`2.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.DictionaryFormatter-2.html#Saro_FSnapshot_DictionaryFormatter_2_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.DictionaryFormatter`2.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.DictionaryFormatter<TKey, TValue>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.DictionaryFormatter(Of TKey, TValue).RestoreSnapshot
+  nameWithType: DictionaryFormatter<TKey, TValue>.RestoreSnapshot
+  nameWithType.vb: DictionaryFormatter(Of TKey, TValue).RestoreSnapshot
+- uid: Saro.FSnapshot.DictionaryFormatter`2.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,System.Collections.Generic.Dictionary{`0,`1}@)
+  name: TakeSnapshot(ref FSnapshotWriter, Dictionary<TKey, TValue>)
+  href: api/Saro.FSnapshot.DictionaryFormatter-2.html#Saro_FSnapshot_DictionaryFormatter_2_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__System_Collections_Generic_Dictionary__0__1___
+  commentId: M:Saro.FSnapshot.DictionaryFormatter`2.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,System.Collections.Generic.Dictionary{`0,`1}@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef Dictionary(Of TKey, TValue))
+  fullName: Saro.FSnapshot.DictionaryFormatter<TKey, TValue>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, System.Collections.Generic.Dictionary<TKey, TValue>)
+  fullName.vb: Saro.FSnapshot.DictionaryFormatter(Of TKey, TValue).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef System.Collections.Generic.Dictionary(Of TKey, TValue))
+  nameWithType: DictionaryFormatter<TKey, TValue>.TakeSnapshot(ref FSnapshotWriter, Dictionary<TKey, TValue>)
+  nameWithType.vb: DictionaryFormatter(Of TKey, TValue).TakeSnapshot(ByRef FSnapshotWriter, ByRef Dictionary(Of TKey, TValue))
+- uid: Saro.FSnapshot.DictionaryFormatter`2.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.DictionaryFormatter-2.html#Saro_FSnapshot_DictionaryFormatter_2_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.DictionaryFormatter`2.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.DictionaryFormatter<TKey, TValue>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.DictionaryFormatter(Of TKey, TValue).TakeSnapshot
+  nameWithType: DictionaryFormatter<TKey, TValue>.TakeSnapshot
+  nameWithType.vb: DictionaryFormatter(Of TKey, TValue).TakeSnapshot
+- uid: Saro.FSnapshot.FSnapshotableAttribute
+  name: FSnapshotableAttribute
+  href: api/Saro.FSnapshot.FSnapshotableAttribute.html
+  commentId: T:Saro.FSnapshot.FSnapshotableAttribute
+  fullName: Saro.FSnapshot.FSnapshotableAttribute
+  nameWithType: FSnapshotableAttribute
+- uid: Saro.FSnapshot.FSnapshotAttribute
+  name: FSnapshotAttribute
+  href: api/Saro.FSnapshot.FSnapshotAttribute.html
+  commentId: T:Saro.FSnapshot.FSnapshotAttribute
+  fullName: Saro.FSnapshot.FSnapshotAttribute
+  nameWithType: FSnapshotAttribute
+- uid: Saro.FSnapshot.FSnapshotFormatter`1
+  name: FSnapshotFormatter<T>
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html
+  commentId: T:Saro.FSnapshot.FSnapshotFormatter`1
+  name.vb: FSnapshotFormatter(Of T)
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T)
+  nameWithType: FSnapshotFormatter<T>
+  nameWithType.vb: FSnapshotFormatter(Of T)
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.Dump(Saro.FSnapshot.FTextWriter@,`0@)
+  name: Dump(ref FTextWriter, T)
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_Dump_Saro_FSnapshot_FTextWriter___0__
+  commentId: M:Saro.FSnapshot.FSnapshotFormatter`1.Dump(Saro.FSnapshot.FTextWriter@,`0@)
+  name.vb: Dump(ByRef FTextWriter, ByRef T)
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.Dump(ref Saro.FSnapshot.FTextWriter, T)
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).Dump(ByRef Saro.FSnapshot.FTextWriter, ByRef T)
+  nameWithType: FSnapshotFormatter<T>.Dump(ref FTextWriter, T)
+  nameWithType.vb: FSnapshotFormatter(Of T).Dump(ByRef FTextWriter, ByRef T)
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.Dump*
+  name: Dump
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_Dump_
+  commentId: Overload:Saro.FSnapshot.FSnapshotFormatter`1.Dump
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.Dump
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).Dump
+  nameWithType: FSnapshotFormatter<T>.Dump
+  nameWithType.vb: FSnapshotFormatter(Of T).Dump
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,`0@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref T)
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader___0__
+  commentId: M:Saro.FSnapshot.FSnapshotFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,`0@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef T)
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref T)
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef T)
+  nameWithType: FSnapshotFormatter<T>.RestoreSnapshot(ref FSnapshotReader, ref T)
+  nameWithType.vb: FSnapshotFormatter(Of T).RestoreSnapshot(ByRef FSnapshotReader, ByRef T)
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.FSnapshotFormatter`1.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).RestoreSnapshot
+  nameWithType: FSnapshotFormatter<T>.RestoreSnapshot
+  nameWithType.vb: FSnapshotFormatter(Of T).RestoreSnapshot
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#Dump(Saro.FSnapshot.FTextWriter@,System.Object@)
+  name: IFSnapshotFormatter.Dump(ref FTextWriter, Object)
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_Saro_FSnapshot_IFSnapshotFormatter_Dump_Saro_FSnapshot_FTextWriter__System_Object__
+  commentId: M:Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#Dump(Saro.FSnapshot.FTextWriter@,System.Object@)
+  name.vb: Saro.FSnapshot.IFSnapshotFormatter.Dump(ByRef FTextWriter, ByRef Object)
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.Saro.FSnapshot.IFSnapshotFormatter.Dump(ref Saro.FSnapshot.FTextWriter, System.Object)
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.Dump(ByRef Saro.FSnapshot.FTextWriter, ByRef System.Object)
+  nameWithType: FSnapshotFormatter<T>.IFSnapshotFormatter.Dump(ref FTextWriter, Object)
+  nameWithType.vb: FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.Dump(ByRef FTextWriter, ByRef Object)
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#Dump*
+  name: IFSnapshotFormatter.Dump
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_Saro_FSnapshot_IFSnapshotFormatter_Dump_
+  commentId: Overload:Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#Dump
+  isSpec: "True"
+  name.vb: Saro.FSnapshot.IFSnapshotFormatter.Dump
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.Saro.FSnapshot.IFSnapshotFormatter.Dump
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.Dump
+  nameWithType: FSnapshotFormatter<T>.IFSnapshotFormatter.Dump
+  nameWithType.vb: FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.Dump
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,System.Object@)
+  name: IFSnapshotFormatter.RestoreSnapshot(ref FSnapshotReader, ref Object)
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_Saro_FSnapshot_IFSnapshotFormatter_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__System_Object__
+  commentId: M:Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,System.Object@)
+  name.vb: Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot(ByRef FSnapshotReader, ByRef Object)
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref System.Object)
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef System.Object)
+  nameWithType: FSnapshotFormatter<T>.IFSnapshotFormatter.RestoreSnapshot(ref FSnapshotReader, ref Object)
+  nameWithType.vb: FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot(ByRef FSnapshotReader, ByRef Object)
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#RestoreSnapshot*
+  name: IFSnapshotFormatter.RestoreSnapshot
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_Saro_FSnapshot_IFSnapshotFormatter_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#RestoreSnapshot
+  isSpec: "True"
+  name.vb: Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot
+  nameWithType: FSnapshotFormatter<T>.IFSnapshotFormatter.RestoreSnapshot
+  nameWithType.vb: FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,System.Object@)
+  name: IFSnapshotFormatter.TakeSnapshot(ref FSnapshotWriter, Object)
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_Saro_FSnapshot_IFSnapshotFormatter_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__System_Object__
+  commentId: M:Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,System.Object@)
+  name.vb: Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot(ByRef FSnapshotWriter, ByRef Object)
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, System.Object)
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef System.Object)
+  nameWithType: FSnapshotFormatter<T>.IFSnapshotFormatter.TakeSnapshot(ref FSnapshotWriter, Object)
+  nameWithType.vb: FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot(ByRef FSnapshotWriter, ByRef Object)
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#TakeSnapshot*
+  name: IFSnapshotFormatter.TakeSnapshot
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_Saro_FSnapshot_IFSnapshotFormatter_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.FSnapshotFormatter`1.Saro#FSnapshot#IFSnapshotFormatter#TakeSnapshot
+  isSpec: "True"
+  name.vb: Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot
+  nameWithType: FSnapshotFormatter<T>.IFSnapshotFormatter.TakeSnapshot
+  nameWithType.vb: FSnapshotFormatter(Of T).Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,`0@)
+  name: TakeSnapshot(ref FSnapshotWriter, T)
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter___0__
+  commentId: M:Saro.FSnapshot.FSnapshotFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,`0@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef T)
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, T)
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef T)
+  nameWithType: FSnapshotFormatter<T>.TakeSnapshot(ref FSnapshotWriter, T)
+  nameWithType.vb: FSnapshotFormatter(Of T).TakeSnapshot(ByRef FSnapshotWriter, ByRef T)
+- uid: Saro.FSnapshot.FSnapshotFormatter`1.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.FSnapshotFormatter-1.html#Saro_FSnapshot_FSnapshotFormatter_1_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.FSnapshotFormatter`1.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotFormatter<T>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatter(Of T).TakeSnapshot
+  nameWithType: FSnapshotFormatter<T>.TakeSnapshot
+  nameWithType.vb: FSnapshotFormatter(Of T).TakeSnapshot
+- uid: Saro.FSnapshot.FSnapshotFormatterProvider
+  name: FSnapshotFormatterProvider
+  href: api/Saro.FSnapshot.FSnapshotFormatterProvider.html
+  commentId: T:Saro.FSnapshot.FSnapshotFormatterProvider
+  fullName: Saro.FSnapshot.FSnapshotFormatterProvider
+  nameWithType: FSnapshotFormatterProvider
+- uid: Saro.FSnapshot.FSnapshotFormatterProvider.GetFormatter*
+  name: GetFormatter
+  href: api/Saro.FSnapshot.FSnapshotFormatterProvider.html#Saro_FSnapshot_FSnapshotFormatterProvider_GetFormatter_
+  commentId: Overload:Saro.FSnapshot.FSnapshotFormatterProvider.GetFormatter
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotFormatterProvider.GetFormatter
+  nameWithType: FSnapshotFormatterProvider.GetFormatter
+- uid: Saro.FSnapshot.FSnapshotFormatterProvider.GetFormatter``1
+  name: GetFormatter<T>()
+  href: api/Saro.FSnapshot.FSnapshotFormatterProvider.html#Saro_FSnapshot_FSnapshotFormatterProvider_GetFormatter__1
+  commentId: M:Saro.FSnapshot.FSnapshotFormatterProvider.GetFormatter``1
+  name.vb: GetFormatter(Of T)()
+  fullName: Saro.FSnapshot.FSnapshotFormatterProvider.GetFormatter<T>()
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatterProvider.GetFormatter(Of T)()
+  nameWithType: FSnapshotFormatterProvider.GetFormatter<T>()
+  nameWithType.vb: FSnapshotFormatterProvider.GetFormatter(Of T)()
+- uid: Saro.FSnapshot.FSnapshotFormatterProvider.IsRegistered*
+  name: IsRegistered
+  href: api/Saro.FSnapshot.FSnapshotFormatterProvider.html#Saro_FSnapshot_FSnapshotFormatterProvider_IsRegistered_
+  commentId: Overload:Saro.FSnapshot.FSnapshotFormatterProvider.IsRegistered
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotFormatterProvider.IsRegistered
+  nameWithType: FSnapshotFormatterProvider.IsRegistered
+- uid: Saro.FSnapshot.FSnapshotFormatterProvider.IsRegistered``1
+  name: IsRegistered<T>()
+  href: api/Saro.FSnapshot.FSnapshotFormatterProvider.html#Saro_FSnapshot_FSnapshotFormatterProvider_IsRegistered__1
+  commentId: M:Saro.FSnapshot.FSnapshotFormatterProvider.IsRegistered``1
+  name.vb: IsRegistered(Of T)()
+  fullName: Saro.FSnapshot.FSnapshotFormatterProvider.IsRegistered<T>()
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatterProvider.IsRegistered(Of T)()
+  nameWithType: FSnapshotFormatterProvider.IsRegistered<T>()
+  nameWithType.vb: FSnapshotFormatterProvider.IsRegistered(Of T)()
+- uid: Saro.FSnapshot.FSnapshotFormatterProvider.Register*
+  name: Register
+  href: api/Saro.FSnapshot.FSnapshotFormatterProvider.html#Saro_FSnapshot_FSnapshotFormatterProvider_Register_
+  commentId: Overload:Saro.FSnapshot.FSnapshotFormatterProvider.Register
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotFormatterProvider.Register
+  nameWithType: FSnapshotFormatterProvider.Register
+- uid: Saro.FSnapshot.FSnapshotFormatterProvider.Register``1(Saro.FSnapshot.IFSnapshotFormatter{``0})
+  name: Register<T>(IFSnapshotFormatter<T>)
+  href: api/Saro.FSnapshot.FSnapshotFormatterProvider.html#Saro_FSnapshot_FSnapshotFormatterProvider_Register__1_Saro_FSnapshot_IFSnapshotFormatter___0__
+  commentId: M:Saro.FSnapshot.FSnapshotFormatterProvider.Register``1(Saro.FSnapshot.IFSnapshotFormatter{``0})
+  name.vb: Register(Of T)(IFSnapshotFormatter(Of T))
+  fullName: Saro.FSnapshot.FSnapshotFormatterProvider.Register<T>(Saro.FSnapshot.IFSnapshotFormatter<T>)
+  fullName.vb: Saro.FSnapshot.FSnapshotFormatterProvider.Register(Of T)(Saro.FSnapshot.IFSnapshotFormatter(Of T))
+  nameWithType: FSnapshotFormatterProvider.Register<T>(IFSnapshotFormatter<T>)
+  nameWithType.vb: FSnapshotFormatterProvider.Register(Of T)(IFSnapshotFormatter(Of T))
+- uid: Saro.FSnapshot.FSnapshotOnDeserializedAttribute
+  name: FSnapshotOnDeserializedAttribute
+  href: api/Saro.FSnapshot.FSnapshotOnDeserializedAttribute.html
+  commentId: T:Saro.FSnapshot.FSnapshotOnDeserializedAttribute
+  fullName: Saro.FSnapshot.FSnapshotOnDeserializedAttribute
+  nameWithType: FSnapshotOnDeserializedAttribute
+- uid: Saro.FSnapshot.FSnapshotOnDeserializingAttribute
+  name: FSnapshotOnDeserializingAttribute
+  href: api/Saro.FSnapshot.FSnapshotOnDeserializingAttribute.html
+  commentId: T:Saro.FSnapshot.FSnapshotOnDeserializingAttribute
+  fullName: Saro.FSnapshot.FSnapshotOnDeserializingAttribute
+  nameWithType: FSnapshotOnDeserializingAttribute
+- uid: Saro.FSnapshot.FSnapshotOnSerializedAttribute
+  name: FSnapshotOnSerializedAttribute
+  href: api/Saro.FSnapshot.FSnapshotOnSerializedAttribute.html
+  commentId: T:Saro.FSnapshot.FSnapshotOnSerializedAttribute
+  fullName: Saro.FSnapshot.FSnapshotOnSerializedAttribute
+  nameWithType: FSnapshotOnSerializedAttribute
+- uid: Saro.FSnapshot.FSnapshotOnSerializingAttribute
+  name: FSnapshotOnSerializingAttribute
+  href: api/Saro.FSnapshot.FSnapshotOnSerializingAttribute.html
+  commentId: T:Saro.FSnapshot.FSnapshotOnSerializingAttribute
+  fullName: Saro.FSnapshot.FSnapshotOnSerializingAttribute
+  nameWithType: FSnapshotOnSerializingAttribute
+- uid: Saro.FSnapshot.FSnapshotReader
+  name: FSnapshotReader
+  href: api/Saro.FSnapshot.FSnapshotReader.html
+  commentId: T:Saro.FSnapshot.FSnapshotReader
+  fullName: Saro.FSnapshot.FSnapshotReader
+  nameWithType: FSnapshotReader
+- uid: Saro.FSnapshot.FSnapshotReader.#ctor(ReadOnlySpan{System.Byte})
+  name: FSnapshotReader(ReadOnlySpan<Byte>)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader__ctor_ReadOnlySpan_System_Byte__
+  commentId: M:Saro.FSnapshot.FSnapshotReader.#ctor(ReadOnlySpan{System.Byte})
+  name.vb: FSnapshotReader(ReadOnlySpan(Of Byte))
+  fullName: Saro.FSnapshot.FSnapshotReader.FSnapshotReader(ReadOnlySpan<System.Byte>)
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.FSnapshotReader(ReadOnlySpan(Of System.Byte))
+  nameWithType: FSnapshotReader.FSnapshotReader(ReadOnlySpan<Byte>)
+  nameWithType.vb: FSnapshotReader.FSnapshotReader(ReadOnlySpan(Of Byte))
+- uid: Saro.FSnapshot.FSnapshotReader.#ctor(ReadOnlySpan{System.Byte},Saro.FSnapshot.FSnapshotState)
+  name: FSnapshotReader(ReadOnlySpan<Byte>, FSnapshotState)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader__ctor_ReadOnlySpan_System_Byte__Saro_FSnapshot_FSnapshotState_
+  commentId: M:Saro.FSnapshot.FSnapshotReader.#ctor(ReadOnlySpan{System.Byte},Saro.FSnapshot.FSnapshotState)
+  name.vb: FSnapshotReader(ReadOnlySpan(Of Byte), FSnapshotState)
+  fullName: Saro.FSnapshot.FSnapshotReader.FSnapshotReader(ReadOnlySpan<System.Byte>, Saro.FSnapshot.FSnapshotState)
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.FSnapshotReader(ReadOnlySpan(Of System.Byte), Saro.FSnapshot.FSnapshotState)
+  nameWithType: FSnapshotReader.FSnapshotReader(ReadOnlySpan<Byte>, FSnapshotState)
+  nameWithType.vb: FSnapshotReader.FSnapshotReader(ReadOnlySpan(Of Byte), FSnapshotState)
+- uid: Saro.FSnapshot.FSnapshotReader.#ctor*
+  name: FSnapshotReader
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader__ctor_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.FSnapshotReader
+  nameWithType: FSnapshotReader.FSnapshotReader
+- uid: Saro.FSnapshot.FSnapshotReader.AddObjectReference(System.Object)
+  name: AddObjectReference(Object)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_AddObjectReference_System_Object_
+  commentId: M:Saro.FSnapshot.FSnapshotReader.AddObjectReference(System.Object)
+  fullName: Saro.FSnapshot.FSnapshotReader.AddObjectReference(System.Object)
+  nameWithType: FSnapshotReader.AddObjectReference(Object)
+- uid: Saro.FSnapshot.FSnapshotReader.AddObjectReference*
+  name: AddObjectReference
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_AddObjectReference_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.AddObjectReference
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.AddObjectReference
+  nameWithType: FSnapshotReader.AddObjectReference
+- uid: Saro.FSnapshot.FSnapshotReader.Advance(System.Int32)
+  name: Advance(Int32)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_Advance_System_Int32_
+  commentId: M:Saro.FSnapshot.FSnapshotReader.Advance(System.Int32)
+  fullName: Saro.FSnapshot.FSnapshotReader.Advance(System.Int32)
+  nameWithType: FSnapshotReader.Advance(Int32)
+- uid: Saro.FSnapshot.FSnapshotReader.Advance*
+  name: Advance
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_Advance_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.Advance
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.Advance
+  nameWithType: FSnapshotReader.Advance
+- uid: Saro.FSnapshot.FSnapshotReader.DangerousReadUnmanaged*
+  name: DangerousReadUnmanaged
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_DangerousReadUnmanaged_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.DangerousReadUnmanaged
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.DangerousReadUnmanaged
+  nameWithType: FSnapshotReader.DangerousReadUnmanaged
+- uid: Saro.FSnapshot.FSnapshotReader.DangerousReadUnmanaged``1(``0@)
+  name: DangerousReadUnmanaged<T>(ref T)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_DangerousReadUnmanaged__1___0__
+  commentId: M:Saro.FSnapshot.FSnapshotReader.DangerousReadUnmanaged``1(``0@)
+  name.vb: DangerousReadUnmanaged(Of T)(ByRef T)
+  fullName: Saro.FSnapshot.FSnapshotReader.DangerousReadUnmanaged<T>(ref T)
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.DangerousReadUnmanaged(Of T)(ByRef T)
+  nameWithType: FSnapshotReader.DangerousReadUnmanaged<T>(ref T)
+  nameWithType.vb: FSnapshotReader.DangerousReadUnmanaged(Of T)(ByRef T)
+- uid: Saro.FSnapshot.FSnapshotReader.Dispose
+  name: Dispose()
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_Dispose
+  commentId: M:Saro.FSnapshot.FSnapshotReader.Dispose
+  fullName: Saro.FSnapshot.FSnapshotReader.Dispose()
+  nameWithType: FSnapshotReader.Dispose()
+- uid: Saro.FSnapshot.FSnapshotReader.Dispose*
+  name: Dispose
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_Dispose_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.Dispose
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.Dispose
+  nameWithType: FSnapshotReader.Dispose
+- uid: Saro.FSnapshot.FSnapshotReader.GetFormatter*
+  name: GetFormatter
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_GetFormatter_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.GetFormatter
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.GetFormatter
+  nameWithType: FSnapshotReader.GetFormatter
+- uid: Saro.FSnapshot.FSnapshotReader.GetFormatter``1
+  name: GetFormatter<T>()
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_GetFormatter__1
+  commentId: M:Saro.FSnapshot.FSnapshotReader.GetFormatter``1
+  name.vb: GetFormatter(Of T)()
+  fullName: Saro.FSnapshot.FSnapshotReader.GetFormatter<T>()
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.GetFormatter(Of T)()
+  nameWithType: FSnapshotReader.GetFormatter<T>()
+  nameWithType.vb: FSnapshotReader.GetFormatter(Of T)()
+- uid: Saro.FSnapshot.FSnapshotReader.GetObjectReference*
+  name: GetObjectReference
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_GetObjectReference_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.GetObjectReference
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.GetObjectReference
+  nameWithType: FSnapshotReader.GetObjectReference
+- uid: Saro.FSnapshot.FSnapshotReader.GetObjectReference``1(System.Int32)
+  name: GetObjectReference<T>(Int32)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_GetObjectReference__1_System_Int32_
+  commentId: M:Saro.FSnapshot.FSnapshotReader.GetObjectReference``1(System.Int32)
+  name.vb: GetObjectReference(Of T)(Int32)
+  fullName: Saro.FSnapshot.FSnapshotReader.GetObjectReference<T>(System.Int32)
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.GetObjectReference(Of T)(System.Int32)
+  nameWithType: FSnapshotReader.GetObjectReference<T>(Int32)
+  nameWithType.vb: FSnapshotReader.GetObjectReference(Of T)(Int32)
+- uid: Saro.FSnapshot.FSnapshotReader.ReadCount
+  name: ReadCount
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadCount
+  commentId: P:Saro.FSnapshot.FSnapshotReader.ReadCount
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadCount
+  nameWithType: FSnapshotReader.ReadCount
+- uid: Saro.FSnapshot.FSnapshotReader.ReadCount*
+  name: ReadCount
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadCount_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadCount
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadCount
+  nameWithType: FSnapshotReader.ReadCount
+- uid: Saro.FSnapshot.FSnapshotReader.ReadObject*
+  name: ReadObject
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadObject_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadObject
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadObject
+  nameWithType: FSnapshotReader.ReadObject
+- uid: Saro.FSnapshot.FSnapshotReader.ReadObject``1(``0@)
+  name: ReadObject<T>(ref T)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadObject__1___0__
+  commentId: M:Saro.FSnapshot.FSnapshotReader.ReadObject``1(``0@)
+  name.vb: ReadObject(Of T)(ByRef T)
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadObject<T>(ref T)
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.ReadObject(Of T)(ByRef T)
+  nameWithType: FSnapshotReader.ReadObject<T>(ref T)
+  nameWithType.vb: FSnapshotReader.ReadObject(Of T)(ByRef T)
+- uid: Saro.FSnapshot.FSnapshotReader.ReadObjectArray*
+  name: ReadObjectArray
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadObjectArray_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadObjectArray
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadObjectArray
+  nameWithType: FSnapshotReader.ReadObjectArray
+- uid: Saro.FSnapshot.FSnapshotReader.ReadObjectArray``1(``0[]@)
+  name: ReadObjectArray<T>(ref T[])
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadObjectArray__1___0____
+  commentId: M:Saro.FSnapshot.FSnapshotReader.ReadObjectArray``1(``0[]@)
+  name.vb: ReadObjectArray(Of T)(ByRef T())
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadObjectArray<T>(ref T[])
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.ReadObjectArray(Of T)(ByRef T())
+  nameWithType: FSnapshotReader.ReadObjectArray<T>(ref T[])
+  nameWithType.vb: FSnapshotReader.ReadObjectArray(Of T)(ByRef T())
+- uid: Saro.FSnapshot.FSnapshotReader.ReadObjectHeader
+  name: ReadObjectHeader()
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadObjectHeader
+  commentId: M:Saro.FSnapshot.FSnapshotReader.ReadObjectHeader
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadObjectHeader()
+  nameWithType: FSnapshotReader.ReadObjectHeader()
+- uid: Saro.FSnapshot.FSnapshotReader.ReadObjectHeader*
+  name: ReadObjectHeader
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadObjectHeader_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadObjectHeader
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadObjectHeader
+  nameWithType: FSnapshotReader.ReadObjectHeader
+- uid: Saro.FSnapshot.FSnapshotReader.ReadObjectList*
+  name: ReadObjectList
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadObjectList_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadObjectList
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadObjectList
+  nameWithType: FSnapshotReader.ReadObjectList
+- uid: Saro.FSnapshot.FSnapshotReader.ReadObjectList``1(System.Collections.Generic.List{``0}@)
+  name: ReadObjectList<T>(ref List<T>)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadObjectList__1_System_Collections_Generic_List___0___
+  commentId: M:Saro.FSnapshot.FSnapshotReader.ReadObjectList``1(System.Collections.Generic.List{``0}@)
+  name.vb: ReadObjectList(Of T)(ByRef List(Of T))
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadObjectList<T>(ref System.Collections.Generic.List<T>)
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.ReadObjectList(Of T)(ByRef System.Collections.Generic.List(Of T))
+  nameWithType: FSnapshotReader.ReadObjectList<T>(ref List<T>)
+  nameWithType.vb: FSnapshotReader.ReadObjectList(Of T)(ByRef List(Of T))
+- uid: Saro.FSnapshot.FSnapshotReader.ReadObjectReferenceId
+  name: ReadObjectReferenceId()
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadObjectReferenceId
+  commentId: M:Saro.FSnapshot.FSnapshotReader.ReadObjectReferenceId
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadObjectReferenceId()
+  nameWithType: FSnapshotReader.ReadObjectReferenceId()
+- uid: Saro.FSnapshot.FSnapshotReader.ReadObjectReferenceId*
+  name: ReadObjectReferenceId
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadObjectReferenceId_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadObjectReferenceId
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadObjectReferenceId
+  nameWithType: FSnapshotReader.ReadObjectReferenceId
+- uid: Saro.FSnapshot.FSnapshotReader.ReadSpan
+  name: ReadSpan
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadSpan
+  commentId: P:Saro.FSnapshot.FSnapshotReader.ReadSpan
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadSpan
+  nameWithType: FSnapshotReader.ReadSpan
+- uid: Saro.FSnapshot.FSnapshotReader.ReadSpan*
+  name: ReadSpan
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadSpan_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadSpan
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadSpan
+  nameWithType: FSnapshotReader.ReadSpan
+- uid: Saro.FSnapshot.FSnapshotReader.ReadString
+  name: ReadString()
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadString
+  commentId: M:Saro.FSnapshot.FSnapshotReader.ReadString
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadString()
+  nameWithType: FSnapshotReader.ReadString()
+- uid: Saro.FSnapshot.FSnapshotReader.ReadString*
+  name: ReadString
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadString_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadString
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadString
+  nameWithType: FSnapshotReader.ReadString
+- uid: Saro.FSnapshot.FSnapshotReader.ReadUnmanaged*
+  name: ReadUnmanaged
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadUnmanaged_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadUnmanaged
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadUnmanaged
+  nameWithType: FSnapshotReader.ReadUnmanaged
+- uid: Saro.FSnapshot.FSnapshotReader.ReadUnmanaged``1(``0@)
+  name: ReadUnmanaged<T>(ref T)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadUnmanaged__1___0__
+  commentId: M:Saro.FSnapshot.FSnapshotReader.ReadUnmanaged``1(``0@)
+  name.vb: ReadUnmanaged(Of T)(ByRef T)
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadUnmanaged<T>(ref T)
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.ReadUnmanaged(Of T)(ByRef T)
+  nameWithType: FSnapshotReader.ReadUnmanaged<T>(ref T)
+  nameWithType.vb: FSnapshotReader.ReadUnmanaged(Of T)(ByRef T)
+- uid: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedArray*
+  name: ReadUnmanagedArray
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadUnmanagedArray_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadUnmanagedArray
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedArray
+  nameWithType: FSnapshotReader.ReadUnmanagedArray
+- uid: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedArray``1(``0[]@)
+  name: ReadUnmanagedArray<T>(ref T[])
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadUnmanagedArray__1___0____
+  commentId: M:Saro.FSnapshot.FSnapshotReader.ReadUnmanagedArray``1(``0[]@)
+  name.vb: ReadUnmanagedArray(Of T)(ByRef T())
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedArray<T>(ref T[])
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedArray(Of T)(ByRef T())
+  nameWithType: FSnapshotReader.ReadUnmanagedArray<T>(ref T[])
+  nameWithType.vb: FSnapshotReader.ReadUnmanagedArray(Of T)(ByRef T())
+- uid: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedList*
+  name: ReadUnmanagedList
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadUnmanagedList_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadUnmanagedList
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedList
+  nameWithType: FSnapshotReader.ReadUnmanagedList
+- uid: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedList``1(System.Collections.Generic.List{``0}@)
+  name: ReadUnmanagedList<T>(ref List<T>)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadUnmanagedList__1_System_Collections_Generic_List___0___
+  commentId: M:Saro.FSnapshot.FSnapshotReader.ReadUnmanagedList``1(System.Collections.Generic.List{``0}@)
+  name.vb: ReadUnmanagedList(Of T)(ByRef List(Of T))
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedList<T>(ref System.Collections.Generic.List<T>)
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedList(Of T)(ByRef System.Collections.Generic.List(Of T))
+  nameWithType: FSnapshotReader.ReadUnmanagedList<T>(ref List<T>)
+  nameWithType.vb: FSnapshotReader.ReadUnmanagedList(Of T)(ByRef List(Of T))
+- uid: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedSpan*
+  name: ReadUnmanagedSpan
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadUnmanagedSpan_
+  commentId: Overload:Saro.FSnapshot.FSnapshotReader.ReadUnmanagedSpan
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedSpan
+  nameWithType: FSnapshotReader.ReadUnmanagedSpan
+- uid: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedSpan``1(Span{``0}@)
+  name: ReadUnmanagedSpan<T>(ref Span<T>)
+  href: api/Saro.FSnapshot.FSnapshotReader.html#Saro_FSnapshot_FSnapshotReader_ReadUnmanagedSpan__1_Span___0___
+  commentId: M:Saro.FSnapshot.FSnapshotReader.ReadUnmanagedSpan``1(Span{``0}@)
+  name.vb: ReadUnmanagedSpan(Of T)(ByRef Span(Of T))
+  fullName: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedSpan<T>(ref Span<T>)
+  fullName.vb: Saro.FSnapshot.FSnapshotReader.ReadUnmanagedSpan(Of T)(ByRef Span(Of T))
+  nameWithType: FSnapshotReader.ReadUnmanagedSpan<T>(ref Span<T>)
+  nameWithType.vb: FSnapshotReader.ReadUnmanagedSpan(Of T)(ByRef Span(Of T))
+- uid: Saro.FSnapshot.FSnapshotState
+  name: FSnapshotState
+  href: api/Saro.FSnapshot.FSnapshotState.html
+  commentId: T:Saro.FSnapshot.FSnapshotState
+  fullName: Saro.FSnapshot.FSnapshotState
+  nameWithType: FSnapshotState
+- uid: Saro.FSnapshot.FSnapshotState.#ctor
+  name: FSnapshotState()
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState__ctor
+  commentId: M:Saro.FSnapshot.FSnapshotState.#ctor
+  fullName: Saro.FSnapshot.FSnapshotState.FSnapshotState()
+  nameWithType: FSnapshotState.FSnapshotState()
+- uid: Saro.FSnapshot.FSnapshotState.#ctor(System.Int32)
+  name: FSnapshotState(Int32)
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState__ctor_System_Int32_
+  commentId: M:Saro.FSnapshot.FSnapshotState.#ctor(System.Int32)
+  fullName: Saro.FSnapshot.FSnapshotState.FSnapshotState(System.Int32)
+  nameWithType: FSnapshotState.FSnapshotState(Int32)
+- uid: Saro.FSnapshot.FSnapshotState.#ctor*
+  name: FSnapshotState
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState__ctor_
+  commentId: Overload:Saro.FSnapshot.FSnapshotState.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotState.FSnapshotState
+  nameWithType: FSnapshotState.FSnapshotState
+- uid: Saro.FSnapshot.FSnapshotState.AddObjectReference(System.Object)
+  name: AddObjectReference(Object)
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_AddObjectReference_System_Object_
+  commentId: M:Saro.FSnapshot.FSnapshotState.AddObjectReference(System.Object)
+  fullName: Saro.FSnapshot.FSnapshotState.AddObjectReference(System.Object)
+  nameWithType: FSnapshotState.AddObjectReference(Object)
+- uid: Saro.FSnapshot.FSnapshotState.AddObjectReference*
+  name: AddObjectReference
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_AddObjectReference_
+  commentId: Overload:Saro.FSnapshot.FSnapshotState.AddObjectReference
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotState.AddObjectReference
+  nameWithType: FSnapshotState.AddObjectReference
+- uid: Saro.FSnapshot.FSnapshotState.Clear
+  name: Clear()
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_Clear
+  commentId: M:Saro.FSnapshot.FSnapshotState.Clear
+  fullName: Saro.FSnapshot.FSnapshotState.Clear()
+  nameWithType: FSnapshotState.Clear()
+- uid: Saro.FSnapshot.FSnapshotState.Clear*
+  name: Clear
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_Clear_
+  commentId: Overload:Saro.FSnapshot.FSnapshotState.Clear
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotState.Clear
+  nameWithType: FSnapshotState.Clear
+- uid: Saro.FSnapshot.FSnapshotState.Dispose
+  name: Dispose()
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_Dispose
+  commentId: M:Saro.FSnapshot.FSnapshotState.Dispose
+  fullName: Saro.FSnapshot.FSnapshotState.Dispose()
+  nameWithType: FSnapshotState.Dispose()
+- uid: Saro.FSnapshot.FSnapshotState.Dispose*
+  name: Dispose
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_Dispose_
+  commentId: Overload:Saro.FSnapshot.FSnapshotState.Dispose
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotState.Dispose
+  nameWithType: FSnapshotState.Dispose
+- uid: Saro.FSnapshot.FSnapshotState.GetObjectReference*
+  name: GetObjectReference
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_GetObjectReference_
+  commentId: Overload:Saro.FSnapshot.FSnapshotState.GetObjectReference
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotState.GetObjectReference
+  nameWithType: FSnapshotState.GetObjectReference
+- uid: Saro.FSnapshot.FSnapshotState.GetObjectReference``1(System.Int32)
+  name: GetObjectReference<T>(Int32)
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_GetObjectReference__1_System_Int32_
+  commentId: M:Saro.FSnapshot.FSnapshotState.GetObjectReference``1(System.Int32)
+  name.vb: GetObjectReference(Of T)(Int32)
+  fullName: Saro.FSnapshot.FSnapshotState.GetObjectReference<T>(System.Int32)
+  fullName.vb: Saro.FSnapshot.FSnapshotState.GetObjectReference(Of T)(System.Int32)
+  nameWithType: FSnapshotState.GetObjectReference<T>(Int32)
+  nameWithType.vb: FSnapshotState.GetObjectReference(Of T)(Int32)
+- uid: Saro.FSnapshot.FSnapshotState.NextRefId
+  name: NextRefId
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_NextRefId
+  commentId: P:Saro.FSnapshot.FSnapshotState.NextRefId
+  fullName: Saro.FSnapshot.FSnapshotState.NextRefId
+  nameWithType: FSnapshotState.NextRefId
+- uid: Saro.FSnapshot.FSnapshotState.NextRefId*
+  name: NextRefId
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_NextRefId_
+  commentId: Overload:Saro.FSnapshot.FSnapshotState.NextRefId
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotState.NextRefId
+  nameWithType: FSnapshotState.NextRefId
+- uid: Saro.FSnapshot.FSnapshotState.ReferenceIndexOf(System.Object)
+  name: ReferenceIndexOf(Object)
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_ReferenceIndexOf_System_Object_
+  commentId: M:Saro.FSnapshot.FSnapshotState.ReferenceIndexOf(System.Object)
+  fullName: Saro.FSnapshot.FSnapshotState.ReferenceIndexOf(System.Object)
+  nameWithType: FSnapshotState.ReferenceIndexOf(Object)
+- uid: Saro.FSnapshot.FSnapshotState.ReferenceIndexOf*
+  name: ReferenceIndexOf
+  href: api/Saro.FSnapshot.FSnapshotState.html#Saro_FSnapshot_FSnapshotState_ReferenceIndexOf_
+  commentId: Overload:Saro.FSnapshot.FSnapshotState.ReferenceIndexOf
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotState.ReferenceIndexOf
+  nameWithType: FSnapshotState.ReferenceIndexOf
+- uid: Saro.FSnapshot.FSnapshotUnionAttribute
+  name: FSnapshotUnionAttribute
+  href: api/Saro.FSnapshot.FSnapshotUnionAttribute.html
+  commentId: T:Saro.FSnapshot.FSnapshotUnionAttribute
+  fullName: Saro.FSnapshot.FSnapshotUnionAttribute
+  nameWithType: FSnapshotUnionAttribute
+- uid: Saro.FSnapshot.FSnapshotUnionAttribute.#ctor(System.UInt16,System.Type)
+  name: FSnapshotUnionAttribute(UInt16, Type)
+  href: api/Saro.FSnapshot.FSnapshotUnionAttribute.html#Saro_FSnapshot_FSnapshotUnionAttribute__ctor_System_UInt16_System_Type_
+  commentId: M:Saro.FSnapshot.FSnapshotUnionAttribute.#ctor(System.UInt16,System.Type)
+  fullName: Saro.FSnapshot.FSnapshotUnionAttribute.FSnapshotUnionAttribute(System.UInt16, System.Type)
+  nameWithType: FSnapshotUnionAttribute.FSnapshotUnionAttribute(UInt16, Type)
+- uid: Saro.FSnapshot.FSnapshotUnionAttribute.#ctor*
+  name: FSnapshotUnionAttribute
+  href: api/Saro.FSnapshot.FSnapshotUnionAttribute.html#Saro_FSnapshot_FSnapshotUnionAttribute__ctor_
+  commentId: Overload:Saro.FSnapshot.FSnapshotUnionAttribute.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotUnionAttribute.FSnapshotUnionAttribute
+  nameWithType: FSnapshotUnionAttribute.FSnapshotUnionAttribute
+- uid: Saro.FSnapshot.FSnapshotUnionAttribute.Tag
+  name: Tag
+  href: api/Saro.FSnapshot.FSnapshotUnionAttribute.html#Saro_FSnapshot_FSnapshotUnionAttribute_Tag
+  commentId: P:Saro.FSnapshot.FSnapshotUnionAttribute.Tag
+  fullName: Saro.FSnapshot.FSnapshotUnionAttribute.Tag
+  nameWithType: FSnapshotUnionAttribute.Tag
+- uid: Saro.FSnapshot.FSnapshotUnionAttribute.Tag*
+  name: Tag
+  href: api/Saro.FSnapshot.FSnapshotUnionAttribute.html#Saro_FSnapshot_FSnapshotUnionAttribute_Tag_
+  commentId: Overload:Saro.FSnapshot.FSnapshotUnionAttribute.Tag
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotUnionAttribute.Tag
+  nameWithType: FSnapshotUnionAttribute.Tag
+- uid: Saro.FSnapshot.FSnapshotUnionAttribute.Type
+  name: Type
+  href: api/Saro.FSnapshot.FSnapshotUnionAttribute.html#Saro_FSnapshot_FSnapshotUnionAttribute_Type
+  commentId: P:Saro.FSnapshot.FSnapshotUnionAttribute.Type
+  fullName: Saro.FSnapshot.FSnapshotUnionAttribute.Type
+  nameWithType: FSnapshotUnionAttribute.Type
+- uid: Saro.FSnapshot.FSnapshotUnionAttribute.Type*
+  name: Type
+  href: api/Saro.FSnapshot.FSnapshotUnionAttribute.html#Saro_FSnapshot_FSnapshotUnionAttribute_Type_
+  commentId: Overload:Saro.FSnapshot.FSnapshotUnionAttribute.Type
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotUnionAttribute.Type
+  nameWithType: FSnapshotUnionAttribute.Type
+- uid: Saro.FSnapshot.FSnapshotUnionFormatterAttribute
+  name: FSnapshotUnionFormatterAttribute
+  href: api/Saro.FSnapshot.FSnapshotUnionFormatterAttribute.html
+  commentId: T:Saro.FSnapshot.FSnapshotUnionFormatterAttribute
+  fullName: Saro.FSnapshot.FSnapshotUnionFormatterAttribute
+  nameWithType: FSnapshotUnionFormatterAttribute
+- uid: Saro.FSnapshot.FSnapshotUnionFormatterAttribute.#ctor(System.Type)
+  name: FSnapshotUnionFormatterAttribute(Type)
+  href: api/Saro.FSnapshot.FSnapshotUnionFormatterAttribute.html#Saro_FSnapshot_FSnapshotUnionFormatterAttribute__ctor_System_Type_
+  commentId: M:Saro.FSnapshot.FSnapshotUnionFormatterAttribute.#ctor(System.Type)
+  fullName: Saro.FSnapshot.FSnapshotUnionFormatterAttribute.FSnapshotUnionFormatterAttribute(System.Type)
+  nameWithType: FSnapshotUnionFormatterAttribute.FSnapshotUnionFormatterAttribute(Type)
+- uid: Saro.FSnapshot.FSnapshotUnionFormatterAttribute.#ctor*
+  name: FSnapshotUnionFormatterAttribute
+  href: api/Saro.FSnapshot.FSnapshotUnionFormatterAttribute.html#Saro_FSnapshot_FSnapshotUnionFormatterAttribute__ctor_
+  commentId: Overload:Saro.FSnapshot.FSnapshotUnionFormatterAttribute.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotUnionFormatterAttribute.FSnapshotUnionFormatterAttribute
+  nameWithType: FSnapshotUnionFormatterAttribute.FSnapshotUnionFormatterAttribute
+- uid: Saro.FSnapshot.FSnapshotUnionFormatterAttribute.Type
+  name: Type
+  href: api/Saro.FSnapshot.FSnapshotUnionFormatterAttribute.html#Saro_FSnapshot_FSnapshotUnionFormatterAttribute_Type
+  commentId: P:Saro.FSnapshot.FSnapshotUnionFormatterAttribute.Type
+  fullName: Saro.FSnapshot.FSnapshotUnionFormatterAttribute.Type
+  nameWithType: FSnapshotUnionFormatterAttribute.Type
+- uid: Saro.FSnapshot.FSnapshotUnionFormatterAttribute.Type*
+  name: Type
+  href: api/Saro.FSnapshot.FSnapshotUnionFormatterAttribute.html#Saro_FSnapshot_FSnapshotUnionFormatterAttribute_Type_
+  commentId: Overload:Saro.FSnapshot.FSnapshotUnionFormatterAttribute.Type
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotUnionFormatterAttribute.Type
+  nameWithType: FSnapshotUnionFormatterAttribute.Type
+- uid: Saro.FSnapshot.FSnapshotWriter
+  name: FSnapshotWriter
+  href: api/Saro.FSnapshot.FSnapshotWriter.html
+  commentId: T:Saro.FSnapshot.FSnapshotWriter
+  fullName: Saro.FSnapshot.FSnapshotWriter
+  nameWithType: FSnapshotWriter
+- uid: Saro.FSnapshot.FSnapshotWriter.#ctor(IBufferWriter{System.Byte})
+  name: FSnapshotWriter(IBufferWriter<Byte>)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter__ctor_IBufferWriter_System_Byte__
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.#ctor(IBufferWriter{System.Byte})
+  name.vb: FSnapshotWriter(IBufferWriter(Of Byte))
+  fullName: Saro.FSnapshot.FSnapshotWriter.FSnapshotWriter(IBufferWriter<System.Byte>)
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.FSnapshotWriter(IBufferWriter(Of System.Byte))
+  nameWithType: FSnapshotWriter.FSnapshotWriter(IBufferWriter<Byte>)
+  nameWithType.vb: FSnapshotWriter.FSnapshotWriter(IBufferWriter(Of Byte))
+- uid: Saro.FSnapshot.FSnapshotWriter.#ctor(IBufferWriter{System.Byte},Saro.FSnapshot.FSnapshotState)
+  name: FSnapshotWriter(IBufferWriter<Byte>, FSnapshotState)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter__ctor_IBufferWriter_System_Byte__Saro_FSnapshot_FSnapshotState_
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.#ctor(IBufferWriter{System.Byte},Saro.FSnapshot.FSnapshotState)
+  name.vb: FSnapshotWriter(IBufferWriter(Of Byte), FSnapshotState)
+  fullName: Saro.FSnapshot.FSnapshotWriter.FSnapshotWriter(IBufferWriter<System.Byte>, Saro.FSnapshot.FSnapshotState)
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.FSnapshotWriter(IBufferWriter(Of System.Byte), Saro.FSnapshot.FSnapshotState)
+  nameWithType: FSnapshotWriter.FSnapshotWriter(IBufferWriter<Byte>, FSnapshotState)
+  nameWithType.vb: FSnapshotWriter.FSnapshotWriter(IBufferWriter(Of Byte), FSnapshotState)
+- uid: Saro.FSnapshot.FSnapshotWriter.#ctor*
+  name: FSnapshotWriter
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter__ctor_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.FSnapshotWriter
+  nameWithType: FSnapshotWriter.FSnapshotWriter
+- uid: Saro.FSnapshot.FSnapshotWriter.AddObjectReference(System.Object)
+  name: AddObjectReference(Object)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_AddObjectReference_System_Object_
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.AddObjectReference(System.Object)
+  fullName: Saro.FSnapshot.FSnapshotWriter.AddObjectReference(System.Object)
+  nameWithType: FSnapshotWriter.AddObjectReference(Object)
+- uid: Saro.FSnapshot.FSnapshotWriter.AddObjectReference*
+  name: AddObjectReference
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_AddObjectReference_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.AddObjectReference
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.AddObjectReference
+  nameWithType: FSnapshotWriter.AddObjectReference
+- uid: Saro.FSnapshot.FSnapshotWriter.DangerousWriteUnmanaged*
+  name: DangerousWriteUnmanaged
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_DangerousWriteUnmanaged_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.DangerousWriteUnmanaged
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.DangerousWriteUnmanaged
+  nameWithType: FSnapshotWriter.DangerousWriteUnmanaged
+- uid: Saro.FSnapshot.FSnapshotWriter.DangerousWriteUnmanaged``1(``0@)
+  name: DangerousWriteUnmanaged<T>(T)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_DangerousWriteUnmanaged__1___0__
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.DangerousWriteUnmanaged``1(``0@)
+  name.vb: DangerousWriteUnmanaged(Of T)(ByRef T)
+  fullName: Saro.FSnapshot.FSnapshotWriter.DangerousWriteUnmanaged<T>(T)
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.DangerousWriteUnmanaged(Of T)(ByRef T)
+  nameWithType: FSnapshotWriter.DangerousWriteUnmanaged<T>(T)
+  nameWithType.vb: FSnapshotWriter.DangerousWriteUnmanaged(Of T)(ByRef T)
+- uid: Saro.FSnapshot.FSnapshotWriter.Dispose
+  name: Dispose()
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_Dispose
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.Dispose
+  fullName: Saro.FSnapshot.FSnapshotWriter.Dispose()
+  nameWithType: FSnapshotWriter.Dispose()
+- uid: Saro.FSnapshot.FSnapshotWriter.Dispose*
+  name: Dispose
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_Dispose_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.Dispose
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.Dispose
+  nameWithType: FSnapshotWriter.Dispose
+- uid: Saro.FSnapshot.FSnapshotWriter.GetFormatter*
+  name: GetFormatter
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_GetFormatter_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.GetFormatter
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.GetFormatter
+  nameWithType: FSnapshotWriter.GetFormatter
+- uid: Saro.FSnapshot.FSnapshotWriter.GetFormatter``1
+  name: GetFormatter<T>()
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_GetFormatter__1
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.GetFormatter``1
+  name.vb: GetFormatter(Of T)()
+  fullName: Saro.FSnapshot.FSnapshotWriter.GetFormatter<T>()
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.GetFormatter(Of T)()
+  nameWithType: FSnapshotWriter.GetFormatter<T>()
+  nameWithType.vb: FSnapshotWriter.GetFormatter(Of T)()
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteObject*
+  name: WriteObject
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteObject_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.WriteObject
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteObject
+  nameWithType: FSnapshotWriter.WriteObject
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteObject``1(``0)
+  name: WriteObject<T>(T)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteObject__1___0_
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.WriteObject``1(``0)
+  name.vb: WriteObject(Of T)(T)
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteObject<T>(T)
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.WriteObject(Of T)(T)
+  nameWithType: FSnapshotWriter.WriteObject<T>(T)
+  nameWithType.vb: FSnapshotWriter.WriteObject(Of T)(T)
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteObjectArray*
+  name: WriteObjectArray
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteObjectArray_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.WriteObjectArray
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteObjectArray
+  nameWithType: FSnapshotWriter.WriteObjectArray
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteObjectArray``1(``0[])
+  name: WriteObjectArray<T>(T[])
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteObjectArray__1___0___
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.WriteObjectArray``1(``0[])
+  name.vb: WriteObjectArray(Of T)(T())
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteObjectArray<T>(T[])
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.WriteObjectArray(Of T)(T())
+  nameWithType: FSnapshotWriter.WriteObjectArray<T>(T[])
+  nameWithType.vb: FSnapshotWriter.WriteObjectArray(Of T)(T())
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteObjectHeader(System.Object)
+  name: WriteObjectHeader(Object)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteObjectHeader_System_Object_
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.WriteObjectHeader(System.Object)
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteObjectHeader(System.Object)
+  nameWithType: FSnapshotWriter.WriteObjectHeader(Object)
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteObjectHeader*
+  name: WriteObjectHeader
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteObjectHeader_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.WriteObjectHeader
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteObjectHeader
+  nameWithType: FSnapshotWriter.WriteObjectHeader
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteObjectList*
+  name: WriteObjectList
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteObjectList_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.WriteObjectList
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteObjectList
+  nameWithType: FSnapshotWriter.WriteObjectList
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteObjectList``1(System.Collections.Generic.List{``0})
+  name: WriteObjectList<T>(List<T>)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteObjectList__1_System_Collections_Generic_List___0__
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.WriteObjectList``1(System.Collections.Generic.List{``0})
+  name.vb: WriteObjectList(Of T)(List(Of T))
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteObjectList<T>(System.Collections.Generic.List<T>)
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.WriteObjectList(Of T)(System.Collections.Generic.List(Of T))
+  nameWithType: FSnapshotWriter.WriteObjectList<T>(List<T>)
+  nameWithType.vb: FSnapshotWriter.WriteObjectList(Of T)(List(Of T))
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteObjectReferenceId(System.Object)
+  name: WriteObjectReferenceId(Object)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteObjectReferenceId_System_Object_
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.WriteObjectReferenceId(System.Object)
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteObjectReferenceId(System.Object)
+  nameWithType: FSnapshotWriter.WriteObjectReferenceId(Object)
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteObjectReferenceId*
+  name: WriteObjectReferenceId
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteObjectReferenceId_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.WriteObjectReferenceId
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteObjectReferenceId
+  nameWithType: FSnapshotWriter.WriteObjectReferenceId
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteString(ReadOnlySpan{System.Char})
+  name: WriteString(ReadOnlySpan<Char>)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteString_ReadOnlySpan_System_Char__
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.WriteString(ReadOnlySpan{System.Char})
+  name.vb: WriteString(ReadOnlySpan(Of Char))
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteString(ReadOnlySpan<System.Char>)
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.WriteString(ReadOnlySpan(Of System.Char))
+  nameWithType: FSnapshotWriter.WriteString(ReadOnlySpan<Char>)
+  nameWithType.vb: FSnapshotWriter.WriteString(ReadOnlySpan(Of Char))
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteString*
+  name: WriteString
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteString_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.WriteString
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteString
+  nameWithType: FSnapshotWriter.WriteString
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteUnmanaged*
+  name: WriteUnmanaged
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteUnmanaged_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.WriteUnmanaged
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteUnmanaged
+  nameWithType: FSnapshotWriter.WriteUnmanaged
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteUnmanaged``1(``0@)
+  name: WriteUnmanaged<T>(T)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteUnmanaged__1___0__
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.WriteUnmanaged``1(``0@)
+  name.vb: WriteUnmanaged(Of T)(ByRef T)
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteUnmanaged<T>(T)
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.WriteUnmanaged(Of T)(ByRef T)
+  nameWithType: FSnapshotWriter.WriteUnmanaged<T>(T)
+  nameWithType.vb: FSnapshotWriter.WriteUnmanaged(Of T)(ByRef T)
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedArray*
+  name: WriteUnmanagedArray
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteUnmanagedArray_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedArray
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedArray
+  nameWithType: FSnapshotWriter.WriteUnmanagedArray
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedArray``1(``0[])
+  name: WriteUnmanagedArray<T>(T[])
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteUnmanagedArray__1___0___
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedArray``1(``0[])
+  name.vb: WriteUnmanagedArray(Of T)(T())
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedArray<T>(T[])
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedArray(Of T)(T())
+  nameWithType: FSnapshotWriter.WriteUnmanagedArray<T>(T[])
+  nameWithType.vb: FSnapshotWriter.WriteUnmanagedArray(Of T)(T())
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedList*
+  name: WriteUnmanagedList
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteUnmanagedList_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedList
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedList
+  nameWithType: FSnapshotWriter.WriteUnmanagedList
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedList``1(System.Collections.Generic.List{``0})
+  name: WriteUnmanagedList<T>(List<T>)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteUnmanagedList__1_System_Collections_Generic_List___0__
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedList``1(System.Collections.Generic.List{``0})
+  name.vb: WriteUnmanagedList(Of T)(List(Of T))
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedList<T>(System.Collections.Generic.List<T>)
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedList(Of T)(System.Collections.Generic.List(Of T))
+  nameWithType: FSnapshotWriter.WriteUnmanagedList<T>(List<T>)
+  nameWithType.vb: FSnapshotWriter.WriteUnmanagedList(Of T)(List(Of T))
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedSpan*
+  name: WriteUnmanagedSpan
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteUnmanagedSpan_
+  commentId: Overload:Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedSpan
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedSpan
+  nameWithType: FSnapshotWriter.WriteUnmanagedSpan
+- uid: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedSpan``1(Span{``0})
+  name: WriteUnmanagedSpan<T>(Span<T>)
+  href: api/Saro.FSnapshot.FSnapshotWriter.html#Saro_FSnapshot_FSnapshotWriter_WriteUnmanagedSpan__1_Span___0__
+  commentId: M:Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedSpan``1(Span{``0})
+  name.vb: WriteUnmanagedSpan(Of T)(Span(Of T))
+  fullName: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedSpan<T>(Span<T>)
+  fullName.vb: Saro.FSnapshot.FSnapshotWriter.WriteUnmanagedSpan(Of T)(Span(Of T))
+  nameWithType: FSnapshotWriter.WriteUnmanagedSpan<T>(Span<T>)
+  nameWithType.vb: FSnapshotWriter.WriteUnmanagedSpan(Of T)(Span(Of T))
+- uid: Saro.FSnapshot.FTextWriter
+  name: FTextWriter
+  href: api/Saro.FSnapshot.FTextWriter.html
+  commentId: T:Saro.FSnapshot.FTextWriter
+  fullName: Saro.FSnapshot.FTextWriter
+  nameWithType: FTextWriter
+- uid: Saro.FSnapshot.FTextWriter.#ctor(IBufferWriter{System.Char})
+  name: FTextWriter(IBufferWriter<Char>)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter__ctor_IBufferWriter_System_Char__
+  commentId: M:Saro.FSnapshot.FTextWriter.#ctor(IBufferWriter{System.Char})
+  name.vb: FTextWriter(IBufferWriter(Of Char))
+  fullName: Saro.FSnapshot.FTextWriter.FTextWriter(IBufferWriter<System.Char>)
+  fullName.vb: Saro.FSnapshot.FTextWriter.FTextWriter(IBufferWriter(Of System.Char))
+  nameWithType: FTextWriter.FTextWriter(IBufferWriter<Char>)
+  nameWithType.vb: FTextWriter.FTextWriter(IBufferWriter(Of Char))
+- uid: Saro.FSnapshot.FTextWriter.#ctor(IBufferWriter{System.Char},Saro.FSnapshot.FSnapshotState)
+  name: FTextWriter(IBufferWriter<Char>, FSnapshotState)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter__ctor_IBufferWriter_System_Char__Saro_FSnapshot_FSnapshotState_
+  commentId: M:Saro.FSnapshot.FTextWriter.#ctor(IBufferWriter{System.Char},Saro.FSnapshot.FSnapshotState)
+  name.vb: FTextWriter(IBufferWriter(Of Char), FSnapshotState)
+  fullName: Saro.FSnapshot.FTextWriter.FTextWriter(IBufferWriter<System.Char>, Saro.FSnapshot.FSnapshotState)
+  fullName.vb: Saro.FSnapshot.FTextWriter.FTextWriter(IBufferWriter(Of System.Char), Saro.FSnapshot.FSnapshotState)
+  nameWithType: FTextWriter.FTextWriter(IBufferWriter<Char>, FSnapshotState)
+  nameWithType.vb: FTextWriter.FTextWriter(IBufferWriter(Of Char), FSnapshotState)
+- uid: Saro.FSnapshot.FTextWriter.#ctor*
+  name: FTextWriter
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter__ctor_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.FTextWriter
+  nameWithType: FTextWriter.FTextWriter
+- uid: Saro.FSnapshot.FTextWriter.AddObjectReference(System.Object)
+  name: AddObjectReference(Object)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_AddObjectReference_System_Object_
+  commentId: M:Saro.FSnapshot.FTextWriter.AddObjectReference(System.Object)
+  fullName: Saro.FSnapshot.FTextWriter.AddObjectReference(System.Object)
+  nameWithType: FTextWriter.AddObjectReference(Object)
+- uid: Saro.FSnapshot.FTextWriter.AddObjectReference*
+  name: AddObjectReference
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_AddObjectReference_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.AddObjectReference
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.AddObjectReference
+  nameWithType: FTextWriter.AddObjectReference
+- uid: Saro.FSnapshot.FTextWriter.BeginWriteObject(System.String)
+  name: BeginWriteObject(String)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_BeginWriteObject_System_String_
+  commentId: M:Saro.FSnapshot.FTextWriter.BeginWriteObject(System.String)
+  fullName: Saro.FSnapshot.FTextWriter.BeginWriteObject(System.String)
+  nameWithType: FTextWriter.BeginWriteObject(String)
+- uid: Saro.FSnapshot.FTextWriter.BeginWriteObject*
+  name: BeginWriteObject
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_BeginWriteObject_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.BeginWriteObject
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.BeginWriteObject
+  nameWithType: FTextWriter.BeginWriteObject
+- uid: Saro.FSnapshot.FTextWriter.Clear
+  name: Clear()
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_Clear
+  commentId: M:Saro.FSnapshot.FTextWriter.Clear
+  fullName: Saro.FSnapshot.FTextWriter.Clear()
+  nameWithType: FTextWriter.Clear()
+- uid: Saro.FSnapshot.FTextWriter.Clear*
+  name: Clear
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_Clear_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.Clear
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.Clear
+  nameWithType: FTextWriter.Clear
+- uid: Saro.FSnapshot.FTextWriter.CurrentIndent
+  name: CurrentIndent
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_CurrentIndent
+  commentId: P:Saro.FSnapshot.FTextWriter.CurrentIndent
+  fullName: Saro.FSnapshot.FTextWriter.CurrentIndent
+  nameWithType: FTextWriter.CurrentIndent
+- uid: Saro.FSnapshot.FTextWriter.CurrentIndent*
+  name: CurrentIndent
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_CurrentIndent_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.CurrentIndent
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.CurrentIndent
+  nameWithType: FTextWriter.CurrentIndent
+- uid: Saro.FSnapshot.FTextWriter.DangerousWriteUnmanaged*
+  name: DangerousWriteUnmanaged
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_DangerousWriteUnmanaged_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.DangerousWriteUnmanaged
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.DangerousWriteUnmanaged
+  nameWithType: FTextWriter.DangerousWriteUnmanaged
+- uid: Saro.FSnapshot.FTextWriter.DangerousWriteUnmanaged``1(``0@)
+  name: DangerousWriteUnmanaged<T>(T)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_DangerousWriteUnmanaged__1___0__
+  commentId: M:Saro.FSnapshot.FTextWriter.DangerousWriteUnmanaged``1(``0@)
+  name.vb: DangerousWriteUnmanaged(Of T)(ByRef T)
+  fullName: Saro.FSnapshot.FTextWriter.DangerousWriteUnmanaged<T>(T)
+  fullName.vb: Saro.FSnapshot.FTextWriter.DangerousWriteUnmanaged(Of T)(ByRef T)
+  nameWithType: FTextWriter.DangerousWriteUnmanaged<T>(T)
+  nameWithType.vb: FTextWriter.DangerousWriteUnmanaged(Of T)(ByRef T)
+- uid: Saro.FSnapshot.FTextWriter.DecrementIndent
+  name: DecrementIndent()
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_DecrementIndent
+  commentId: M:Saro.FSnapshot.FTextWriter.DecrementIndent
+  fullName: Saro.FSnapshot.FTextWriter.DecrementIndent()
+  nameWithType: FTextWriter.DecrementIndent()
+- uid: Saro.FSnapshot.FTextWriter.DecrementIndent*
+  name: DecrementIndent
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_DecrementIndent_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.DecrementIndent
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.DecrementIndent
+  nameWithType: FTextWriter.DecrementIndent
+- uid: Saro.FSnapshot.FTextWriter.Dispose
+  name: Dispose()
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_Dispose
+  commentId: M:Saro.FSnapshot.FTextWriter.Dispose
+  fullName: Saro.FSnapshot.FTextWriter.Dispose()
+  nameWithType: FTextWriter.Dispose()
+- uid: Saro.FSnapshot.FTextWriter.Dispose*
+  name: Dispose
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_Dispose_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.Dispose
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.Dispose
+  nameWithType: FTextWriter.Dispose
+- uid: Saro.FSnapshot.FTextWriter.EndWriteObject
+  name: EndWriteObject()
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_EndWriteObject
+  commentId: M:Saro.FSnapshot.FTextWriter.EndWriteObject
+  fullName: Saro.FSnapshot.FTextWriter.EndWriteObject()
+  nameWithType: FTextWriter.EndWriteObject()
+- uid: Saro.FSnapshot.FTextWriter.EndWriteObject*
+  name: EndWriteObject
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_EndWriteObject_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.EndWriteObject
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.EndWriteObject
+  nameWithType: FTextWriter.EndWriteObject
+- uid: Saro.FSnapshot.FTextWriter.GetFormatter*
+  name: GetFormatter
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_GetFormatter_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.GetFormatter
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.GetFormatter
+  nameWithType: FTextWriter.GetFormatter
+- uid: Saro.FSnapshot.FTextWriter.GetFormatter``1
+  name: GetFormatter<T>()
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_GetFormatter__1
+  commentId: M:Saro.FSnapshot.FTextWriter.GetFormatter``1
+  name.vb: GetFormatter(Of T)()
+  fullName: Saro.FSnapshot.FTextWriter.GetFormatter<T>()
+  fullName.vb: Saro.FSnapshot.FTextWriter.GetFormatter(Of T)()
+  nameWithType: FTextWriter.GetFormatter<T>()
+  nameWithType.vb: FTextWriter.GetFormatter(Of T)()
+- uid: Saro.FSnapshot.FTextWriter.IncrementIndent
+  name: IncrementIndent()
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_IncrementIndent
+  commentId: M:Saro.FSnapshot.FTextWriter.IncrementIndent
+  fullName: Saro.FSnapshot.FTextWriter.IncrementIndent()
+  nameWithType: FTextWriter.IncrementIndent()
+- uid: Saro.FSnapshot.FTextWriter.IncrementIndent*
+  name: IncrementIndent
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_IncrementIndent_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.IncrementIndent
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.IncrementIndent
+  nameWithType: FTextWriter.IncrementIndent
+- uid: Saro.FSnapshot.FTextWriter.ReferenceIndexOf(System.Object)
+  name: ReferenceIndexOf(Object)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_ReferenceIndexOf_System_Object_
+  commentId: M:Saro.FSnapshot.FTextWriter.ReferenceIndexOf(System.Object)
+  fullName: Saro.FSnapshot.FTextWriter.ReferenceIndexOf(System.Object)
+  nameWithType: FTextWriter.ReferenceIndexOf(Object)
+- uid: Saro.FSnapshot.FTextWriter.ReferenceIndexOf*
+  name: ReferenceIndexOf
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_ReferenceIndexOf_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.ReferenceIndexOf
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.ReferenceIndexOf
+  nameWithType: FTextWriter.ReferenceIndexOf
+- uid: Saro.FSnapshot.FTextWriter.Write(ReadOnlySpan{System.Char})
+  name: Write(ReadOnlySpan<Char>)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_Write_ReadOnlySpan_System_Char__
+  commentId: M:Saro.FSnapshot.FTextWriter.Write(ReadOnlySpan{System.Char})
+  name.vb: Write(ReadOnlySpan(Of Char))
+  fullName: Saro.FSnapshot.FTextWriter.Write(ReadOnlySpan<System.Char>)
+  fullName.vb: Saro.FSnapshot.FTextWriter.Write(ReadOnlySpan(Of System.Char))
+  nameWithType: FTextWriter.Write(ReadOnlySpan<Char>)
+  nameWithType.vb: FTextWriter.Write(ReadOnlySpan(Of Char))
+- uid: Saro.FSnapshot.FTextWriter.Write*
+  name: Write
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_Write_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.Write
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.Write
+  nameWithType: FTextWriter.Write
+- uid: Saro.FSnapshot.FTextWriter.WriteIndent
+  name: WriteIndent()
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteIndent
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteIndent
+  fullName: Saro.FSnapshot.FTextWriter.WriteIndent()
+  nameWithType: FTextWriter.WriteIndent()
+- uid: Saro.FSnapshot.FTextWriter.WriteIndent*
+  name: WriteIndent
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteIndent_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteIndent
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteIndent
+  nameWithType: FTextWriter.WriteIndent
+- uid: Saro.FSnapshot.FTextWriter.WriteLineWithIndent(ReadOnlySpan{System.Char})
+  name: WriteLineWithIndent(ReadOnlySpan<Char>)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteLineWithIndent_ReadOnlySpan_System_Char__
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteLineWithIndent(ReadOnlySpan{System.Char})
+  name.vb: WriteLineWithIndent(ReadOnlySpan(Of Char))
+  fullName: Saro.FSnapshot.FTextWriter.WriteLineWithIndent(ReadOnlySpan<System.Char>)
+  fullName.vb: Saro.FSnapshot.FTextWriter.WriteLineWithIndent(ReadOnlySpan(Of System.Char))
+  nameWithType: FTextWriter.WriteLineWithIndent(ReadOnlySpan<Char>)
+  nameWithType.vb: FTextWriter.WriteLineWithIndent(ReadOnlySpan(Of Char))
+- uid: Saro.FSnapshot.FTextWriter.WriteLineWithIndent*
+  name: WriteLineWithIndent
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteLineWithIndent_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteLineWithIndent
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteLineWithIndent
+  nameWithType: FTextWriter.WriteLineWithIndent
+- uid: Saro.FSnapshot.FTextWriter.WriteObject*
+  name: WriteObject
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteObject_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteObject
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteObject
+  nameWithType: FTextWriter.WriteObject
+- uid: Saro.FSnapshot.FTextWriter.WriteObject``1(``0)
+  name: WriteObject<T>(T)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteObject__1___0_
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteObject``1(``0)
+  name.vb: WriteObject(Of T)(T)
+  fullName: Saro.FSnapshot.FTextWriter.WriteObject<T>(T)
+  fullName.vb: Saro.FSnapshot.FTextWriter.WriteObject(Of T)(T)
+  nameWithType: FTextWriter.WriteObject<T>(T)
+  nameWithType.vb: FTextWriter.WriteObject(Of T)(T)
+- uid: Saro.FSnapshot.FTextWriter.WriteObjectArray*
+  name: WriteObjectArray
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteObjectArray_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteObjectArray
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteObjectArray
+  nameWithType: FTextWriter.WriteObjectArray
+- uid: Saro.FSnapshot.FTextWriter.WriteObjectArray``1(``0[])
+  name: WriteObjectArray<T>(T[])
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteObjectArray__1___0___
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteObjectArray``1(``0[])
+  name.vb: WriteObjectArray(Of T)(T())
+  fullName: Saro.FSnapshot.FTextWriter.WriteObjectArray<T>(T[])
+  fullName.vb: Saro.FSnapshot.FTextWriter.WriteObjectArray(Of T)(T())
+  nameWithType: FTextWriter.WriteObjectArray<T>(T[])
+  nameWithType.vb: FTextWriter.WriteObjectArray(Of T)(T())
+- uid: Saro.FSnapshot.FTextWriter.WriteObjectList*
+  name: WriteObjectList
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteObjectList_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteObjectList
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteObjectList
+  nameWithType: FTextWriter.WriteObjectList
+- uid: Saro.FSnapshot.FTextWriter.WriteObjectList``1(System.Collections.Generic.List{``0})
+  name: WriteObjectList<T>(List<T>)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteObjectList__1_System_Collections_Generic_List___0__
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteObjectList``1(System.Collections.Generic.List{``0})
+  name.vb: WriteObjectList(Of T)(List(Of T))
+  fullName: Saro.FSnapshot.FTextWriter.WriteObjectList<T>(System.Collections.Generic.List<T>)
+  fullName.vb: Saro.FSnapshot.FTextWriter.WriteObjectList(Of T)(System.Collections.Generic.List(Of T))
+  nameWithType: FTextWriter.WriteObjectList<T>(List<T>)
+  nameWithType.vb: FTextWriter.WriteObjectList(Of T)(List(Of T))
+- uid: Saro.FSnapshot.FTextWriter.WriteString(ReadOnlySpan{System.Char})
+  name: WriteString(ReadOnlySpan<Char>)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteString_ReadOnlySpan_System_Char__
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteString(ReadOnlySpan{System.Char})
+  name.vb: WriteString(ReadOnlySpan(Of Char))
+  fullName: Saro.FSnapshot.FTextWriter.WriteString(ReadOnlySpan<System.Char>)
+  fullName.vb: Saro.FSnapshot.FTextWriter.WriteString(ReadOnlySpan(Of System.Char))
+  nameWithType: FTextWriter.WriteString(ReadOnlySpan<Char>)
+  nameWithType.vb: FTextWriter.WriteString(ReadOnlySpan(Of Char))
+- uid: Saro.FSnapshot.FTextWriter.WriteString*
+  name: WriteString
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteString_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteString
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteString
+  nameWithType: FTextWriter.WriteString
+- uid: Saro.FSnapshot.FTextWriter.WriteUnmanaged*
+  name: WriteUnmanaged
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteUnmanaged_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteUnmanaged
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteUnmanaged
+  nameWithType: FTextWriter.WriteUnmanaged
+- uid: Saro.FSnapshot.FTextWriter.WriteUnmanaged``1(``0@)
+  name: WriteUnmanaged<T>(T)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteUnmanaged__1___0__
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteUnmanaged``1(``0@)
+  name.vb: WriteUnmanaged(Of T)(ByRef T)
+  fullName: Saro.FSnapshot.FTextWriter.WriteUnmanaged<T>(T)
+  fullName.vb: Saro.FSnapshot.FTextWriter.WriteUnmanaged(Of T)(ByRef T)
+  nameWithType: FTextWriter.WriteUnmanaged<T>(T)
+  nameWithType.vb: FTextWriter.WriteUnmanaged(Of T)(ByRef T)
+- uid: Saro.FSnapshot.FTextWriter.WriteUnmanagedArray*
+  name: WriteUnmanagedArray
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteUnmanagedArray_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteUnmanagedArray
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteUnmanagedArray
+  nameWithType: FTextWriter.WriteUnmanagedArray
+- uid: Saro.FSnapshot.FTextWriter.WriteUnmanagedArray``1(``0[])
+  name: WriteUnmanagedArray<T>(T[])
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteUnmanagedArray__1___0___
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteUnmanagedArray``1(``0[])
+  name.vb: WriteUnmanagedArray(Of T)(T())
+  fullName: Saro.FSnapshot.FTextWriter.WriteUnmanagedArray<T>(T[])
+  fullName.vb: Saro.FSnapshot.FTextWriter.WriteUnmanagedArray(Of T)(T())
+  nameWithType: FTextWriter.WriteUnmanagedArray<T>(T[])
+  nameWithType.vb: FTextWriter.WriteUnmanagedArray(Of T)(T())
+- uid: Saro.FSnapshot.FTextWriter.WriteUnmanagedList*
+  name: WriteUnmanagedList
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteUnmanagedList_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteUnmanagedList
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteUnmanagedList
+  nameWithType: FTextWriter.WriteUnmanagedList
+- uid: Saro.FSnapshot.FTextWriter.WriteUnmanagedList``1(System.Collections.Generic.List{``0})
+  name: WriteUnmanagedList<T>(List<T>)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteUnmanagedList__1_System_Collections_Generic_List___0__
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteUnmanagedList``1(System.Collections.Generic.List{``0})
+  name.vb: WriteUnmanagedList(Of T)(List(Of T))
+  fullName: Saro.FSnapshot.FTextWriter.WriteUnmanagedList<T>(System.Collections.Generic.List<T>)
+  fullName.vb: Saro.FSnapshot.FTextWriter.WriteUnmanagedList(Of T)(System.Collections.Generic.List(Of T))
+  nameWithType: FTextWriter.WriteUnmanagedList<T>(List<T>)
+  nameWithType.vb: FTextWriter.WriteUnmanagedList(Of T)(List(Of T))
+- uid: Saro.FSnapshot.FTextWriter.WriteUnmanagedSpan*
+  name: WriteUnmanagedSpan
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteUnmanagedSpan_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteUnmanagedSpan
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteUnmanagedSpan
+  nameWithType: FTextWriter.WriteUnmanagedSpan
+- uid: Saro.FSnapshot.FTextWriter.WriteUnmanagedSpan``1(Span{``0})
+  name: WriteUnmanagedSpan<T>(Span<T>)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteUnmanagedSpan__1_Span___0__
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteUnmanagedSpan``1(Span{``0})
+  name.vb: WriteUnmanagedSpan(Of T)(Span(Of T))
+  fullName: Saro.FSnapshot.FTextWriter.WriteUnmanagedSpan<T>(Span<T>)
+  fullName.vb: Saro.FSnapshot.FTextWriter.WriteUnmanagedSpan(Of T)(Span(Of T))
+  nameWithType: FTextWriter.WriteUnmanagedSpan<T>(Span<T>)
+  nameWithType.vb: FTextWriter.WriteUnmanagedSpan(Of T)(Span(Of T))
+- uid: Saro.FSnapshot.FTextWriter.WriteWithIndent(ReadOnlySpan{System.Char})
+  name: WriteWithIndent(ReadOnlySpan<Char>)
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteWithIndent_ReadOnlySpan_System_Char__
+  commentId: M:Saro.FSnapshot.FTextWriter.WriteWithIndent(ReadOnlySpan{System.Char})
+  name.vb: WriteWithIndent(ReadOnlySpan(Of Char))
+  fullName: Saro.FSnapshot.FTextWriter.WriteWithIndent(ReadOnlySpan<System.Char>)
+  fullName.vb: Saro.FSnapshot.FTextWriter.WriteWithIndent(ReadOnlySpan(Of System.Char))
+  nameWithType: FTextWriter.WriteWithIndent(ReadOnlySpan<Char>)
+  nameWithType.vb: FTextWriter.WriteWithIndent(ReadOnlySpan(Of Char))
+- uid: Saro.FSnapshot.FTextWriter.WriteWithIndent*
+  name: WriteWithIndent
+  href: api/Saro.FSnapshot.FTextWriter.html#Saro_FSnapshot_FTextWriter_WriteWithIndent_
+  commentId: Overload:Saro.FSnapshot.FTextWriter.WriteWithIndent
+  isSpec: "True"
+  fullName: Saro.FSnapshot.FTextWriter.WriteWithIndent
+  nameWithType: FTextWriter.WriteWithIndent
+- uid: Saro.FSnapshot.HashSetFormatter`1
+  name: HashSetFormatter<T>
+  href: api/Saro.FSnapshot.HashSetFormatter-1.html
+  commentId: T:Saro.FSnapshot.HashSetFormatter`1
+  name.vb: HashSetFormatter(Of T)
+  fullName: Saro.FSnapshot.HashSetFormatter<T>
+  fullName.vb: Saro.FSnapshot.HashSetFormatter(Of T)
+  nameWithType: HashSetFormatter<T>
+  nameWithType.vb: HashSetFormatter(Of T)
+- uid: Saro.FSnapshot.HashSetFormatter`1.#ctor
+  name: HashSetFormatter()
+  href: api/Saro.FSnapshot.HashSetFormatter-1.html#Saro_FSnapshot_HashSetFormatter_1__ctor
+  commentId: M:Saro.FSnapshot.HashSetFormatter`1.#ctor
+  fullName: Saro.FSnapshot.HashSetFormatter<T>.HashSetFormatter()
+  fullName.vb: Saro.FSnapshot.HashSetFormatter(Of T).HashSetFormatter()
+  nameWithType: HashSetFormatter<T>.HashSetFormatter()
+  nameWithType.vb: HashSetFormatter(Of T).HashSetFormatter()
+- uid: Saro.FSnapshot.HashSetFormatter`1.#ctor(System.Collections.Generic.IEqualityComparer{`0})
+  name: HashSetFormatter(IEqualityComparer<T>)
+  href: api/Saro.FSnapshot.HashSetFormatter-1.html#Saro_FSnapshot_HashSetFormatter_1__ctor_System_Collections_Generic_IEqualityComparer__0__
+  commentId: M:Saro.FSnapshot.HashSetFormatter`1.#ctor(System.Collections.Generic.IEqualityComparer{`0})
+  name.vb: HashSetFormatter(IEqualityComparer(Of T))
+  fullName: Saro.FSnapshot.HashSetFormatter<T>.HashSetFormatter(System.Collections.Generic.IEqualityComparer<T>)
+  fullName.vb: Saro.FSnapshot.HashSetFormatter(Of T).HashSetFormatter(System.Collections.Generic.IEqualityComparer(Of T))
+  nameWithType: HashSetFormatter<T>.HashSetFormatter(IEqualityComparer<T>)
+  nameWithType.vb: HashSetFormatter(Of T).HashSetFormatter(IEqualityComparer(Of T))
+- uid: Saro.FSnapshot.HashSetFormatter`1.#ctor*
+  name: HashSetFormatter
+  href: api/Saro.FSnapshot.HashSetFormatter-1.html#Saro_FSnapshot_HashSetFormatter_1__ctor_
+  commentId: Overload:Saro.FSnapshot.HashSetFormatter`1.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.HashSetFormatter<T>.HashSetFormatter
+  fullName.vb: Saro.FSnapshot.HashSetFormatter(Of T).HashSetFormatter
+  nameWithType: HashSetFormatter<T>.HashSetFormatter
+  nameWithType.vb: HashSetFormatter(Of T).HashSetFormatter
+- uid: Saro.FSnapshot.HashSetFormatter`1.Dump(Saro.FSnapshot.FTextWriter@,HashSet{`0}@)
+  name: Dump(ref FTextWriter, HashSet<T>)
+  href: api/Saro.FSnapshot.HashSetFormatter-1.html#Saro_FSnapshot_HashSetFormatter_1_Dump_Saro_FSnapshot_FTextWriter__HashSet__0___
+  commentId: M:Saro.FSnapshot.HashSetFormatter`1.Dump(Saro.FSnapshot.FTextWriter@,HashSet{`0}@)
+  name.vb: Dump(ByRef FTextWriter, ByRef HashSet(Of T))
+  fullName: Saro.FSnapshot.HashSetFormatter<T>.Dump(ref Saro.FSnapshot.FTextWriter, HashSet<T>)
+  fullName.vb: Saro.FSnapshot.HashSetFormatter(Of T).Dump(ByRef Saro.FSnapshot.FTextWriter, ByRef HashSet(Of T))
+  nameWithType: HashSetFormatter<T>.Dump(ref FTextWriter, HashSet<T>)
+  nameWithType.vb: HashSetFormatter(Of T).Dump(ByRef FTextWriter, ByRef HashSet(Of T))
+- uid: Saro.FSnapshot.HashSetFormatter`1.Dump*
+  name: Dump
+  href: api/Saro.FSnapshot.HashSetFormatter-1.html#Saro_FSnapshot_HashSetFormatter_1_Dump_
+  commentId: Overload:Saro.FSnapshot.HashSetFormatter`1.Dump
+  isSpec: "True"
+  fullName: Saro.FSnapshot.HashSetFormatter<T>.Dump
+  fullName.vb: Saro.FSnapshot.HashSetFormatter(Of T).Dump
+  nameWithType: HashSetFormatter<T>.Dump
+  nameWithType.vb: HashSetFormatter(Of T).Dump
+- uid: Saro.FSnapshot.HashSetFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,HashSet{`0}@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref HashSet<T>)
+  href: api/Saro.FSnapshot.HashSetFormatter-1.html#Saro_FSnapshot_HashSetFormatter_1_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__HashSet__0___
+  commentId: M:Saro.FSnapshot.HashSetFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,HashSet{`0}@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef HashSet(Of T))
+  fullName: Saro.FSnapshot.HashSetFormatter<T>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref HashSet<T>)
+  fullName.vb: Saro.FSnapshot.HashSetFormatter(Of T).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef HashSet(Of T))
+  nameWithType: HashSetFormatter<T>.RestoreSnapshot(ref FSnapshotReader, ref HashSet<T>)
+  nameWithType.vb: HashSetFormatter(Of T).RestoreSnapshot(ByRef FSnapshotReader, ByRef HashSet(Of T))
+- uid: Saro.FSnapshot.HashSetFormatter`1.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.HashSetFormatter-1.html#Saro_FSnapshot_HashSetFormatter_1_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.HashSetFormatter`1.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.HashSetFormatter<T>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.HashSetFormatter(Of T).RestoreSnapshot
+  nameWithType: HashSetFormatter<T>.RestoreSnapshot
+  nameWithType.vb: HashSetFormatter(Of T).RestoreSnapshot
+- uid: Saro.FSnapshot.HashSetFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,HashSet{`0}@)
+  name: TakeSnapshot(ref FSnapshotWriter, HashSet<T>)
+  href: api/Saro.FSnapshot.HashSetFormatter-1.html#Saro_FSnapshot_HashSetFormatter_1_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__HashSet__0___
+  commentId: M:Saro.FSnapshot.HashSetFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,HashSet{`0}@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef HashSet(Of T))
+  fullName: Saro.FSnapshot.HashSetFormatter<T>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, HashSet<T>)
+  fullName.vb: Saro.FSnapshot.HashSetFormatter(Of T).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef HashSet(Of T))
+  nameWithType: HashSetFormatter<T>.TakeSnapshot(ref FSnapshotWriter, HashSet<T>)
+  nameWithType.vb: HashSetFormatter(Of T).TakeSnapshot(ByRef FSnapshotWriter, ByRef HashSet(Of T))
+- uid: Saro.FSnapshot.HashSetFormatter`1.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.HashSetFormatter-1.html#Saro_FSnapshot_HashSetFormatter_1_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.HashSetFormatter`1.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.HashSetFormatter<T>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.HashSetFormatter(Of T).TakeSnapshot
+  nameWithType: HashSetFormatter<T>.TakeSnapshot
+  nameWithType.vb: HashSetFormatter(Of T).TakeSnapshot
+- uid: Saro.FSnapshot.IFSnapshotable
+  name: IFSnapshotable
+  href: api/Saro.FSnapshot.IFSnapshotable.html
+  commentId: T:Saro.FSnapshot.IFSnapshotable
+  fullName: Saro.FSnapshot.IFSnapshotable
+  nameWithType: IFSnapshotable
+- uid: Saro.FSnapshot.IFSnapshotable.Dump(Saro.FSnapshot.FTextWriter@)
+  name: Dump(ref FTextWriter)
+  href: api/Saro.FSnapshot.IFSnapshotable.html#Saro_FSnapshot_IFSnapshotable_Dump_Saro_FSnapshot_FTextWriter__
+  commentId: M:Saro.FSnapshot.IFSnapshotable.Dump(Saro.FSnapshot.FTextWriter@)
+  name.vb: Dump(ByRef FTextWriter)
+  fullName: Saro.FSnapshot.IFSnapshotable.Dump(ref Saro.FSnapshot.FTextWriter)
+  fullName.vb: Saro.FSnapshot.IFSnapshotable.Dump(ByRef Saro.FSnapshot.FTextWriter)
+  nameWithType: IFSnapshotable.Dump(ref FTextWriter)
+  nameWithType.vb: IFSnapshotable.Dump(ByRef FTextWriter)
+- uid: Saro.FSnapshot.IFSnapshotable.Dump*
+  name: Dump
+  href: api/Saro.FSnapshot.IFSnapshotable.html#Saro_FSnapshot_IFSnapshotable_Dump_
+  commentId: Overload:Saro.FSnapshot.IFSnapshotable.Dump
+  isSpec: "True"
+  fullName: Saro.FSnapshot.IFSnapshotable.Dump
+  nameWithType: IFSnapshotable.Dump
+- uid: Saro.FSnapshot.IFSnapshotable.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@)
+  name: RestoreSnapshot(ref FSnapshotReader)
+  href: api/Saro.FSnapshot.IFSnapshotable.html#Saro_FSnapshot_IFSnapshotable_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__
+  commentId: M:Saro.FSnapshot.IFSnapshotable.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader)
+  fullName: Saro.FSnapshot.IFSnapshotable.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader)
+  fullName.vb: Saro.FSnapshot.IFSnapshotable.RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader)
+  nameWithType: IFSnapshotable.RestoreSnapshot(ref FSnapshotReader)
+  nameWithType.vb: IFSnapshotable.RestoreSnapshot(ByRef FSnapshotReader)
+- uid: Saro.FSnapshot.IFSnapshotable.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.IFSnapshotable.html#Saro_FSnapshot_IFSnapshotable_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.IFSnapshotable.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.IFSnapshotable.RestoreSnapshot
+  nameWithType: IFSnapshotable.RestoreSnapshot
+- uid: Saro.FSnapshot.IFSnapshotable.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@)
+  name: TakeSnapshot(ref FSnapshotWriter)
+  href: api/Saro.FSnapshot.IFSnapshotable.html#Saro_FSnapshot_IFSnapshotable_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__
+  commentId: M:Saro.FSnapshot.IFSnapshotable.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter)
+  fullName: Saro.FSnapshot.IFSnapshotable.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter)
+  fullName.vb: Saro.FSnapshot.IFSnapshotable.TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter)
+  nameWithType: IFSnapshotable.TakeSnapshot(ref FSnapshotWriter)
+  nameWithType.vb: IFSnapshotable.TakeSnapshot(ByRef FSnapshotWriter)
+- uid: Saro.FSnapshot.IFSnapshotable.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.IFSnapshotable.html#Saro_FSnapshot_IFSnapshotable_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.IFSnapshotable.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.IFSnapshotable.TakeSnapshot
+  nameWithType: IFSnapshotable.TakeSnapshot
+- uid: Saro.FSnapshot.IFSnapshotFormatter
+  name: IFSnapshotFormatter
+  href: api/Saro.FSnapshot.IFSnapshotFormatter.html
+  commentId: T:Saro.FSnapshot.IFSnapshotFormatter
+  fullName: Saro.FSnapshot.IFSnapshotFormatter
+  nameWithType: IFSnapshotFormatter
+- uid: Saro.FSnapshot.IFSnapshotFormatter.Dump(Saro.FSnapshot.FTextWriter@,System.Object@)
+  name: Dump(ref FTextWriter, Object)
+  href: api/Saro.FSnapshot.IFSnapshotFormatter.html#Saro_FSnapshot_IFSnapshotFormatter_Dump_Saro_FSnapshot_FTextWriter__System_Object__
+  commentId: M:Saro.FSnapshot.IFSnapshotFormatter.Dump(Saro.FSnapshot.FTextWriter@,System.Object@)
+  name.vb: Dump(ByRef FTextWriter, ByRef Object)
+  fullName: Saro.FSnapshot.IFSnapshotFormatter.Dump(ref Saro.FSnapshot.FTextWriter, System.Object)
+  fullName.vb: Saro.FSnapshot.IFSnapshotFormatter.Dump(ByRef Saro.FSnapshot.FTextWriter, ByRef System.Object)
+  nameWithType: IFSnapshotFormatter.Dump(ref FTextWriter, Object)
+  nameWithType.vb: IFSnapshotFormatter.Dump(ByRef FTextWriter, ByRef Object)
+- uid: Saro.FSnapshot.IFSnapshotFormatter.Dump*
+  name: Dump
+  href: api/Saro.FSnapshot.IFSnapshotFormatter.html#Saro_FSnapshot_IFSnapshotFormatter_Dump_
+  commentId: Overload:Saro.FSnapshot.IFSnapshotFormatter.Dump
+  isSpec: "True"
+  fullName: Saro.FSnapshot.IFSnapshotFormatter.Dump
+  nameWithType: IFSnapshotFormatter.Dump
+- uid: Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,System.Object@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref Object)
+  href: api/Saro.FSnapshot.IFSnapshotFormatter.html#Saro_FSnapshot_IFSnapshotFormatter_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__System_Object__
+  commentId: M:Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,System.Object@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef Object)
+  fullName: Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref System.Object)
+  fullName.vb: Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef System.Object)
+  nameWithType: IFSnapshotFormatter.RestoreSnapshot(ref FSnapshotReader, ref Object)
+  nameWithType.vb: IFSnapshotFormatter.RestoreSnapshot(ByRef FSnapshotReader, ByRef Object)
+- uid: Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.IFSnapshotFormatter.html#Saro_FSnapshot_IFSnapshotFormatter_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.IFSnapshotFormatter.RestoreSnapshot
+  nameWithType: IFSnapshotFormatter.RestoreSnapshot
+- uid: Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,System.Object@)
+  name: TakeSnapshot(ref FSnapshotWriter, Object)
+  href: api/Saro.FSnapshot.IFSnapshotFormatter.html#Saro_FSnapshot_IFSnapshotFormatter_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__System_Object__
+  commentId: M:Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,System.Object@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef Object)
+  fullName: Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, System.Object)
+  fullName.vb: Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef System.Object)
+  nameWithType: IFSnapshotFormatter.TakeSnapshot(ref FSnapshotWriter, Object)
+  nameWithType.vb: IFSnapshotFormatter.TakeSnapshot(ByRef FSnapshotWriter, ByRef Object)
+- uid: Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.IFSnapshotFormatter.html#Saro_FSnapshot_IFSnapshotFormatter_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.IFSnapshotFormatter.TakeSnapshot
+  nameWithType: IFSnapshotFormatter.TakeSnapshot
+- uid: Saro.FSnapshot.IFSnapshotFormatter`1
+  name: IFSnapshotFormatter<T>
+  href: api/Saro.FSnapshot.IFSnapshotFormatter-1.html
+  commentId: T:Saro.FSnapshot.IFSnapshotFormatter`1
+  name.vb: IFSnapshotFormatter(Of T)
+  fullName: Saro.FSnapshot.IFSnapshotFormatter<T>
+  fullName.vb: Saro.FSnapshot.IFSnapshotFormatter(Of T)
+  nameWithType: IFSnapshotFormatter<T>
+  nameWithType.vb: IFSnapshotFormatter(Of T)
+- uid: Saro.FSnapshot.IFSnapshotFormatter`1.Dump(Saro.FSnapshot.FTextWriter@,`0@)
+  name: Dump(ref FTextWriter, T)
+  href: api/Saro.FSnapshot.IFSnapshotFormatter-1.html#Saro_FSnapshot_IFSnapshotFormatter_1_Dump_Saro_FSnapshot_FTextWriter___0__
+  commentId: M:Saro.FSnapshot.IFSnapshotFormatter`1.Dump(Saro.FSnapshot.FTextWriter@,`0@)
+  name.vb: Dump(ByRef FTextWriter, ByRef T)
+  fullName: Saro.FSnapshot.IFSnapshotFormatter<T>.Dump(ref Saro.FSnapshot.FTextWriter, T)
+  fullName.vb: Saro.FSnapshot.IFSnapshotFormatter(Of T).Dump(ByRef Saro.FSnapshot.FTextWriter, ByRef T)
+  nameWithType: IFSnapshotFormatter<T>.Dump(ref FTextWriter, T)
+  nameWithType.vb: IFSnapshotFormatter(Of T).Dump(ByRef FTextWriter, ByRef T)
+- uid: Saro.FSnapshot.IFSnapshotFormatter`1.Dump*
+  name: Dump
+  href: api/Saro.FSnapshot.IFSnapshotFormatter-1.html#Saro_FSnapshot_IFSnapshotFormatter_1_Dump_
+  commentId: Overload:Saro.FSnapshot.IFSnapshotFormatter`1.Dump
+  isSpec: "True"
+  fullName: Saro.FSnapshot.IFSnapshotFormatter<T>.Dump
+  fullName.vb: Saro.FSnapshot.IFSnapshotFormatter(Of T).Dump
+  nameWithType: IFSnapshotFormatter<T>.Dump
+  nameWithType.vb: IFSnapshotFormatter(Of T).Dump
+- uid: Saro.FSnapshot.IFSnapshotFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,`0@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref T)
+  href: api/Saro.FSnapshot.IFSnapshotFormatter-1.html#Saro_FSnapshot_IFSnapshotFormatter_1_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader___0__
+  commentId: M:Saro.FSnapshot.IFSnapshotFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,`0@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef T)
+  fullName: Saro.FSnapshot.IFSnapshotFormatter<T>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref T)
+  fullName.vb: Saro.FSnapshot.IFSnapshotFormatter(Of T).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef T)
+  nameWithType: IFSnapshotFormatter<T>.RestoreSnapshot(ref FSnapshotReader, ref T)
+  nameWithType.vb: IFSnapshotFormatter(Of T).RestoreSnapshot(ByRef FSnapshotReader, ByRef T)
+- uid: Saro.FSnapshot.IFSnapshotFormatter`1.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.IFSnapshotFormatter-1.html#Saro_FSnapshot_IFSnapshotFormatter_1_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.IFSnapshotFormatter`1.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.IFSnapshotFormatter<T>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.IFSnapshotFormatter(Of T).RestoreSnapshot
+  nameWithType: IFSnapshotFormatter<T>.RestoreSnapshot
+  nameWithType.vb: IFSnapshotFormatter(Of T).RestoreSnapshot
+- uid: Saro.FSnapshot.IFSnapshotFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,`0@)
+  name: TakeSnapshot(ref FSnapshotWriter, T)
+  href: api/Saro.FSnapshot.IFSnapshotFormatter-1.html#Saro_FSnapshot_IFSnapshotFormatter_1_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter___0__
+  commentId: M:Saro.FSnapshot.IFSnapshotFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,`0@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef T)
+  fullName: Saro.FSnapshot.IFSnapshotFormatter<T>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, T)
+  fullName.vb: Saro.FSnapshot.IFSnapshotFormatter(Of T).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef T)
+  nameWithType: IFSnapshotFormatter<T>.TakeSnapshot(ref FSnapshotWriter, T)
+  nameWithType.vb: IFSnapshotFormatter(Of T).TakeSnapshot(ByRef FSnapshotWriter, ByRef T)
+- uid: Saro.FSnapshot.IFSnapshotFormatter`1.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.IFSnapshotFormatter-1.html#Saro_FSnapshot_IFSnapshotFormatter_1_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.IFSnapshotFormatter`1.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.IFSnapshotFormatter<T>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.IFSnapshotFormatter(Of T).TakeSnapshot
+  nameWithType: IFSnapshotFormatter<T>.TakeSnapshot
+  nameWithType.vb: IFSnapshotFormatter(Of T).TakeSnapshot
+- uid: Saro.FSnapshot.IFSnapshotFormatterRegister
+  name: IFSnapshotFormatterRegister
+  href: api/Saro.FSnapshot.IFSnapshotFormatterRegister.html
+  commentId: T:Saro.FSnapshot.IFSnapshotFormatterRegister
+  fullName: Saro.FSnapshot.IFSnapshotFormatterRegister
+  nameWithType: IFSnapshotFormatterRegister
+- uid: Saro.FSnapshot.LinkedListFormatter`1
+  name: LinkedListFormatter<T>
+  href: api/Saro.FSnapshot.LinkedListFormatter-1.html
+  commentId: T:Saro.FSnapshot.LinkedListFormatter`1
+  name.vb: LinkedListFormatter(Of T)
+  fullName: Saro.FSnapshot.LinkedListFormatter<T>
+  fullName.vb: Saro.FSnapshot.LinkedListFormatter(Of T)
+  nameWithType: LinkedListFormatter<T>
+  nameWithType.vb: LinkedListFormatter(Of T)
+- uid: Saro.FSnapshot.LinkedListFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,LinkedList{`0}@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref LinkedList<T>)
+  href: api/Saro.FSnapshot.LinkedListFormatter-1.html#Saro_FSnapshot_LinkedListFormatter_1_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__LinkedList__0___
+  commentId: M:Saro.FSnapshot.LinkedListFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,LinkedList{`0}@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef LinkedList(Of T))
+  fullName: Saro.FSnapshot.LinkedListFormatter<T>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref LinkedList<T>)
+  fullName.vb: Saro.FSnapshot.LinkedListFormatter(Of T).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef LinkedList(Of T))
+  nameWithType: LinkedListFormatter<T>.RestoreSnapshot(ref FSnapshotReader, ref LinkedList<T>)
+  nameWithType.vb: LinkedListFormatter(Of T).RestoreSnapshot(ByRef FSnapshotReader, ByRef LinkedList(Of T))
+- uid: Saro.FSnapshot.LinkedListFormatter`1.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.LinkedListFormatter-1.html#Saro_FSnapshot_LinkedListFormatter_1_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.LinkedListFormatter`1.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.LinkedListFormatter<T>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.LinkedListFormatter(Of T).RestoreSnapshot
+  nameWithType: LinkedListFormatter<T>.RestoreSnapshot
+  nameWithType.vb: LinkedListFormatter(Of T).RestoreSnapshot
+- uid: Saro.FSnapshot.LinkedListFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,LinkedList{`0}@)
+  name: TakeSnapshot(ref FSnapshotWriter, LinkedList<T>)
+  href: api/Saro.FSnapshot.LinkedListFormatter-1.html#Saro_FSnapshot_LinkedListFormatter_1_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__LinkedList__0___
+  commentId: M:Saro.FSnapshot.LinkedListFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,LinkedList{`0}@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef LinkedList(Of T))
+  fullName: Saro.FSnapshot.LinkedListFormatter<T>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, LinkedList<T>)
+  fullName.vb: Saro.FSnapshot.LinkedListFormatter(Of T).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef LinkedList(Of T))
+  nameWithType: LinkedListFormatter<T>.TakeSnapshot(ref FSnapshotWriter, LinkedList<T>)
+  nameWithType.vb: LinkedListFormatter(Of T).TakeSnapshot(ByRef FSnapshotWriter, ByRef LinkedList(Of T))
+- uid: Saro.FSnapshot.LinkedListFormatter`1.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.LinkedListFormatter-1.html#Saro_FSnapshot_LinkedListFormatter_1_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.LinkedListFormatter`1.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.LinkedListFormatter<T>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.LinkedListFormatter(Of T).TakeSnapshot
+  nameWithType: LinkedListFormatter<T>.TakeSnapshot
+  nameWithType.vb: LinkedListFormatter(Of T).TakeSnapshot
+- uid: Saro.FSnapshot.ListFormatter`1
+  name: ListFormatter<T>
+  href: api/Saro.FSnapshot.ListFormatter-1.html
+  commentId: T:Saro.FSnapshot.ListFormatter`1
+  name.vb: ListFormatter(Of T)
+  fullName: Saro.FSnapshot.ListFormatter<T>
+  fullName.vb: Saro.FSnapshot.ListFormatter(Of T)
+  nameWithType: ListFormatter<T>
+  nameWithType.vb: ListFormatter(Of T)
+- uid: Saro.FSnapshot.ListFormatter`1.Dump(Saro.FSnapshot.FTextWriter@,System.Collections.Generic.List{`0}@)
+  name: Dump(ref FTextWriter, List<T>)
+  href: api/Saro.FSnapshot.ListFormatter-1.html#Saro_FSnapshot_ListFormatter_1_Dump_Saro_FSnapshot_FTextWriter__System_Collections_Generic_List__0___
+  commentId: M:Saro.FSnapshot.ListFormatter`1.Dump(Saro.FSnapshot.FTextWriter@,System.Collections.Generic.List{`0}@)
+  name.vb: Dump(ByRef FTextWriter, ByRef List(Of T))
+  fullName: Saro.FSnapshot.ListFormatter<T>.Dump(ref Saro.FSnapshot.FTextWriter, System.Collections.Generic.List<T>)
+  fullName.vb: Saro.FSnapshot.ListFormatter(Of T).Dump(ByRef Saro.FSnapshot.FTextWriter, ByRef System.Collections.Generic.List(Of T))
+  nameWithType: ListFormatter<T>.Dump(ref FTextWriter, List<T>)
+  nameWithType.vb: ListFormatter(Of T).Dump(ByRef FTextWriter, ByRef List(Of T))
+- uid: Saro.FSnapshot.ListFormatter`1.Dump*
+  name: Dump
+  href: api/Saro.FSnapshot.ListFormatter-1.html#Saro_FSnapshot_ListFormatter_1_Dump_
+  commentId: Overload:Saro.FSnapshot.ListFormatter`1.Dump
+  isSpec: "True"
+  fullName: Saro.FSnapshot.ListFormatter<T>.Dump
+  fullName.vb: Saro.FSnapshot.ListFormatter(Of T).Dump
+  nameWithType: ListFormatter<T>.Dump
+  nameWithType.vb: ListFormatter(Of T).Dump
+- uid: Saro.FSnapshot.ListFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,System.Collections.Generic.List{`0}@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref List<T>)
+  href: api/Saro.FSnapshot.ListFormatter-1.html#Saro_FSnapshot_ListFormatter_1_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__System_Collections_Generic_List__0___
+  commentId: M:Saro.FSnapshot.ListFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,System.Collections.Generic.List{`0}@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef List(Of T))
+  fullName: Saro.FSnapshot.ListFormatter<T>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref System.Collections.Generic.List<T>)
+  fullName.vb: Saro.FSnapshot.ListFormatter(Of T).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef System.Collections.Generic.List(Of T))
+  nameWithType: ListFormatter<T>.RestoreSnapshot(ref FSnapshotReader, ref List<T>)
+  nameWithType.vb: ListFormatter(Of T).RestoreSnapshot(ByRef FSnapshotReader, ByRef List(Of T))
+- uid: Saro.FSnapshot.ListFormatter`1.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.ListFormatter-1.html#Saro_FSnapshot_ListFormatter_1_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.ListFormatter`1.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.ListFormatter<T>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.ListFormatter(Of T).RestoreSnapshot
+  nameWithType: ListFormatter<T>.RestoreSnapshot
+  nameWithType.vb: ListFormatter(Of T).RestoreSnapshot
+- uid: Saro.FSnapshot.ListFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,System.Collections.Generic.List{`0}@)
+  name: TakeSnapshot(ref FSnapshotWriter, List<T>)
+  href: api/Saro.FSnapshot.ListFormatter-1.html#Saro_FSnapshot_ListFormatter_1_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__System_Collections_Generic_List__0___
+  commentId: M:Saro.FSnapshot.ListFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,System.Collections.Generic.List{`0}@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef List(Of T))
+  fullName: Saro.FSnapshot.ListFormatter<T>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, System.Collections.Generic.List<T>)
+  fullName.vb: Saro.FSnapshot.ListFormatter(Of T).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef System.Collections.Generic.List(Of T))
+  nameWithType: ListFormatter<T>.TakeSnapshot(ref FSnapshotWriter, List<T>)
+  nameWithType.vb: ListFormatter(Of T).TakeSnapshot(ByRef FSnapshotWriter, ByRef List(Of T))
+- uid: Saro.FSnapshot.ListFormatter`1.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.ListFormatter-1.html#Saro_FSnapshot_ListFormatter_1_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.ListFormatter`1.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.ListFormatter<T>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.ListFormatter(Of T).TakeSnapshot
+  nameWithType: ListFormatter<T>.TakeSnapshot
+  nameWithType.vb: ListFormatter(Of T).TakeSnapshot
+- uid: Saro.FSnapshot.PreserveAttribute
+  name: PreserveAttribute
+  href: api/Saro.FSnapshot.PreserveAttribute.html
+  commentId: T:Saro.FSnapshot.PreserveAttribute
+  fullName: Saro.FSnapshot.PreserveAttribute
+  nameWithType: PreserveAttribute
+- uid: Saro.FSnapshot.QueueFormatter`1
+  name: QueueFormatter<T>
+  href: api/Saro.FSnapshot.QueueFormatter-1.html
+  commentId: T:Saro.FSnapshot.QueueFormatter`1
+  name.vb: QueueFormatter(Of T)
+  fullName: Saro.FSnapshot.QueueFormatter<T>
+  fullName.vb: Saro.FSnapshot.QueueFormatter(Of T)
+  nameWithType: QueueFormatter<T>
+  nameWithType.vb: QueueFormatter(Of T)
+- uid: Saro.FSnapshot.QueueFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,Queue{`0}@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref Queue<T>)
+  href: api/Saro.FSnapshot.QueueFormatter-1.html#Saro_FSnapshot_QueueFormatter_1_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__Queue__0___
+  commentId: M:Saro.FSnapshot.QueueFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,Queue{`0}@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef Queue(Of T))
+  fullName: Saro.FSnapshot.QueueFormatter<T>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref Queue<T>)
+  fullName.vb: Saro.FSnapshot.QueueFormatter(Of T).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef Queue(Of T))
+  nameWithType: QueueFormatter<T>.RestoreSnapshot(ref FSnapshotReader, ref Queue<T>)
+  nameWithType.vb: QueueFormatter(Of T).RestoreSnapshot(ByRef FSnapshotReader, ByRef Queue(Of T))
+- uid: Saro.FSnapshot.QueueFormatter`1.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.QueueFormatter-1.html#Saro_FSnapshot_QueueFormatter_1_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.QueueFormatter`1.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.QueueFormatter<T>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.QueueFormatter(Of T).RestoreSnapshot
+  nameWithType: QueueFormatter<T>.RestoreSnapshot
+  nameWithType.vb: QueueFormatter(Of T).RestoreSnapshot
+- uid: Saro.FSnapshot.QueueFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,Queue{`0}@)
+  name: TakeSnapshot(ref FSnapshotWriter, Queue<T>)
+  href: api/Saro.FSnapshot.QueueFormatter-1.html#Saro_FSnapshot_QueueFormatter_1_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__Queue__0___
+  commentId: M:Saro.FSnapshot.QueueFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,Queue{`0}@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef Queue(Of T))
+  fullName: Saro.FSnapshot.QueueFormatter<T>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, Queue<T>)
+  fullName.vb: Saro.FSnapshot.QueueFormatter(Of T).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef Queue(Of T))
+  nameWithType: QueueFormatter<T>.TakeSnapshot(ref FSnapshotWriter, Queue<T>)
+  nameWithType.vb: QueueFormatter(Of T).TakeSnapshot(ByRef FSnapshotWriter, ByRef Queue(Of T))
+- uid: Saro.FSnapshot.QueueFormatter`1.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.QueueFormatter-1.html#Saro_FSnapshot_QueueFormatter_1_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.QueueFormatter`1.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.QueueFormatter<T>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.QueueFormatter(Of T).TakeSnapshot
+  nameWithType: QueueFormatter<T>.TakeSnapshot
+  nameWithType.vb: QueueFormatter(Of T).TakeSnapshot
+- uid: Saro.FSnapshot.SortedDictionaryFormatter`2
+  name: SortedDictionaryFormatter<TKey, TValue>
+  href: api/Saro.FSnapshot.SortedDictionaryFormatter-2.html
+  commentId: T:Saro.FSnapshot.SortedDictionaryFormatter`2
+  name.vb: SortedDictionaryFormatter(Of TKey, TValue)
+  fullName: Saro.FSnapshot.SortedDictionaryFormatter<TKey, TValue>
+  fullName.vb: Saro.FSnapshot.SortedDictionaryFormatter(Of TKey, TValue)
+  nameWithType: SortedDictionaryFormatter<TKey, TValue>
+  nameWithType.vb: SortedDictionaryFormatter(Of TKey, TValue)
+- uid: Saro.FSnapshot.SortedDictionaryFormatter`2.#ctor
+  name: SortedDictionaryFormatter()
+  href: api/Saro.FSnapshot.SortedDictionaryFormatter-2.html#Saro_FSnapshot_SortedDictionaryFormatter_2__ctor
+  commentId: M:Saro.FSnapshot.SortedDictionaryFormatter`2.#ctor
+  fullName: Saro.FSnapshot.SortedDictionaryFormatter<TKey, TValue>.SortedDictionaryFormatter()
+  fullName.vb: Saro.FSnapshot.SortedDictionaryFormatter(Of TKey, TValue).SortedDictionaryFormatter()
+  nameWithType: SortedDictionaryFormatter<TKey, TValue>.SortedDictionaryFormatter()
+  nameWithType.vb: SortedDictionaryFormatter(Of TKey, TValue).SortedDictionaryFormatter()
+- uid: Saro.FSnapshot.SortedDictionaryFormatter`2.#ctor(System.Collections.Generic.IComparer{`0})
+  name: SortedDictionaryFormatter(IComparer<TKey>)
+  href: api/Saro.FSnapshot.SortedDictionaryFormatter-2.html#Saro_FSnapshot_SortedDictionaryFormatter_2__ctor_System_Collections_Generic_IComparer__0__
+  commentId: M:Saro.FSnapshot.SortedDictionaryFormatter`2.#ctor(System.Collections.Generic.IComparer{`0})
+  name.vb: SortedDictionaryFormatter(IComparer(Of TKey))
+  fullName: Saro.FSnapshot.SortedDictionaryFormatter<TKey, TValue>.SortedDictionaryFormatter(System.Collections.Generic.IComparer<TKey>)
+  fullName.vb: Saro.FSnapshot.SortedDictionaryFormatter(Of TKey, TValue).SortedDictionaryFormatter(System.Collections.Generic.IComparer(Of TKey))
+  nameWithType: SortedDictionaryFormatter<TKey, TValue>.SortedDictionaryFormatter(IComparer<TKey>)
+  nameWithType.vb: SortedDictionaryFormatter(Of TKey, TValue).SortedDictionaryFormatter(IComparer(Of TKey))
+- uid: Saro.FSnapshot.SortedDictionaryFormatter`2.#ctor*
+  name: SortedDictionaryFormatter
+  href: api/Saro.FSnapshot.SortedDictionaryFormatter-2.html#Saro_FSnapshot_SortedDictionaryFormatter_2__ctor_
+  commentId: Overload:Saro.FSnapshot.SortedDictionaryFormatter`2.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.SortedDictionaryFormatter<TKey, TValue>.SortedDictionaryFormatter
+  fullName.vb: Saro.FSnapshot.SortedDictionaryFormatter(Of TKey, TValue).SortedDictionaryFormatter
+  nameWithType: SortedDictionaryFormatter<TKey, TValue>.SortedDictionaryFormatter
+  nameWithType.vb: SortedDictionaryFormatter(Of TKey, TValue).SortedDictionaryFormatter
+- uid: Saro.FSnapshot.SortedDictionaryFormatter`2.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,SortedDictionary{`0,`1}@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref SortedDictionary<TKey, TValue>)
+  href: api/Saro.FSnapshot.SortedDictionaryFormatter-2.html#Saro_FSnapshot_SortedDictionaryFormatter_2_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__SortedDictionary__0__1___
+  commentId: M:Saro.FSnapshot.SortedDictionaryFormatter`2.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,SortedDictionary{`0,`1}@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef SortedDictionary(Of TKey, TValue))
+  fullName: Saro.FSnapshot.SortedDictionaryFormatter<TKey, TValue>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref SortedDictionary<TKey, TValue>)
+  fullName.vb: Saro.FSnapshot.SortedDictionaryFormatter(Of TKey, TValue).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef SortedDictionary(Of TKey, TValue))
+  nameWithType: SortedDictionaryFormatter<TKey, TValue>.RestoreSnapshot(ref FSnapshotReader, ref SortedDictionary<TKey, TValue>)
+  nameWithType.vb: SortedDictionaryFormatter(Of TKey, TValue).RestoreSnapshot(ByRef FSnapshotReader, ByRef SortedDictionary(Of TKey, TValue))
+- uid: Saro.FSnapshot.SortedDictionaryFormatter`2.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.SortedDictionaryFormatter-2.html#Saro_FSnapshot_SortedDictionaryFormatter_2_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.SortedDictionaryFormatter`2.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.SortedDictionaryFormatter<TKey, TValue>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.SortedDictionaryFormatter(Of TKey, TValue).RestoreSnapshot
+  nameWithType: SortedDictionaryFormatter<TKey, TValue>.RestoreSnapshot
+  nameWithType.vb: SortedDictionaryFormatter(Of TKey, TValue).RestoreSnapshot
+- uid: Saro.FSnapshot.SortedDictionaryFormatter`2.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,SortedDictionary{`0,`1}@)
+  name: TakeSnapshot(ref FSnapshotWriter, SortedDictionary<TKey, TValue>)
+  href: api/Saro.FSnapshot.SortedDictionaryFormatter-2.html#Saro_FSnapshot_SortedDictionaryFormatter_2_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__SortedDictionary__0__1___
+  commentId: M:Saro.FSnapshot.SortedDictionaryFormatter`2.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,SortedDictionary{`0,`1}@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef SortedDictionary(Of TKey, TValue))
+  fullName: Saro.FSnapshot.SortedDictionaryFormatter<TKey, TValue>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, SortedDictionary<TKey, TValue>)
+  fullName.vb: Saro.FSnapshot.SortedDictionaryFormatter(Of TKey, TValue).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef SortedDictionary(Of TKey, TValue))
+  nameWithType: SortedDictionaryFormatter<TKey, TValue>.TakeSnapshot(ref FSnapshotWriter, SortedDictionary<TKey, TValue>)
+  nameWithType.vb: SortedDictionaryFormatter(Of TKey, TValue).TakeSnapshot(ByRef FSnapshotWriter, ByRef SortedDictionary(Of TKey, TValue))
+- uid: Saro.FSnapshot.SortedDictionaryFormatter`2.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.SortedDictionaryFormatter-2.html#Saro_FSnapshot_SortedDictionaryFormatter_2_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.SortedDictionaryFormatter`2.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.SortedDictionaryFormatter<TKey, TValue>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.SortedDictionaryFormatter(Of TKey, TValue).TakeSnapshot
+  nameWithType: SortedDictionaryFormatter<TKey, TValue>.TakeSnapshot
+  nameWithType.vb: SortedDictionaryFormatter(Of TKey, TValue).TakeSnapshot
+- uid: Saro.FSnapshot.SortedListFormatter`2
+  name: SortedListFormatter<TKey, TValue>
+  href: api/Saro.FSnapshot.SortedListFormatter-2.html
+  commentId: T:Saro.FSnapshot.SortedListFormatter`2
+  name.vb: SortedListFormatter(Of TKey, TValue)
+  fullName: Saro.FSnapshot.SortedListFormatter<TKey, TValue>
+  fullName.vb: Saro.FSnapshot.SortedListFormatter(Of TKey, TValue)
+  nameWithType: SortedListFormatter<TKey, TValue>
+  nameWithType.vb: SortedListFormatter(Of TKey, TValue)
+- uid: Saro.FSnapshot.SortedListFormatter`2.#ctor
+  name: SortedListFormatter()
+  href: api/Saro.FSnapshot.SortedListFormatter-2.html#Saro_FSnapshot_SortedListFormatter_2__ctor
+  commentId: M:Saro.FSnapshot.SortedListFormatter`2.#ctor
+  fullName: Saro.FSnapshot.SortedListFormatter<TKey, TValue>.SortedListFormatter()
+  fullName.vb: Saro.FSnapshot.SortedListFormatter(Of TKey, TValue).SortedListFormatter()
+  nameWithType: SortedListFormatter<TKey, TValue>.SortedListFormatter()
+  nameWithType.vb: SortedListFormatter(Of TKey, TValue).SortedListFormatter()
+- uid: Saro.FSnapshot.SortedListFormatter`2.#ctor(System.Collections.Generic.IComparer{`0})
+  name: SortedListFormatter(IComparer<TKey>)
+  href: api/Saro.FSnapshot.SortedListFormatter-2.html#Saro_FSnapshot_SortedListFormatter_2__ctor_System_Collections_Generic_IComparer__0__
+  commentId: M:Saro.FSnapshot.SortedListFormatter`2.#ctor(System.Collections.Generic.IComparer{`0})
+  name.vb: SortedListFormatter(IComparer(Of TKey))
+  fullName: Saro.FSnapshot.SortedListFormatter<TKey, TValue>.SortedListFormatter(System.Collections.Generic.IComparer<TKey>)
+  fullName.vb: Saro.FSnapshot.SortedListFormatter(Of TKey, TValue).SortedListFormatter(System.Collections.Generic.IComparer(Of TKey))
+  nameWithType: SortedListFormatter<TKey, TValue>.SortedListFormatter(IComparer<TKey>)
+  nameWithType.vb: SortedListFormatter(Of TKey, TValue).SortedListFormatter(IComparer(Of TKey))
+- uid: Saro.FSnapshot.SortedListFormatter`2.#ctor*
+  name: SortedListFormatter
+  href: api/Saro.FSnapshot.SortedListFormatter-2.html#Saro_FSnapshot_SortedListFormatter_2__ctor_
+  commentId: Overload:Saro.FSnapshot.SortedListFormatter`2.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.SortedListFormatter<TKey, TValue>.SortedListFormatter
+  fullName.vb: Saro.FSnapshot.SortedListFormatter(Of TKey, TValue).SortedListFormatter
+  nameWithType: SortedListFormatter<TKey, TValue>.SortedListFormatter
+  nameWithType.vb: SortedListFormatter(Of TKey, TValue).SortedListFormatter
+- uid: Saro.FSnapshot.SortedListFormatter`2.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,System.Nullable{SortedList{`0,`1}}@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref Nullable<SortedList<TKey, TValue>>)
+  href: api/Saro.FSnapshot.SortedListFormatter-2.html#Saro_FSnapshot_SortedListFormatter_2_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__System_Nullable_SortedList__0__1____
+  commentId: M:Saro.FSnapshot.SortedListFormatter`2.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,System.Nullable{SortedList{`0,`1}}@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef Nullable(Of SortedList(Of TKey, TValue)))
+  fullName: Saro.FSnapshot.SortedListFormatter<TKey, TValue>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref System.Nullable<SortedList<TKey, TValue>>)
+  fullName.vb: Saro.FSnapshot.SortedListFormatter(Of TKey, TValue).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef System.Nullable(Of SortedList(Of TKey, TValue)))
+  nameWithType: SortedListFormatter<TKey, TValue>.RestoreSnapshot(ref FSnapshotReader, ref Nullable<SortedList<TKey, TValue>>)
+  nameWithType.vb: SortedListFormatter(Of TKey, TValue).RestoreSnapshot(ByRef FSnapshotReader, ByRef Nullable(Of SortedList(Of TKey, TValue)))
+- uid: Saro.FSnapshot.SortedListFormatter`2.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.SortedListFormatter-2.html#Saro_FSnapshot_SortedListFormatter_2_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.SortedListFormatter`2.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.SortedListFormatter<TKey, TValue>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.SortedListFormatter(Of TKey, TValue).RestoreSnapshot
+  nameWithType: SortedListFormatter<TKey, TValue>.RestoreSnapshot
+  nameWithType.vb: SortedListFormatter(Of TKey, TValue).RestoreSnapshot
+- uid: Saro.FSnapshot.SortedListFormatter`2.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,System.Nullable{SortedList{`0,`1}}@)
+  name: TakeSnapshot(ref FSnapshotWriter, Nullable<SortedList<TKey, TValue>>)
+  href: api/Saro.FSnapshot.SortedListFormatter-2.html#Saro_FSnapshot_SortedListFormatter_2_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__System_Nullable_SortedList__0__1____
+  commentId: M:Saro.FSnapshot.SortedListFormatter`2.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,System.Nullable{SortedList{`0,`1}}@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef Nullable(Of SortedList(Of TKey, TValue)))
+  fullName: Saro.FSnapshot.SortedListFormatter<TKey, TValue>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, System.Nullable<SortedList<TKey, TValue>>)
+  fullName.vb: Saro.FSnapshot.SortedListFormatter(Of TKey, TValue).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef System.Nullable(Of SortedList(Of TKey, TValue)))
+  nameWithType: SortedListFormatter<TKey, TValue>.TakeSnapshot(ref FSnapshotWriter, Nullable<SortedList<TKey, TValue>>)
+  nameWithType.vb: SortedListFormatter(Of TKey, TValue).TakeSnapshot(ByRef FSnapshotWriter, ByRef Nullable(Of SortedList(Of TKey, TValue)))
+- uid: Saro.FSnapshot.SortedListFormatter`2.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.SortedListFormatter-2.html#Saro_FSnapshot_SortedListFormatter_2_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.SortedListFormatter`2.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.SortedListFormatter<TKey, TValue>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.SortedListFormatter(Of TKey, TValue).TakeSnapshot
+  nameWithType: SortedListFormatter<TKey, TValue>.TakeSnapshot
+  nameWithType.vb: SortedListFormatter(Of TKey, TValue).TakeSnapshot
+- uid: Saro.FSnapshot.SortedSetFormatter`1
+  name: SortedSetFormatter<T>
+  href: api/Saro.FSnapshot.SortedSetFormatter-1.html
+  commentId: T:Saro.FSnapshot.SortedSetFormatter`1
+  name.vb: SortedSetFormatter(Of T)
+  fullName: Saro.FSnapshot.SortedSetFormatter<T>
+  fullName.vb: Saro.FSnapshot.SortedSetFormatter(Of T)
+  nameWithType: SortedSetFormatter<T>
+  nameWithType.vb: SortedSetFormatter(Of T)
+- uid: Saro.FSnapshot.SortedSetFormatter`1.#ctor
+  name: SortedSetFormatter()
+  href: api/Saro.FSnapshot.SortedSetFormatter-1.html#Saro_FSnapshot_SortedSetFormatter_1__ctor
+  commentId: M:Saro.FSnapshot.SortedSetFormatter`1.#ctor
+  fullName: Saro.FSnapshot.SortedSetFormatter<T>.SortedSetFormatter()
+  fullName.vb: Saro.FSnapshot.SortedSetFormatter(Of T).SortedSetFormatter()
+  nameWithType: SortedSetFormatter<T>.SortedSetFormatter()
+  nameWithType.vb: SortedSetFormatter(Of T).SortedSetFormatter()
+- uid: Saro.FSnapshot.SortedSetFormatter`1.#ctor(System.Collections.Generic.IComparer{`0})
+  name: SortedSetFormatter(IComparer<T>)
+  href: api/Saro.FSnapshot.SortedSetFormatter-1.html#Saro_FSnapshot_SortedSetFormatter_1__ctor_System_Collections_Generic_IComparer__0__
+  commentId: M:Saro.FSnapshot.SortedSetFormatter`1.#ctor(System.Collections.Generic.IComparer{`0})
+  name.vb: SortedSetFormatter(IComparer(Of T))
+  fullName: Saro.FSnapshot.SortedSetFormatter<T>.SortedSetFormatter(System.Collections.Generic.IComparer<T>)
+  fullName.vb: Saro.FSnapshot.SortedSetFormatter(Of T).SortedSetFormatter(System.Collections.Generic.IComparer(Of T))
+  nameWithType: SortedSetFormatter<T>.SortedSetFormatter(IComparer<T>)
+  nameWithType.vb: SortedSetFormatter(Of T).SortedSetFormatter(IComparer(Of T))
+- uid: Saro.FSnapshot.SortedSetFormatter`1.#ctor*
+  name: SortedSetFormatter
+  href: api/Saro.FSnapshot.SortedSetFormatter-1.html#Saro_FSnapshot_SortedSetFormatter_1__ctor_
+  commentId: Overload:Saro.FSnapshot.SortedSetFormatter`1.#ctor
+  isSpec: "True"
+  fullName: Saro.FSnapshot.SortedSetFormatter<T>.SortedSetFormatter
+  fullName.vb: Saro.FSnapshot.SortedSetFormatter(Of T).SortedSetFormatter
+  nameWithType: SortedSetFormatter<T>.SortedSetFormatter
+  nameWithType.vb: SortedSetFormatter(Of T).SortedSetFormatter
+- uid: Saro.FSnapshot.SortedSetFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,SortedSet{`0}@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref SortedSet<T>)
+  href: api/Saro.FSnapshot.SortedSetFormatter-1.html#Saro_FSnapshot_SortedSetFormatter_1_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__SortedSet__0___
+  commentId: M:Saro.FSnapshot.SortedSetFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,SortedSet{`0}@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef SortedSet(Of T))
+  fullName: Saro.FSnapshot.SortedSetFormatter<T>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref SortedSet<T>)
+  fullName.vb: Saro.FSnapshot.SortedSetFormatter(Of T).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef SortedSet(Of T))
+  nameWithType: SortedSetFormatter<T>.RestoreSnapshot(ref FSnapshotReader, ref SortedSet<T>)
+  nameWithType.vb: SortedSetFormatter(Of T).RestoreSnapshot(ByRef FSnapshotReader, ByRef SortedSet(Of T))
+- uid: Saro.FSnapshot.SortedSetFormatter`1.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.SortedSetFormatter-1.html#Saro_FSnapshot_SortedSetFormatter_1_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.SortedSetFormatter`1.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.SortedSetFormatter<T>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.SortedSetFormatter(Of T).RestoreSnapshot
+  nameWithType: SortedSetFormatter<T>.RestoreSnapshot
+  nameWithType.vb: SortedSetFormatter(Of T).RestoreSnapshot
+- uid: Saro.FSnapshot.SortedSetFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,SortedSet{`0}@)
+  name: TakeSnapshot(ref FSnapshotWriter, SortedSet<T>)
+  href: api/Saro.FSnapshot.SortedSetFormatter-1.html#Saro_FSnapshot_SortedSetFormatter_1_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__SortedSet__0___
+  commentId: M:Saro.FSnapshot.SortedSetFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,SortedSet{`0}@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef SortedSet(Of T))
+  fullName: Saro.FSnapshot.SortedSetFormatter<T>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, SortedSet<T>)
+  fullName.vb: Saro.FSnapshot.SortedSetFormatter(Of T).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef SortedSet(Of T))
+  nameWithType: SortedSetFormatter<T>.TakeSnapshot(ref FSnapshotWriter, SortedSet<T>)
+  nameWithType.vb: SortedSetFormatter(Of T).TakeSnapshot(ByRef FSnapshotWriter, ByRef SortedSet(Of T))
+- uid: Saro.FSnapshot.SortedSetFormatter`1.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.SortedSetFormatter-1.html#Saro_FSnapshot_SortedSetFormatter_1_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.SortedSetFormatter`1.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.SortedSetFormatter<T>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.SortedSetFormatter(Of T).TakeSnapshot
+  nameWithType: SortedSetFormatter<T>.TakeSnapshot
+  nameWithType.vb: SortedSetFormatter(Of T).TakeSnapshot
+- uid: Saro.FSnapshot.StackFormatter`1
+  name: StackFormatter<T>
+  href: api/Saro.FSnapshot.StackFormatter-1.html
+  commentId: T:Saro.FSnapshot.StackFormatter`1
+  name.vb: StackFormatter(Of T)
+  fullName: Saro.FSnapshot.StackFormatter<T>
+  fullName.vb: Saro.FSnapshot.StackFormatter(Of T)
+  nameWithType: StackFormatter<T>
+  nameWithType.vb: StackFormatter(Of T)
+- uid: Saro.FSnapshot.StackFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,Stack{`0}@)
+  name: RestoreSnapshot(ref FSnapshotReader, ref Stack<T>)
+  href: api/Saro.FSnapshot.StackFormatter-1.html#Saro_FSnapshot_StackFormatter_1_RestoreSnapshot_Saro_FSnapshot_FSnapshotReader__Stack__0___
+  commentId: M:Saro.FSnapshot.StackFormatter`1.RestoreSnapshot(Saro.FSnapshot.FSnapshotReader@,Stack{`0}@)
+  name.vb: RestoreSnapshot(ByRef FSnapshotReader, ByRef Stack(Of T))
+  fullName: Saro.FSnapshot.StackFormatter<T>.RestoreSnapshot(ref Saro.FSnapshot.FSnapshotReader, ref Stack<T>)
+  fullName.vb: Saro.FSnapshot.StackFormatter(Of T).RestoreSnapshot(ByRef Saro.FSnapshot.FSnapshotReader, ByRef Stack(Of T))
+  nameWithType: StackFormatter<T>.RestoreSnapshot(ref FSnapshotReader, ref Stack<T>)
+  nameWithType.vb: StackFormatter(Of T).RestoreSnapshot(ByRef FSnapshotReader, ByRef Stack(Of T))
+- uid: Saro.FSnapshot.StackFormatter`1.RestoreSnapshot*
+  name: RestoreSnapshot
+  href: api/Saro.FSnapshot.StackFormatter-1.html#Saro_FSnapshot_StackFormatter_1_RestoreSnapshot_
+  commentId: Overload:Saro.FSnapshot.StackFormatter`1.RestoreSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.StackFormatter<T>.RestoreSnapshot
+  fullName.vb: Saro.FSnapshot.StackFormatter(Of T).RestoreSnapshot
+  nameWithType: StackFormatter<T>.RestoreSnapshot
+  nameWithType.vb: StackFormatter(Of T).RestoreSnapshot
+- uid: Saro.FSnapshot.StackFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,Stack{`0}@)
+  name: TakeSnapshot(ref FSnapshotWriter, Stack<T>)
+  href: api/Saro.FSnapshot.StackFormatter-1.html#Saro_FSnapshot_StackFormatter_1_TakeSnapshot_Saro_FSnapshot_FSnapshotWriter__Stack__0___
+  commentId: M:Saro.FSnapshot.StackFormatter`1.TakeSnapshot(Saro.FSnapshot.FSnapshotWriter@,Stack{`0}@)
+  name.vb: TakeSnapshot(ByRef FSnapshotWriter, ByRef Stack(Of T))
+  fullName: Saro.FSnapshot.StackFormatter<T>.TakeSnapshot(ref Saro.FSnapshot.FSnapshotWriter, Stack<T>)
+  fullName.vb: Saro.FSnapshot.StackFormatter(Of T).TakeSnapshot(ByRef Saro.FSnapshot.FSnapshotWriter, ByRef Stack(Of T))
+  nameWithType: StackFormatter<T>.TakeSnapshot(ref FSnapshotWriter, Stack<T>)
+  nameWithType.vb: StackFormatter(Of T).TakeSnapshot(ByRef FSnapshotWriter, ByRef Stack(Of T))
+- uid: Saro.FSnapshot.StackFormatter`1.TakeSnapshot*
+  name: TakeSnapshot
+  href: api/Saro.FSnapshot.StackFormatter-1.html#Saro_FSnapshot_StackFormatter_1_TakeSnapshot_
+  commentId: Overload:Saro.FSnapshot.StackFormatter`1.TakeSnapshot
+  isSpec: "True"
+  fullName: Saro.FSnapshot.StackFormatter<T>.TakeSnapshot
+  fullName.vb: Saro.FSnapshot.StackFormatter(Of T).TakeSnapshot
+  nameWithType: StackFormatter<T>.TakeSnapshot
+  nameWithType.vb: StackFormatter(Of T).TakeSnapshot

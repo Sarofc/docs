@@ -1,0 +1,563 @@
+{
+  "homepages": [],
+  "source_base_path": "c:/temp/unity-doctools/com.saro.fsnapshot@0.1",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.DictionaryFormatter-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.DictionaryFormatter-2.html",
+          "hash": "m8WaCHRj5BChp4vtxTcXqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotAttribute.html",
+          "hash": "pZInbi7E32Blv9brXHUbbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotFormatter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotFormatter-1.html",
+          "hash": "VRpc6yoTtiQJ1UPR1UO8Tg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotFormatterProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotFormatterProvider.html",
+          "hash": "tK+QOAGb2Si4DwPAQSpzGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotOnDeserializedAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotOnDeserializedAttribute.html",
+          "hash": "lzlNpLBxw8zDua0gkhJPug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotOnDeserializingAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotOnDeserializingAttribute.html",
+          "hash": "LDZhsJQRnGtFpHQ7fKq7Nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotOnSerializedAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotOnSerializedAttribute.html",
+          "hash": "Qtq08FhnHh7E/V5plCM9Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotOnSerializingAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotOnSerializingAttribute.html",
+          "hash": "BdMUMarSGCnTN50BSS3Ozg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotReader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotReader.html",
+          "hash": "MxvIYDegjMJOsSSp0QIp5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotState.html",
+          "hash": "SuBBoZMicP5/pf5RMoYzvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotUnionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotUnionAttribute.html",
+          "hash": "+If340DN2yJX5DXq/BJldg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotUnionFormatterAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotUnionFormatterAttribute.html",
+          "hash": "17UkIOXsB2ejdKlDbGDXgQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotWriter.html",
+          "hash": "9OV6yzCThGsbDBWrE9BpZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FSnapshotableAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FSnapshotableAttribute.html",
+          "hash": "PXzPQBgCNG7dQayJOzo8cA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.FTextWriter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.FTextWriter.html",
+          "hash": "gn9J/uHCCIHq8UzOnzru7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.HashSetFormatter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.HashSetFormatter-1.html",
+          "hash": "U4/NVbVOIHMSqW6nta/8DA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.IFSnapshotFormatter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.IFSnapshotFormatter-1.html",
+          "hash": "s5XKF0DFkX8yi2liwdIDZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.IFSnapshotFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.IFSnapshotFormatter.html",
+          "hash": "+QNQBMRrdnNS5iZpWOjzUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.IFSnapshotFormatterRegister.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.IFSnapshotFormatterRegister.html",
+          "hash": "AsgenefCPUD9PxVPp3aykQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.IFSnapshotable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.IFSnapshotable.html",
+          "hash": "zE4XCg7OocZ9cqpcvPcfOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.LinkedListFormatter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.LinkedListFormatter-1.html",
+          "hash": "eBC/LgvijzCcK3MHrjmMGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.ListFormatter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.ListFormatter-1.html",
+          "hash": "ljGecOkNdeLn7ai1ZSc9xg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.PreserveAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.PreserveAttribute.html",
+          "hash": "abLQkkPnBiuD05mBqjbhWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.QueueFormatter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.QueueFormatter-1.html",
+          "hash": "ihN6z+vd3L7jCRG2YSMm+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.SortedDictionaryFormatter-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.SortedDictionaryFormatter-2.html",
+          "hash": "SvX5gXsYc9qVnQH8aJqPtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.SortedListFormatter-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.SortedListFormatter-2.html",
+          "hash": "9WpEVzTqrsEr6yx9T8AkHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.SortedSetFormatter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.SortedSetFormatter-1.html",
+          "hash": "WFYHqbiFszlAzNP65PDdbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.StackFormatter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.StackFormatter-1.html",
+          "hash": "+g49tildqoK1kfrLscKwpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Saro.FSnapshot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Saro.FSnapshot.html",
+          "hash": "hwkLdFLKp3vuhiNjNnw9IQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "aJD0eLJvQNrchCrTIbASIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "yWaEE60gNU3zUZ9DqLMVfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/CHANGELOG.html",
+          "hash": "KQ8YCinEBms0zfZe65T+3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "changelog/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/toc.html",
+          "hash": "4uMrVM+82AK2ADoROifnaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "+J3uQkJfmAQnjK0nXSwQZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/LICENSE.html",
+          "hash": "aCQU/0c1rgPKFuqv89IUqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/index.html",
+          "hash": "lDMsO72QqRpQiaPblSZAcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "license/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "license/toc.html",
+          "hash": "9/i/GWqWJ9RvsjAfXStVrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/index.html",
+          "hash": "eK8uhVDg6wqOfSFdfCSwIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "+h7PJCxCNAA34XwVz1U37w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "pcuVsRXqFfdfIYMWivr/ew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 29,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
